@@ -24,7 +24,8 @@ SSIM, LPIPS, FVD
 </pre>
 </details>
 
-
+* asdasd
+* asdasd
 <!--
 \cite{Kwon_2019_CVPR}	"KITTI, Caltech pedestrian
 UCF-101, CHUK Avenue, ShanghaiTech Campus"	MSE, PSNR, SSIM
