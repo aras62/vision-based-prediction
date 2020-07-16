@@ -15,11 +15,11 @@ SSIM, LPIPS, FVD
 <details open>
 <summary>bibtex</summary>
 <pre>
-@InProceedings{Kwon_2019_CVPR,
-author = {Kwon, Yong-Hoon and Park, Min-Gyu},
-title = {Predicting Future Frames Using Retrospective Cycle GAN},
-booktitle = {CVPR},
-year = {2019}
+@misc{ASU_2009_YUV,
+      author = "ASU Video Trace Library",
+      title = "{YUV} Video Sequences",
+      year = "2009",
+      howpublished = "http://trace.kom.aau.dk/yuv/index.html"
 }
 </pre>
 </details>
