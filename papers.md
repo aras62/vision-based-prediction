@@ -10,7 +10,7 @@ SSIM, LPIPS, FVD
 
 <details open>
 <summary>datasets</summary>
-[BAIR Push](datasets.md#BAIR), MMNIST, Cityscapes
+[BAIR Push](/datasets.md#BAIR), MMNIST, Cityscapes
 </details>
 <details open>
 <summary>bibtex</summary>
