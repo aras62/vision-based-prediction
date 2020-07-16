@@ -10,7 +10,7 @@ SSIM, LPIPS, FVD
 
 <details open>
 <summary>datasets</summary>
-<a href="https://github.com/aras62/Vision-based-prediction/blob/master/datasets.md#BAIR">BAIR Push </a>, MMNIST, Cityscapes
+<a href="datasets.md#BAIR">BAIR Push </a>, MMNIST, Cityscapes
 </details>
 <details open>
 <summary>bibtex</summary>
