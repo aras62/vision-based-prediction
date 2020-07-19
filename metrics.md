@@ -2,7 +2,7 @@
 <a name=metric_psnr></a>
 #### Peak Signal-to-Noise Ratio (PSNR)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019. <a href="papers.md#Kwon_2019_CVPR">info</a></li>
 <li> Gao et al., "Disentangling Propagation And Generation For Video Prediction", ICCV, 2019. <a href="papers.md#Gao_2019_ICCV">info</a></li>
@@ -35,7 +35,7 @@
 <a name=metric_ssim></a>
 #### Structural SIMilarity (SSIM)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019. <a href="papers.md#Kwon_2019_CVPR">info</a></li>
 <li> Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019. <a href="papers.md#Castrejon_2019_ICCV">info</a></li>
@@ -66,7 +66,7 @@
 <a name=metric_mse></a>
 #### Mean Square Error (MSE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019. <a href="papers.md#Kwon_2019_CVPR">info</a></li>
 <li> Ho et al., "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019. <a href="papers.md#Ho_2019_ICCV">info</a></li>
@@ -87,7 +87,7 @@
 <a name=metric_lpips></a>
 #### Learned Perceptual Image Patch Similarity (LPIPS)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019. <a href="papers.md#Castrejon_2019_ICCV">info</a></li>
 <li> Ye et al., "Compositional Video Prediction", ICCV, 2019. <a href="papers.md#Ye_2019_ICCV">info</a></li>
@@ -99,7 +99,7 @@
 <a name=metric_human></a>
 #### Human Judgement (Human)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Li et al., "Flow-Grounded Spatial-Temporal Video Prediction From Still Images", ECCV, 2018. <a href="papers.md#Li_2018_ECCV">info</a></li>
 <li> Wichers et al., "Hierarchical Long-Term Video Prediction Without Supervision", ICML, 2018. <a href="papers.md#Wichers_2018_ICML">info</a></li>
@@ -108,48 +108,30 @@
 </ul>
 </details>
 
-<a name=metric_fvd></a>
-#### Frechet Video Distanc (FVD)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019. <a href="papers.md#Castrejon_2019_ICCV">info</a></li>
-<li> Kim et al., "Unsupervised Keypoint Learning For Guiding Class-Conditional Video Prediction", NeurIPS, 2019. <a href="papers.md#Kim_2019_NeurIPS">info</a></li>
-</ul>
-</details>
-
 <a name=metric_l1></a>
 #### L1
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019. <a href="papers.md#Gujjar_2019_ICRA">info</a></li>
 <li> Reda et al., "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018. <a href="papers.md#Reda_2018_ECCV">info</a></li>
 </ul>
 </details>
 
-<a name=metric_bce></a>
-#### Binary Cross Entropy (BCE)
+<a name=metric_fvd></a>
+#### Frechet Video Distanc (FVD)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
-<li> Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018. <a href="papers.md#Hsieh_2018_NeurIPS">info</a></li>
-</ul>
-</details>
-
-<a name=metric_mmd></a>
-#### Maximum Mean Discrepancy (MMD)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Walker et al., "The Pose Knows: Video Forecasting By Generating Pose Futures", ICCV, 2017. <a href="papers.md#Walker_2017_ICCV">info</a></li>
+<li> Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019. <a href="papers.md#Castrejon_2019_ICCV">info</a></li>
+<li> Kim et al., "Unsupervised Keypoint Learning For Guiding Class-Conditional Video Prediction", NeurIPS, 2019. <a href="papers.md#Kim_2019_NeurIPS">info</a></li>
 </ul>
 </details>
 
 <a name=metric_rmse></a>
 #### Root Mean Square Error (RMSE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Li et al., "Flow-Grounded Spatial-Temporal Video Prediction From Still Images", ECCV, 2018. <a href="papers.md#Li_2018_ECCV">info</a></li>
 </ul>
@@ -158,9 +140,27 @@
 <a name=metric_is></a>
 #### Inception Scores (IS)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Walker et al., "The Pose Knows: Video Forecasting By Generating Pose Futures", ICCV, 2017. <a href="papers.md#Walker_2017_ICCV">info</a></li>
+</ul>
+</details>
+
+<a name=metric_mmd></a>
+#### Maximum Mean Discrepancy (MMD)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Walker et al., "The Pose Knows: Video Forecasting By Generating Pose Futures", ICCV, 2017. <a href="papers.md#Walker_2017_ICCV">info</a></li>
+</ul>
+</details>
+
+<a name=metric_bce></a>
+#### Binary Cross Entropy (BCE)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018. <a href="papers.md#Hsieh_2018_NeurIPS">info</a></li>
 </ul>
 </details>
 
@@ -168,7 +168,7 @@
 <a name=metric_accuracy></a>
 #### Accuracy
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019. <a href="papers.md#Joo_2019_CVPR">info</a></li>
 <li> Ke et al., "Time-Conditioned Action Anticipation In One Shot", CVPR, 2019. <a href="papers.md#Ke_2019_CVPR">info</a></li>
@@ -233,7 +233,7 @@
 <a name=metric_recall></a>
 #### Recall
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Ke et al., "Time-Conditioned Action Anticipation In One Shot", CVPR, 2019. <a href="papers.md#Ke_2019_CVPR">info</a></li>
 <li> Furnari et al., "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention", ICCV, 2019. <a href="papers.md#Furnari_2019_ICCV">info</a></li>
@@ -259,7 +259,7 @@
 <a name=metric_precision></a>
 #### Precision
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Ke et al., "Time-Conditioned Action Anticipation In One Shot", CVPR, 2019. <a href="papers.md#Ke_2019_CVPR">info</a></li>
 <li> Rasouli et al., "Pedestrian Action Anticipation Using Contextual Feature Fusion In Stacked Rnns", BMVC, 2019. <a href="papers.md#Rasouli_2019_BMVC">info</a></li>
@@ -283,7 +283,7 @@
 <a name=metric_f1></a>
 #### F1
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Rasouli et al., "Pedestrian Action Anticipation Using Contextual Feature Fusion In Stacked Rnns", BMVC, 2019. <a href="papers.md#Rasouli_2019_BMVC">info</a></li>
 <li> Ding et al., "Predicting Vehicle Behaviors Over An Extended Horizon Using Behavior Interaction Network", ICRA, 2019. <a href="papers.md#Ding_2019_ICRA">info</a></li>
@@ -300,7 +300,7 @@
 <a name=metric_map></a>
 #### mean Average Precision (mAP)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019. <a href="papers.md#Liang_2019_CVPR">info</a></li>
 <li> Safaei et al., "Still Image Action Recognition By Predicting Spatial-Temporal Pixel Evolution", WACV, 2019. <a href="papers.md#Safaei_2019_WACV">info</a></li>
@@ -316,7 +316,7 @@
 <a name=metric_ttm></a>
 #### Time To Maneuver (TTM)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Scheel et al., "Attention-Based Lane Change Prediction", ICRA, 2019. <a href="papers.md#Scheel_2019_ICRA">info</a></li>
 <li> Wu et al., "Gaze-Based Intention Anticipation Over Driving Manoeuvres In Semi-Autonomous Vehicles", IROS, 2019. <a href="papers.md#Wu_2019_IROS">info</a></li>
@@ -329,7 +329,7 @@
 <a name=metric_ap></a>
 #### Average Precision (AP)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Sun et al., "Relational Action Forecasting", CVPR, 2019. <a href="papers.md#Sun_2019_CVPR">info</a></li>
 <li> Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019. <a href="papers.md#Gujjar_2019_ICRA">info</a></li>
@@ -339,21 +339,10 @@
 </ul>
 </details>
 
-<a name=metric_rmse></a>
-#### Root Mean Square Error (RMSE)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Mahmud et al., "Joint Prediction Of Activity Labels And Starting Times In Untrimmed Videos", ICCV, 2017. <a href="papers.md#Mahmud_2017_ICCV">info</a></li>
-<li> Mahmud et al., "A Poisson Process Model For Activity Forecasting", ICIP, 2016. <a href="papers.md#Mahmud_2016_ICIP">info</a></li>
-<li> V\"olz et al., "A Data-Driven Approach For Pedestrian Intention Estimation", ITSC, 2016. <a href="papers.md#Volz_2016_ITSC">info</a></li>
-</ul>
-</details>
-
 <a name=metric_auc></a>
 #### Area Under the Curve (AUC)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Rasouli et al., "Pedestrian Action Anticipation Using Contextual Feature Fusion In Stacked Rnns", BMVC, 2019. <a href="papers.md#Rasouli_2019_BMVC">info</a></li>
 <li> Singh et al., "Online Real-Time Multiple Spatiotemporal Action Localisation And Prediction", ICCV, 2017. <a href="papers.md#Singh_2017_ICCV">info</a></li>
@@ -361,122 +350,133 @@
 </ul>
 </details>
 
-<a name=metric_recall></a>
-#### recall
+<a name=metric_rmse></a>
+#### Root Mean Square Error (RMSE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
-<li> Ding et al., "Predicting Vehicle Behaviors Over An Extended Horizon Using Behavior Interaction Network", ICRA, 2019. <a href="papers.md#Ding_2019_ICRA">info</a></li>
-<li> Qi et al., "Predicting Human Activities Using Stochastic Grammar", ICCV, 2017. <a href="papers.md#Qi_2017_ICCV">info</a></li>
+<li> Mahmud et al., "Joint Prediction Of Activity Labels And Starting Times In Untrimmed Videos", ICCV, 2017. <a href="papers.md#Mahmud_2017_ICCV">info</a></li>
+<li> Mahmud et al., "A Poisson Process Model For Activity Forecasting", ICIP, 2016. <a href="papers.md#Mahmud_2016_ICIP">info</a></li>
+<li> V\"olz et al., "A Data-Driven Approach For Pedestrian Intention Estimation", ITSC, 2016. <a href="papers.md#Volz_2016_ITSC">info</a></li>
 </ul>
 </details>
 
 <a name=metric_run_time></a>
 #### Run Time
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019. <a href="papers.md#Gujjar_2019_ICRA">info</a></li>
 <li> Saleh et al., "Real-Time Intent Prediction Of Pedestrians For Autonomous Ground Vehicles Via Spatio-Temporal Densenet", ICRA, 2019. <a href="papers.md#Saleh_2019_ICRA">info</a></li>
 </ul>
 </details>
 
-<a name=metric_tpr></a>
-#### True Positive Rate (TPR)
+<a name=metric_recall></a>
+#### recall
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
-<li> V\"olz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015. <a href="papers.md#Volz_2015_ITSC">info</a></li>
-</ul>
-</details>
-
-<a name=metric_mae></a>
-#### Mean Absolute Error (MAE)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Manglik et al., "Forecasting Time-To-Collision From Monocular Video: Feasibility, Dataset, And Challenges", IROS, 2019. <a href="papers.md#Manglik_2019_IROS">info</a></li>
-</ul>
-</details>
-
-<a name=metric_attc></a>
-#### ATTC
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", The CVPR, 2018. <a href="papers.md#Suzuki_2018_CVPR">info</a></li>
-</ul>
-</details>
-
-<a name=metric_tta></a>
-#### Time To Accident (TTA)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017. <a href="papers.md#Zeng_2017_CVPR">info</a></li>
-</ul>
-</details>
-
-<a name=metric_cap></a>
-#### calibrated Average Precision (cAP)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Gao et al., "Red: Reinforced Encoder-Decoder Networks For Action Anticipation", BMVC, 2017. <a href="papers.md#Gao_2017_BMVC">info</a></li>
-</ul>
-</details>
-
-<a name=metric_pp></a>
-#### Prediction Power (PP)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Ziaeetabar et al., "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning", IROS, 2018. <a href="papers.md#Ziaeetabar_2018_IROS">info</a></li>
+<li> Ding et al., "Predicting Vehicle Behaviors Over An Extended Horizon Using Behavior Interaction Network", ICRA, 2019. <a href="papers.md#Ding_2019_ICRA">info</a></li>
+<li> Qi et al., "Predicting Human Activities Using Stochastic Grammar", ICCV, 2017. <a href="papers.md#Qi_2017_ICCV">info</a></li>
 </ul>
 </details>
 
 <a name=metric_atta></a>
 #### ATTA
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Wang et al., "A Learning-Based Prediction Model For Baby Accidents", ICIP, 2019. <a href="papers.md#Wang_2019_ICIP">info</a></li>
 </ul>
 </details>
 
-<a name=metric_tnr></a>
-#### TNR
+<a name=metric_attc></a>
+#### ATTC
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
-<li> V\"olz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015. <a href="papers.md#Volz_2015_ITSC">info</a></li>
+<li> Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", The CVPR, 2018. <a href="papers.md#Suzuki_2018_CVPR">info</a></li>
 </ul>
 </details>
 
-<a name=metric_fp></a>
-#### False positive (FP)
+<a name=metric_mae></a>
+#### Mean Absolute Error (MAE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
-<li> Jain et al., "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models", ICCV, 2015. <a href="papers.md#Jain_2015_ICCV">info</a></li>
+<li> Manglik et al., "Forecasting Time-To-Collision From Monocular Video: Feasibility, Dataset, And Challenges", IROS, 2019. <a href="papers.md#Manglik_2019_IROS">info</a></li>
+</ul>
+</details>
+
+<a name=metric_tpr></a>
+#### True Positive Rate (TPR)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> V\"olz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015. <a href="papers.md#Volz_2015_ITSC">info</a></li>
 </ul>
 </details>
 
 <a name=metric_mcc></a>
 #### Matthews Correlation Coefficient (MCC)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Strickland et al., "Deep Predictive Models For Collision Risk Assessment In Autonomous Driving", ICRA, 2018. <a href="papers.md#Strickland_2018_ICRA">info</a></li>
+</ul>
+</details>
+
+<a name=metric_cap></a>
+#### calibrated Average Precision (cAP)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Gao et al., "Red: Reinforced Encoder-Decoder Networks For Action Anticipation", BMVC, 2017. <a href="papers.md#Gao_2017_BMVC">info</a></li>
+</ul>
+</details>
+
+<a name=metric_tta></a>
+#### Time To Accident (TTA)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017. <a href="papers.md#Zeng_2017_CVPR">info</a></li>
+</ul>
+</details>
+
+<a name=metric_tnr></a>
+#### TNR
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> V\"olz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015. <a href="papers.md#Volz_2015_ITSC">info</a></li>
+</ul>
+</details>
+
+<a name=metric_pp></a>
+#### Prediction Power (PP)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Ziaeetabar et al., "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning", IROS, 2018. <a href="papers.md#Ziaeetabar_2018_IROS">info</a></li>
 </ul>
 </details>
 
 <a name=metric_mrr></a>
 #### Miss Rate (MRR)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Xu et al., "Activity Auto-Completion: Predicting Human Activities From Partial Videos", ICCV, 2015. <a href="papers.md#Xu_2015_ICCV">info</a></li>
+</ul>
+</details>
+
+<a name=metric_fp></a>
+#### False positive (FP)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Jain et al., "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models", ICCV, 2015. <a href="papers.md#Jain_2015_ICCV">info</a></li>
 </ul>
 </details>
 
@@ -484,7 +484,7 @@
 <a name=metric_ade></a>
 #### Average Displacement Error (ADE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019. <a href="papers.md#Chandra_2019_CVPR">info</a></li>
 <li> Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019. <a href="papers.md#Hong_2019_CVPR">info</a></li>
@@ -539,7 +539,7 @@
 <a name=metric_fde></a>
 #### Final Displacement Error (FDE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019. <a href="papers.md#Chandra_2019_CVPR">info</a></li>
 <li> Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019. <a href="papers.md#Liang_2019_CVPR">info</a></li>
@@ -574,7 +574,7 @@
 <a name=metric_ed></a>
 #### Euclidean Distance (ED)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Carvalho et al., "Long-Term Prediction Of Motion Trajectories Using Path Homology Clusters", IROS, 2019. <a href="papers.md#Carvalho_2019_IROS">info</a></li>
 <li> Baumann et al., "Predicting Ego-Vehicle Paths From Environmental Observations With A Deep Neural Network", ICRA, 2018. <a href="papers.md#Baumann_2018_ICRA">info</a></li>
@@ -592,7 +592,7 @@
 <a name=metric_nll></a>
 #### Negative Log-Likelihood (NLL)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Jain et al., "Discrete Residual Flow For Probabilistic Pedestrian Behavior Prediction", CoRL, 2019. <a href="papers.md#Jain_2019_CORL">info</a></li>
 <li> Bhattacharyya et al., "Long-Term On-Board Prediction Of People In Traffic Scenes Under Uncertainty", CVPR, 2018. <a href="papers.md#Bhattacharyya_2018_CVPR">info</a></li>
@@ -606,7 +606,7 @@
 <a name=metric_run_time></a>
 #### Run Time
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Ding et al., "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning", ICRA, 2019. <a href="papers.md#Ding_2019_ICRA_2">info</a></li>
 <li> Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018. <a href="papers.md#Rudenko_2018_ICRA">info</a></li>
@@ -619,7 +619,7 @@
 <a name=metric_ll></a>
 #### Log-Likelihood (LL)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Thiede et al., "Analyzing The Variety Loss In The Context Of Probabilistic Trajectory Prediction", ICCV, 2019. <a href="papers.md#Thiede_2019_ICCV">info</a></li>
 <li> Tang et al., "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network", ICRA, 2019. <a href="papers.md#Tang_2019_ICRA">info</a></li>
@@ -631,7 +631,7 @@
 <a name=metric_minade></a>
 #### minADE
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019. <a href="papers.md#Chang_2019_CVPR">info</a></li>
 <li> Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019. <a href="papers.md#Li_2019_CVPR">info</a></li>
@@ -640,21 +640,10 @@
 </ul>
 </details>
 
-<a name=metric_kld></a>
-#### KullbackLeibler Divergence (KLD)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Tang et al., "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network", ICRA, 2019. <a href="papers.md#Tang_2019_ICRA">info</a></li>
-<li> Solaimanpour et al., "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings", ICRA, 2017. <a href="papers.md#Solaimanpour_2017_ICRA">info</a></li>
-<li> Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016. <a href="papers.md#Lee_2016_WACV">info</a></li>
-</ul>
-</details>
-
 <a name=metric_mhd></a>
 #### Modified Hausdorff Distance (MHD)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018. <a href="papers.md#Rudenko_2018_ICRA">info</a></li>
 <li> Rudenko et al., "Human Motion Prediction Under Social Grouping Constraints", IROS, 2018. <a href="papers.md#Rudenko_2018_IROS">info</a></li>
@@ -662,70 +651,121 @@
 </ul>
 </details>
 
-<a name=metric_mse></a>
-#### Mean Square Error (MSE)
+<a name=metric_kld></a>
+#### KullbackLeibler Divergence (KLD)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
-<li> Casas et al., "Intentnet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018. <a href="papers.md#Casas_2018_CORL">info</a></li>
+<li> Tang et al., "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network", ICRA, 2019. <a href="papers.md#Tang_2019_ICRA">info</a></li>
+<li> Solaimanpour et al., "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings", ICRA, 2017. <a href="papers.md#Solaimanpour_2017_ICRA">info</a></li>
 <li> Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016. <a href="papers.md#Lee_2016_WACV">info</a></li>
-</ul>
-</details>
-
-<a name=metric_maxd></a>
-#### maxD
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Felsen et al., "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders", ECCV, 2018. <a href="papers.md#Felsen_2018_ECCV">info</a></li>
-<li> Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017. <a href="papers.md#Lee_2017_CVPR">info</a></li>
-</ul>
-</details>
-
-<a name=metric_hit_rate></a>
-#### Hit Rate
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019. <a href="papers.md#Hong_2019_CVPR">info</a></li>
-<li> Chen et al., "Augmented Dictionary Learning For Motion Prediction", ICRA, 2016. <a href="papers.md#Chen_2016_ICRA">info</a></li>
-</ul>
-</details>
-
-<a name=metric_miss_rate></a>
-#### Miss rate
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Felsen et al., "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders", ECCV, 2018. <a href="papers.md#Felsen_2018_ECCV">info</a></li>
-<li> Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017. <a href="papers.md#Lee_2017_CVPR">info</a></li>
 </ul>
 </details>
 
 <a name=metric_mined></a>
 #### minED
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019. <a href="papers.md#Hong_2019_CVPR">info</a></li>
 <li> Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017. <a href="papers.md#Lee_2017_CVPR">info</a></li>
 </ul>
 </details>
 
-<a name=metric_accuracy></a>
-#### Accuracy
+<a name=metric_nlp></a>
+#### Negative Log-Probability (NLP)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
-<li> Kim et al., "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression", ICCV, 2019. <a href="papers.md#Kim_2019_ICCV">info</a></li>
-<li> Solaimanpour et al., "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings", ICRA, 2017. <a href="papers.md#Solaimanpour_2017_ICRA">info</a></li>
+<li> Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018. <a href="papers.md#Rudenko_2018_ICRA">info</a></li>
+<li> Rudenko et al., "Human Motion Prediction Under Social Grouping Constraints", IROS, 2018. <a href="papers.md#Rudenko_2018_IROS">info</a></li>
+</ul>
+</details>
+
+<a name=metric_mse></a>
+#### Mean Square Error (MSE)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Casas et al., "Intentnet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018. <a href="papers.md#Casas_2018_CORL">info</a></li>
+<li> Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016. <a href="papers.md#Lee_2016_WACV">info</a></li>
 </ul>
 </details>
 
 <a name=metric_meanmsd></a>
 #### mean Mean Square Displacemen (meanMSD)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019. <a href="papers.md#Rhinehart_2019_ICCV">info</a></li>
+<li> Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018. <a href="papers.md#Rhinehart_2018_ECCV">info</a></li>
+</ul>
+</details>
+
+<a name=metric_accuracy></a>
+#### Accuracy
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Kim et al., "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression", ICCV, 2019. <a href="papers.md#Kim_2019_ICCV">info</a></li>
+<li> Solaimanpour et al., "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings", ICRA, 2017. <a href="papers.md#Solaimanpour_2017_ICRA">info</a></li>
+</ul>
+</details>
+
+<a name=metric_maxd></a>
+#### maxD
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Felsen et al., "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders", ECCV, 2018. <a href="papers.md#Felsen_2018_ECCV">info</a></li>
+<li> Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017. <a href="papers.md#Lee_2017_CVPR">info</a></li>
+</ul>
+</details>
+
+<a name=metric_ande></a>
+#### Average Nonlinear Displacement Error (ANDE)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Xu et al., "Encoding Crowd Interaction With Deep Neural Network For Pedestrian Trajectory Prediction", CVPR, 2018. <a href="papers.md#Xu_2018_CVPR_encoding">info</a></li>
+<li> Alahi et al., "Social Lstm: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016. <a href="papers.md#Alahi_2016_CVPR">info</a></li>
+</ul>
+</details>
+
+<a name=metric_miss_rate></a>
+#### Miss rate
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Felsen et al., "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders", ECCV, 2018. <a href="papers.md#Felsen_2018_ECCV">info</a></li>
+<li> Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017. <a href="papers.md#Lee_2017_CVPR">info</a></li>
+</ul>
+</details>
+
+<a name=metric_rmse></a>
+#### Root Mean Square Error (RMSE)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Zhao et al., "Multi-Agent Tensor Fusion For Contextual Trajectory Prediction", CVPR, 2019. <a href="papers.md#Zhao_2019_CVPR">info</a></li>
+<li> Ding et al., "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning", ICRA, 2019. <a href="papers.md#Ding_2019_ICRA_2">info</a></li>
+</ul>
+</details>
+
+<a name=metric_hit_rate></a>
+#### Hit Rate
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019. <a href="papers.md#Hong_2019_CVPR">info</a></li>
+<li> Chen et al., "Augmented Dictionary Learning For Motion Prediction", ICRA, 2016. <a href="papers.md#Chen_2016_ICRA">info</a></li>
+</ul>
+</details>
+
+<a name=metric_minmsd></a>
+#### minMSD
+<details close>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019. <a href="papers.md#Rhinehart_2019_ICCV">info</a></li>
 <li> Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018. <a href="papers.md#Rhinehart_2018_ECCV">info</a></li>
@@ -735,93 +775,62 @@
 <a name=metric_minfde></a>
 #### minFDE
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019. <a href="papers.md#Chang_2019_CVPR">info</a></li>
 <li> Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019. <a href="papers.md#Li_2019_CVPR">info</a></li>
 </ul>
 </details>
 
-<a name=metric_ande></a>
-#### Average Nonlinear Displacement Error (ANDE)
+<a name=metric_wrmse></a>
+#### WRMSE
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
-<li> Xu et al., "Encoding Crowd Interaction With Deep Neural Network For Pedestrian Trajectory Prediction", CVPR, 2018. <a href="papers.md#Xu_2018_CVPR_encoding">info</a></li>
-<li> Alahi et al., "Social Lstm: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016. <a href="papers.md#Alahi_2016_CVPR">info</a></li>
+<li> Schulz et al., "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments", IROS, 2018. <a href="papers.md#Schulz_2018_IROS">info</a></li>
 </ul>
 </details>
 
-<a name=metric_nlp></a>
-#### Negative Log-Probability (NLP)
+<a name=metric_pd></a>
+#### Percentage Deviated (PD)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
-<li> Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018. <a href="papers.md#Rudenko_2018_ICRA">info</a></li>
-<li> Rudenko et al., "Human Motion Prediction Under Social Grouping Constraints", IROS, 2018. <a href="papers.md#Rudenko_2018_IROS">info</a></li>
-</ul>
-</details>
-
-<a name=metric_rmse></a>
-#### Root Mean Square Error (RMSE)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Zhao et al., "Multi-Agent Tensor Fusion For Contextual Trajectory Prediction", CVPR, 2019. <a href="papers.md#Zhao_2019_CVPR">info</a></li>
-<li> Ding et al., "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning", ICRA, 2019. <a href="papers.md#Ding_2019_ICRA_2">info</a></li>
-</ul>
-</details>
-
-<a name=metric_minmsd></a>
-#### minMSD
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019. <a href="papers.md#Rhinehart_2019_ICCV">info</a></li>
-<li> Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018. <a href="papers.md#Rhinehart_2018_ECCV">info</a></li>
-</ul>
-</details>
-
-<a name=metric_l1></a>
-#### L1
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Casas et al., "Intentnet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018. <a href="papers.md#Casas_2018_CORL">info</a></li>
-</ul>
-</details>
-
-<a name=metric_none></a>
-#### None
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> M\ogelmose et al., "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations", IV, 2015. <a href="papers.md#Mogelmose_2015_IV">info</a></li>
-</ul>
-</details>
-
-<a name=metric_precision></a>
-#### Precision
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Yoo et al., "Visual Path Prediction In Complex Scenes With Crowded Moving Objects", CVPR, 2016. <a href="papers.md#Yoo_2016_CVPR">info</a></li>
+<li> Shkurti et al., "Topologically Distinct Trajectory Predictions For Probabilistic Pursuit", IROS, 2017. <a href="papers.md#Shkurti_2017_IROS">info</a></li>
 </ul>
 </details>
 
 <a name=metric_mane></a>
 #### Mean angular error (MAnE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Hasan et al., ""Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention", WACV, 2018. <a href="papers.md#Hasan_2018_WACV">info</a></li>
+</ul>
+</details>
+
+<a name=metric_precision></a>
+#### Precision
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Yoo et al., "Visual Path Prediction In Complex Scenes With Crowded Moving Objects", CVPR, 2016. <a href="papers.md#Yoo_2016_CVPR">info</a></li>
+</ul>
+</details>
+
+<a name=metric_app></a>
+#### Average Prediction Probability (APP)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Rehder et al., "Pedestrian Prediction By Planning Using Deep Neural Networks", ICRA, 2018. <a href="papers.md#Rehder_2018_ICRA">info</a></li>
 </ul>
 </details>
 
 <a name=metric_aede></a>
 #### AEDE
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018. <a href="papers.md#Sun_2018_ICRA">info</a></li>
 </ul>
@@ -830,70 +839,61 @@
 <a name=metric_ce></a>
 #### Cross Entropy (CE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018. <a href="papers.md#Rhinehart_2018_ECCV">info</a></li>
 </ul>
 </details>
 
-<a name=metric_pd></a>
-#### Percentage Deviated (PD)
+<a name=metric_l1></a>
+#### L1
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
-<li> Shkurti et al., "Topologically Distinct Trajectory Predictions For Probabilistic Pursuit", IROS, 2017. <a href="papers.md#Shkurti_2017_IROS">info</a></li>
+<li> Casas et al., "Intentnet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018. <a href="papers.md#Casas_2018_CORL">info</a></li>
 </ul>
 </details>
 
 <a name=metric_fnm></a>
 #### Fraction of Near Misses (FNM)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Bai et al., "Intention-Aware Online Pomdp Planning For Autonomous Driving In A Crowd", ICRA, 2015. <a href="papers.md#Bai_2015_ICRA">info</a></li>
-</ul>
-</details>
-
-<a name=metric_wrmse></a>
-#### WRMSE
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Schulz et al., "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments", IROS, 2018. <a href="papers.md#Schulz_2018_IROS">info</a></li>
-</ul>
-</details>
-
-<a name=metric_app></a>
-#### Average Prediction Probability (APP)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Rehder et al., "Pedestrian Prediction By Planning Using Deep Neural Networks", ICRA, 2018. <a href="papers.md#Rehder_2018_ICRA">info</a></li>
-</ul>
-</details>
-
-<a name=metric_ece></a>
-#### Expected Calibration Error (ECE)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Jain et al., "Discrete Residual Flow For Probabilistic Pedestrian Behavior Prediction", CoRL, 2019. <a href="papers.md#Jain_2019_CORL">info</a></li>
 </ul>
 </details>
 
 <a name=metric_dtg></a>
 #### Distance to Goal (DtG)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016. <a href="papers.md#Lee_2016_WACV">info</a></li>
+</ul>
+</details>
+
+<a name=metric_ece></a>
+#### Expected Calibration Error (ECE)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Jain et al., "Discrete Residual Flow For Probabilistic Pedestrian Behavior Prediction", CoRL, 2019. <a href="papers.md#Jain_2019_CORL">info</a></li>
+</ul>
+</details>
+
+<a name=metric_none></a>
+#### None
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> M\ogelmose et al., "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations", IV, 2015. <a href="papers.md#Mogelmose_2015_IV">info</a></li>
 </ul>
 </details>
 
 <a name=metric_scr></a>
 #### State Collision Rate (SCR)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Ma et al., "Forecasting Interactive Dynamics Of Pedestrians With Fictitious Play", CVPR, 2017. <a href="papers.md#Ma_2017_CVPR">info</a></li>
 </ul>
@@ -903,7 +903,7 @@
 <a name=metric_mje></a>
 #### Mean Joint Error (MJE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019. <a href="papers.md#Joo_2019_CVPR">info</a></li>
 <li> Liu et al., "Towards Natural And Accurate Future Motion Prediction Of Humans And Animals", CVPR, 2019. <a href="papers.md#Liu_2019_CVPR">info</a></li>
@@ -922,7 +922,7 @@
 <a name=metric_mane></a>
 #### Mean angular error (MAnE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Gopalakrishnan et al., "A Neural Temporal Model For Human Motion Prediction", CVPR, 2019. <a href="papers.md#Gopalakrishnan_2019_CVPR">info</a></li>
 <li> Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019. <a href="papers.md#Hernandez_2019_ICCV">info</a></li>
@@ -940,7 +940,7 @@
 <a name=metric_pck></a>
 #### Percentage of Correct Keypoints (PCK)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019. <a href="papers.md#Zhang_2019_ICCV">info</a></li>
 <li> Chiu et al., "Action-Agnostic Human Pose Forecasting", WACV, 2019. <a href="papers.md#Chiu_2019_WACV">info</a></li>
@@ -952,47 +952,56 @@
 <a name=metric_mpjpe></a>
 #### Mean Per Joint Prediction Error (MPJPE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Mao et al., "Learning Trajectory Dependencies For Human Motion Prediction", ICCV, 2019. <a href="papers.md#Mao_2019_ICCV">info</a></li>
 <li> Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019. <a href="papers.md#Zhang_2019_ICCV">info</a></li>
 </ul>
 </details>
 
-<a name=metric_human></a>
-#### Human Judgement (Human)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019. <a href="papers.md#Hernandez_2019_ICCV">info</a></li>
-<li> Gui et al., "Adversarial Geometry-Aware Human Motion Prediction", ECCV, 2018. <a href="papers.md#Gui_2018_ECCV_2">info</a></li>
-</ul>
-</details>
-
-<a name=metric_run_time></a>
-#### Run Time
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Liu et al., "Towards Natural And Accurate Future Motion Prediction Of Humans And Animals", CVPR, 2019. <a href="papers.md#Liu_2019_CVPR">info</a></li>
-<li> Wu et al., "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A Rgb Camera", WACV, 2019. <a href="papers.md#Wu_2019_WACV">info</a></li>
-</ul>
-</details>
-
 <a name=metric_accuracy></a>
 #### Accuracy
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019. <a href="papers.md#Luo_2019_IROS">info</a></li>
 <li> Fragkiadaki et al., "Recurrent Network Models For Human Dynamics", ICCV, 2015. <a href="papers.md#Fragkiadaki_2015_ICCV">info</a></li>
 </ul>
 </details>
 
+<a name=metric_run_time></a>
+#### Run Time
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Liu et al., "Towards Natural And Accurate Future Motion Prediction Of Humans And Animals", CVPR, 2019. <a href="papers.md#Liu_2019_CVPR">info</a></li>
+<li> Wu et al., "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A Rgb Camera", WACV, 2019. <a href="papers.md#Wu_2019_WACV">info</a></li>
+</ul>
+</details>
+
+<a name=metric_human></a>
+#### Human Judgement (Human)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019. <a href="papers.md#Hernandez_2019_ICCV">info</a></li>
+<li> Gui et al., "Adversarial Geometry-Aware Human Motion Prediction", ECCV, 2018. <a href="papers.md#Gui_2018_ECCV_2">info</a></li>
+</ul>
+</details>
+
+<a name=metric_npss></a>
+#### Normalized Power Spectrum Similarity (NPSS)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Gopalakrishnan et al., "A Neural Temporal Model For Human Motion Prediction", CVPR, 2019. <a href="papers.md#Gopalakrishnan_2019_CVPR">info</a></li>
+</ul>
+</details>
+
 <a name=metric_psent></a>
 #### PoSe Entropy (PSEnt)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019. <a href="papers.md#Hernandez_2019_ICCV">info</a></li>
 </ul>
@@ -1001,99 +1010,35 @@
 <a name=metric_pskl></a>
 #### PoSe KL (PSKL)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019. <a href="papers.md#Hernandez_2019_ICCV">info</a></li>
-</ul>
-</details>
-
-<a name=metric_npss></a>
-#### Normalized Power Spectrum Similarity (NPSS)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Gopalakrishnan et al., "A Neural Temporal Model For Human Motion Prediction", CVPR, 2019. <a href="papers.md#Gopalakrishnan_2019_CVPR">info</a></li>
-</ul>
-</details>
-
-<a name=metric_lo></a>
-#### Limb Orientation (LO)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019. <a href="papers.md#Joo_2019_CVPR">info</a></li>
 </ul>
 </details>
 
 <a name=metric_re></a>
 #### Reconstruction Error (RE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019. <a href="papers.md#Zhang_2019_ICCV">info</a></li>
 </ul>
 </details>
 
+<a name=metric_lo></a>
+#### Limb Orientation (LO)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019. <a href="papers.md#Joo_2019_CVPR">info</a></li>
+</ul>
+</details>
+
 # Other prediction
-<a name=metric_recall></a>
-#### Recall
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016. <a href="papers.md#Choi_2016_IROS">info</a></li>
-<li> Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019. <a href="papers.md#Kim_2019_WACV">info</a></li>
-<li> Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017. <a href="papers.md#Sur_2017_IROS">info</a></li>
-</ul>
-</details>
-
-<a name=metric_ssim></a>
-#### Structural SIMilarity (SSIM)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019. <a href="papers.md#Mohajerin_2019_CVPR">info</a></li>
-<li> Katyal et al., "Uncertainty-Aware Occupancy Map Prediction Using Generative Networks For Robot Navigation", ICRA, 2019. <a href="papers.md#Katyal_2019_ICRA">info</a></li>
-<li> Luc et al., "Predicting Deeper Into The Future Of Semantic Segmentation", ICCV, 2017. <a href="papers.md#Luc_2017_ICCV">info</a></li>
-</ul>
-</details>
-
-<a name=metric_precision></a>
-#### Precision
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016. <a href="papers.md#Choi_2016_IROS">info</a></li>
-<li> Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019. <a href="papers.md#Kim_2019_WACV">info</a></li>
-<li> Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017. <a href="papers.md#Sur_2017_IROS">info</a></li>
-</ul>
-</details>
-
-<a name=metric_mae></a>
-#### Mean Absolute Error (MAE)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> He et al., "Aggregated Sparse Attention For Steering Angle Prediction", ICPR, 2018. <a href="papers.md#He_2018_ICPR">info</a></li>
-<li> Al-Halah et al., "Fashion Forward: Forecasting Visual Style In Fashion", ICCV, 2017. <a href="papers.md#Al-Halah_2017_ICCV">info</a></li>
-<li> Wilson et al., "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs", ICRA, 2015. <a href="papers.md#Wilson_2015_ICRA">info</a></li>
-</ul>
-</details>
-
-<a name=metric_run_time></a>
-#### Run Time
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019. <a href="papers.md#Mohajerin_2019_CVPR">info</a></li>
-<li> Katyal et al., "Uncertainty-Aware Occupancy Map Prediction Using Generative Networks For Robot Navigation", ICRA, 2019. <a href="papers.md#Katyal_2019_ICRA">info</a></li>
-<li> Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016. <a href="papers.md#Choi_2016_IROS">info</a></li>
-</ul>
-</details>
-
 <a name=metric_accuracy></a>
 #### Accuracy
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017. <a href="papers.md#Zeng_2017_ICCV">info</a></li>
 <li> Carvajal et al., "Towards Miss Universe Automatic Prediction: The Evening Gown Competition", ICPR, 2016. <a href="papers.md#Carvajal_2016_ICPR">info</a></li>
@@ -1101,10 +1046,43 @@
 </ul>
 </details>
 
+<a name=metric_recall></a>
+#### Recall
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016. <a href="papers.md#Choi_2016_IROS">info</a></li>
+<li> Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019. <a href="papers.md#Kim_2019_WACV">info</a></li>
+<li> Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017. <a href="papers.md#Sur_2017_IROS">info</a></li>
+</ul>
+</details>
+
+<a name=metric_precision></a>
+#### Precision
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016. <a href="papers.md#Choi_2016_IROS">info</a></li>
+<li> Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019. <a href="papers.md#Kim_2019_WACV">info</a></li>
+<li> Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017. <a href="papers.md#Sur_2017_IROS">info</a></li>
+</ul>
+</details>
+
+<a name=metric_run_time></a>
+#### Run Time
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019. <a href="papers.md#Mohajerin_2019_CVPR">info</a></li>
+<li> Katyal et al., "Uncertainty-Aware Occupancy Map Prediction Using Generative Networks For Robot Navigation", ICRA, 2019. <a href="papers.md#Katyal_2019_ICRA">info</a></li>
+<li> Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016. <a href="papers.md#Choi_2016_IROS">info</a></li>
+</ul>
+</details>
+
 <a name=metric_iou></a>
 #### Intersection over Union (IoU)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Terwilliger et al., "Recurrent Flow-Guided Semantic Forecasting", WACV, 2019. <a href="papers.md#Terwilliger_2019_WACV">info</a></li>
 <li> Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018. <a href="papers.md#Luc_2018_ECCV">info</a></li>
@@ -1112,11 +1090,23 @@
 </ul>
 </details>
 
-<a name=metric_psnr></a>
-#### Peak Signal-to-Noise Ratio (PSNR)
+<a name=metric_mae></a>
+#### Mean Absolute Error (MAE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
+<li> He et al., "Aggregated Sparse Attention For Steering Angle Prediction", ICPR, 2018. <a href="papers.md#He_2018_ICPR">info</a></li>
+<li> Al-Halah et al., "Fashion Forward: Forecasting Visual Style In Fashion", ICCV, 2017. <a href="papers.md#Al-Halah_2017_ICCV">info</a></li>
+<li> Wilson et al., "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs", ICRA, 2015. <a href="papers.md#Wilson_2015_ICRA">info</a></li>
+</ul>
+</details>
+
+<a name=metric_ssim></a>
+#### Structural SIMilarity (SSIM)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019. <a href="papers.md#Mohajerin_2019_CVPR">info</a></li>
 <li> Katyal et al., "Uncertainty-Aware Occupancy Map Prediction Using Generative Networks For Robot Navigation", ICRA, 2019. <a href="papers.md#Katyal_2019_ICRA">info</a></li>
 <li> Luc et al., "Predicting Deeper Into The Future Of Semantic Segmentation", ICCV, 2017. <a href="papers.md#Luc_2017_ICCV">info</a></li>
 </ul>
@@ -1125,7 +1115,7 @@
 <a name=metric_ed></a>
 #### Euclidean Distance (ED)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Graves et al., "Perception As Prediction Using General Value Functions In Autonomous Driving Applications", IROS, 2019. <a href="papers.md#Graves_2019_IROS">info</a></li>
 <li> Zapf et al., "Pedestrian Density Prediction For Efficient Mobile Robot Exploration", IROS, 2019. <a href="papers.md#Zapf_2019_IROS">info</a></li>
@@ -1135,154 +1125,65 @@
 <a name=metric_f1></a>
 #### F1
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Guizilini et al., "Dynamic Hilbert Maps: Real-Time Occupancy Predictions In Changing Environments", ICRA, 2019. <a href="papers.md#Guizilini_2019_ICRA">info</a></li>
 <li> Schreiber et al., "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks", ICRA, 2019. <a href="papers.md#Schreiber_2019_ICRA">info</a></li>
 </ul>
 </details>
 
-<a name=metric_roc></a>
-#### Receiver Operator Characteristic (ROC)
+<a name=metric_psnr></a>
+#### Peak Signal-to-Noise Ratio (PSNR)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
-<li> Schreiber et al., "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks", ICRA, 2019. <a href="papers.md#Schreiber_2019_ICRA">info</a></li>
-<li> Hoermann et al., "Dynamic Occupancy Grid Prediction For Urban Autonomous Driving: A Deep Learning Approach With Fully Automatic Labeling", ICRA, 2018. <a href="papers.md#Hoermann_2018_ICRA">info</a></li>
+<li> Katyal et al., "Uncertainty-Aware Occupancy Map Prediction Using Generative Networks For Robot Navigation", ICRA, 2019. <a href="papers.md#Katyal_2019_ICRA">info</a></li>
+<li> Luc et al., "Predicting Deeper Into The Future Of Semantic Segmentation", ICCV, 2017. <a href="papers.md#Luc_2017_ICCV">info</a></li>
 </ul>
 </details>
 
 <a name=metric_mape></a>
 #### Mean Absolute Percentage Error (MAPE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Wang et al., "Retweet Wars: Tweet Popularity Prediction Via Dynamic Multimodal Regression", WACV, 2018. <a href="papers.md#Wang_2018_WACV">info</a></li>
 <li> Al-Halah et al., "Fashion Forward: Forecasting Visual Style In Fashion", ICCV, 2017. <a href="papers.md#Al-Halah_2017_ICCV">info</a></li>
 </ul>
 </details>
 
-<a name=metric_src></a>
-#### Spearman’s Ranking Correlation (SRC)
+<a name=metric_roc></a>
+#### Receiver Operator Characteristic (ROC)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
-<li> Wang et al., "Retweet Wars: Tweet Popularity Prediction Via Dynamic Multimodal Regression", WACV, 2018. <a href="papers.md#Wang_2018_WACV">info</a></li>
-</ul>
-</details>
-
-<a name=metric_mcc></a>
-#### Matthews Correlation Coefficient (MCC)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017. <a href="papers.md#Sur_2017_IROS">info</a></li>
-</ul>
-</details>
-
-<a name=metric_psi></a>
-#### Psi
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Afolabi et al., "People As Sensors: Imputing Maps From Human Actions", IROS, 2018. <a href="papers.md#Afolabi_2018_IROS">info</a></li>
-</ul>
-</details>
-
-<a name=metric_mse></a>
-#### Mean Square Error (MSE)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017. <a href="papers.md#Jin_2017_NeurIPS">info</a></li>
-</ul>
-</details>
-
-<a name=metric_gce></a>
-#### Global Consistency Error (GCE)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018. <a href="papers.md#Luc_2018_ECCV">info</a></li>
-</ul>
-</details>
-
-<a name=metric_pcp></a>
-#### Percentage of Correct Predictions (PCP)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Mottaghi et al., "What Happens If... Learning To Predict The Effect Of Forces In Images", ECCV, 2016. <a href="papers.md#Mottaghi_2016_ECCV">info</a></li>
-</ul>
-</details>
-
-<a name=metric_auc></a>
-#### Area Under the Curve (AUC)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016. <a href="papers.md#Choi_2016_IROS">info</a></li>
-</ul>
-</details>
-
-<a name=metric_tp></a>
-#### True Positive (TP)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019. <a href="papers.md#Mohajerin_2019_CVPR">info</a></li>
-</ul>
-</details>
-
-<a name=metric_epe></a>
-#### End-Point Error (EPE)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017. <a href="papers.md#Jin_2017_NeurIPS">info</a></li>
-</ul>
-</details>
-
-<a name=metric_voi></a>
-#### Variation of Information (VoI)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018. <a href="papers.md#Luc_2018_ECCV">info</a></li>
+<li> Schreiber et al., "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks", ICRA, 2019. <a href="papers.md#Schreiber_2019_ICRA">info</a></li>
+<li> Hoermann et al., "Dynamic Occupancy Grid Prediction For Urban Autonomous Driving: A Deep Learning Approach With Fully Automatic Labeling", ICRA, 2018. <a href="papers.md#Hoermann_2018_ICRA">info</a></li>
 </ul>
 </details>
 
 <a name=metric_nmape></a>
 #### normalized Mean Absolute Percentage Error (nMAPE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Siddiqui et al., "A Deep Learning Approach To Solar-Irradiance Forecasting In Sky-Videos", WACV, 2019. <a href="papers.md#Siddiqui_2019_WACV">info</a></li>
 </ul>
 </details>
 
-<a name=metric_tn></a>
-#### True Negative (TN)
+<a name=metric_mse></a>
+#### Mean Square Error (MSE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
-<li> Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019. <a href="papers.md#Mohajerin_2019_CVPR">info</a></li>
-</ul>
-</details>
-
-<a name=metric_ri></a>
-#### Rand Index (RI)
-<details close>
-<summary><strong>Used in papers</strong></summary>
-<ul>
-<li> Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018. <a href="papers.md#Luc_2018_ECCV">info</a></li>
+<li> Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017. <a href="papers.md#Jin_2017_NeurIPS">info</a></li>
 </ul>
 </details>
 
 <a name=metric_miou></a>
 #### MIoU
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017. <a href="papers.md#Jin_2017_NeurIPS">info</a></li>
 </ul>
@@ -1291,18 +1192,117 @@
 <a name=metric_rmse></a>
 #### Root Mean Square Error (RMSE)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Chu et al., "Visual Weather Temperature Prediction", WACV, 2018. <a href="papers.md#Chu_2018_WACV">info</a></li>
+</ul>
+</details>
+
+<a name=metric_voi></a>
+#### Variation of Information (VoI)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018. <a href="papers.md#Luc_2018_ECCV">info</a></li>
+</ul>
+</details>
+
+<a name=metric_gce></a>
+#### Global Consistency Error (GCE)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018. <a href="papers.md#Luc_2018_ECCV">info</a></li>
+</ul>
+</details>
+
+<a name=metric_src></a>
+#### Spearman’s Ranking Correlation (SRC)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Wang et al., "Retweet Wars: Tweet Popularity Prediction Via Dynamic Multimodal Regression", WACV, 2018. <a href="papers.md#Wang_2018_WACV">info</a></li>
 </ul>
 </details>
 
 <a name=metric_ism></a>
 #### ISM
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Afolabi et al., "People As Sensors: Imputing Maps From Human Actions", IROS, 2018. <a href="papers.md#Afolabi_2018_IROS">info</a></li>
+</ul>
+</details>
+
+<a name=metric_tp></a>
+#### True Positive (TP)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019. <a href="papers.md#Mohajerin_2019_CVPR">info</a></li>
+</ul>
+</details>
+
+<a name=metric_auc></a>
+#### Area Under the Curve (AUC)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016. <a href="papers.md#Choi_2016_IROS">info</a></li>
+</ul>
+</details>
+
+<a name=metric_epe></a>
+#### End-Point Error (EPE)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017. <a href="papers.md#Jin_2017_NeurIPS">info</a></li>
+</ul>
+</details>
+
+<a name=metric_psi></a>
+#### Psi
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Afolabi et al., "People As Sensors: Imputing Maps From Human Actions", IROS, 2018. <a href="papers.md#Afolabi_2018_IROS">info</a></li>
+</ul>
+</details>
+
+<a name=metric_tn></a>
+#### True Negative (TN)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019. <a href="papers.md#Mohajerin_2019_CVPR">info</a></li>
+</ul>
+</details>
+
+<a name=metric_mcc></a>
+#### Matthews Correlation Coefficient (MCC)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017. <a href="papers.md#Sur_2017_IROS">info</a></li>
+</ul>
+</details>
+
+<a name=metric_ri></a>
+#### Rand Index (RI)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018. <a href="papers.md#Luc_2018_ECCV">info</a></li>
+</ul>
+</details>
+
+<a name=metric_pcp></a>
+#### Percentage of Correct Predictions (PCP)
+<details close>
+<summary><em>Used in papers</em></summary>
+<ul>
+<li> Mottaghi et al., "What Happens If... Learning To Predict The Effect Of Forces In Images", ECCV, 2016. <a href="papers.md#Mottaghi_2016_ECCV">info</a></li>
 </ul>
 </details>
 

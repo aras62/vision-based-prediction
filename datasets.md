@@ -1,23 +1,26 @@
 # 2019
 <a name=data_pie></a>
 ### [Pedestrian Intention Estimation (PIE)](http://data.nvision2.eecs.yorku.ca/PIE_dataset/)
-Rasouli et al., "Pie: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction", ICCV, 2019.. [paper]().
+**Rasouli et al., "Pie: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction", ICCV, 2019.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Rasouli et al., "Pedestrian Action Anticipation Using Contextual Feature Fusion In Stacked Rnns", BMVC, 2019. <a href="papers.md#Rasouli_2019_BMVC">info</a></li>
 <li> Rasouli et al., "Pie: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction", ICCV, 2019. <a href="papers.md#Rasouli_2019_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, object class, attribute, temporal segment, vehicle sensors,</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, object class, attribute, temporal segment, vehicle sensors,</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Rasouli_2019_ICCV,
     author = "Rasouli, Amir and Kotseruba, Iuliia and Kunic, Toni and Tsotsos, John K.",
@@ -30,23 +33,26 @@ Rasouli et al., "Pie: A Large-Scale Dataset And Models For Pedestrian Intention 
 
 <a name=data_carla></a>
 ### [CARLA](https://sites.google.com/view/precog)
-Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019.. [paper]().
+**Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019. <a href="papers.md#Rhinehart_2019_ICCV">info</a></li>
 <li> Ding et al., "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning", ICRA, 2019. <a href="papers.md#Ding_2019_ICRA_2">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB</br>
-<em>Task:</em> Driving (simulation)</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Task:</strong></em> Driving (simulation)</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Rhinehart_2019_ICCV,
     author = "Rhinehart, Nicholas and McAllister, Rowan and Kitani, Kris and Levine, Sergey",
@@ -59,22 +65,25 @@ Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent
 
 <a name=data_traf></a>
 ### [TRAF](https://drive.google.com/drive/folders/1LqzJuRkx5yhOcjWFORO5WZ97v6jg8RHN)
-Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019.. [paper]().
+**Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019. <a href="papers.md#Chandra_2019_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, object class, Time-of-day</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, object class, Time-of-day</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Chandra_2019_CVPR,
     author = "Chandra, Rohan and Bhattacharya, Uttaran and Bera, Aniket and Manocha, Dinesh",
@@ -87,22 +96,25 @@ Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traff
 
 <a name=data_vpm></a>
 ### [Vehicle-Pedestrian-Mixed (VPM)](http://vr.ict.ac.cn/vp-lstm.)
-Bi et al., "Joint Prediction For Kinematic Trajectories In Vehicle-Pedestrian-Mixed Scenes", ICCV, 2019.. [paper]().
+**Bi et al., "Joint Prediction For Kinematic Trajectories In Vehicle-Pedestrian-Mixed Scenes", ICCV, 2019.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Bi et al., "Joint Prediction For Kinematic Trajectories In Vehicle-Pedestrian-Mixed Scenes", ICCV, 2019. <a href="papers.md#Bi_2019_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Bi_2019_ICCV,
     author = "Bi, Huikun and Fang, Zhong and Mao, Tianlu and Wang, Zhaoqi and Deng, Zhigang",
@@ -115,22 +127,25 @@ Bi et al., "Joint Prediction For Kinematic Trajectories In Vehicle-Pedestrian-Mi
 
 <a name=data_nuscenes></a>
 ### [nuScenes](https://www.nuscenes.org/)
-Caesar et al., "Nuscenes: A Multimodal Dataset For Autonomous Driving", arXiv:1903.11027, 2019.. [paper]().
+**Caesar et al., "Nuscenes: A Multimodal Dataset For Autonomous Driving", arXiv:1903.11027, 2019.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019. <a href="papers.md#Rhinehart_2019_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, LIDAR, 3D bounding box, vehicle sensors, map</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, LIDAR, 3D bounding box, vehicle sensors, map</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Caesar_2019_arxiv,
     author = "Caesar, Holger and Bankiti, Varun and Lang, Alex H. and Vora, Sourabh and Liong, Venice Erin and Xu, Qiang and Krishnan, Anush and Pan, Yu and Baldan, Giancarlo and Beijbom, Oscar",
@@ -143,22 +158,25 @@ Caesar et al., "Nuscenes: A Multimodal Dataset For Autonomous Driving", arXiv:19
 
 <a name=data_mgif></a>
 ### [MGIF](https://github.com/AliaksandrSiarohin/monkey-net)
-Siarohin et al., "Animating Arbitrary Objects Via Deep Motion Transfer", CVPR, 2019.. [paper](https://closeaccess.thecvf.com/content_CVPR_2019/papers/Siarohin_Animating_Arbitrary_Objects_via_Deep_Motion_Transfer_CVPR_2019_paper.pdf) [arxiv](Siarohin et al., "Animating Arbitrary Objects Via Deep Motion Transfer", CVPR, 2019.).
+**Siarohin et al., "Animating Arbitrary Objects Via Deep Motion Transfer", CVPR, 2019.** [**paper**](https://closeaccess.thecvf.com/content_CVPR_2019/papers/Siarohin_Animating_Arbitrary_Objects_via_Deep_Motion_Transfer_CVPR_2019_paper.pdf) [**arxiv**](Siarohin et al., "Animating Arbitrary Objects Via Deep Motion Transfer", CVPR, 2019.).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Kim et al., "Unsupervised Keypoint Learning For Guiding Class-Conditional Video Prediction", NeurIPS, 2019. <a href="papers.md#Kim_2019_NeurIPS">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> RGB</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Siarohin_2019_CVPR,
     author = "Siarohin, Aliaksandr and Lathuilière, Stéphane and Tulyakov, Sergey and Ricci, Elisa and Sebe, Nicu",
@@ -171,22 +189,25 @@ Siarohin et al., "Animating Arbitrary Objects Via Deep Motion Transfer", CVPR, 2
 
 <a name=data_luggage></a>
 ### [Luggage](https://aashi7.github.io/NearCollision.html)
-Manglik et al., "Forecasting Time-To-Collision From Monocular Video: Feasibility, Dataset, And Challenges", IROS, 2019.. [paper]().
+**Manglik et al., "Forecasting Time-To-Collision From Monocular Video: Feasibility, Dataset, And Challenges", IROS, 2019.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Manglik et al., "Forecasting Time-To-Collision From Monocular Video: Feasibility, Dataset, And Challenges", IROS, 2019. <a href="papers.md#Manglik_2019_IROS">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> Stereo RGB, bounding box</br>
-<em>Task:</em> Robot</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Stereo RGB, bounding box</li>
+<li><em><strong>Task:</strong></em> Robot</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Manglik_2019_IROS,
     author = "Manglik, Aashi and Weng, Xinshuo and Ohn-Bar, Eshed and Kitani, Kris M",
@@ -199,22 +220,25 @@ Manglik et al., "Forecasting Time-To-Collision From Monocular Video: Feasibility
 
 <a name=data_interaction></a>
 ### [INTERACTION](https://interaction-dataset.com)
-Zhan et al., "Interaction Dataset: An International, Adversarial And Cooperative Motion Dataset In Interactive Driving Scenarios With Semantic Maps", arXiv:1910.03088, 2019.. [paper]().
+**Zhan et al., "Interaction Dataset: An International, Adversarial And Cooperative Motion Dataset In Interactive Driving Scenarios With Semantic Maps", arXiv:1910.03088, 2019.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Li et al., "Conditional Generative Neural System For Probabilistic Trajectory Prediction", IROS, 2019. <a href="papers.md#Li_2019_IROS">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> Map, trajectory</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Map, trajectory</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Zhan_2019_arxiv,
     author = "Zhan, Wei and Sun, Liting and Wang, Di and Shi, Haojie and Clausse, Aubrey and Naumann, Maximilian and Kummerle, Julius and Konigshof, Hendrik and Stiller, Christoph and de La Fortelle, Arnaud and others",
@@ -227,22 +251,25 @@ Zhan et al., "Interaction Dataset: An International, Adversarial And Cooperative
 
 <a name=data_instavariety></a>
 ### [InstaVariety](https://github.com/akanazawa/human_dynamics)
-Kanazawa et al., "Learning 3D Human Dynamics From Video", CVPR, 2019.. [paper]().
+**Kanazawa et al., "Learning 3D Human Dynamics From Video", CVPR, 2019.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019. <a href="papers.md#Zhang_2019_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#motion>Motion prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, pose</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#motion>Motion prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, pose</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Kanazawa_2019_CVPR,
     author = "Kanazawa, Angjoo and Zhang, Jason Y. and Felsen, Panna and Malik, Jitendra",
@@ -255,22 +282,25 @@ Kanazawa et al., "Learning 3D Human Dynamics From Video", CVPR, 2019.. [paper]()
 
 <a name=data_fm></a>
 ### [Future Motion (FM)](https://mcl.korea.ac.kr/~krkim/iccv2019/index.html)
-Kim et al., "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression", ICCV, 2019.. [paper]().
+**Kim et al., "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression", ICCV, 2019.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Kim et al., "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression", ICCV, 2019. <a href="papers.md#Kim_2019_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, attribute</br>
-<em>Task:</em> Mix</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, attribute</li>
+<li><em><strong>Task:</strong></em> Mix</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Kim_2019_ICCV,
     author = "Kim, Kyung-Rae and Choi, Whan and Koh, Yeong Jun and Jeong, Seong-Gyun and Kim, Chang-Su",
@@ -283,22 +313,25 @@ Kim et al., "Instance-Level Future Motion Estimation In A Single Image Based On 
 
 <a name=data_egopose></a>
 ### [EgoPose](https://github.com/Khrylx/EgoPose)
-Yuan et al., "Ego-Pose Estimation And Forecasting As Real-Time Pd Control", ICCV, 2019.. [paper]().
+**Yuan et al., "Ego-Pose Estimation And Forecasting As Real-Time Pd Control", ICCV, 2019.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Yuan et al., "Ego-Pose Estimation And Forecasting As Real-Time Pd Control", ICCV, 2019. <a href="papers.md#Yuan_2019_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#motion>Motion prediction<application></a></br>
-<em>Data type:</em> RGB, 3D pose</br>
-<em>Task:</em> Pose (egocentric)</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#motion>Motion prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, 3D pose</li>
+<li><em><strong>Task:</strong></em> Pose (egocentric)</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Yuan_2019_ICCV,
     author = "Yuan, Ye and Kitani, Kris",
@@ -311,22 +344,25 @@ Yuan et al., "Ego-Pose Estimation And Forecasting As Real-Time Pd Control", ICCV
 
 <a name=data_argoverse></a>
 ### [ARGOVerse](https://www.argoverse.org/data.html)
-Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019.. [paper]().
+**Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019. <a href="papers.md#Chang_2019_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, LIDAR, 3D bounding box, map</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, LIDAR, 3D bounding box, map</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Chang_2019_CVPR,
     author = "Chang, Ming-Fang and Lambert, John and Sangkloy, Patsorn and Singh, Jagjeet and Bak, Slawomir and Hartnett, Andrew and Wang, De and Carr, Peter and Lucey, Simon and Ramanan, Deva and Hays, James",
@@ -340,9 +376,9 @@ Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 201
 # 2018
 <a name=data_epic-kitchens></a>
 ### [Epic-Kitchens](https://epic-kitchens.github.io/2019)
-Damen et al., "Scaling Egocentric Vision: The Epic-Kitchens Dataset", ECCV, 2018.. [paper]().
+**Damen et al., "Scaling Egocentric Vision: The Epic-Kitchens Dataset", ECCV, 2018.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Ke et al., "Time-Conditioned Action Anticipation In One Shot", CVPR, 2019. <a href="papers.md#Ke_2019_CVPR">info</a></li>
 <li> Furnari et al., "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention", ICCV, 2019. <a href="papers.md#Furnari_2019_ICCV">info</a></li>
@@ -350,14 +386,17 @@ Damen et al., "Scaling Egocentric Vision: The Epic-Kitchens Dataset", ECCV, 2018
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, audio,  bounding box, object class, test, temporal segment</br>
-<em>Task:</em> Cooking  (egocentric)</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, audio,  bounding box, object class, test, temporal segment</li>
+<li><em><strong>Task:</strong></em> Cooking  (egocentric)</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Damen_2018_ECCV,
     author = "Damen, Dima and Doughty, Hazel and Farinella, Giovanni Maria and Fidler, Sanja and Furnari, Antonino and Kazakos, Evangelos and Moltisanti, Davide and Munro, Jonathan and Perrett, Toby and Price, Will and Wray, Michael",
@@ -370,22 +409,25 @@ Damen et al., "Scaling Egocentric Vision: The Epic-Kitchens Dataset", ECCV, 2018
 
 <a name=data_youcook2></a>
 ### [YouCook2](http://youcook2.eecs.umich.edu/)
-Zhou et al., "Towards Automatic Learning Of Procedures From Web Instructional Videos", AI, 2018.. [paper]().
+**Zhou et al., "Towards Automatic Learning Of Procedures From Web Instructional Videos", AI, 2018.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Sener et al., "Zero-Shot Anticipation For Instructional Activities", ICCV, 2019. <a href="papers.md#Sener_2019_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, audio, test, activity label, temporal segment</br>
-<em>Task:</em> Cooking</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, audio, test, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Cooking</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Zhou_2018_AI,
     author = "Zhou, Luowei and Xu, Chenliang and Corso, Jason J",
@@ -398,22 +440,25 @@ Zhou et al., "Towards Automatic Learning Of Procedures From Web Instructional Vi
 
 <a name=data_viena></a>
 ### [VIENA](https://sites.google.com/view/viena2-project/home)
-Aliakbarian et al., "Viena: A Driving Anticipation Dataset", ACCV, 2019.. [paper]().
+**Aliakbarian et al., "Viena: A Driving Anticipation Dataset", ACCV, 2019.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Aliakbarian et al., "Viena: A Driving Anticipation Dataset", ACCV, 2019. <a href="papers.md#Aliakbarian_2018_ACCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, activity label, vehicle sensors</br>
-<em>Task:</em> Driving (simulation)</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, activity label, vehicle sensors</li>
+<li><em><strong>Task:</strong></em> Driving (simulation)</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Aliakbarian_2018_ACCV,
     author = "Aliakbarian, Mohammad Sadegh and Saleh, Fatemeh Sadat and Salzmann, Mathieu and Fernando, Basura and Petersson, Lars and Andersson, Lars",
@@ -427,22 +472,25 @@ Aliakbarian et al., "Viena: A Driving Anticipation Dataset", ACCV, 2019.. [paper
 
 <a name=data_shapestack></a>
 ### [ShapeStack](https://shapestacks.robots.ox.ac.uk/)
-Groth et al., "Shapestacks: Learning Vision-Based Physical Intuition For Generalised Object Stacking", ECCV, 2018.. [paper](https://closeaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf) [arxiv](Groth et al., "Shapestacks: Learning Vision-Based Physical Intuition For Generalised Object Stacking", ECCV, 2018.).
+**Groth et al., "Shapestacks: Learning Vision-Based Physical Intuition For Generalised Object Stacking", ECCV, 2018.** [**paper**](https://closeaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf) [**arxiv**](Groth et al., "Shapestacks: Learning Vision-Based Physical Intuition For Generalised Object Stacking", ECCV, 2018.).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Ye et al., "Compositional Video Prediction", ICCV, 2019. <a href="papers.md#Ye_2019_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> RGBD, mask, stability</br>
-<em>Task:</em> Objects (simulation)</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, mask, stability</li>
+<li><em><strong>Task:</strong></em> Objects (simulation)</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Groth_2018_arxiv,
     author = "Groth, Oliver and Fuchs, Fabian B and Posner, Ingmar and Vedaldi, Andrea",
@@ -455,22 +503,25 @@ Groth et al., "Shapestacks: Learning Vision-Based Physical Intuition For General
 
 <a name=data_shanghaitech_campus></a>
 ### [ShanghaiTech Campus (STC)](https://svip-lab.github.io/dataset/campus_dataset.html)
-Liu et al., "Future Frame Prediction For Anomaly Detection – A New Baseline", CVPR, 2018.. [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Future_Frame_Prediction_CVPR_2018_paper.pdf) [arxiv](Liu et al., "Future Frame Prediction For Anomaly Detection – A New Baseline", CVPR, 2018.).
+**Liu et al., "Future Frame Prediction For Anomaly Detection – A New Baseline", CVPR, 2018.** [**paper**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Future_Frame_Prediction_CVPR_2018_paper.pdf) [**arxiv**](Liu et al., "Future Frame Prediction For Anomaly Detection – A New Baseline", CVPR, 2018.).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019. <a href="papers.md#Kwon_2019_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> RGB, anomaly</br>
-<em>Task:</em> Surveillance, anomaly</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, anomaly</li>
+<li><em><strong>Task:</strong></em> Surveillance, anomaly</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Liu_2018_CVPR,
     author = "Liu, Wen and Luo, Weixin and Lian, Dongze and Gao, Shenghua",
@@ -483,22 +534,25 @@ Liu et al., "Future Frame Prediction For Anomaly Detection – A New Baseline", 
 
 <a name=data_egtea_gaze+></a>
 ### [Extended Georgia Tech Egocentric Activity Gaze+ (EGTEA Gaze+)](http://www.cbi.gatech.edu/fpv/)
-Li et al., "In The Eye Of Beholder: Joint Learning Of Gaze And Actions In First Person Video", ECCV, 2018.. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf) [arxiv](Li et al., "In The Eye Of Beholder: Joint Learning Of Gaze And Actions In First Person Video", ECCV, 2018.).
+**Li et al., "In The Eye Of Beholder: Joint Learning Of Gaze And Actions In First Person Video", ECCV, 2018.** [**paper**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf) [**arxiv**](Li et al., "In The Eye Of Beholder: Joint Learning Of Gaze And Actions In First Person Video", ECCV, 2018.).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Furnari et al., "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention", ICCV, 2019. <a href="papers.md#Furnari_2019_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, gaze, mask, activity label, temporal segment</br>
-<em>Task:</em> Cooking  (egocentric)</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, gaze, mask, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Cooking  (egocentric)</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Li_2018_ECCV_2,
     author = "Li, Yin and Liu, Miao and Rehg, James M",
@@ -511,22 +565,25 @@ Li et al., "In The Eye Of Beholder: Joint Learning Of Gaze And Actions In First 
 
 <a name=data_ava></a>
 ### [Atomic Visual Actions (AVA)](https://research.google.com/ava/)
-Gu et al., "Ava: A Video Dataset Of Spatio-Temporally Localized Atomic Visual Actions", CVPR, 2018.. [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gu_AVA_A_Video_CVPR_2018_paper.pdf) [arxiv](Gu et al., "Ava: A Video Dataset Of Spatio-Temporally Localized Atomic Visual Actions", CVPR, 2018.).
+**Gu et al., "Ava: A Video Dataset Of Spatio-Temporally Localized Atomic Visual Actions", CVPR, 2018.** [**paper**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gu_AVA_A_Video_CVPR_2018_paper.pdf) [**arxiv**](Gu et al., "Ava: A Video Dataset Of Spatio-Temporally Localized Atomic Visual Actions", CVPR, 2018.).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Sun et al., "Relational Action Forecasting", CVPR, 2019. <a href="papers.md#Sun_2019_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, activity label, temporal segment</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Gu_2018_CVPR,
     author = "Gu, Chunhui and Sun, Chen and Ross, David A and Vondrick, Carl and Pantofaru, Caroline and Li, Yeqing and Vijayanarasimhan, Sudheendra and Toderici, George and Ricco, Susanna and Sukthankar, Rahul and others",
@@ -539,22 +596,25 @@ Gu et al., "Ava: A Video Dataset Of Spatio-Temporally Localized Atomic Visual Ac
 
 <a name=data_acticipate></a>
 ### [ACTICIPATE](http://vislab.isr.tecnico.ulisboa.pt/datasets/)
-Schydlo et al., "Anticipation In Human-Robot Cooperation: A Recurrent Neural Network Approach For Multiple Action Sequences Prediction", ICRA, 2018.. [paper]().
+**Schydlo et al., "Anticipation In Human-Robot Cooperation: A Recurrent Neural Network Approach For Multiple Action Sequences Prediction", ICRA, 2018.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Schydlo et al., "Anticipation In Human-Robot Cooperation: A Recurrent Neural Network Approach For Multiple Action Sequences Prediction", ICRA, 2018. <a href="papers.md#Schydlo_2018_ICRA_2">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, gaze, pose</br>
-<em>Task:</em> Interaction</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, gaze, pose</li>
+<li><em><strong>Task:</strong></em> Interaction</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Schydlo_2018_ICRA,
     author = "Schydlo, Paul and Rakovic, Mirko and Jamone, Lorenzo and Santos-Victor, Jos{\'e}",
@@ -567,22 +627,25 @@ Schydlo et al., "Anticipation In Human-Robot Cooperation: A Recurrent Neural Net
 
 <a name=data_actev/virat></a>
 ### [ActEV/VIRAT](https://actev.nist.gov/trecvid19)
-Awad et al., "Benchmarking Video Activity Detection, Video Captioning And Matching, Video Storytelling Linking And Video Search", TRECVID, 2018.. [paper](https://www-nlpir.nist.gov/projects/tvpubs/tv18.papers/tv18overview.pdf).
+**Awad et al., "Benchmarking Video Activity Detection, Video Captioning And Matching, Video Storytelling Linking And Video Search", TRECVID, 2018.** [**paper**](https://www-nlpir.nist.gov/projects/tvpubs/tv18.papers/tv18overview.pdf).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019. <a href="papers.md#Liang_2019_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, activity label, temporal segment</br>
-<em>Task:</em> Surveillance</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Surveillance</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Awad_2018_Trecvid,
     author = "Awad, George and Butt, Asad and Curtis, Keith and Lee, Yooyoung and Fiscus, Jonathan and Godil, Afzad and Joy, David and Delgado, Andrew and Smeaton, Alan and Graham, Yvette and others",
@@ -595,22 +658,25 @@ Awad et al., "Benchmarking Video Activity Detection, Video Captioning And Matchi
 
 <a name=data_3dpw></a>
 ### [3D POSES IN THE WILD (3DPW)](https://virtualhumans.mpi-inf.mpg.de/3DPW/)
-Marcard et al., "Recovering Accurate 3D Human Pose In The Wild Using Imus And A Moving Camera", ECCV, 2018.. [paper]().
+**Marcard et al., "Recovering Accurate 3D Human Pose In The Wild Using Imus And A Moving Camera", ECCV, 2018.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Mao et al., "Learning Trajectory Dependencies For Human Motion Prediction", ICCV, 2019. <a href="papers.md#Mao_2019_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#motion>Motion prediction<application></a></br>
-<em>Data type:</em> RGB, 2D/3D pose, models</br>
-<em>Task:</em> Outdoor</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#motion>Motion prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, 2D/3D pose, models</li>
+<li><em><strong>Task:</strong></em> Outdoor</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{vonMarcard_2018_ECCV,
     author = "von Marcard, Timo and Henschel, Roberto and Black, Michael and Rosenhahn, Bodo and Pons-Moll, Gerard",
@@ -624,9 +690,9 @@ Marcard et al., "Recovering Accurate 3D Human Pose In The Wild Using Imus And A 
 # 2017
 <a name=data_jaad></a>
 ### [Joint Attention in Autonomous Driving (JAAD)](http://data.nvision2.eecs.yorku.ca/JAAD_dataset/)
-Rasouli et al., "Are They Going To Cross? A Benchmark Dataset And Baseline For Pedestrian Crosswalk Behavior", ICCVW, 2017.. [paper](https://closeaccess.thecvf.com/content_ICCV_2017_workshops/papers/w3/Rasouli_Are_They_Going_ICCV_2017_paper.pdf).
+**Rasouli et al., "Are They Going To Cross? A Benchmark Dataset And Baseline For Pedestrian Crosswalk Behavior", ICCVW, 2017.** [**paper**](https://closeaccess.thecvf.com/content_ICCV_2017_workshops/papers/w3/Rasouli_Are_They_Going_ICCV_2017_paper.pdf).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019. <a href="papers.md#Gujjar_2019_ICRA">info</a></li>
 <li> Saleh et al., "Real-Time Intent Prediction Of Pedestrians For Autonomous Ground Vehicles Via Spatio-Temporal Densenet", ICRA, 2019. <a href="papers.md#Saleh_2019_ICRA">info</a></li>
@@ -637,14 +703,17 @@ Rasouli et al., "Are They Going To Cross? A Benchmark Dataset And Baseline For P
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a>,<a href=papers.md#other>Other prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, attribute, temporal segment</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a>,<a href=papers.md#other>Other prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, attribute, temporal segment</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Rasouli_2017_ICCVW,
     author = "Rasouli, Amir and Kotseruba, Iuliia and Tsotsos, John K.",
@@ -657,22 +726,25 @@ Rasouli et al., "Are They Going To Cross? A Benchmark Dataset And Baseline For P
 
 <a name=data_strands></a>
 ### [STRANDS](https://strands.readthedocs.io/en/latest/datasets/)
-Hawes et al., "The Strands Project: Long-Term Autonomy In Everyday Environments", IEEE Robotics \\& Automation Magazine, 2017.. [paper]().
+**Hawes et al., "The Strands Project: Long-Term Autonomy In Everyday Environments", IEEE Robotics \\& Automation Magazine, 2017.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018. <a href="papers.md#Sun_2018_ICRA">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGBD, 3D bounding box</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, 3D bounding box</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Hawes_2017_RAM,
     author = "Hawes, Nick and Burbridge, Christopher and Jovan, Ferdian and Kunze, Lars and Lacerda, Bruno and Mudrova, Lenka and Young, Jay and Wyatt, Jeremy and Hebesberger, Denise and Kortner, Tobias and others",
@@ -688,22 +760,25 @@ Hawes et al., "The Strands Project: Long-Term Autonomy In Everyday Environments"
 
 <a name=data_recipe1m></a>
 ### [Recipe1M](http://pic2recipe.csail.mit.edu/)
-Salvador et al., "Learning Cross-Modal Embeddings For Cooking Recipes And Food Images", CVPR, 2017.. [paper]().
+**Salvador et al., "Learning Cross-Modal Embeddings For Cooking Recipes And Food Images", CVPR, 2017.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Sener et al., "Zero-Shot Anticipation For Instructional Activities", ICCV, 2019. <a href="papers.md#Sener_2019_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB (image), test</br>
-<em>Task:</em> Cooking</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB (image), test</li>
+<li><em><strong>Task:</strong></em> Cooking</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Salvador_2017_CVPR,
     author = "Salvador, Amaia and Hynes, Nicholas and Aytar, Yusuf and Marin, Javier and Ofli, Ferda and Weber, Ingmar and Torralba, Antonio",
@@ -716,22 +791,25 @@ Salvador et al., "Learning Cross-Modal Embeddings For Cooking Recipes And Food I
 
 <a name=data_pku-mmd></a>
 ### [PKU-MMD](http://www.icst.pku.edu.cn/struct/Projects/PKUMMD.html)
-Chunhui et al., "Pku-Mmd: A Large Scale Benchmark For Continuous Multi-Modal Human Action Understanding", arXiv:1703.07475, 2017.. [paper]().
+**Chunhui et al., "Pku-Mmd: A Large Scale Benchmark For Continuous Multi-Modal Human Action Understanding", arXiv:1703.07475, 2017.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Liu et al., "Ssnet: Scale Selection Network For Online 3D Action Prediction", CVPR, 2018. <a href="papers.md#Liu_2018_CVPR_ssnet">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGBD, IR, 3D pose, multiview, temporal segment</br>
-<em>Task:</em> Activity, interactions</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, IR, 3D pose, multiview, temporal segment</li>
+<li><em><strong>Task:</strong></em> Activity, interactions</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Liu_2017_arxiv,
     author = "Chunhui, Liu and Yueyu, Hu and Yanghao, Li and Sijie, Song and Jiaying, Liu",
@@ -744,22 +822,25 @@ Chunhui et al., "Pku-Mmd: A Large Scale Benchmark For Continuous Multi-Modal Hum
 
 <a name=data_oxford></a>
 ### [Oxford Robot Car (ORC)](https://robotcar-dataset.robots.ox.ac.uk/)
-Maddern et al., "{1 Year, 1000Km: The Oxford Robotcar Dataset}", IJRR, 2017.. [paper]().
+**Maddern et al., "{1 Year, 1000Km: The Oxford Robotcar Dataset}", IJRR, 2017.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Srikanth et al., "Infer: Intermediate Representations For Future Prediction", IROS, 2019. <a href="papers.md#Srikanth_2019_IROS">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> Stereo RGB, LIDAR, vehicle sensors</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Stereo RGB, LIDAR, vehicle sensors</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Maddern_2017_IJRR,
     Author = "Maddern, Will and Pascoe, Geoff and Linegar, Chris and Newman, Paul",
@@ -775,22 +856,25 @@ Maddern et al., "{1 Year, 1000Km: The Oxford Robotcar Dataset}", IJRR, 2017.. [p
 
 <a name=data_mouse_fish></a>
 ### [Mouse Fish](https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/behaviorAnalysis/Lie-X/Lie-X.html)
-Xu et al., "Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, And Action Recognition On Lie Groups", IJCV, 2017.. [paper]().
+**Xu et al., "Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, And Action Recognition On Lie Groups", IJCV, 2017.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Liu et al., "Towards Natural And Accurate Future Motion Prediction Of Humans And Animals", CVPR, 2019. <a href="papers.md#Liu_2019_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#motion>Motion prediction<application></a></br>
-<em>Data type:</em> Depth, 3D pose</br>
-<em>Task:</em> Animals</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#motion>Motion prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Depth, 3D pose</li>
+<li><em><strong>Task:</strong></em> Animals</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Xu_2017_IJCV,
     author = "Xu, Chi and Govindarajan, Lakshmi Narasimhan and Zhang, Yu and Cheng, Li",
@@ -806,22 +890,25 @@ Xu et al., "Lie-X: Depth Image Based Articulated Object Pose Estimation, Trackin
 
 <a name=data_l-cas></a>
 ### [L-CAS](https://lcas.lincoln.ac.uk/wp/research/data-sets-software/l-cas-3d-point-cloud-people-dataset/)
-Yan et al., "Online Learning For Human Classification In 3D Lidar-Based Tracking", IROS, 2017.. [paper]().
+**Yan et al., "Online Learning For Human Classification In 3D Lidar-Based Tracking", IROS, 2017.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018. <a href="papers.md#Sun_2018_ICRA">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> LIDAR, 3D bounding box, attribute</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> LIDAR, 3D bounding box, attribute</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Yan_2017_IROS,
     author = "Yan, Zhi and Duckett, Tom and Bellotto, Nicola",
@@ -834,22 +921,25 @@ Yan et al., "Online Learning For Human Classification In 3D Lidar-Based Tracking
 
 <a name=data_epic-fail></a>
 ### [Epic-Fail](http://aliensunmin.github.io/project/video-Forecasting/)
-Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017.. [paper]().
+**Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017. <a href="papers.md#Zeng_2017_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, trajectory, temporal segment</br>
-<em>Task:</em> Risk assessment</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, trajectory, temporal segment</li>
+<li><em><strong>Task:</strong></em> Risk assessment</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Zeng_2017_CVPR,
     author = "Zeng, Kuo-Hao and Chou, Shih-Han and Chan, Fu-Hsiang and Carlos Niebles, Juan and Sun, Min",
@@ -862,22 +952,25 @@ Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Reg
 
 <a name=data_cityperson></a>
 ### [CityPersons](https://bitbucket.org/shanshanzhang/citypersons/src/default/)
-Zhang et al., "Citypersons: A Diverse Dataset For Pedestrian Detection", CVPR, 2017.. [paper]().
+**Zhang et al., "Citypersons: A Diverse Dataset For Pedestrian Detection", CVPR, 2017.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Bhattacharyya et al., "Long-Term On-Board Prediction Of People In Traffic Scenes Under Uncertainty", CVPR, 2018. <a href="papers.md#Bhattacharyya_2018_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> Stereo RGB, bounding box, semantic segment</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Stereo RGB, bounding box, semantic segment</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Shanshan_2017_CVPR,
     Author = "Zhang, Shanshan and Benenson, Rodrigo and Schiele, Bernt",
@@ -890,22 +983,25 @@ Zhang et al., "Citypersons: A Diverse Dataset For Pedestrian Detection", CVPR, 2
 
 <a name=data_bu_action></a>
 ### [BU Action (BUA)](http://cs-people.bu.edu/sbargal/BU-action/)
-Ma et al., "Do Less And Achieve More: Training Cnns For Action Recognition Utilizing Action Images From The Web", Pattern Recognition, 2017.. [paper]().
+**Ma et al., "Do Less And Achieve More: Training Cnns For Action Recognition Utilizing Action Images From The Web", Pattern Recognition, 2017.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Safaei et al., "Still Image Action Recognition By Predicting Spatial-Temporal Pixel Evolution", WACV, 2019. <a href="papers.md#Safaei_2019_WACV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB (image), activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB (image), activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Ma_2017_PR,
     author = "Ma, Shugao and Bargal, Sarah Adel and Zhang, Jianming and Sigal, Leonid and Sclaroff, Stan",
@@ -921,9 +1017,9 @@ Ma et al., "Do Less And Achieve More: Training Cnns For Action Recognition Utili
 # 2016
 <a name=data_sd></a>
 ### [Stanford Drone (SD)](http://cvgl.stanford.edu/projects/uav_data/)
-Robicquet et al., "Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes", ECCV, 2016.. [paper]().
+**Robicquet et al., "Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes", ECCV, 2016.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019. <a href="papers.md#Li_2019_CVPR">info</a></li>
 <li> Zhao et al., "Multi-Agent Tensor Fusion For Contextual Trajectory Prediction", CVPR, 2019. <a href="papers.md#Zhao_2019_CVPR">info</a></li>
@@ -935,14 +1031,17 @@ Robicquet et al., "Learning Social Etiquette: Human Trajectory Understanding In 
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, object class</br>
-<em>Task:</em> Surveillance</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, object class</li>
+<li><em><strong>Task:</strong></em> Surveillance</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Robicquet_2016_ECCV,
     author = "Robicquet, Alexandre and Sadeghian, Amir and Alahi, Alexandre and Savarese, Silvio",
@@ -955,9 +1054,9 @@ Robicquet et al., "Learning Social Etiquette: Human Trajectory Understanding In 
 
 <a name=data_cityscapes></a>
 ### [Cityscapes](https://www.cityscapes-dataset.com/)
-Cordts et al., "The Cityscapes Dataset For Semantic Urban Scene Understanding", CVPR, 2016.. [paper](https://closeaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf) [arxiv](Cordts et al., "The Cityscapes Dataset For Semantic Urban Scene Understanding", CVPR, 2016.).
+**Cordts et al., "The Cityscapes Dataset For Semantic Urban Scene Understanding", CVPR, 2016.** [**paper**](https://closeaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf) [**arxiv**](Cordts et al., "The Cityscapes Dataset For Semantic Urban Scene Understanding", CVPR, 2016.).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019. <a href="papers.md#Castrejon_2019_ICCV">info</a></li>
 <li> Xu et al., "Structure Preserving Video Prediction", CVPR, 2018. <a href="papers.md#Xu_2018_CVPR">info</a></li>
@@ -969,14 +1068,17 @@ Cordts et al., "The Cityscapes Dataset For Semantic Urban Scene Understanding", 
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a>,<a href=papers.md#other>Other prediction<application></a></br>
-<em>Data type:</em> Stereo RGB, bounding box, semantic segment, vehicle Sensors</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a>,<a href=papers.md#other>Other prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Stereo RGB, bounding box, semantic segment, vehicle Sensors</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Cordts_2016_CVPR,
     author = "Cordts, Marius and Omran, Mohamed and Ramos, Sebastian and Rehfeld, Timo and Enzweiler, Markus and Benenson, Rodrigo and Franke, Uwe and Roth, Stefan and Schiele, Bernt",
@@ -989,9 +1091,9 @@ Cordts et al., "The Cityscapes Dataset For Semantic Urban Scene Understanding", 
 
 <a name=data_bair_push></a>
 ### [BAIR Push](https://sites.google.com/site/brainrobotdata/home/push-dataset)
-Finn et al., "Unsupervised Learning For Physical Interaction Through Video Prediction", NeurIPS, 2016.. [paper](https://papers.nips.cc/paper/6161-unsupervised-learning-for-physical-interaction-through-video-prediction.pdf) [arxiv](Finn et al., "Unsupervised Learning For Physical Interaction Through Video Prediction", NeurIPS, 2016.).
+**Finn et al., "Unsupervised Learning For Physical Interaction Through Video Prediction", NeurIPS, 2016.** [**paper**](https://papers.nips.cc/paper/6161-unsupervised-learning-for-physical-interaction-through-video-prediction.pdf) [**arxiv**](Finn et al., "Unsupervised Learning For Physical Interaction Through Video Prediction", NeurIPS, 2016.).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019. <a href="papers.md#Castrejon_2019_ICCV">info</a></li>
 <li> Xu et al., "Video Prediction Via Selective Sampling", NeurIPS, 2018. <a href="papers.md#Xu_2018_NeurIPS">info</a></li>
@@ -999,14 +1101,17 @@ Finn et al., "Unsupervised Learning For Physical Interaction Through Video Predi
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> RGB</br>
-<em>Task:</em> Robot object manipulation</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Task:</strong></em> Robot object manipulation</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Finn_2016_NeurIPS,
     author = "Finn, Chelsea and Goodfellow, Ian and Levine, Sergey",
@@ -1019,23 +1124,26 @@ Finn et al., "Unsupervised Learning For Physical Interaction Through Video Predi
 
 <a name=data_dad></a>
 ### [Dashcam Accident Dataset (DAD)](https://aliensunmin.github.io/project/dashcam/)
-Chan et al., "Anticipating Accidents In Dashcam Videos", ACCV, 2017.. [paper]().
+**Chan et al., "Anticipating Accidents In Dashcam Videos", ACCV, 2017.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", The CVPR, 2018. <a href="papers.md#Suzuki_2018_CVPR">info</a></li>
 <li> Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017. <a href="papers.md#Zeng_2017_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, object class,  temporal segment</br>
-<em>Task:</em> Driving, accidents</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, object class,  temporal segment</li>
+<li><em><strong>Task:</strong></em> Driving, accidents</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Chan_2016_ACCV,
     author = "Chan, Fu-Hsiang and Chen, Yu-Ting and Xiang, Yu and Sun, Min",
@@ -1050,21 +1158,24 @@ Chan et al., "Anticipating Accidents In Dashcam Videos", ACCV, 2017.. [paper]().
 <a name=data_cmu_mocap></a>
 ### [CMU Mocap](http://mocap.cs.cmu.edu/)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Butepage et al., "Deep Representation Learning For Human Motion Prediction And Classification", CVPR, 2017. <a href="papers.md#Butepage_2017_CVPR">info</a></li>
 <li> Mao et al., "Learning Trajectory Dependencies For Human Motion Prediction", ICCV, 2019. <a href="papers.md#Mao_2019_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#motion>Motion prediction<application></a></br>
-<em>Data type:</em> 3D pose, activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#motion>Motion prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> 3D pose, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Misc{CMU_Mocap_2016,
     author = "CMU",
@@ -1077,22 +1188,25 @@ Chan et al., "Anticipating Accidents In Dashcam Videos", ACCV, 2017.. [paper]().
 
 <a name=data_youtube-8m></a>
 ### [Youtube-8M](https://research.google.com/youtube8m/)
-Abu-El-Haija et al., "Youtube-8M: A Large-Scale Video Classification Benchmark", arXiv:1609.08675, 2016.. [paper]() [arxiv](Abu-El-Haija et al., "Youtube-8M: A Large-Scale Video Classification Benchmark", arXiv:1609.08675, 2016.).
+**Abu-El-Haija et al., "Youtube-8M: A Large-Scale Video Classification Benchmark", arXiv:1609.08675, 2016.** [**paper**]() [**arxiv**](Abu-El-Haija et al., "Youtube-8M: A Large-Scale Video Classification Benchmark", arXiv:1609.08675, 2016.).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Reda et al., "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018. <a href="papers.md#Reda_2018_ECCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> RGB, activity label, temporal segment</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Abu_2016_arxiv,
     author = "Abu-El-Haija, Sami and Kothari, Nisarg and Lee, Joonseok and Natsev, Paul and Toderici, George and Varadarajan, Balakrishnan and Vijayanarasimhan, Sudheendra",
@@ -1105,22 +1219,25 @@ Abu-El-Haija et al., "Youtube-8M: A Large-Scale Video Classification Benchmark",
 
 <a name=data_vist></a>
 ### [Visual Storytelling (VIST)](http://visionandlanguage.net/VIST/)
-Huang et al., "Visual Storytelling", NAACL, 2016.. [paper]().
+**Huang et al., "Visual Storytelling", NAACL, 2016.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017. <a href="papers.md#Zeng_2017_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#other>Other prediction<application></a></br>
-<em>Data type:</em> RGB, test</br>
-<em>Task:</em> Visual story</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, test</li>
+<li><em><strong>Task:</strong></em> Visual story</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Huang_2016_NAACL,
     author = "Huang, Ting-Hao K. and Ferraro, Francis and Mostafazadeh, Nasrin and Misra, Ishan and Devlin, Jacob and Agrawal, Aishwarya and Girshick, Ross and He, Xiaodong and Kohli, Pushmeet and Batra, Dhruv and others",
@@ -1133,22 +1250,25 @@ Huang et al., "Visual Storytelling", NAACL, 2016.. [paper]().
 
 <a name=data_tv_series></a>
 ### [TV Series](https://github.com/zhenyangli/online_action)
-De et al., "Online Action Detection", ECCV, 2016.. [paper]().
+**De et al., "Online Action Detection", ECCV, 2016.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Gao et al., "Red: Reinforced Encoder-Decoder Networks For Action Anticipation", BMVC, 2017. <a href="papers.md#Gao_2017_BMVC">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, activity label, temporal segment</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{De_2016_ECCV,
     author = "De Geest, Roeland and Gavves, Efstratios and Ghodrati, Amir and Li, Zhenyang and Snoek, Cees and Tuytelaars, Tinne",
@@ -1161,22 +1281,25 @@ De et al., "Online Action Detection", ECCV, 2016.. [paper]().
 
 <a name=data_oad></a>
 ### [Online Action Detection (OAD)](http://www.icst.pku.edu.cn/struct/Projects/OAD.html)
-Li et al., "Online Human Action Detection Using Joint Classification-Regression Recurrent Neural Networks", ECCV, 2016.. [paper]().
+**Li et al., "Online Human Action Detection Using Joint Classification-Regression Recurrent Neural Networks", ECCV, 2016.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Liu et al., "Ssnet: Scale Selection Network For Online 3D Action Prediction", CVPR, 2018. <a href="papers.md#Liu_2018_CVPR_ssnet">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGBD, 3D pose, activity label, temporal segment</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Li_2016_ECCV,
     author = "Li, Yanghao and Lan, Cuiling and Xing, Junliang and Zeng, Wenjun and Yuan, Chunfeng and Liu, Jiaying",
@@ -1189,22 +1312,25 @@ Li et al., "Online Human Action Detection Using Joint Classification-Regression 
 
 <a name=data_oa></a>
 ### [Ongoing Activity (OA)](http://www.mpii.de/ongoing-activity)
-Li et al., "Recognition Of Ongoing Complex Activities By Sequence Prediction Over A Hierarchical Label Space", WACV, 2016.. [paper]().
+**Li et al., "Recognition Of Ongoing Complex Activities By Sequence Prediction Over A Hierarchical Label Space", WACV, 2016.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Li et al., "Recognition Of Ongoing Complex Activities By Sequence Prediction Over A Hierarchical Label Space", WACV, 2016. <a href="papers.md#Li_2016_WACV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, activity label</br>
-<em>Task:</em> Actvity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, activity label</li>
+<li><em><strong>Task:</strong></em> Actvity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Li_2016_WACV,
     author = "Li, W. and Fritz, M.",
@@ -1217,22 +1343,25 @@ Li et al., "Recognition Of Ongoing Complex Activities By Sequence Prediction Ove
 
 <a name=data_ntu_rgb-d></a>
 ### [NTU RGB-D](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp)
-Shahroudy et al., "Ntu Rgb+D: A Large Scale Dataset For 3D Human Activity Analysis", CVPR, 2016.. [paper]().
+**Shahroudy et al., "Ntu Rgb+D: A Large Scale Dataset For 3D Human Activity Analysis", CVPR, 2016.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Wang et al., "Progressive Teacher-Student Learning For Early Action Prediction", CVPR, 2019. <a href="papers.md#Wang_2019_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGBD, IR, 3D pose, activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, IR, 3D pose, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Shahroudy_2016_CVPR,
     author = "Shahroudy, Amir and Liu, Jun and Ng, Tian-Tsong and Wang, Gang",
@@ -1245,22 +1374,25 @@ Shahroudy et al., "Ntu Rgb+D: A Large Scale Dataset For 3D Human Activity Analys
 
 <a name=data_mu></a>
 ### [Miss Universe (MU)](http://staff.itee.uq.edu.au/lovell/MissUniverse/)
-Carvajal et al., "Towards Miss Universe Automatic Prediction: The Evening Gown Competition", ICPR, 2016.. [paper]().
+**Carvajal et al., "Towards Miss Universe Automatic Prediction: The Evening Gown Competition", ICPR, 2016.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Carvajal et al., "Towards Miss Universe Automatic Prediction: The Evening Gown Competition", ICPR, 2016. <a href="papers.md#Carvajal_2016_ICPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#other>Other prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, Scores</br>
-<em>Task:</em> Miss universe</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, Scores</li>
+<li><em><strong>Task:</strong></em> Miss universe</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Carvajal_2016_ICPR,
     author = "Carvajal, J. and Wiliem, A. and Sanderson, C. and Lovell, B.",
@@ -1273,22 +1405,25 @@ Carvajal et al., "Towards Miss Universe Automatic Prediction: The Evening Gown C
 
 <a name=data_bouncing_ball></a>
 ### [Bouncing Ball (BB)](https://github.com/mbchang/dynamics)
-Chang et al., "A Compositional Object-Based Approach To Learning Physical Dynamics", arXiv:1612.00341, 2016.. [paper](https://openreview.net/pdf?id=Bkab5dqxe) [arxiv](Chang et al., "A Compositional Object-Based Approach To Learning Physical Dynamics", arXiv:1612.00341, 2016.).
+**Chang et al., "A Compositional Object-Based Approach To Learning Physical Dynamics", arXiv:1612.00341, 2016.** [**paper**](https://openreview.net/pdf?id=Bkab5dqxe) [**arxiv**](Chang et al., "A Compositional Object-Based Approach To Learning Physical Dynamics", arXiv:1612.00341, 2016.).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018. <a href="papers.md#Hsieh_2018_NeurIPS">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> RGB</br>
-<em>Task:</em> simulation</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Task:</strong></em> simulation</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Chang_2016_arxiv,
     author = "Chang, Michael B and Ullman, Tomer and Torralba, Antonio and Tenenbaum, Joshua B",
@@ -1302,9 +1437,9 @@ Chang et al., "A Compositional Object-Based Approach To Learning Physical Dynami
 # 2015
 <a name=data_mmnist></a>
 ### [Moving MNIST (MMNIST)](http://www.cs.toronto.edu/~nitish/unsupervised_video/)
-Srivastava et al., "Unsupervised Learning Of Video Representations Using Lstms", ICML, 2015.. [paper](http://proceedings.mlr.press/v37/srivastava15.pdf) [arxiv](Srivastava et al., "Unsupervised Learning Of Video Representations Using Lstms", ICML, 2015.).
+**Srivastava et al., "Unsupervised Learning Of Video Representations Using Lstms", ICML, 2015.** [**paper**](http://proceedings.mlr.press/v37/srivastava15.pdf) [**arxiv**](Srivastava et al., "Unsupervised Learning Of Video Representations Using Lstms", ICML, 2015.).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019. <a href="papers.md#Castrejon_2019_ICCV">info</a></li>
 <li> Lee et al., "Mutual Suppression Network For Video Prediction Using Disentangled Features", BMVC, 2019. <a href="papers.md#Lee_2019_BMVC">info</a></li>
@@ -1318,14 +1453,17 @@ Srivastava et al., "Unsupervised Learning Of Video Representations Using Lstms",
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> Grayscale</br>
-<em>Task:</em> Digits</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Grayscale</li>
+<li><em><strong>Task:</strong></em> Digits</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Srivastava_2015_ICML,
     author = "Srivastava, Nitish and Mansimov, Elman and Salakhudinov, Ruslan",
@@ -1339,7 +1477,7 @@ Srivastava et al., "Unsupervised Learning Of Video Representations Using Lstms",
 <a name=data_thumos></a>
 ### [THUMOS](http://www.thumos.info/home.html)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017. <a href="papers.md#Liang_2017_ICCV">info</a></li>
 <li> Zhong et al., "Unsupervised Learning For Forecasting Action Representations", ICIP, 2018. <a href="papers.md#Zhong_2018_ICIP">info</a></li>
@@ -1348,14 +1486,17 @@ Srivastava et al., "Unsupervised Learning Of Video Representations Using Lstms",
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, activity label, temporal segment</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Misc{Gorban_2015,
     author = "Gorban, A. and Idrees, H. and Jiang, Y.-G. and Roshan Zamir, A. and Laptev, I. and Shah, M. and Sukthankar, R.",
@@ -1368,9 +1509,9 @@ Srivastava et al., "Unsupervised Learning Of Video Representations Using Lstms",
 
 <a name=data_brain4cars></a>
 ### [Brain4Cars](https://github.com/asheshjain399/ICCV2015_Brain4Cars)
-Jain et al., "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models", ICCV, 2015.. [paper]().
+**Jain et al., "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models", ICCV, 2015.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Jain et al., "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016. <a href="papers.md#Jain_2016_CVPR">info</a></li>
 <li> Jain et al., "Recurrent Neural Networks For Driver Activity Anticipation Via Sensory-Fusion Architecture", ICRA, 2016. <a href="papers.md#Jain_2016_ICRA">info</a></li>
@@ -1378,14 +1519,17 @@ Jain et al., "Car That Knows Before You Do: Anticipating Maneuvers Via Learning 
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, attribute, temporal segment, vehicle sensors</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, attribute, temporal segment, vehicle sensors</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Jain_2015_ICCV,
     author = "Jain, Ashesh and Koppula, Hema S. and Raghavan, Bharad and Soh, Shane and Saxena, Ashutosh",
@@ -1398,23 +1542,26 @@ Jain et al., "Car That Knows Before You Do: Anticipating Maneuvers Via Learning 
 
 <a name=data_sysu_3dhoi></a>
 ### [SYSU 3DHOI](http://www.isee-ai.cn/~hujianfang/ProjectJOULE.html)
-Hu et al., "Jointly Learning Heterogeneous Features For Rgb-D Activity Recognition", CVPR, 2015.. [paper]().
+**Hu et al., "Jointly Learning Heterogeneous Features For Rgb-D Activity Recognition", CVPR, 2015.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Wang et al., "Progressive Teacher-Student Learning For Early Action Prediction", CVPR, 2019. <a href="papers.md#Wang_2019_CVPR">info</a></li>
 <li> Hu et al., "Real-Time Rgb-D Activity Prediction By Soft Regression", ECCV, 2016. <a href="papers.md#Hu_2016_ECCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGBD, 3D pose, activity label</br>
-<em>Task:</em> Object interaction</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label</li>
+<li><em><strong>Task:</strong></em> Object interaction</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Hu_2015_CVPR,
     author = "Hu, Jian-Fang and Zheng, Wei-Shi and Lai, Jianhuang and Zhang, Jianguo",
@@ -1427,22 +1574,25 @@ Hu et al., "Jointly Learning Heterogeneous Features For Rgb-D Activity Recogniti
 
 <a name=data_wider></a>
 ### [WIDER](http://yjxiong.me/event_recog/WIDER/)
-Xiong et al., "Recognize Complex Events From Static Images By Fusing Deep Channels", CVPR, 2015.. [paper]().
+**Xiong et al., "Recognize Complex Events From Static Images By Fusing Deep Channels", CVPR, 2015.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Safaei et al., "Still Image Action Recognition By Predicting Spatial-Temporal Pixel Evolution", WACV, 2019. <a href="papers.md#Safaei_2019_WACV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB (image), activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB (image), activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Xiong_2015_CVPR,
     author = "Xiong, Yuanjun and Zhu, Kai and Lin, Dahua and Tang, Xiaoou",
@@ -1455,22 +1605,25 @@ Xiong et al., "Recognize Complex Events From Static Images By Fusing Deep Channe
 
 <a name=data_wnp></a>
 ### [Watch-n-Push (WnP)](http://watchnpatch.cs.cornell.edu/)
-Wu et al., "Watch-N-Patch: Unsupervised Understanding Of Actions And Relations", CVPR, 2015.. [paper]().
+**Wu et al., "Watch-N-Patch: Unsupervised Understanding Of Actions And Relations", CVPR, 2015.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Kataoka et al., "Recognition Of Transitional Action For Short-Term Action Prediction Using Discriminative Temporal Cnn Feature", BMVC, 2016. <a href="papers.md#Kataoka_2016_BMVC">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGBD, 3D pose, activity label, temporal segment</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Wu_2015_CVPR,
     author = "Wu, Chenxia and Zhang, Jiemi and Savarese, Silvio and Saxena, Ashutosh",
@@ -1483,22 +1636,25 @@ Wu et al., "Watch-N-Patch: Unsupervised Understanding Of Actions And Relations",
 
 <a name=data_sun_rgb-d></a>
 ### [SUN RGB-D](http://rgbd.cs.princeton.edu/)
-Song et al., "Tvsum: Summarizing Web Videos Using Titles", CVPR, 2015.. [paper]().
+**Song et al., "Tvsum: Summarizing Web Videos Using Titles", CVPR, 2015.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Mottaghi et al., "What Happens If... Learning To Predict The Effect Of Forces In Images", ECCV, 2016. <a href="papers.md#Mottaghi_2016_ECCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#other>Other prediction<application></a></br>
-<em>Data type:</em> RGBD, 3D bounding box , object class</br>
-<em>Task:</em> Places</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, 3D bounding box , object class</li>
+<li><em><strong>Task:</strong></em> Places</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Song_2015_CVPR_2,
     author = "Song, Yale and Vallmitjana, J. and Stent, A. and Jaimes, A.",
@@ -1511,22 +1667,25 @@ Song et al., "Tvsum: Summarizing Web Videos Using Titles", CVPR, 2015.. [paper](
 
 <a name=data_mot></a>
 ### [MOT](https://motchallenge.net/)
-Leal-Taix\'e et al., "Motchallenge 2015: Towards A Benchmark For Multi-Target Tracking", arXiv:1504.01942, 2015.. [paper]().
+**Leal-Taix\'e et al., "Motchallenge 2015: Towards A Benchmark For Multi-Target Tracking", arXiv:1504.01942, 2015.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Sanchez-Matilla et al., "A Predictor Of Moving Objects For First-Person Vision", ICIP, 2019. <a href="papers.md#Sanchez_2019_ICIP">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box</br>
-<em>Task:</em> Surveillance</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Task:</strong></em> Surveillance</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Leal_2015_arxiv,
     author = "Leal-Taix\'e, Laura and Milan, Anton and Reid, Ian and Roth, Stefan and Schindler, Konrad",
@@ -1539,22 +1698,25 @@ Leal-Taix\'e et al., "Motchallenge 2015: Towards A Benchmark For Multi-Target Tr
 
 <a name=data_mbi-1m></a>
 ### [MicroBlog-Images (MBI-1M)](http://academic.mywebsiteontheinternet.com/data/)
-Cappallo et al., "Latent Factors Of Visual Popularity Prediction", ICMR, 2015.. [paper]().
+**Cappallo et al., "Latent Factors Of Visual Popularity Prediction", ICMR, 2015.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Wang et al., "Retweet Wars: Tweet Popularity Prediction Via Dynamic Multimodal Regression", WACV, 2018. <a href="papers.md#Wang_2018_WACV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#other>Other prediction<application></a></br>
-<em>Data type:</em> RGB (image), attribute, test</br>
-<em>Task:</em> Tweets</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB (image), attribute, test</li>
+<li><em><strong>Task:</strong></em> Tweets</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Cappallo_2015_ICMR,
     author = "Cappallo, Spencer and Mensink, Thomas and Snoek, Cees GM",
@@ -1567,22 +1729,25 @@ Cappallo et al., "Latent Factors Of Visual Popularity Prediction", ICMR, 2015.. 
 
 <a name=data_gtea_gaze+></a>
 ### [Georgia Tech Egocentric Activity Gaze+ (GTEA Gaze+)](http://www.cbi.gatech.edu/fpv/)
-Li et al., "Delving Into Egocentric Actions", CVPR, 2015.. [paper]().
+**Li et al., "Delving Into Egocentric Actions", CVPR, 2015.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Shen et al., "Egocentric Activity Prediction Via Event Modulated Attention", ECCV, 2018. <a href="papers.md#Shen_2018_ECCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, gaze, mask, activity label, temporal segment</br>
-<em>Task:</em> Cooking (egocentric)</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, gaze, mask, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Li_2015_CVPR,
     author = "Li, Yin and Ye, Zhefan and Rehg, James M",
@@ -1595,22 +1760,25 @@ Li et al., "Delving Into Egocentric Actions", CVPR, 2015.. [paper]().
 
 <a name=data_fppa></a>
 ### [First Person Personalized Activities (FPPA)](http://bvision11.cs.unc.edu/bigpen/yipin/ICCV2015/prediction_webpage/Prediction.html)
-Zhou et al., "Temporal Perception And Prediction In Ego-Centric Video", ICCV, 2015.. [paper]().
+**Zhou et al., "Temporal Perception And Prediction In Ego-Centric Video", ICCV, 2015.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Zhou et al., "Temporal Perception And Prediction In Ego-Centric Video", ICCV, 2015. <a href="papers.md#Zhou_2015_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, activity label, temporal segment</br>
-<em>Task:</em> Activity (egocentric)</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Activity (egocentric)</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Zhou_2015_ICCV,
     author = "Zhou, Yipin and Berg, Tamara L.",
@@ -1623,22 +1791,25 @@ Zhou et al., "Temporal Perception And Prediction In Ego-Centric Video", ICCV, 20
 
 <a name=data_cmu_panoptic></a>
 ### [CMU Panoptic](http://domedb.perception.cs.cmu.edu/dataset.html)
-Joo et al., "Panoptic Studio: A Massively Multiview System For Social Motion Capture", ICCV, 2015.. [paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf) [arxiv](Joo et al., "Panoptic Studio: A Massively Multiview System For Social Motion Capture", ICCV, 2015.).
+**Joo et al., "Panoptic Studio: A Massively Multiview System For Social Motion Capture", ICCV, 2015.** [**paper**](https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf) [**arxiv**](Joo et al., "Panoptic Studio: A Massively Multiview System For Social Motion Capture", ICCV, 2015.).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019. <a href="papers.md#Joo_2019_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#motion>Motion prediction<application></a></br>
-<em>Data type:</em> RGBD, multiview, 3D pose, 3D facial landmark</br>
-<em>Task:</em> Interaction</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#motion>Motion prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, multiview, 3D pose, 3D facial landmark</li>
+<li><em><strong>Task:</strong></em> Interaction</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Joo_2015_ICCV_2,
     author = "Joo, Hanbyul and Liu, Hao and Tan, Lei and Gui, Lin and Nabbe, Bart and Matthews, Iain and Kanade, Takeo and Nobuhara, Shohei and Sheikh, Yaser",
@@ -1651,22 +1822,25 @@ Joo et al., "Panoptic Studio: A Massively Multiview System For Social Motion Cap
 
 <a name=data_atari></a>
 ### [Atari](https://github.com/junhyukoh/nips2015-action-conditional-video-prediction)
-Oh et al., "Action-Conditional Video Prediction Using Deep Networks In Atari Games", NeurIPS, 2015.. [paper](https://papers.nips.cc/paper/5859-action-conditional-video-prediction-using-deep-networks-in-atari-games.pdf) [arxiv](Oh et al., "Action-Conditional Video Prediction Using Deep Networks In Atari Games", NeurIPS, 2015.).
+**Oh et al., "Action-Conditional Video Prediction Using Deep Networks In Atari Games", NeurIPS, 2015.** [**paper**](https://papers.nips.cc/paper/5859-action-conditional-video-prediction-using-deep-networks-in-atari-games.pdf) [**arxiv**](Oh et al., "Action-Conditional Video Prediction Using Deep Networks In Atari Games", NeurIPS, 2015.).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Oh et al., "Action-Conditional Video Prediction Using Deep Networks In Atari Games", NeurIPS, 2015. <a href="papers.md#Oh_2015_NeurIPS">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> RGB</br>
-<em>Task:</em> Games</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Task:</strong></em> Games</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Oh_2015_NeurIPS,
     author = "Oh, Junhyuk and Guo, Xiaoxiao and Lee, Honglak and Lewis, Richard L and Singh, Satinder",
@@ -1679,22 +1853,25 @@ Oh et al., "Action-Conditional Video Prediction Using Deep Networks In Atari Gam
 
 <a name=data_amazon></a>
 ### [Amazon](http://jmcauley.ucsd.edu/data/amazon/index_2014.html)
-McAuley et al., "Image-Based Recommendations On Styles And Substitutes", SIGIR, 2015.. [paper]().
+**McAuley et al., "Image-Based Recommendations On Styles And Substitutes", SIGIR, 2015.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Al-Halah et al., "Fashion Forward: Forecasting Visual Style In Fashion", ICCV, 2017. <a href="papers.md#Al-Halah_2017_ICCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#other>Other prediction<application></a></br>
-<em>Data type:</em> Features, attribute, test</br>
-<em>Task:</em> Fashion</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Features, attribute, test</li>
+<li><em><strong>Task:</strong></em> Fashion</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Mcauley_2015_CRDIR,
     author = "McAuley, Julian and Targett, Christopher and Shi, Qinfeng and Van Den Hengel, Anton",
@@ -1708,9 +1885,9 @@ McAuley et al., "Image-Based Recommendations On Styles And Substitutes", SIGIR, 
 # 2014
 <a name=data_human3.6m></a>
 ### [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
-Ionescu et al., "Human3.6M: Large Scale Datasets And Predictive Methods For 3D Human Sensing In Natural Environments", PAMI, 2014.. [paper](https://ieeexplore.ieee.org/document/6682899).
+**Ionescu et al., "Human3.6M: Large Scale Datasets And Predictive Methods For 3D Human Sensing In Natural Environments", PAMI, 2014.** [**paper**](https://ieeexplore.ieee.org/document/6682899).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Xu et al., "Structure Preserving Video Prediction", CVPR, 2018. <a href="papers.md#Xu_2018_CVPR">info</a></li>
 <li> Byeon et al., "Contextvp: Fully Context-Aware Video Prediction", ECCV, 2018. <a href="papers.md#Byeon_2018_ECCV">info</a></li>
@@ -1739,14 +1916,17 @@ Ionescu et al., "Human3.6M: Large Scale Datasets And Predictive Methods For 3D H
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#motion>Motion prediction<application></a></br>
-<em>Data type:</em> RGB, 3Dpose, activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#motion>Motion prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, 3Dpose, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Ionescu_2014_PAMI,
     author = "Ionescu, Catalin and Papava, Dragos and Olaru, Vlad and Sminchisescu, Cristian",
@@ -1762,9 +1942,9 @@ Ionescu et al., "Human3.6M: Large Scale Datasets And Predictive Methods For 3D H
 
 <a name=data_sports-1m></a>
 ### [Sports-1M](https://cs.stanford.edu/people/karpathy/deepvideo/)
-Karpathy et al., "Large-Scale Video Classification With Convolutional Neural Networks", CVPR, 2014.. [paper](https://www.cv-foundation.org/closeaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf).
+**Karpathy et al., "Large-Scale Video Classification With Convolutional Neural Networks", CVPR, 2014.** [**paper**](https://www.cv-foundation.org/closeaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Lu et al., "Flexible Spatio-Temporal Networks For Video Prediction", CVPR, 2017. <a href="papers.md#Lu_2017_CVPR">info</a></li>
 <li> Bhattacharjee et al., "Temporal Coherency Based Criteria For Predicting Video Frames Using Deep Multi-Stage Generative Adversarial Networks", NeurIPS, 2017. <a href="papers.md#Bhattacharjee_2017_NeurIPS">info</a></li>
@@ -1772,14 +1952,17 @@ Karpathy et al., "Large-Scale Video Classification With Convolutional Neural Net
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, activity label</br>
-<em>Task:</em> Sports</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, activity label</li>
+<li><em><strong>Task:</strong></em> Sports</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Karpathy_2014_CVPR,
     author = "Karpathy, Andrej and Toderici, George and Shetty, Sanketh and Leung, Thomas and Sukthankar, Rahul and Fei-Fei, Li",
@@ -1792,9 +1975,9 @@ Karpathy et al., "Large-Scale Video Classification With Convolutional Neural Net
 
 <a name=data_breakfast></a>
 ### [Breakfast](http://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)
-Kuehne et al., "The Language Of Actions: Recovering The Syntax And Semantics Of Goal-Directed Human Activities", CVPR, 2014.. [paper]().
+**Kuehne et al., "The Language Of Actions: Recovering The Syntax And Semantics Of Goal-Directed Human Activities", CVPR, 2014.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Gammulle et al., "Forecasting Future Action Sequences With Neural Memory Networks", BMVC, 2019. <a href="papers.md#Gammulle_2019_BMVC">info</a></li>
 <li> Alati et al., "Help By Predicting What To Do", ICIP, 2019. <a href="papers.md#Alati_2019_ICIP">info</a></li>
@@ -1802,14 +1985,17 @@ Kuehne et al., "The Language Of Actions: Recovering The Syntax And Semantics Of 
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, activity label, temporal segment</br>
-<em>Task:</em> Cooking</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Cooking</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Kuehne_2014_CVPR,
     author = "Kuehne, H. and Arslan, A. B. and Serre, T.",
@@ -1822,22 +2008,25 @@ Kuehne et al., "The Language Of Actions: Recovering The Syntax And Semantics Of 
 
 <a name=data_orgbd></a>
 ### [Online RGBD Action Dataset (ORGBD)](https://sites.google.com/site/skicyyu/orgbd)
-Yu et al., "Discriminative Orderlet Mining For Real-Time Recognition Of Human-Object Interaction", ACCV, 2015.. [paper]().
+**Yu et al., "Discriminative Orderlet Mining For Real-Time Recognition Of Human-Object Interaction", ACCV, 2015.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Hu et al., "Real-Time Rgb-D Activity Prediction By Soft Regression", ECCV, 2016. <a href="papers.md#Hu_2016_ECCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGBD, bounding box, 3D pose, activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, bounding box, 3D pose, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Yu_2014_ACCV,
     author = "Yu, Gang and Liu, Zicheng and Yuan, Junsong",
@@ -1851,22 +2040,25 @@ Yu et al., "Discriminative Orderlet Mining For Real-Time Recognition Of Human-Ob
 
 <a name=data_mpii_human_pose></a>
 ### [MPII Human Pose](http://human-pose.mpi-inf.mpg.de/)
-Andriluka et al., "2D Human Pose Estimation: New Benchmark And State Of The Art Analysis", CVPR, 2014.. [paper]().
+**Andriluka et al., "2D Human Pose Estimation: New Benchmark And State Of The Art Analysis", CVPR, 2014.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Chao et al., "Forecasting Human Dynamics From Static Images", CVPR, 2017. <a href="papers.md#Chao_2017_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#motion>Motion prediction<application></a></br>
-<em>Data type:</em> RGB, pose, activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#motion>Motion prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, pose, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Andriluka_2014_CVPR,
     author = "Andriluka, Mykhaylo and Pishchulin, Leonid and Gehler, Peter and Schiele, Bernt",
@@ -1880,9 +2072,9 @@ Andriluka et al., "2D Human Pose Estimation: New Benchmark And State Of The Art 
 # 2013
 <a name=data_penn_action></a>
 ### [Penn Action](http://dreamdragon.github.io/PennAction/)
-Zhang et al., "From Actemes To Action: A Strongly-Supervised Representation For Detailed Action Understanding", ICCV, 2013.. [paper](https://www.cv-foundation.org/closeaccess/content_iccv_2013/papers/Zhang_From_Actemes_to_2013_ICCV_paper.pdf).
+**Zhang et al., "From Actemes To Action: A Strongly-Supervised Representation For Detailed Action Understanding", ICCV, 2013.** [**paper**](https://www.cv-foundation.org/closeaccess/content_iccv_2013/papers/Zhang_From_Actemes_to_2013_ICCV_paper.pdf).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Ye et al., "Compositional Video Prediction", ICCV, 2019. <a href="papers.md#Ye_2019_ICCV">info</a></li>
 <li> Kim et al., "Unsupervised Keypoint Learning For Guiding Class-Conditional Video Prediction", NeurIPS, 2019. <a href="papers.md#Kim_2019_NeurIPS">info</a></li>
@@ -1896,14 +2088,17 @@ Zhang et al., "From Actemes To Action: A Strongly-Supervised Representation For 
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#motion>Motion prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, pose, activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#motion>Motion prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, pose, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Zhang_2013_ICCV,
     author = "Zhang, Weiyu and Zhu, Menglong and Derpanis, Konstantinos G",
@@ -1916,9 +2111,9 @@ Zhang et al., "From Actemes To Action: A Strongly-Supervised Representation For 
 
 <a name=data_jhmdb></a>
 ### [Joint-Annotated Human Motion Data Base (JHMDB)](http://jhmdb.is.tue.mpg.de/)
-Jhuang et al., "Towards Understanding Action Recognition", ICCV, 2013.. [paper](https://closeaccess.thecvf.com/content_iccv_2013/papers/Jhuang_Towards_Understanding_Action_2013_ICCV_paper.pdf).
+**Jhuang et al., "Towards Understanding Action Recognition", ICCV, 2013.** [**paper**](https://closeaccess.thecvf.com/content_iccv_2013/papers/Jhuang_Towards_Understanding_Action_2013_ICCV_paper.pdf).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Tang et al., "Pose Guided Global And Local Gan For Appearance Preserving Human Video Prediction", ICIP, 2019. <a href="papers.md#Tang_2019_ICIP">info</a></li>
 <li> Sun et al., "Relational Action Forecasting", CVPR, 2019. <a href="papers.md#Sun_2019_CVPR">info</a></li>
@@ -1929,14 +2124,17 @@ Jhuang et al., "Towards Understanding Action Recognition", ICCV, 2013.. [paper](
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, mask, activity label, pose, optical flow</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, mask, activity label, pose, optical flow</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Jhuang_2013_ICCV,
     author = "Jhuang, H. and Gall, J. and Zuffi, S. and Schmid, C. and Black, M. J.",
@@ -1949,9 +2147,9 @@ Jhuang et al., "Towards Understanding Action Recognition", ICCV, 2013.. [paper](
 
 <a name=data_cad-120></a>
 ### [CAD-120](http://pr.cs.cornell.edu/humanactivities/data.php)
-Koppula et al., "Learning Human Activities And Object Affordances From Rgb-D Videos", IJRR, 2013.. [paper]().
+**Koppula et al., "Learning Human Activities And Object Affordances From Rgb-D Videos", IJRR, 2013.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Alati et al., "Help By Predicting What To Do", ICIP, 2019. <a href="papers.md#Alati_2019_ICIP">info</a></li>
 <li> Schydlo et al., "Anticipation In Human-Robot Cooperation: A Recurrent Neural Network Approach For Multiple Action Sequences Prediction", ICRA, 2018. <a href="papers.md#Schydlo_2018_ICRA_2">info</a></li>
@@ -1961,14 +2159,17 @@ Koppula et al., "Learning Human Activities And Object Affordances From Rgb-D Vid
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGBD, 3D pose, activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Koppula_2013_IJRR,
     author = "Koppula, Hema Swetha and Gupta, Rudhir and Saxena, Ashutosh",
@@ -1984,9 +2185,9 @@ Koppula et al., "Learning Human Activities And Object Affordances From Rgb-D Vid
 
 <a name=data_50salad></a>
 ### [50Salads](https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/)
-Stein et al., "Combining Embedded Accelerometers With Computer Vision For Recognizing Food Preparation Activities", UbiComp, 2013.. [paper](https://dl.acm.org/doi/abs/10.1145/2493432.2493482).
+**Stein et al., "Combining Embedded Accelerometers With Computer Vision For Recognizing Food Preparation Activities", UbiComp, 2013.** [**paper**](https://dl.acm.org/doi/abs/10.1145/2493432.2493482).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Ke et al., "Time-Conditioned Action Anticipation In One Shot", CVPR, 2019. <a href="papers.md#Ke_2019_CVPR">info</a></li>
 <li> Gammulle et al., "Forecasting Future Action Sequences With Neural Memory Networks", BMVC, 2019. <a href="papers.md#Gammulle_2019_BMVC">info</a></li>
@@ -1994,14 +2195,17 @@ Stein et al., "Combining Embedded Accelerometers With Computer Vision For Recogn
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGBD, activity label, temporal segment</br>
-<em>Task:</em> Cooking (egocentric)</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Stein_2013_IJCPUC,
     author = "Stein, Sebastian and McKenna, Stephen J",
@@ -2014,23 +2218,26 @@ Stein et al., "Combining Embedded Accelerometers With Computer Vision For Recogn
 
 <a name=data_daimler_path></a>
 ### [Daimler Path](http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/Pedestrian_Path_Predict_GCPR_1/pedestrian_path_predict_gcpr_1.html)
-Schneider et al., "Pedestrian Path Prediction With Recursive Bayesian Filters: A Comparative Study", GCPR, 2013.. [paper]().
+**Schneider et al., "Pedestrian Path Prediction With Recursive Bayesian Filters: A Comparative Study", GCPR, 2013.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Schulz et al., "Pedestrian Intention Recognition Using Latent-Dynamic Conditional Random Fields", IV, 2015. <a href="papers.md#Schulz_2015_IV">info</a></li>
 <li> Schulz et al., "A Controlled Interactive Multiple Model Filter For Combined Pedestrian Intention Recognition And Path Prediction", ITSC, 2015. <a href="papers.md#Schulz_2015_ITSC">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> Stereo grayscale, bounding box, temporal segment , vehicle sensors</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Stereo grayscale, bounding box, temporal segment , vehicle sensors</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Schneider_2013_GCPR,
     author = "Schneider, Nicolas and Gavrila, Dariu M",
@@ -2043,23 +2250,26 @@ Schneider et al., "Pedestrian Path Prediction With Recursive Bayesian Filters: A
 
 <a name=data_chuk_avenue></a>
 ### [CHUK Avenue](http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html)
-Lu et al., "Abnormal Event Detection At 150 Fps In Matlab", ICCV, 2013.. [paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Lu_Abnormal_Event_Detection_2013_ICCV_paper.pdf).
+**Lu et al., "Abnormal Event Detection At 150 Fps In Matlab", ICCV, 2013.** [**paper**](https://openaccess.thecvf.com/content_iccv_2013/papers/Lu_Abnormal_Event_Detection_2013_ICCV_paper.pdf).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019. <a href="papers.md#Kwon_2019_CVPR">info</a></li>
 <li> Xu et al., "Encoding Crowd Interaction With Deep Neural Network For Pedestrian Trajectory Prediction", CVPR, 2018. <a href="papers.md#Xu_2018_CVPR_encoding">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, anomaly, temporal segment</br>
-<em>Task:</em> Surveillance, anomaly</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, anomaly, temporal segment</li>
+<li><em><strong>Task:</strong></em> Surveillance, anomaly</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Lu_2013_ICCV,
     author = "Lu, Cewu and Shi, Jianping and Jia, Jiaya",
@@ -2072,22 +2282,25 @@ Lu et al., "Abnormal Event Detection At 150 Fps In Matlab", ICCV, 2013.. [paper]
 
 <a name=data_atc></a>
 ### [ATC](https://irc.atr.jp/crest2010_HRI/ATC_dataset/)
-Br\vs\vci\'c et al., "Person Tracking In Large Public Spaces Using 3-D Range Sensors", Transactions on Human-Machine Systems, 2013.. [paper]().
+**Br\vs\vci\'c et al., "Person Tracking In Large Public Spaces Using 3-D Range Sensors", Transactions on Human-Machine Systems, 2013.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018. <a href="papers.md#Rudenko_2018_ICRA">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, trajectory, attribute</br>
-<em>Task:</em> Surveillance</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, trajectory, attribute</li>
+<li><em><strong>Task:</strong></em> Surveillance</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Brvsvcic_2013_HMS,
     author = "Br\vs\vci\'c, Dra{\v{z}}en and Kanda, Takayuki and Ikeda, Tetsushi and Miyashita, Takahiro",
@@ -2104,9 +2317,9 @@ Br\vs\vci\'c et al., "Person Tracking In Large Public Spaces Using 3-D Range Sen
 # 2012
 <a name=data_ucf-101></a>
 ### [UCF-101](https://www.crcv.ucf.edu/data/UCF101.php)
-Soomro et al., "Ucf101: A Dataset Of 101 Human Actions Classes From Videos In The Wild", arXiv:1212.0402, 2012.. [paper]() [arxiv](Soomro et al., "Ucf101: A Dataset Of 101 Human Actions Classes From Videos In The Wild", arXiv:1212.0402, 2012.).
+**Soomro et al., "Ucf101: A Dataset Of 101 Human Actions Classes From Videos In The Wild", arXiv:1212.0402, 2012.** [**paper**]() [**arxiv**](Soomro et al., "Ucf101: A Dataset Of 101 Human Actions Classes From Videos In The Wild", arXiv:1212.0402, 2012.).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019. <a href="papers.md#Kwon_2019_CVPR">info</a></li>
 <li> Ho et al., "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019. <a href="papers.md#Ho_2019_ICCV">info</a></li>
@@ -2136,14 +2349,17 @@ Soomro et al., "Ucf101: A Dataset Of 101 Human Actions Classes From Videos In Th
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#motion>Motion prediction<application></a></br>
-<em>Data type:</em> RGB, activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#motion>Motion prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Soomro_2012_arxiv,
     author = "Soomro, Khurram and Zamir, Amir Roshan and Shah, Mubarak",
@@ -2156,9 +2372,9 @@ Soomro et al., "Ucf101: A Dataset Of 101 Human Actions Classes From Videos In Th
 
 <a name=data_kitti></a>
 ### [KITTI](http://www.cvlibs.net/datasets/kitti/)
-Geiger et al., "Are We Ready For Autonomous Driving? The Kitti Vision Benchmark Suite", CVPR, 2012.. [paper](https://ieeexplore.ieee.org/document/6248074).
+**Geiger et al., "Are We Ready For Autonomous Driving? The Kitti Vision Benchmark Suite", CVPR, 2012.** [**paper**](https://ieeexplore.ieee.org/document/6248074).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019. <a href="papers.md#Kwon_2019_CVPR">info</a></li>
 <li> Gao et al., "Disentangling Propagation And Generation For Video Prediction", ICCV, 2019. <a href="papers.md#Gao_2019_ICCV">info</a></li>
@@ -2178,14 +2394,17 @@ Geiger et al., "Are We Ready For Autonomous Driving? The Kitti Vision Benchmark 
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a>,<a href=papers.md#other>Other prediction<application></a></br>
-<em>Data type:</em> Stereo RGB, LIDAR, bounding box,  optical flow, vehicle sensors</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a>,<a href=papers.md#other>Other prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Stereo RGB, LIDAR, bounding box,  optical flow, vehicle sensors</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Geiger_2012_CVPR,
     author = "Geiger, Andreas and Lenz, Philip and Urtasun, Raquel",
@@ -2198,9 +2417,9 @@ Geiger et al., "Are We Ready For Autonomous Driving? The Kitti Vision Benchmark 
 
 <a name=data_gc></a>
 ### [New York Grand Central (GC)](http://www.ee.cuhk.edu.hk/~xgwang/grandcentral.html)
-Zhou et al., "Understanding Collective Crowd Behaviors: Learning A Mixture Model Of Dynamic Pedestrian-Agents", CVPR, 2012.. [paper]().
+**Zhou et al., "Understanding Collective Crowd Behaviors: Learning A Mixture Model Of Dynamic Pedestrian-Agents", CVPR, 2012.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Xu et al., "Encoding Crowd Interaction With Deep Neural Network For Pedestrian Trajectory Prediction", CVPR, 2018. <a href="papers.md#Xu_2018_CVPR_encoding">info</a></li>
 <li> Yoo et al., "Visual Path Prediction In Complex Scenes With Crowded Moving Objects", CVPR, 2016. <a href="papers.md#Yoo_2016_CVPR">info</a></li>
@@ -2209,14 +2428,17 @@ Zhou et al., "Understanding Collective Crowd Behaviors: Learning A Mixture Model
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, trajectory</br>
-<em>Task:</em> Surveillance</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, trajectory</li>
+<li><em><strong>Task:</strong></em> Surveillance</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Zhou_2012_CVPR,
     author = "Zhou, Bolei and Wang, Xiaogang and Tang, Xiaoou",
@@ -2229,9 +2451,9 @@ Zhou et al., "Understanding Collective Crowd Behaviors: Learning A Mixture Model
 
 <a name=data_bit></a>
 ### [BIT](https://sites.google.com/site/alexkongy/software)
-Kong et al., "Learning Human Interaction By Interactive Phrases", ECCV, 2012.. [paper]().
+**Kong et al., "Learning Human Interaction By Interactive Phrases", ECCV, 2012.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Zhao et al., "Spatiotemporal Feature Residual Propagation For Action Prediction", ICCV, 2019. <a href="papers.md#Zhao_2019_ICCV">info</a></li>
 <li> Chen et al., "Part-Activated Deep Reinforcement Learning For Action Prediction", ECCV, 2018. <a href="papers.md#Chen_2018_ECCV">info</a></li>
@@ -2240,14 +2462,17 @@ Kong et al., "Learning Human Interaction By Interactive Phrases", ECCV, 2012.. [
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, activity label</br>
-<em>Task:</em> Interaction</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, activity label</li>
+<li><em><strong>Task:</strong></em> Interaction</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Kong_2012_ECCV,
     author = "Kong, Yu and Jia, Yunde and Fu, Yun",
@@ -2260,9 +2485,9 @@ Kong et al., "Learning Human Interaction By Interactive Phrases", ECCV, 2012.. [
 
 <a name=data_mpii_cooking></a>
 ### [MPII Cooking](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/human-activity-recognition/mpii-cooking-activities-dataset/)
-Rohrbach et al., "A Database For Fine Grained Activity Detection Of Cooking Activities", CVPR, 2012.. [paper]().
+**Rohrbach et al., "A Database For Fine Grained Activity Detection Of Cooking Activities", CVPR, 2012.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Alati et al., "Help By Predicting What To Do", ICIP, 2019. <a href="papers.md#Alati_2019_ICIP">info</a></li>
 <li> Mahmud et al., "Joint Prediction Of Activity Labels And Starting Times In Untrimmed Videos", ICCV, 2017. <a href="papers.md#Mahmud_2017_ICCV">info</a></li>
@@ -2270,14 +2495,17 @@ Rohrbach et al., "A Database For Fine Grained Activity Detection Of Cooking Acti
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, 3D pose, activity label, temporal segment</br>
-<em>Task:</em> Cooking</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, 3D pose, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Cooking</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Rohrbach_2012_CVPR,
     author = "Rohrbach, Marcus and Amin, Sikandar and Andriluka, Mykhaylo and Schiele, Bernt",
@@ -2290,22 +2518,25 @@ Rohrbach et al., "A Database For Fine Grained Activity Detection Of Cooking Acti
 
 <a name=data_uva-nemo></a>
 ### [UvA-NEMO](https://www.uva-nemo.org/)
-Dibeklio\uglu et al., "Are You Really Smiling At Me? Spontaneous Versus Posed Enjoyment Smiles", ECCV, 2012.. [paper](https://link.springer.com/chapter/10.1007/978-3-642-33712-3_38).
+**Dibeklio\uglu et al., "Are You Really Smiling At Me? Spontaneous Versus Posed Enjoyment Smiles", ECCV, 2012.** [**paper**](https://link.springer.com/chapter/10.1007/978-3-642-33712-3_38).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Kim et al., "Unsupervised Keypoint Learning For Guiding Class-Conditional Video Prediction", NeurIPS, 2019. <a href="papers.md#Kim_2019_NeurIPS">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> RGB</br>
-<em>Task:</em> Smiles</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Task:</strong></em> Smiles</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Dibeklio_2012_ECCV,
     author = "Dibeklio\uglu, Hamdi and Salah, Albert Ali and Gevers, Theo",
@@ -2319,22 +2550,25 @@ Dibeklio\uglu et al., "Are You Really Smiling At Me? Spontaneous Versus Posed En
 
 <a name=data_utka></a>
 ### [UTKinect-Action (UTKA)](http://cvrc.ece.utexas.edu/KinectDatasets/HOJ3D.html)
-Xia et al., "View Invariant Human Action Recognition Using Histograms Of 3D Joints", CVPRW, 2012.. [paper]().
+**Xia et al., "View Invariant Human Action Recognition Using Histograms Of 3D Joints", CVPRW, 2012.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Kataoka et al., "Recognition Of Transitional Action For Short-Term Action Prediction Using Discriminative Temporal Cnn Feature", BMVC, 2016. <a href="papers.md#Kataoka_2016_BMVC">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGBD, 3D pose, activity label, temporal segment</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Xia_2012_CVPRW,
     author = "Xia, L. and Chen, C.C. and Aggarwal, JK",
@@ -2347,22 +2581,25 @@ Xia et al., "View Invariant Human Action Recognition Using Histograms Of 3D Join
 
 <a name=data_sbuki></a>
 ### [SBU Kinetic Interction (SBUKI)](https://www3.cs.stonybrook.edu/~kyun/research/kinect_interaction/index.html)
-Yun et al., "Two-Person Interaction Detection Using Body-Pose Features And Multiple Instance Learning", CVPRW, 2012.. [paper]().
+**Yun et al., "Two-Person Interaction Detection Using Body-Pose Features And Multiple Instance Learning", CVPRW, 2012.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Yao et al., "Multiple Granularity Group Interaction Prediction", CVPR, 2018. <a href="papers.md#Yao_2018_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a>,<a href=papers.md#motion>Motion prediction<application></a></br>
-<em>Data type:</em> RGBD, 3D pose, activity label</br>
-<em>Task:</em> Interaction</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a>,<a href=papers.md#motion>Motion prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label</li>
+<li><em><strong>Task:</strong></em> Interaction</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{kiwon_2012_CVPR,
     author = "Yun, Kiwon and Honorio, Jean and Chattopadhyay, Debaleena and Berg, Tamara L. and Samaras, Dimitris",
@@ -2375,22 +2612,25 @@ Yun et al., "Two-Person Interaction Detection Using Body-Pose Features And Multi
 
 <a name=data_msrda></a>
 ### [MSR Daily Activity (MSRDA)](https://documents.uow.edu.au/~wanqing/#MSRAction3DDatasets)
-Wang et al., "Mining Actionlet Ensemble For Action Recognition With Depth Cameras", CVPR, 2012.. [paper]().
+**Wang et al., "Mining Actionlet Ensemble For Action Recognition With Depth Cameras", CVPR, 2012.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Zhang et al., "Bio-Inspired Predictive Orientation Decomposition Of Skeleton Trajectories For Real-Time Human Activity Prediction", ICRA, 2015. <a href="papers.md#Zhang_2015_ICRA">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> Depth, activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Depth, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Wang_2012_CVPR,
     author = "Wang, Jiang and Liu, Zicheng and Wu, Ying and Yuan, Junsong",
@@ -2403,22 +2643,25 @@ Wang et al., "Mining Actionlet Ensemble For Action Recognition With Depth Camera
 
 <a name=data_maniac></a>
 ### [MANIAC](https://alexandria.physik3.uni-goettingen.de/cns-group/datasets/maniac/)
-Abramov et al., "Depth-Supported Real-Time Video Segmentation With The Kinect", WACV, 2012.. [paper]().
+**Abramov et al., "Depth-Supported Real-Time Video Segmentation With The Kinect", WACV, 2012.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Ziaeetabar et al., "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning", IROS, 2018. <a href="papers.md#Ziaeetabar_2018_IROS">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGBD, semantic segment, activity label</br>
-<em>Task:</em> Object manipulation</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGBD, semantic segment, activity label</li>
+<li><em><strong>Task:</strong></em> Object manipulation</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Abramov_2012_WACV,
     author = Abramov, Alexey and Pauwels, Karl and Papon, Jeremie and W\"org\"otter, Florentin and Dellen, Babette,
@@ -2431,22 +2674,25 @@ Abramov et al., "Depth-Supported Real-Time Video Segmentation With The Kinect", 
 
 <a name=data_gtea_gaze></a>
 ### [Georgia Tech Egocentric Activity Gaze (GTEA Gaze)](http://www.cbi.gatech.edu/fpv/)
-Fathi et al., "Learning To Recognize Daily Actions Using Gaze", ECCV, 2012.. [paper]().
+**Fathi et al., "Learning To Recognize Daily Actions Using Gaze", ECCV, 2012.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Shen et al., "Egocentric Activity Prediction Via Event Modulated Attention", ECCV, 2018. <a href="papers.md#Shen_2018_ECCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, gaze,  mask, activity label, temporal segment</br>
-<em>Task:</em> Cooking (egocentric)</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, gaze,  mask, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Fathi_2012_ECCV,
     author = "Fathi, Alireza and Li, Yin and Rehg, James M",
@@ -2460,9 +2706,9 @@ Fathi et al., "Learning To Recognize Daily Actions Using Gaze", ECCV, 2012.. [pa
 # 2011
 <a name=data_town_center></a>
 ### [Town Center](http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/project.html#datasets)
-Benfold et al., "Stable Multi-Target Tracking In Real-Time Surveillance Video", CVPR, 2011.. [paper]().
+**Benfold et al., "Stable Multi-Target Tracking In Real-Time Surveillance Video", CVPR, 2011.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Hasan et al., "Mx-Lstm: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses", CVPR, 2018. <a href="papers.md#Hasan_2018_CVPR">info</a></li>
 <li> Hasan et al., ""Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention", WACV, 2018. <a href="papers.md#Hasan_2018_WACV">info</a></li>
@@ -2470,14 +2716,17 @@ Benfold et al., "Stable Multi-Target Tracking In Real-Time Surveillance Video", 
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box</br>
-<em>Task:</em> Surveillance</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Task:</strong></em> Surveillance</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Benfold_2011_CVPR,
     author = "Benfold, Ben and Reid, Ian",
@@ -2490,23 +2739,26 @@ Benfold et al., "Stable Multi-Target Tracking In Real-Time Surveillance Video", 
 
 <a name=data_virat></a>
 ### [VIRAT](http://viratdata.org/)
-Oh et al., "A Large-Scale Benchmark Dataset For Event Recognition In Surveillance Video", CVPR, 2011.. [paper]().
+**Oh et al., "A Large-Scale Benchmark Dataset For Event Recognition In Surveillance Video", CVPR, 2011.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Mahmud et al., "Joint Prediction Of Activity Labels And Starting Times In Untrimmed Videos", ICCV, 2017. <a href="papers.md#Mahmud_2017_ICCV">info</a></li>
 <li> Vasquez, "Novel Planning-Based Algorithms For Human Motion Prediction", ICRA, 2016. <a href="papers.md#Vasquez_2016_ICRA">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, activity label, temporal segment</br>
-<em>Task:</em> Surveillance, activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Surveillance, activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Oh_2011_CVPR,
     author = "Oh, Sangmin and Hoogs, Anthony and Perera, Amitha and Cuntoor, Naresh and Chen, Chia-Chih and Lee, Jong Taek and Mukherjee, Saurajit and Aggarwal, JK and Lee, Hyungtae and Davis, Larry and others",
@@ -2519,22 +2771,25 @@ Oh et al., "A Large-Scale Benchmark Dataset For Event Recognition In Surveillanc
 
 <a name=data_stanford-40></a>
 ### [Stanford-40](http://vision.stanford.edu/Datasets/40actions.html)
-Yao et al., "Human Action Recognition By Learning Bases Of Action Attributes And Parts", ICCV, 2011.. [paper]().
+**Yao et al., "Human Action Recognition By Learning Bases Of Action Attributes And Parts", ICCV, 2011.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Safaei et al., "Still Image Action Recognition By Predicting Spatial-Temporal Pixel Evolution", WACV, 2019. <a href="papers.md#Safaei_2019_WACV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB (image), bounding box, activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB (image), bounding box, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Yao_2011_ICCV,
     author = "Yao, Bangpeng and Jiang, Xiaoye and Khosla, Aditya and Lin, Andy Lai and Guibas, Leonidas and Fei-Fei, Li",
@@ -2547,22 +2802,25 @@ Yao et al., "Human Action Recognition By Learning Bases Of Action Attributes And
 
 <a name=data_hmdb></a>
 ### [Human Motion Database (HMDB)](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
-Kuehne et al., "{Hmdb}: A Large Video Database For Human Motion Recognition", ICCV, 2011.. [paper]().
+**Kuehne et al., "{Hmdb}: A Large Video Database For Human Motion Recognition", ICCV, 2011.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Cho et al., "A Temporal Sequence Learning For Action Recognition And Prediction", WACV, 2018. <a href="papers.md#Cho_2018_WACV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box,  mask, activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box,  mask, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Kuehne_2011_ICCV,
     author = "Kuehne, H. and Jhuang, H. and Garrote, E. and Poggio, T. and Serre, T.",
@@ -2575,22 +2833,25 @@ Kuehne et al., "{Hmdb}: A Large Video Database For Human Motion Recognition", IC
 
 <a name=data_fcvl></a>
 ### [Ford Campus Vision LiDAR (FCVL)](http://robots.engin.umich.edu/SoftwareData/Ford)
-Pandey et al., "Ford Campus Vision And Lidar Data Set", The International Journal of Robotics Research (IJRR), 2011.. [paper]().
+**Pandey et al., "Ford Campus Vision And Lidar Data Set", The International Journal of Robotics Research (IJRR), 2011.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016. <a href="papers.md#Choi_2016_IROS">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#other>Other prediction<application></a></br>
-<em>Data type:</em> RGB, LIDAR, vehicle sensors</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, LIDAR, vehicle sensors</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Pandey_2011_IJRR,
     author = "Pandey, Gaurav and McBride, James R and Eustice, Ryan M",
@@ -2608,7 +2869,7 @@ Pandey et al., "Ford Campus Vision And Lidar Data Set", The International Journa
 <a name=data_uti></a>
 ### [UT Interaction (UTI)](http://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Gammulle et al., "Predicting The Future: A Jointly Learnt Model For Action Anticipation", ICCV, 2019. <a href="papers.md#Gammulle_2019_ICCV">info</a></li>
 <li> Chen et al., "Part-Activated Deep Reinforcement Learning For Action Prediction", ECCV, 2018. <a href="papers.md#Chen_2018_ECCV">info</a></li>
@@ -2620,14 +2881,17 @@ Pandey et al., "Ford Campus Vision And Lidar Data Set", The International Journa
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, activity label, temporal segment</br>
-<em>Task:</em> Interaction</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Interaction</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Misc{Ryoo_2010_UT,
     author = "Ryoo, M. S. and Aggarwal, J. K.",
@@ -2640,9 +2904,9 @@ Pandey et al., "Ford Campus Vision And Lidar Data Set", The International Journa
 
 <a name=data_tv_human_interaction></a>
 ### [TV Human Interaction (THI)](http://www.robots.ox.ac.uk/~alonso/tv_human_interactions.html)
-Patron-Perez et al., "High Five: Recognising Human Interactions In Tv Shows.", BMVC, 2010.. [paper]().
+**Patron-Perez et al., "High Five: Recognising Human Interactions In Tv Shows.", BMVC, 2010.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Gammulle et al., "Predicting The Future: A Jointly Learnt Model For Action Anticipation", ICCV, 2019. <a href="papers.md#Gammulle_2019_ICCV">info</a></li>
 <li> Zhong et al., "Unsupervised Learning For Forecasting Action Representations", ICIP, 2018. <a href="papers.md#Zhong_2018_ICIP">info</a></li>
@@ -2652,14 +2916,17 @@ Patron-Perez et al., "High Five: Recognising Human Interactions In Tv Shows.", B
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, head pose, activity label</br>
-<em>Task:</em> Interaction</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, head pose, activity label</li>
+<li><em><strong>Task:</strong></em> Interaction</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Patron_2010_BMVC,
     author = "Patron-Perez, Alonso and Marszalek, Marcin and Zisserman, Andrew and Reid, Ian D",
@@ -2672,22 +2939,25 @@ Patron-Perez et al., "High Five: Recognising Human Interactions In Tv Shows.", B
 
 <a name=data_willow_action></a>
 ### [Willow Action](https://www.di.ens.fr/willow/research/stillactions/)
-Delaitre et al., "Recognizing Human Actions In Still Images: A Study Of Bag-Of-Features And Part-Based Representations", BMVC, 2010.. [paper]().
+**Delaitre et al., "Recognizing Human Actions In Still Images: A Study Of Bag-Of-Features And Part-Based Representations", BMVC, 2010.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Safaei et al., "Still Image Action Recognition By Predicting Spatial-Temporal Pixel Evolution", WACV, 2019. <a href="papers.md#Safaei_2019_WACV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB (image), activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB (image), activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Delaitre_2010_BMVC,
     author = "Delaitre, V. and Laptev, I. and Sivic, J.",
@@ -2700,22 +2970,25 @@ Delaitre et al., "Recognizing Human Actions In Still Images: A Study Of Bag-Of-F
 
 <a name=data_visor></a>
 ### [ViSOR](imagelab.ing.unimore.it/visor)
-Vezzani et al., "Video Surveillance Online Repository (Visor): An Integrated Framework", Multimedia Tools and Applications, 2010.. [paper](https://link.springer.com/Article/10.1007/s11042-009-0402-9).
+**Vezzani et al., "Video Surveillance Online Repository (Visor): An Integrated Framework", Multimedia Tools and Applications, 2010.** [**paper**](https://link.springer.com/Article/10.1007/s11042-009-0402-9).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Lu et al., "Flexible Spatio-Temporal Networks For Video Prediction", CVPR, 2017. <a href="papers.md#Lu_2017_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, pose, attribute</br>
-<em>Task:</em> Surveillance</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, pose, attribute</li>
+<li><em><strong>Task:</strong></em> Surveillance</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Vezzani_2010_MTA,
     author = "Vezzani, Roberto and Cucchiara, Rita",
@@ -2731,22 +3004,25 @@ Vezzani et al., "Video Surveillance Online Repository (Visor): An Integrated Fra
 
 <a name=data_prost></a>
 ### [PROST](www.gpu4vision.com)
-Santner et al., "Prost: Parallel Robust Online Simple Tracking", CVPR, 2010.. [paper](https://ieeexplore.ieee.org/document/5540145).
+**Santner et al., "Prost: Parallel Robust Online Simple Tracking", CVPR, 2010.** [**paper**](https://ieeexplore.ieee.org/document/5540145).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Lu et al., "Flexible Spatio-Temporal Networks For Video Prediction", CVPR, 2017. <a href="papers.md#Lu_2017_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box</br>
-<em>Task:</em> Objects</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Task:</strong></em> Objects</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Santner_2010_CVPR,
     author = "Santner, Jakob and Leistner, Christian and Saffari, Amir and Pock, Thomas and Bischof, Horst",
@@ -2759,22 +3035,25 @@ Santner et al., "Prost: Parallel Robust Online Simple Tracking", CVPR, 2010.. [p
 
 <a name=data_mug></a>
 ### [MUG](https://mug.ee.auth.gr/fed/)
-Aifanti et al., "The Mug Facial Expression Database", WIAMIS, 2010.. [paper](https://ieeexplore.ieee.org/document/5617662).
+**Aifanti et al., "The Mug Facial Expression Database", WIAMIS, 2010.** [**paper**](https://ieeexplore.ieee.org/document/5617662).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Zhao et al., "Learning To Forecast And Refine Residual Motion For Image-To-Video Generation", ECCV, 2018. <a href="papers.md#Zhao_2018_ECCV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> RGB, keypoints, motion label</br>
-<em>Task:</em> Facial expression</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, keypoints, motion label</li>
+<li><em><strong>Task:</strong></em> Facial expression</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Aifanti_2010_WIAMIS,
     author = "Aifanti, Niki and Papachristou, Christos and Delopoulos, Anastasios",
@@ -2787,22 +3066,25 @@ Aifanti et al., "The Mug Facial Expression Database", WIAMIS, 2010.. [paper](htt
 
 <a name=data_msr></a>
 ### [MSR](https://www.microsoft.com/en-us/download/details.aspx?id=52315)
-Li et al., "Action Recognition Based On A Bag Of 3D Points", CVPRW, 2010.. [paper](https://ieeexplore.ieee.org/document/5543273).
+**Li et al., "Action Recognition Based On A Bag Of 3D Points", CVPRW, 2010.** [**paper**](https://ieeexplore.ieee.org/document/5543273).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Wang et al., "Order Matters: Shuffling Sequence Generation For Video Prediction", BMVC, 2019. <a href="papers.md#Wang_2019_BMVC">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> Depth, activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Depth, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Li_2010_CVPRW,
     author = "Li, Wanqing and Zhang, Zhengyou and Liu, Zicheng",
@@ -2815,22 +3097,25 @@ Li et al., "Action Recognition Based On A Bag Of 3D Points", CVPRW, 2010.. [pape
 
 <a name=data_diplecs></a>
 ### [DIPLECS](https://cvssp.org/data/diplecs/)
-Pugeault et al., "Learning Pre-Attentive Driving Behaviour From Holistic Visual Features", ECCV, 2010.. [paper]().
+**Pugeault et al., "Learning Pre-Attentive Driving Behaviour From Holistic Visual Features", ECCV, 2010.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> He et al., "Aggregated Sparse Attention For Steering Angle Prediction", ICPR, 2018. <a href="papers.md#He_2018_ICPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#other>Other prediction<application></a></br>
-<em>Data type:</em> RGB, vehicle sensors</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, vehicle sensors</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Pugeault_2010_ECCV,
     author = "Pugeault, Nicolas and Bowden, Richard",
@@ -2844,9 +3129,9 @@ Pugeault et al., "Learning Pre-Attentive Driving Behaviour From Holistic Visual 
 # 2009
 <a name=data_eth></a>
 ### [ETH](http://www.vision.ee.ethz.ch/en/datasets/)
-Pellegrini et al., "You'Ll Never Walk Alone: Modeling Social Behavior For Multi-Target Tracking", ICCV, 2009.. [paper]().
+**Pellegrini et al., "You'Ll Never Walk Alone: Modeling Social Behavior For Multi-Target Tracking", ICCV, 2009.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019. <a href="papers.md#Li_2019_CVPR">info</a></li>
 <li> Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019. <a href="papers.md#Liang_2019_CVPR">info</a></li>
@@ -2870,14 +3155,17 @@ Pellegrini et al., "You'Ll Never Walk Alone: Modeling Social Behavior For Multi-
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, trajectory</br>
-<em>Task:</em> Surveillance</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, trajectory</li>
+<li><em><strong>Task:</strong></em> Surveillance</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Pellegrini_2009_ICCV,
     author = "Pellegrini, Stefano and Ess, Andreas and Schindler, Konrad and Van Gool, Luc",
@@ -2890,9 +3178,9 @@ Pellegrini et al., "You'Ll Never Walk Alone: Modeling Social Behavior For Multi-
 
 <a name=data_caltech_pedestrian></a>
 ### [Caltech Pedestrian](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
-Doll\'ar et al., "Pedestrian Detection: A Benchmark", CVPR, 2009.. [paper](https://ieeexplore.ieee.org/document/5206631).
+**Doll\'ar et al., "Pedestrian Detection: A Benchmark", CVPR, 2009.** [**paper**](https://ieeexplore.ieee.org/document/5206631).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019. <a href="papers.md#Kwon_2019_CVPR">info</a></li>
 <li> Gao et al., "Disentangling Propagation And Generation For Video Prediction", ICCV, 2019. <a href="papers.md#Gao_2019_ICCV">info</a></li>
@@ -2906,14 +3194,17 @@ Doll\'ar et al., "Pedestrian Detection: A Benchmark", CVPR, 2009.. [paper](https
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>,<a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Dollar_2009_CVPR,
     author = "Doll\'ar, P. and Wojek, C. and Schiele, B. and Perona, P.",
@@ -2927,21 +3218,24 @@ Doll\'ar et al., "Pedestrian Detection: A Benchmark", CVPR, 2009.. [paper](https
 <a name=data_yuv></a>
 ### [YUV Videos](http://trace.kom.aau.dk/yuv/index.html)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Ho et al., "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019. <a href="papers.md#Ho_2019_ICCV">info</a></li>
 <li> Ho et al., "Deep Reinforcement Learning For Video Prediction", ICIP, 2019. <a href="papers.md#Ho_2019_ICIP">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> RGB</br>
-<em>Task:</em> Mix videos</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Task:</strong></em> Mix videos</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Misc{ASU_2009_YUV,
     author = "Library, ASU Video Trace",
@@ -2954,23 +3248,26 @@ Doll\'ar et al., "Pedestrian Detection: A Benchmark", CVPR, 2009.. [paper](https
 
 <a name=data_eifp></a>
 ### [Edinburgh Informatics Forum Pedestrian (EIFP)](http://homepages.inf.ed.ac.uk/rbf/FORUMTRACKING/)
-Majecka, "Statistical Models Of Pedestrian Behaviour In The Forum", School of Informatics, University of Edinburgh, 2009.. [paper]().
+**Majecka, "Statistical Models Of Pedestrian Behaviour In The Forum", School of Informatics, University of Edinburgh, 2009.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Carvalho et al., "Long-Term Prediction Of Motion Trajectories Using Path Homology Clusters", IROS, 2019. <a href="papers.md#Carvalho_2019_IROS">info</a></li>
 <li> Zhi et al., "Kernel Trajectory Maps For Multi-Modal Probabilistic Motion Prediction", CoRL, 2019. <a href="papers.md#Zhi_2019_CORL">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box</br>
-<em>Task:</em> Surveillance</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Task:</strong></em> Surveillance</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @mastersthesis{Majecka_2009,
     author = "Majecka, Barbara",
@@ -2983,22 +3280,25 @@ Majecka, "Statistical Models Of Pedestrian Behaviour In The Forum", School of In
 
 <a name=data_tum_kitchen></a>
 ### [TUM Kitchen](https://ias.in.tum.de/dokuwiki/software/kitchen-activity-data)
-Tenorth et al., "The Tum Kitchen Data Set Of Everyday Manipulation Activities For Motion Tracking And Action Recognition", ICCVW, 2009.. [paper]().
+**Tenorth et al., "The Tum Kitchen Data Set Of Everyday Manipulation Activities For Motion Tracking And Action Recognition", ICCVW, 2009.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Vo et al., "Augmenting Physical State Prediction Through Structured Activity Inference", ICRA, 2015. <a href="papers.md#Vo_2015_ICRA">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, RFID, 3D pose, activity label, temporal segment</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, RFID, 3D pose, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Tenorth_2009_ICCVW,
     author = "Tenorth, Moritz and Bandouch, Jan and Beetz, Michael",
@@ -3011,22 +3311,25 @@ Tenorth et al., "The Tum Kitchen Data Set Of Everyday Manipulation Activities Fo
 
 <a name=data_qmul></a>
 ### [QMUL](http://personal.ie.cuhk.edu.hk/~ccloy/downloads_qmul_junction.html)
-Loy et al., "Modelling Multi-Object Activity By Gaussian Processes.", BMVC, 2009.. [paper]().
+**Loy et al., "Modelling Multi-Object Activity By Gaussian Processes.", BMVC, 2009.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Yoo et al., "Visual Path Prediction In Complex Scenes With Crowded Moving Objects", CVPR, 2016. <a href="papers.md#Yoo_2016_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, trajectory</br>
-<em>Task:</em> Driving, anomaly</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, trajectory</li>
+<li><em><strong>Task:</strong></em> Driving, anomaly</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Loy_2009_BMVC,
     author = "Loy, Chen Change and Xiang, Tao and Gong, Shaogang",
@@ -3039,22 +3342,25 @@ Loy et al., "Modelling Multi-Object Activity By Gaussian Processes.", BMVC, 2009
 
 <a name=data_pets2009></a>
 ### [PETS2009](http://www.cvg.reading.ac.uk/PETS2009/a.html)
-Ferryman et al., "Pets2009: Dataset And Challenge", PETS, 2009.. [paper]().
+**Ferryman et al., "Pets2009: Dataset And Challenge", PETS, 2009.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Xue et al., "Location-Velocity Attention For Pedestrian Trajectory Prediction", WACV, 2019. <a href="papers.md#Xue_2019_WACV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box</br>
-<em>Task:</em> Surveillance</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Task:</strong></em> Surveillance</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Ferryman_2009_PETS,
     author = "Ferryman, J. and Shahrokni, A.",
@@ -3067,22 +3373,25 @@ Ferryman et al., "Pets2009: Dataset And Challenge", PETS, 2009.. [paper]().
 
 <a name=data_osu></a>
 ### [OSU](http://eecs.oregonstate.edu/football/tracking/dataset)
-Hess et al., "Discriminatively Trained Particle Filters For Complex Multi-Object Tracking", CVPR, 2009.. [paper]().
+**Hess et al., "Discriminatively Trained Particle Filters For Complex Multi-Object Tracking", CVPR, 2009.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016. <a href="papers.md#Lee_2016_WACV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, attribute</br>
-<em>Task:</em> Sports</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, attribute</li>
+<li><em><strong>Task:</strong></em> Sports</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Hess_2009_CVPR,
     author = "Hess, Rob and Fern, Alan",
@@ -3095,22 +3404,25 @@ Hess et al., "Discriminatively Trained Particle Filters For Complex Multi-Object
 
 <a name=data_ca></a>
 ### [Collective Activity (CA)](http://www-personal.umich.edu/~wgchoi/eccv12/wongun_eccv12.html)
-Choi et al., "What Are They Doing? : Collective Activity Classification Using Spatio-Temporal Relationship Among People", ICCVW, 2009.. [paper]().
+**Choi et al., "What Are They Doing? : Collective Activity Classification Using Spatio-Temporal Relationship Among People", ICCVW, 2009.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Yao et al., "Multiple Granularity Group Interaction Prediction", CVPR, 2018. <a href="papers.md#Yao_2018_CVPR">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a>,<a href=papers.md#motion>Motion prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box, attribute, activity label, temporal segment</br>
-<em>Task:</em> Interaction</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a>,<a href=papers.md#motion>Motion prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, attribute, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Interaction</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Choi_2009_ICCVW,
     author = "Choi, Wongun and Shahid, Khuram and Savarese, Silvio",
@@ -3124,22 +3436,25 @@ Choi et al., "What Are They Doing? : Collective Activity Classification Using Sp
 # 2008
 <a name=data_mitt></a>
 ### [MIT Trajectory (MITT)](http://www.ee.cuhk.edu.hk/~xgwang/MITtrajsingle.html)
-Grimson et al., "Trajectory Analysis And Semantic Region Modeling Using A Nonparametric Bayesian Model", CVPR, 2008.. [paper]().
+**Grimson et al., "Trajectory Analysis And Semantic Region Modeling Using A Nonparametric Bayesian Model", CVPR, 2008.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Akbarzadeh et al., "Kernel Density Estimation For Target Trajectory Prediction", IROS, 2015. <a href="papers.md#Akbarzadeh_2015_IROS">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, trajectory</br>
-<em>Task:</em> Surveillance</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, trajectory</li>
+<li><em><strong>Task:</strong></em> Surveillance</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Grimson_2008_CVPR,
     author = "Grimson, Eric and Wang, Xiaogang and Ng, Gee-Wah and Ma, Keng Teck",
@@ -3152,22 +3467,25 @@ Grimson et al., "Trajectory Analysis And Semantic Region Modeling Using A Nonpar
 
 <a name=data_daimler></a>
 ### [Daimler](http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/Daimler_Mono_Ped__Detection_Be/daimler_mono_ped__detection_be.html)
-Enzweiler et al., "Monocular Pedestrian Detection: Survey And Experiments", transactions on pattern analysis and machine intelligence (PAMI), 2008.. [paper]().
+**Enzweiler et al., "Monocular Pedestrian Detection: Survey And Experiments", transactions on pattern analysis and machine intelligence (PAMI), 2008.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Hariyono et al., "Estimation Of Collision Risk For Improving Driver'S Safety", IECON, 2016. <a href="papers.md#Hariyono_2016_IES">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> Grayscale, bounding box</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Grayscale, bounding box</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Enzweiler_2008_PAMI,
     author = "Enzweiler, Markus and Gavrila, Dariu M",
@@ -3184,9 +3502,9 @@ Enzweiler et al., "Monocular Pedestrian Detection: Survey And Experiments", tran
 # 2007
 <a name=data_ucy></a>
 ### [UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data)
-Lerner et al., "Crowds By Example", Computer graphics forum, 2007.. [paper]().
+**Lerner et al., "Crowds By Example", Computer graphics forum, 2007.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019. <a href="papers.md#Li_2019_CVPR">info</a></li>
 <li> Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019. <a href="papers.md#Liang_2019_CVPR">info</a></li>
@@ -3215,14 +3533,17 @@ Lerner et al., "Crowds By Example", Computer graphics forum, 2007.. [paper]().
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, trajectory, gaze</br>
-<em>Task:</em> Surveillance</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, trajectory, gaze</li>
+<li><em><strong>Task:</strong></em> Surveillance</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Lerner_2007_CGF,
     author = "Lerner, Alon and Chrysanthou, Yiorgos and Lischinski, Dani",
@@ -3239,7 +3560,7 @@ Lerner et al., "Crowds By Example", Computer graphics forum, 2007.. [paper]().
 <a name=data_ngsim></a>
 ### [Next Generation simulationulation (NGSIM)](https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Ding et al., "Predicting Vehicle Behaviors Over An Extended Horizon Using Behavior Interaction Network", ICRA, 2019. <a href="papers.md#Ding_2019_ICRA">info</a></li>
 <li> Scheel et al., "Attention-Based Lane Change Prediction", ICRA, 2019. <a href="papers.md#Scheel_2019_ICRA">info</a></li>
@@ -3254,14 +3575,17 @@ Lerner et al., "Crowds By Example", Computer graphics forum, 2007.. [paper]().
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> Map, trajectory</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>,<a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Map, trajectory</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Misc{NGSIM_2007,
     author = "of Transporation, U.S.} Department",
@@ -3276,20 +3600,23 @@ Lerner et al., "Crowds By Example", Computer graphics forum, 2007.. [paper]().
 <a name=data_lankershim_boulevard></a>
 ### [Lankershim Boulevard](https://www.fhwa.dot.gov/publications/research/operations/07029/index.cfm)
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Zhi et al., "Kernel Trajectory Maps For Multi-Modal Probabilistic Motion Prediction", CoRL, 2019. <a href="papers.md#Zhi_2019_CORL">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#trajectory>Trajectory prediction<application></a></br>
-<em>Data type:</em> RGB, trajectory</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, trajectory</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Misc{US_2007_Lankershim,
     author = "of Transportation, U.S. Department",
@@ -3302,22 +3629,25 @@ Lerner et al., "Crowds By Example", Computer graphics forum, 2007.. [paper]().
 
 <a name=data_eth_pedestrian></a>
 ### [ETH Pedestrian](https://data.vision.ee.ethz.ch/cvl/aess/)
-Ess et al., "Depth And Appearance For Mobile Scene Analysis", ICCV, 2007.. [paper]().
+**Ess et al., "Depth And Appearance For Mobile Scene Analysis", ICCV, 2007.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Hariyono et al., "Estimation Of Collision Risk For Improving Driver'S Safety", IECON, 2016. <a href="papers.md#Hariyono_2016_IES">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#action>Action prediction<application></a></br>
-<em>Data type:</em> RGB, bounding box</br>
-<em>Task:</em> Driving</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Ess_2007_ICCV,
     author = "Ess, Andreas and Leibe, Bastian and Van Gool, Luc",
@@ -3330,22 +3660,25 @@ Ess et al., "Depth And Appearance For Mobile Scene Analysis", ICCV, 2007.. [pape
 
 <a name=data_amos></a>
 ### [AMOS](http://amos.cse.wustl.edu/)
-Jacobs et al., "Consistent Temporal Variations In Many Outdoor Scenes", CVPR, 2007.. [paper]().
+**Jacobs et al., "Consistent Temporal Variations In Many Outdoor Scenes", CVPR, 2007.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Chu et al., "Visual Weather Temperature Prediction", WACV, 2018. <a href="papers.md#Chu_2018_WACV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#other>Other prediction<application></a></br>
-<em>Data type:</em> RGB, temperature, time</br>
-<em>Task:</em> Weather</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, temperature, time</li>
+<li><em><strong>Task:</strong></em> Weather</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Jacobs_2007_CVPR,
     author = "Jacobs, Nathan and Roman, Nathaniel and Pless, Robert",
@@ -3359,22 +3692,25 @@ Jacobs et al., "Consistent Temporal Variations In Many Outdoor Scenes", CVPR, 20
 # 2006
 <a name=data_tuscan></a>
 ### [Tuscan, Arizona](http://www.mmto.org/)
-Pickering, "The Mmt All-Sky Camera", Ground-based and Airborne Telescopes, 2006.. [paper]().
+**Pickering, "The Mmt All-Sky Camera", Ground-based and Airborne Telescopes, 2006.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Siddiqui et al., "A Deep Learning Approach To Solar-Irradiance Forecasting In Sky-Videos", WACV, 2019. <a href="papers.md#Siddiqui_2019_WACV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#other>Other prediction<application></a></br>
-<em>Data type:</em> RGB</br>
-<em>Task:</em> Weather</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Task:</strong></em> Weather</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @Article{Pickering_2006,
     author = "Pickering, TE",
@@ -3390,9 +3726,9 @@ Pickering, "The Mmt All-Sky Camera", Ground-based and Airborne Telescopes, 2006.
 # 2004
 <a name=data_kth></a>
 ### [KTH](http://www.nada.kth.se/cvap/actions/)
-Schuldt et al., "Recognizing Human Actions: A Local Svm Approach", ICPR, 2004.. [paper](https://ieeexplore.ieee.org/document/1334462).
+**Schuldt et al., "Recognizing Human Actions: A Local Svm Approach", ICPR, 2004.** [**paper**](https://ieeexplore.ieee.org/document/1334462).
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Lee et al., "Mutual Suppression Network For Video Prediction Using Disentangled Features", BMVC, 2019. <a href="papers.md#Lee_2019_BMVC">info</a></li>
 <li> Wang et al., "Order Matters: Shuffling Sequence Generation For Video Prediction", BMVC, 2019. <a href="papers.md#Wang_2019_BMVC">info</a></li>
@@ -3404,14 +3740,17 @@ Schuldt et al., "Recognizing Human Actions: A Local Svm Approach", ICPR, 2004.. 
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#video>Video prediction<application></a></br>
-<em>Data type:</em> Grayscale, activity label</br>
-<em>Task:</em> Activity</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> Grayscale, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Schuldt_2004_ICPR,
     author = "Schuldt, Christian and Laptev, Ivan and Caputo, Barbara",
@@ -3426,22 +3765,25 @@ Schuldt et al., "Recognizing Human Actions: A Local Svm Approach", ICPR, 2004.. 
 # 1981
 <a name=data_golden_colorado></a>
 ### [Golden Colorado](https://www.osti.gov/dataexplorer/biblio/dataset/1052221)
-Stoffel et al., "{Nrel} Solar Radiation Research Laboratory (Srrl): Baseline Measurement System (Bms); Golden, Colorado (Data)", National Renewable Energy Lab.(NREL), 1981.. [paper]().
+**Stoffel et al., "{Nrel} Solar Radiation Research Laboratory (Srrl): Baseline Measurement System (Bms); Golden, Colorado (Data)", National Renewable Energy Lab.(NREL), 1981.** [**paper**]().
 <details close>
-<summary><strong>Used in papers</strong></summary>
+<summary><em>Used in papers</em></summary>
 <ul>
 <li> Siddiqui et al., "A Deep Learning Approach To Solar-Irradiance Forecasting In Sky-Videos", WACV, 2019. <a href="papers.md#Siddiqui_2019_WACV">info</a></li>
 </ul>
 </details>
 <details close>
-<summary><strong>Details</strong></summary>
-<em>Applications:</em> <a href=papers.md#other>Other prediction<application></a></br>
-<em>Data type:</em> RGB</br>
-<em>Task:</em> Weather</br>
+<summary><em>Details</em></summary>
+<ul>
+<li>
+<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Task:</strong></em> Weather</li>
+</ul>
  </details>
 
 <details close>
-<summary><strong>Bibtex</strong></summary>
+<summary><em>Bibtex</em></summary>
 <pre>
 @techreport{Stoffel_1981,
     author = "Stoffel, T and Andreas, A",
