@@ -3,7 +3,7 @@
 ### [Pedestrian Intention Estimation (PIE)](http://data.nvision2.eecs.yorku.ca/PIE_dataset/)
 Rasouli et al., "Pie: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction", ICCV, 2019.. [paper]().
 <details close>
-<summary>** Used in papers **</summary>
+<summary><strong>Used in papers</strong></summary>
 * Rasouli et al., "Pedestrian Action Anticipation Using Contextual Feature Fusion In Stacked Rnns", BMVC, 2019. [info](papers.md#Rasouli_2019_BMVC)
 * Rasouli et al., "Pie: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction", ICCV, 2019. [info]<a href=papers.md#Rasouli_2019_ICCV>info</a>
 </details>
