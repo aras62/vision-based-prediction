@@ -1,3 +1,17 @@
+# Papers by metrics
+
+<img src="./images/video_metrics.png" alt="drawing" width="150"/>
+<img src="./images/action_metrics.png" alt="drawing" width="150"/>
+<img src="./images/trajectory_metrics.png" alt="drawing" width="150"/>
+<img src="./images/motion_metrics.png" alt="drawing" width="130"/>
+
+In this page you can find the *metrics* used in vision-based prediction applications. The metrics are **sorted** based on **popularity** and categorized in 5 groups:
+* [Video](#metrics_video)
+* [Action](#metrics_action)
+* [Trajectory](#metrics_trajectory)
+* [Motion](#metrics_motion)
+* [Other](#metrics_other)
+
 <a name=metrics_video></a>
 ## Video prediction
 <a name=metric_psnr></a>
