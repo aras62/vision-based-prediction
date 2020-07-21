@@ -6,6 +6,12 @@
 ___
 <a name=motion></a>
 <h2 style="color:#c12fdc";> Motion Prediction Papers</h2> 
+Below is the list of Motion prediction papers sorted chronologically and according to the venues (in order of relevance) they were published in. Each paper in the list has a associated link to the publication page, and arxiv preprint or code links if available. By **clicking on the papers** you can get the following information:
+* **Datasets** used in the paper
+* **Metrics** used in the paper
+* **Bibtext** of the publication
+
+<h3>Papers</h3>
 <ul><a name=Gopalakrishnan_2019_CVPR/>
 <details close>
 <summary><strong>Gopalakrishnan et al., "A Neural Temporal Model For Human Motion Prediction", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1809.03036.pdf>arxiv</a> <a href=https://github.com/cr7anand/neural_temporal_models>code</a></summary>

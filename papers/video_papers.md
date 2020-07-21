@@ -6,6 +6,12 @@
 ___
 <a name=video></a>
 <h2 style="color:#d52b0f";> Video Prediction Papers</h2> 
+Below is the list of Video prediction papers sorted chronologically and according to the venues (in order of relevance) they were published in. Each paper in the list has a associated link to the publication page, and arxiv preprint or code links if available. By **clicking on the papers** you can get the following information:
+* **Datasets** used in the paper
+* **Metrics** used in the paper
+* **Bibtext** of the publication
+
+<h3>Papers</h3>
 <ul><a name=Kwon_2019_CVPR/>
 <details close>
 <summary><strong>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>

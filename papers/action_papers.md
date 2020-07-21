@@ -6,6 +6,12 @@
 ___
 <a name=action></a>
 <h2 style="color:#2f38e8";> Action Prediction Papers</h2> 
+Below is the list of Action prediction papers sorted chronologically and according to the venues (in order of relevance) they were published in. Each paper in the list has a associated link to the publication page, and arxiv preprint or code links if available. By **clicking on the papers** you can get the following information:
+* **Datasets** used in the paper
+* **Metrics** used in the paper
+* **Bibtext** of the publication
+
+<h3>Papers</h3>
 <ul><a name=Joo_2019_CVPR/>
 <details close>
 <summary><strong>Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.04158.pdf>arxiv</a></summary>
@@ -2043,7 +2049,7 @@ ___
 
 <a name=Volz_2016_ITSC/>
 <details close>
-<summary><strong>V\"olz et al., "A Data-Driven Approach For Pedestrian Intention Estimation", ITSC, 2016.</srtong> <a href=https://ieeexplore.ieee.org/document/7795975>paper</a></summary>
+<summary><strong>Volz et al., "A Data-Driven Approach For Pedestrian Intention Estimation", ITSC, 2016.</srtong> <a href=https://ieeexplore.ieee.org/document/7795975>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2061,7 +2067,7 @@ ___
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Volz_2016_ITSC,
-    author = V\"olz, Benjamin and Behrendt, Karsten and Mielenz, Holger and Gilitschenski, Igor and Siegwart, Roland and Nieto, Juan,
+    author = "Volz, Benjamin and Behrendt, Karsten and Mielenz, Holger and Gilitschenski, Igor and Siegwart, Roland and Nieto, Juan",
     title = "A Data-Driven Approach For Pedestrian Intention Estimation",
     booktitle = "ITSC",
     year = "2016"
@@ -2254,7 +2260,7 @@ ___
 
 <a name=Kohler_2015_ITSC/>
 <details close>
-<summary><strong>K\"ohler et al., "Stereo-Vision-Based Pedestrian'S Intention Detection In A Moving Vehicle", ITSC, 2015.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/7313466>paper</a></summary>
+<summary><strong>Kohler et al., "Stereo-Vision-Based Pedestrian'S Intention Detection In A Moving Vehicle", ITSC, 2015.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/7313466>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2271,7 +2277,7 @@ ___
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Kohler_2015_ITSC,
-    author = K\"ohler, Sebastian and Goldhammer, Michael and Zindler, Klaus and Doll, Konrad and Dietmeyer, Klaus,
+    author = "Kohler, Sebastian and Goldhammer, Michael and Zindler, Klaus and Doll, Konrad and Dietmeyer, Klaus",
     title = "Stereo-Vision-Based Pedestrian'S Intention Detection In A Moving Vehicle",
     booktitle = "ITSC",
     year = "2015"
@@ -2284,7 +2290,7 @@ ___
 
 <a name=Volz_2015_ITSC/>
 <details close>
-<summary><strong>V\"olz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015.</srtong> <a href=https://ieeexplore.ieee.org/document/7313236>paper</a></summary>
+<summary><strong>Volz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015.</srtong> <a href=https://ieeexplore.ieee.org/document/7313236>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2303,7 +2309,7 @@ ___
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Volz_2015_ITSC,
-    author = V\"olz, Benjamin and Mielenz, Holger and Agamennoni, Gabriel and Siegwart, Roland,
+    author = "Volz, Benjamin and Mielenz, Holger and Agamennoni, Gabriel and Siegwart, Roland",
     title = "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks",
     booktitle = "ITSC",
     year = "2015"

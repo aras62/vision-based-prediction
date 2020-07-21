@@ -6,6 +6,12 @@
 ___
 <a name=other></a>
 <h2 style="color:#bd831f";> Other Prediction Papers</h2> 
+Below is the list of Other prediction papers sorted chronologically and according to the venues (in order of relevance) they were published in. Each paper in the list has a associated link to the publication page, and arxiv preprint or code links if available. By **clicking on the papers** you can get the following information:
+* **Datasets** used in the paper
+* **Metrics** used in the paper
+* **Bibtext** of the publication
+
+<h3>Papers</h3>
 <ul><a name=Mohajerin_2019_CVPR/>
 <details close>
 <summary><strong>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.09395.pdf>arxiv</a></summary>

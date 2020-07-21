@@ -4,8 +4,14 @@
 ---
 [Home](papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Video](video_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](action_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Trajectory](trajectory_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](motion_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Papers with code&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
+<h2>Papers with Code</h2> 
+Below is the list of papers that have published code sorted chronologically and according to the venues (in order of relevance) they were published in. Each paper in the list has a associated link to the publication page, and arxiv preprint or code links if available. By **clicking on the papers** you can get the following information:
+* **Datasets** used in the paper
+* **Metrics** used in the paper
+* **Bibtext** of the publication
+
 <a name=video></a>
-<h2 style="color:#d52b0f";> Video Prediction Papers</h2> <a href=#top>&uarr; top</a>
+<h3 style="color:#d52b0f";> Video Prediction Papers</h3> <a href=#top>&uarr; top</a>
 <ul><a name=Lee_2019_BMVC/>
 <details close>
 <summary><strong>Lee et al., "Mutual Suppression Network For Video Prediction Using Disentangled Features", BMVC, 2019.</srtong> <a href=https://bmvc2019.org/wp-content/uploads/papers/0336-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.04810.pdf>arxiv</a> <a href=https://github.com/aras62/SF-GRU>code</a></summary>
@@ -445,7 +451,7 @@ ___
 </details>
 
 </ul><a name=action></a>
-<h2 style="color:#2f38e8";> Action Prediction Papers</h2> <a href=#top>&uarr; top</a>
+<h3 style="color:#2f38e8";> Action Prediction Papers</h3> <a href=#top>&uarr; top</a>
 <ul><a name=Liang_2019_CVPR/>
 <details close>
 <summary><strong>Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1902.03748.pdf>arxiv</a> <a href=https://github.com/google/next-prediction>code</a></summary>
@@ -690,7 +696,7 @@ ___
 </details>
 
 </ul><a name=trajectory></a>
-<h2 style="color:#30bd19";> Trajectory Prediction Papers</h2> <a href=#top>&uarr; top</a>
+<h3 style="color:#30bd19";> Trajectory Prediction Papers</h3> <a href=#top>&uarr; top</a>
 <ul><a name=Chandra_2019_CVPR/>
 <details close>
 <summary><strong>Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.04767.pdf>arxiv</a> <a href=https://go.umd.edu/TraPHic>code</a></summary>
@@ -1101,7 +1107,7 @@ ___
 </details>
 
 </ul><a name=motion></a>
-<h2 style="color:#c12fdc";> Motion Prediction Papers</h2> <a href=#top>&uarr; top</a>
+<h3 style="color:#c12fdc";> Motion Prediction Papers</h3> <a href=#top>&uarr; top</a>
 <ul><a name=Gopalakrishnan_2019_CVPR/>
 <details close>
 <summary><strong>Gopalakrishnan et al., "A Neural Temporal Model For Human Motion Prediction", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1809.03036.pdf>arxiv</a> <a href=https://github.com/cr7anand/neural_temporal_models>code</a></summary>
@@ -1381,7 +1387,7 @@ ___
 </details>
 
 </ul><a name=other></a>
-<h2 style="color:#bd831f";> Other Prediction Papers</h2> <a href=#top>&uarr; top</a>
+<h3 style="color:#bd831f";> Other Prediction Papers</h3> <a href=#top>&uarr; top</a>
 <ul><a name=Guizilini_2019_ICRA/>
 <details close>
 <summary><strong>Guizilini et al., "Dynamic Hilbert Maps: Real-Time Occupancy Predictions In Changing Environments", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8793914>paper</a> <a href=https://arxiv.org/pdf/1912.02149.pdf>arxiv</a> <a href=https://bitbucket.org/vguizilini/cvpp/src>code</a></summary>
