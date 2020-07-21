@@ -15,7 +15,6 @@ By clicking on each metric you can see the list of papers that used that metric
 <details close>
 <summary><em><l style="font-size:20px"><strong>Peak Signal-to-Noise Ratio (PSNR)</strong></l>
 </em></summary>
-<ul>
 <details close>
 <summary><strong>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
@@ -76,6 +75,6 @@ By clicking on each metric you can see the list of papers that used that metric
 </details>
 
 </details>
-</ul></ul>
+</ul>
 </details>
 
