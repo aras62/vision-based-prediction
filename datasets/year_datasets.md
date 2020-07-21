@@ -23,9 +23,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#arizona">Arizona</a></li>
-<li><a href="datasets/year_datasets.md#tuscan">Tuscan</a></li>
-<li><a href="datasets/year_datasets.md#golden_colorado">Golden Colorado</a></li>
+<li><a href="../datasets/year_datasets.md#arizona">Arizona</a></li>
+<li><a href="../datasets/year_datasets.md#tuscan">Tuscan</a></li>
+<li><a href="../datasets/year_datasets.md#golden_colorado">Golden Colorado</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -77,8 +77,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -106,9 +106,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="datasets/year_datasets.md#msr">MSR</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#msr">MSR</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -136,7 +136,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -165,9 +165,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -196,9 +196,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -227,8 +227,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -256,8 +256,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -312,9 +312,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#arizona">Arizona</a></li>
-<li><a href="datasets/year_datasets.md#tuscan">Tuscan</a></li>
-<li><a href="datasets/year_datasets.md#golden_colorado">Golden Colorado</a></li>
+<li><a href="../datasets/year_datasets.md#arizona">Arizona</a></li>
+<li><a href="../datasets/year_datasets.md#tuscan">Tuscan</a></li>
+<li><a href="../datasets/year_datasets.md#golden_colorado">Golden Colorado</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -368,9 +368,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -398,9 +398,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#actev/virat">ActEV/VIRAT</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#actev/virat">ActEV/VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -428,8 +428,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -457,8 +457,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -486,10 +486,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -518,9 +518,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -548,8 +548,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -577,8 +577,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -605,8 +605,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -634,8 +634,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -664,10 +664,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="datasets/year_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -695,8 +695,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -724,10 +724,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="datasets/year_datasets.md#pets2009">PETS2009</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -755,8 +755,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -784,8 +784,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -813,10 +813,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#chuk">CHUK</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/year_datasets.md#chuk">CHUK</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -845,8 +845,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -875,8 +875,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -904,8 +904,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -934,8 +934,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -963,7 +963,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -990,8 +990,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1019,8 +1019,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1049,8 +1049,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1104,7 +1104,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1133,7 +1133,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1163,7 +1163,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1190,8 +1190,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#traf">TRAF</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#traf">TRAF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1219,10 +1219,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1251,8 +1251,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#vpm">VPM</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#vpm">VPM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1280,8 +1280,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1308,7 +1308,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1335,7 +1335,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1363,7 +1363,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1414,8 +1414,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#eifp">EIFP</a></li>
-<li><a href="datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="../datasets/year_datasets.md#eifp">EIFP</a></li>
+<li><a href="../datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1466,9 +1466,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#daimler">Daimler</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#daimler">Daimler</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1519,7 +1519,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#amos">AMOS</a></li>
+<li><a href="../datasets/year_datasets.md#amos">AMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1571,8 +1571,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#mitt">MITT</a></li>
+<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/year_datasets.md#mitt">MITT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1623,9 +1623,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#daimler">Daimler</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#daimler">Daimler</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1681,9 +1681,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1711,9 +1711,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#actev/virat">ActEV/VIRAT</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#actev/virat">ActEV/VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1741,8 +1741,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1770,8 +1770,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1799,10 +1799,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1831,9 +1831,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1861,8 +1861,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1890,8 +1890,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1919,8 +1919,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1949,10 +1949,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="datasets/year_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1980,8 +1980,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2009,10 +2009,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="datasets/year_datasets.md#pets2009">PETS2009</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2040,8 +2040,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2069,10 +2069,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#chuk">CHUK</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/year_datasets.md#chuk">CHUK</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2101,8 +2101,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2131,7 +2131,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2158,8 +2158,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2187,8 +2187,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2216,8 +2216,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2269,11 +2269,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="../datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2302,8 +2302,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2331,9 +2331,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2362,9 +2362,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2393,10 +2393,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2424,9 +2424,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2455,8 +2455,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#youtube-8m">Youtube-8M</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#youtube-8m">Youtube-8M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2486,10 +2486,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2518,9 +2518,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#daimler">Daimler</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#daimler">Daimler</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2571,9 +2571,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2602,9 +2602,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2656,7 +2656,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#eifp">EIFP</a></li>
+<li><a href="../datasets/year_datasets.md#eifp">EIFP</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2683,8 +2683,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#eifp">EIFP</a></li>
-<li><a href="datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="../datasets/year_datasets.md#eifp">EIFP</a></li>
+<li><a href="../datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2735,7 +2735,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#tum_kitchen">TUM Kitchen</a></li>
+<li><a href="../datasets/year_datasets.md#tum_kitchen">TUM Kitchen</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2785,8 +2785,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#qmul">QMUL</a></li>
+<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/year_datasets.md#qmul">QMUL</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2837,10 +2837,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="datasets/year_datasets.md#pets2009">PETS2009</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2891,7 +2891,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#osu">OSU</a></li>
+<li><a href="../datasets/year_datasets.md#osu">OSU</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2945,8 +2945,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#sbuki">SBUKI</a></li>
-<li><a href="datasets/year_datasets.md#ca">CA</a></li>
+<li><a href="../datasets/year_datasets.md#sbuki">SBUKI</a></li>
+<li><a href="../datasets/year_datasets.md#ca">CA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2998,9 +2998,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3027,9 +3027,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3056,9 +3056,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3085,9 +3085,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3114,8 +3114,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3142,8 +3142,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3170,7 +3170,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3221,9 +3221,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3250,8 +3250,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3278,7 +3278,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3305,9 +3305,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
-<li><a href="datasets/year_datasets.md#tv_series">TV Series</a></li>
+<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/year_datasets.md#tv_series">TV Series</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3335,8 +3335,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3386,11 +3386,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#willow_action">Willow Action</a></li>
-<li><a href="datasets/year_datasets.md#wider">WIDER</a></li>
-<li><a href="datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
-<li><a href="datasets/year_datasets.md#bu_action">BU Action</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="../datasets/year_datasets.md#wider">WIDER</a></li>
+<li><a href="../datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="../datasets/year_datasets.md#bu_action">BU Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3441,11 +3441,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
-<li><a href="datasets/year_datasets.md#visor">ViSOR</a></li>
-<li><a href="datasets/year_datasets.md#prost">PROST</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/year_datasets.md#visor">ViSOR</a></li>
+<li><a href="../datasets/year_datasets.md#prost">PROST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3498,11 +3498,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
-<li><a href="datasets/year_datasets.md#visor">ViSOR</a></li>
-<li><a href="datasets/year_datasets.md#prost">PROST</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/year_datasets.md#visor">ViSOR</a></li>
+<li><a href="../datasets/year_datasets.md#prost">PROST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3552,8 +3552,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#mug">MUG</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#mug">MUG</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3604,9 +3604,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="datasets/year_datasets.md#msr">MSR</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#msr">MSR</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3657,7 +3657,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#diplecs">DIPLECS</a></li>
+<li><a href="../datasets/year_datasets.md#diplecs">DIPLECS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3709,8 +3709,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3738,8 +3738,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3768,8 +3768,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3820,8 +3820,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
+<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/year_datasets.md#virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3851,7 +3851,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
+<li><a href="../datasets/year_datasets.md#virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3903,11 +3903,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#willow_action">Willow Action</a></li>
-<li><a href="datasets/year_datasets.md#wider">WIDER</a></li>
-<li><a href="datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
-<li><a href="datasets/year_datasets.md#bu_action">BU Action</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="../datasets/year_datasets.md#wider">WIDER</a></li>
+<li><a href="../datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="../datasets/year_datasets.md#bu_action">BU Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3958,8 +3958,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#hmdb">HMDB</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#hmdb">HMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4009,7 +4009,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#fcvl">FCVL</a></li>
+<li><a href="../datasets/year_datasets.md#fcvl">FCVL</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4067,11 +4067,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="../datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4100,9 +4100,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4131,7 +4131,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4159,9 +4159,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4189,10 +4189,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4220,8 +4220,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4249,9 +4249,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4280,9 +4280,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4311,9 +4311,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4342,9 +4342,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4374,11 +4374,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
-<li><a href="datasets/year_datasets.md#visor">ViSOR</a></li>
-<li><a href="datasets/year_datasets.md#prost">PROST</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/year_datasets.md#visor">ViSOR</a></li>
+<li><a href="../datasets/year_datasets.md#prost">PROST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4405,10 +4405,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4437,8 +4437,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4466,9 +4466,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4496,9 +4496,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4525,9 +4525,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4554,9 +4554,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
-<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4583,11 +4583,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#willow_action">Willow Action</a></li>
-<li><a href="datasets/year_datasets.md#wider">WIDER</a></li>
-<li><a href="datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
-<li><a href="datasets/year_datasets.md#bu_action">BU Action</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="../datasets/year_datasets.md#wider">WIDER</a></li>
+<li><a href="../datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="../datasets/year_datasets.md#bu_action">BU Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4615,9 +4615,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4644,9 +4644,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4673,8 +4673,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#hmdb">HMDB</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#hmdb">HMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4701,9 +4701,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
-<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4730,9 +4730,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4759,8 +4759,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4789,8 +4789,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4840,11 +4840,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="../datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4873,8 +4873,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4902,9 +4902,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4933,10 +4933,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4964,9 +4964,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4995,9 +4995,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5026,9 +5026,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5058,8 +5058,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5087,10 +5087,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5119,9 +5119,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5149,9 +5149,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="datasets/year_datasets.md#oxford">Oxford</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/year_datasets.md#oxford">Oxford</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5178,7 +5178,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5207,8 +5207,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5238,7 +5238,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5268,7 +5268,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5318,10 +5318,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#chuk">CHUK</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/year_datasets.md#chuk">CHUK</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5350,8 +5350,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#qmul">QMUL</a></li>
+<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/year_datasets.md#qmul">QMUL</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5379,7 +5379,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5408,8 +5408,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#mitt">MITT</a></li>
+<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/year_datasets.md#mitt">MITT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5460,9 +5460,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
-<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5489,9 +5489,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5518,9 +5518,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
-<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5547,8 +5547,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5598,9 +5598,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5629,8 +5629,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
+<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/year_datasets.md#virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5660,7 +5660,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5710,9 +5710,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
-<li><a href="datasets/year_datasets.md#mgif">MGIF</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
+<li><a href="../datasets/year_datasets.md#mgif">MGIF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5763,8 +5763,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#wnp">WnP</a></li>
-<li><a href="datasets/year_datasets.md#utka">UTKA</a></li>
+<li><a href="../datasets/year_datasets.md#wnp">WnP</a></li>
+<li><a href="../datasets/year_datasets.md#utka">UTKA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5814,8 +5814,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#sbuki">SBUKI</a></li>
-<li><a href="datasets/year_datasets.md#ca">CA</a></li>
+<li><a href="../datasets/year_datasets.md#sbuki">SBUKI</a></li>
+<li><a href="../datasets/year_datasets.md#ca">CA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5865,7 +5865,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#msrda">MSRDA</a></li>
+<li><a href="../datasets/year_datasets.md#msrda">MSRDA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5915,7 +5915,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#maniac">MANIAC</a></li>
+<li><a href="../datasets/year_datasets.md#maniac">MANIAC</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5965,8 +5965,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
-<li><a href="datasets/year_datasets.md#gtea_gaze">GTEA Gaze</a></li>
+<li><a href="../datasets/year_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
+<li><a href="../datasets/year_datasets.md#gtea_gaze">GTEA Gaze</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6018,8 +6018,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#shapestack">ShapeStack</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#shapestack">ShapeStack</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6046,9 +6046,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
-<li><a href="datasets/year_datasets.md#mgif">MGIF</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
+<li><a href="../datasets/year_datasets.md#mgif">MGIF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6075,8 +6075,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6104,8 +6104,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#mug">MUG</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#mug">MUG</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6133,8 +6133,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6162,8 +6162,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6191,9 +6191,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#instavariety">InstaVariety</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6222,8 +6222,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6251,9 +6251,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6303,8 +6303,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6332,8 +6332,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
-<li><a href="datasets/year_datasets.md#ava">AVA</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#ava">AVA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6360,9 +6360,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
-<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6389,9 +6389,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6418,9 +6418,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6447,8 +6447,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6500,9 +6500,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6531,8 +6531,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="datasets/year_datasets.md#acticipate">ACTICIPATE</a></li>
+<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/year_datasets.md#acticipate">ACTICIPATE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6560,7 +6560,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6589,8 +6589,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
+<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6620,7 +6620,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6676,8 +6676,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
+<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6706,8 +6706,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
-<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
+<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6734,8 +6734,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
-<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
+<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6785,7 +6785,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
+<li><a href="../datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6812,7 +6812,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
+<li><a href="../datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6863,11 +6863,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="../datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6896,10 +6896,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#chuk">CHUK</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/year_datasets.md#chuk">CHUK</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6951,7 +6951,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#atc">ATC</a></li>
+<li><a href="../datasets/year_datasets.md#atc">ATC</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7008,9 +7008,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7038,10 +7038,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7069,8 +7069,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7098,9 +7098,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7128,7 +7128,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7155,9 +7155,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7187,7 +7187,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7214,8 +7214,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7243,8 +7243,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7272,8 +7272,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7300,7 +7300,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7328,8 +7328,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7357,7 +7357,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7387,9 +7387,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7417,7 +7417,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7444,9 +7444,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#instavariety">InstaVariety</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7475,8 +7475,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7504,7 +7504,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7531,7 +7531,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7559,7 +7559,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7586,9 +7586,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7615,7 +7615,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7642,7 +7642,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7669,7 +7669,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7723,11 +7723,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
-<li><a href="datasets/year_datasets.md#visor">ViSOR</a></li>
-<li><a href="datasets/year_datasets.md#prost">PROST</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/year_datasets.md#visor">ViSOR</a></li>
+<li><a href="../datasets/year_datasets.md#prost">PROST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7754,9 +7754,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7784,9 +7784,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
-<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7836,8 +7836,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
-<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
+<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7864,9 +7864,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7895,8 +7895,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
-<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
+<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7946,8 +7946,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="datasets/year_datasets.md#orgbd">ORGBD</a></li>
+<li><a href="../datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="../datasets/year_datasets.md#orgbd">ORGBD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7999,9 +7999,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8053,9 +8053,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8084,8 +8084,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8113,9 +8113,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="datasets/year_datasets.md#msr">MSR</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#msr">MSR</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8143,9 +8143,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8174,8 +8174,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#bouncing_ball">Bouncing Ball</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#bouncing_ball">Bouncing Ball</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8203,9 +8203,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8233,11 +8233,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
-<li><a href="datasets/year_datasets.md#visor">ViSOR</a></li>
-<li><a href="datasets/year_datasets.md#prost">PROST</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/year_datasets.md#visor">ViSOR</a></li>
+<li><a href="../datasets/year_datasets.md#prost">PROST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8264,7 +8264,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8291,8 +8291,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8344,10 +8344,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8376,8 +8376,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8404,9 +8404,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
-<li><a href="datasets/year_datasets.md#tv_series">TV Series</a></li>
+<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/year_datasets.md#tv_series">TV Series</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8434,8 +8434,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8485,8 +8485,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
+<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8516,7 +8516,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
+<li><a href="../datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8545,7 +8545,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
+<li><a href="../datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8598,9 +8598,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8627,8 +8627,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="datasets/year_datasets.md#orgbd">ORGBD</a></li>
+<li><a href="../datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="../datasets/year_datasets.md#orgbd">ORGBD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8679,11 +8679,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#willow_action">Willow Action</a></li>
-<li><a href="datasets/year_datasets.md#wider">WIDER</a></li>
-<li><a href="datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
-<li><a href="datasets/year_datasets.md#bu_action">BU Action</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="../datasets/year_datasets.md#wider">WIDER</a></li>
+<li><a href="../datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="../datasets/year_datasets.md#bu_action">BU Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8734,8 +8734,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#wnp">WnP</a></li>
-<li><a href="datasets/year_datasets.md#utka">UTKA</a></li>
+<li><a href="../datasets/year_datasets.md#wnp">WnP</a></li>
+<li><a href="../datasets/year_datasets.md#utka">UTKA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8785,7 +8785,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#sun_rgb-d">SUN RGB-D</a></li>
+<li><a href="../datasets/year_datasets.md#sun_rgb-d">SUN RGB-D</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8836,7 +8836,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mot">MOT</a></li>
+<li><a href="../datasets/year_datasets.md#mot">MOT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8886,7 +8886,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mbi-1m">MBI-1M</a></li>
+<li><a href="../datasets/year_datasets.md#mbi-1m">MBI-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8937,8 +8937,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
-<li><a href="datasets/year_datasets.md#gtea_gaze">GTEA Gaze</a></li>
+<li><a href="../datasets/year_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
+<li><a href="../datasets/year_datasets.md#gtea_gaze">GTEA Gaze</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8988,7 +8988,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#fppa">FPPA</a></li>
+<li><a href="../datasets/year_datasets.md#fppa">FPPA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9038,7 +9038,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="../datasets/year_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9088,7 +9088,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#atari">Atari</a></li>
+<li><a href="../datasets/year_datasets.md#atari">Atari</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9138,7 +9138,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#amazon">Amazon</a></li>
+<li><a href="../datasets/year_datasets.md#amazon">Amazon</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9191,9 +9191,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9221,10 +9221,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9253,9 +9253,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9283,10 +9283,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="datasets/year_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9314,10 +9314,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="datasets/year_datasets.md#pets2009">PETS2009</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9345,8 +9345,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9376,8 +9376,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9428,9 +9428,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9459,9 +9459,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9489,9 +9489,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="datasets/year_datasets.md#oxford">Oxford</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/year_datasets.md#oxford">Oxford</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9518,7 +9518,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9545,7 +9545,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9575,7 +9575,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9604,7 +9604,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9656,9 +9656,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9687,9 +9687,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9717,8 +9717,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9769,7 +9769,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
+<li><a href="../datasets/year_datasets.md#dad">DAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9801,8 +9801,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
-<li><a href="datasets/year_datasets.md#epic-fail">Epic-Fail</a></li>
+<li><a href="../datasets/year_datasets.md#dad">DAD</a></li>
+<li><a href="../datasets/year_datasets.md#epic-fail">Epic-Fail</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9854,8 +9854,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9882,9 +9882,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9935,8 +9935,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#youtube-8m">Youtube-8M</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#youtube-8m">Youtube-8M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9989,7 +9989,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#vist">VIST</a></li>
+<li><a href="../datasets/year_datasets.md#vist">VIST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10039,9 +10039,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
-<li><a href="datasets/year_datasets.md#tv_series">TV Series</a></li>
+<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/year_datasets.md#tv_series">TV Series</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10092,8 +10092,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#pku-mmd">PKU-MMD</a></li>
-<li><a href="datasets/year_datasets.md#oad">OAD</a></li>
+<li><a href="../datasets/year_datasets.md#pku-mmd">PKU-MMD</a></li>
+<li><a href="../datasets/year_datasets.md#oad">OAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10143,7 +10143,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#oa">OA</a></li>
+<li><a href="../datasets/year_datasets.md#oa">OA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10193,9 +10193,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10245,7 +10245,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mu">MU</a></li>
+<li><a href="../datasets/year_datasets.md#mu">MU</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10295,8 +10295,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/year_datasets.md#bouncing_ball">Bouncing Ball</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#bouncing_ball">Bouncing Ball</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10349,7 +10349,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10376,7 +10376,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10404,8 +10404,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/year_datasets.md#viena">VIENA</a></li>
+<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="../datasets/year_datasets.md#viena">VIENA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10433,7 +10433,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10460,8 +10460,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
+<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="../datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10489,7 +10489,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10540,8 +10540,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#strands">STRANDS</a></li>
-<li><a href="datasets/year_datasets.md#l-cas">L-CAS</a></li>
+<li><a href="../datasets/year_datasets.md#strands">STRANDS</a></li>
+<li><a href="../datasets/year_datasets.md#l-cas">L-CAS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10595,8 +10595,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#youcook2">YouCook2</a></li>
-<li><a href="datasets/year_datasets.md#recipe1m">Recipe1M</a></li>
+<li><a href="../datasets/year_datasets.md#youcook2">YouCook2</a></li>
+<li><a href="../datasets/year_datasets.md#recipe1m">Recipe1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10646,8 +10646,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#pku-mmd">PKU-MMD</a></li>
-<li><a href="datasets/year_datasets.md#oad">OAD</a></li>
+<li><a href="../datasets/year_datasets.md#pku-mmd">PKU-MMD</a></li>
+<li><a href="../datasets/year_datasets.md#oad">OAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10697,9 +10697,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="datasets/year_datasets.md#oxford">Oxford</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/year_datasets.md#oxford">Oxford</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10752,8 +10752,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10807,8 +10807,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#strands">STRANDS</a></li>
-<li><a href="datasets/year_datasets.md#l-cas">L-CAS</a></li>
+<li><a href="../datasets/year_datasets.md#strands">STRANDS</a></li>
+<li><a href="../datasets/year_datasets.md#l-cas">L-CAS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10859,8 +10859,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
-<li><a href="datasets/year_datasets.md#epic-fail">Epic-Fail</a></li>
+<li><a href="../datasets/year_datasets.md#dad">DAD</a></li>
+<li><a href="../datasets/year_datasets.md#epic-fail">Epic-Fail</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10911,7 +10911,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cityperson">CityPerson</a></li>
+<li><a href="../datasets/year_datasets.md#cityperson">CityPerson</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10962,11 +10962,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#willow_action">Willow Action</a></li>
-<li><a href="datasets/year_datasets.md#wider">WIDER</a></li>
-<li><a href="datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
-<li><a href="datasets/year_datasets.md#bu_action">BU Action</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="../datasets/year_datasets.md#wider">WIDER</a></li>
+<li><a href="../datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="../datasets/year_datasets.md#bu_action">BU Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11021,8 +11021,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
+<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11051,8 +11051,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11080,7 +11080,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11131,8 +11131,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#youcook2">YouCook2</a></li>
-<li><a href="datasets/year_datasets.md#recipe1m">Recipe1M</a></li>
+<li><a href="../datasets/year_datasets.md#youcook2">YouCook2</a></li>
+<li><a href="../datasets/year_datasets.md#recipe1m">Recipe1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11182,8 +11182,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/year_datasets.md#viena">VIENA</a></li>
+<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="../datasets/year_datasets.md#viena">VIENA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11235,8 +11235,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#shapestack">ShapeStack</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#shapestack">ShapeStack</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11286,11 +11286,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="../datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11342,8 +11342,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11394,8 +11394,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
-<li><a href="datasets/year_datasets.md#ava">AVA</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/year_datasets.md#ava">AVA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11445,8 +11445,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="datasets/year_datasets.md#acticipate">ACTICIPATE</a></li>
+<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/year_datasets.md#acticipate">ACTICIPATE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11497,7 +11497,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#actev/virat">ActEV/VIRAT</a></li>
+<li><a href="../datasets/year_datasets.md#actev/virat">ActEV/VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11547,9 +11547,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11602,7 +11602,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
+<li><a href="../datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11633,8 +11633,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
+<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="../datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11685,8 +11685,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/year_datasets.md#carla">CARLA</a></li>
+<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11714,7 +11714,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
+<li><a href="../datasets/year_datasets.md#carla">CARLA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11765,8 +11765,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#traf">TRAF</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#traf">TRAF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11817,8 +11817,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#vpm">VPM</a></li>
+<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/year_datasets.md#vpm">VPM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11869,8 +11869,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/year_datasets.md#carla">CARLA</a></li>
+<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11921,9 +11921,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
-<li><a href="datasets/year_datasets.md#mgif">MGIF</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
+<li><a href="../datasets/year_datasets.md#mgif">MGIF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11973,7 +11973,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#luggage">Luggage</a></li>
+<li><a href="../datasets/year_datasets.md#luggage">Luggage</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12023,10 +12023,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="datasets/year_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/year_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12077,9 +12077,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="datasets/year_datasets.md#instavariety">InstaVariety</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12131,7 +12131,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#fm">FM</a></li>
+<li><a href="../datasets/year_datasets.md#fm">FM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12181,7 +12181,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#egopose">EgoPose</a></li>
+<li><a href="../datasets/year_datasets.md#egopose">EgoPose</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12231,7 +12231,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#argoverse">ARGOVerse</a></li>
+<li><a href="../datasets/year_datasets.md#argoverse">ARGOVerse</a></li>
 </ul>
 
 <em>Metrics</em>
