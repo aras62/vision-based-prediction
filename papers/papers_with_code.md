@@ -5,7 +5,9 @@
 [Home](papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Video](video_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](action_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Trajectory](trajectory_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](motion_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Papers with code&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 <h2>Papers with Code</h2> 
+
 Below is the list of papers that have published code sorted chronologically and according to the venues (in order of relevance) they were published in. Each paper in the list has a associated link to the publication page, and arxiv preprint or code links if available. By **clicking on the papers** you can get the following information:
+
 * **Datasets** used in the paper
 * **Metrics** used in the paper
 * **Bibtext** of the publication
