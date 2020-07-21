@@ -10,7 +10,7 @@ In this page you can find the *metrics* used in vision-based prediction applicat
 
 By clicking on each metric you can see the list of papers that used that metric
 <a name=metrics_video></a>
-<h2 style="color:#d52b0f">  Video Prediction </h2><a href=#metrics_top>&uarr; top</a>
+<h2 style="color:#d52b0f";>  Video Prediction </h2><a href=#metrics_top>&uarr; top</a>
 <a name=metric_psnr></a>
 <details close>
 <summary><em><l style="font-size:15px"><strong>Peak Signal-to-Noise Ratio (PSNR)</strong></l>
