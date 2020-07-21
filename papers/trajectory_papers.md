@@ -2,13 +2,13 @@
 ---
 <a href=README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=papers.md#top><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=datasets.md#top><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---
-[Video](video_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](action_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Trajectory&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](motion_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Video](video_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](action_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Trajectory&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](motion_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Papers with code](papers_with_code.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 <a name=trajectory></a>
 <h2 style="color:#30bd19";> Trajectory Prediction Papers</h2> 
-<a name=Chandra_2019_CVPR/>
+<ul><a name=Chandra_2019_CVPR/>
 <details close>
-<summary><strong>Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>code</a></summary>
+<summary><strong>Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.04767.pdf>arxiv</a> <a href=https://go.umd.edu/TraPHic>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -39,7 +39,7 @@ ___
 
 <a name=Chang_2019_CVPR/>
 <details close>
-<summary><strong>Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>arxiv</a></summary>
+<summary><strong>Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.02620.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -69,7 +69,7 @@ ___
 
 <a name=Hong_2019_CVPR/>
 <details close>
-<summary><strong>Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>arxiv</a></summary>
+<summary><strong>Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.08945.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -133,7 +133,7 @@ ___
 
 <a name=Liang_2019_CVPR/>
 <details close>
-<summary><strong>Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf>code</a></summary>
+<summary><strong>Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1902.03748.pdf>arxiv</a> <a href=https://github.com/google/next-prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -165,7 +165,7 @@ ___
 
 <a name=Sadeghian_2019_CVPR/>
 <details close>
-<summary><strong>Sadeghian et al., "Sophie: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf>arxiv</a></summary>
+<summary><strong>Sadeghian et al., "Sophie: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.01482.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -196,7 +196,7 @@ ___
 
 <a name=Zhang_2019_CVPR/>
 <details close>
-<summary><strong>Zhang et al., "Sr-Lstm: State Refinement For Lstm Towards Pedestrian Trajectory Prediction", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>code</a></summary>
+<summary><strong>Zhang et al., "Sr-Lstm: State Refinement For Lstm Towards Pedestrian Trajectory Prediction", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1903.02793.pdf>arxiv</a> <a href=https://github.com/zhangpur/SR-LSTM>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -227,7 +227,7 @@ ___
 
 <a name=Zhao_2019_CVPR/>
 <details close>
-<summary><strong>Zhao et al., "Multi-Agent Tensor Fusion For Contextual Trajectory Prediction", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Multi-Agent_Tensor_Fusion_for_Contextual_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Multi-Agent_Tensor_Fusion_for_Contextual_Trajectory_Prediction_CVPR_2019_paper.pdf>arxiv</a></summary>
+<summary><strong>Zhao et al., "Multi-Agent Tensor Fusion For Contextual Trajectory Prediction", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Multi-Agent_Tensor_Fusion_for_Contextual_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.04776.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -292,7 +292,7 @@ ___
 
 <a name=Choi_2019_ICCV/>
 <details close>
-<summary><strong>Choi et al., "Looking To Relations For Future Trajectory Forecast", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Looking_to_Relations_for_Future_Trajectory_Forecast_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Looking_to_Relations_for_Future_Trajectory_Forecast_ICCV_2019_paper.pdf>arxiv</a></summary>
+<summary><strong>Choi et al., "Looking To Relations For Future Trajectory Forecast", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Looking_to_Relations_for_Future_Trajectory_Forecast_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.08855.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -384,7 +384,7 @@ ___
 
 <a name=Rasouli_2019_ICCV/>
 <details close>
-<summary><strong>Rasouli et al., "Pie: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf>code</a></summary>
+<summary><strong>Rasouli et al., "Pie: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf>paper</a> <a href=https://github.com/aras62/PIEPredict>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -415,7 +415,7 @@ ___
 
 <a name=Rhinehart_2019_ICCV/>
 <details close>
-<summary><strong>Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>code</a></summary>
+<summary><strong>Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.01296.pdf>arxiv</a> <a href=https://sites.google.com/view/precog>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -446,7 +446,7 @@ ___
 
 <a name=Thiede_2019_ICCV/>
 <details close>
-<summary><strong>Thiede et al., "Analyzing The Variety Loss In The Context Of Probabilistic Trajectory Prediction", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Thiede_Analyzing_the_Variety_Loss_in_the_Context_of_Probabilistic_Trajectory_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Thiede_Analyzing_the_Variety_Loss_in_the_Context_of_Probabilistic_Trajectory_ICCV_2019_paper.pdf>arxiv</a></summary>
+<summary><strong>Thiede et al., "Analyzing The Variety Loss In The Context Of Probabilistic Trajectory Prediction", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Thiede_Analyzing_the_Variety_Loss_in_the_Context_of_Probabilistic_Trajectory_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1907.10178.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -476,7 +476,7 @@ ___
 
 <a name=Kosaraju_2019_NeurIPS/>
 <details close>
-<summary><strong>Kosaraju et al., "Social-Bigat: Multimodal Trajectory Forecasting Using Bicycle-Gan And Graph Attention Networks", NeurIPS, 2019.</srtong> <a href=http://papers.nips.cc/paper/8308-social-bigat-multimodal-trajectory-forecasting-using-bicycle-gan-and-graph-attention-networks.pdf>paper</a> <a href=http://papers.nips.cc/paper/8308-social-bigat-multimodal-trajectory-forecasting-using-bicycle-gan-and-graph-attention-networks.pdf>arxiv</a></summary>
+<summary><strong>Kosaraju et al., "Social-Bigat: Multimodal Trajectory Forecasting Using Bicycle-Gan And Graph Attention Networks", NeurIPS, 2019.</srtong> <a href=http://papers.nips.cc/paper/8308-social-bigat-multimodal-trajectory-forecasting-using-bicycle-gan-and-graph-attention-networks.pdf>paper</a> <a href=https://arxiv.org/pdf/1907.03395.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -507,7 +507,7 @@ ___
 
 <a name=Cui_2019_ICRA/>
 <details close>
-<summary><strong>Cui et al., "Multimodal Trajectory Predictions For Autonomous Driving Using Deep Convolutional Networks", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8793868>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8793868>arxiv</a></summary>
+<summary><strong>Cui et al., "Multimodal Trajectory Predictions For Autonomous Driving Using Deep Convolutional Networks", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8793868>paper</a> <a href=https://arxiv.org/pdf/1809.10732.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -538,7 +538,7 @@ ___
 
 <a name=Huang_2019_ICRA/>
 <details close>
-<summary><strong>Huang et al., "Uncertainty-Aware Driver Trajectory Prediction At Urban Intersections", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8794282>paper</a> <a href=https://ieeexplore.ieee.org/document/8794282>arxiv</a></summary>
+<summary><strong>Huang et al., "Uncertainty-Aware Driver Trajectory Prediction At Urban Intersections", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8794282>paper</a> <a href=https://arxiv.org/pdf/1901.05105.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -568,7 +568,7 @@ ___
 
 <a name=Li_2019_ICRA/>
 <details close>
-<summary><strong>Li et al., "Interaction-Aware Multi-Agent Tracking And Probabilistic Behavior Prediction Via Adversarial Learning", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8793661>paper</a> <a href=https://ieeexplore.ieee.org/document/8793661>arxiv</a></summary>
+<summary><strong>Li et al., "Interaction-Aware Multi-Agent Tracking And Probabilistic Behavior Prediction Via Adversarial Learning", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8793661>paper</a> <a href=https://arxiv.org/pdf/1904.02390.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -597,7 +597,7 @@ ___
 
 <a name=Tang_2019_ICRA/>
 <details close>
-<summary><strong>Tang et al., "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8794130>paper</a> <a href=https://ieeexplore.ieee.org/document/8794130>arxiv</a></summary>
+<summary><strong>Tang et al., "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8794130>paper</a> <a href=https://arxiv.org/pdf/1911.04597.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -627,7 +627,7 @@ ___
 
 <a name=Ding_2019_ICRA_2/>
 <details close>
-<summary><strong>Ding et al., "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8793568>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8793568>arxiv</a></summary>
+<summary><strong>Ding et al., "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8793568>paper</a> <a href=https://arxiv.org/pdf/1903.00847.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -657,7 +657,7 @@ ___
 
 <a name=Anderson_2019_IROS/>
 <details close>
-<summary><strong>Anderson et al., "Stochastic Sampling Simulation For Pedestrian Trajectory Prediction", IROS, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8967857>paper</a> <a href=https://ieeexplore.ieee.org/document/8967857>arxiv</a></summary>
+<summary><strong>Anderson et al., "Stochastic Sampling Simulation For Pedestrian Trajectory Prediction", IROS, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8967857>paper</a> <a href=https://arxiv.org/pdf/1903.01860.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -747,7 +747,7 @@ ___
 
 <a name=Li_2019_IROS/>
 <details close>
-<summary><strong>Li et al., "Conditional Generative Neural System For Probabilistic Trajectory Prediction", IROS, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8967822>paper</a> <a href=https://ieeexplore.ieee.org/document/8967822>arxiv</a></summary>
+<summary><strong>Li et al., "Conditional Generative Neural System For Probabilistic Trajectory Prediction", IROS, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8967822>paper</a> <a href=https://arxiv.org/pdf/1905.01631.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -780,7 +780,7 @@ ___
 
 <a name=Srikanth_2019_IROS/>
 <details close>
-<summary><strong>Srikanth et al., "Infer: Intermediate Representations For Future Prediction", IROS, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8968553>paper</a> <a href=https://ieeexplore.ieee.org/document/8968553>arxiv</a> <a href=https://ieeexplore.ieee.org/document/8968553>code</a></summary>
+<summary><strong>Srikanth et al., "Infer: Intermediate Representations For Future Prediction", IROS, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8968553>paper</a> <a href=https://arxiv.org/pdf/1903.10641.pdf>arxiv</a> <a href=https://rebrand.ly/INFER-results>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -811,7 +811,7 @@ ___
 
 <a name=Zhou_2019_IROS/>
 <details close>
-<summary><strong>Zhou et al., "Clone Swarms: Learning To Predict And Control Multi-Robot Systems By Imitation", IROS, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8967824>paper</a> <a href=https://ieeexplore.ieee.org/document/8967824>arxiv</a></summary>
+<summary><strong>Zhou et al., "Clone Swarms: Learning To Predict And Control Multi-Robot Systems By Imitation", IROS, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8967824>paper</a> <a href=https://arxiv.org/pdf/1912.02811.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -841,7 +841,7 @@ ___
 
 <a name=Zhu_2019_IROS/>
 <details close>
-<summary><strong>Zhu et al., "Starnet: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology", IROS, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8967811>paper</a> <a href=https://ieeexplore.ieee.org/document/8967811>arxiv</a></summary>
+<summary><strong>Zhu et al., "Starnet: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology", IROS, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8967811>paper</a> <a href=https://arxiv.org/pdf/1906.01797.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -872,7 +872,7 @@ ___
 
 <a name=Chai_2019_CORL/>
 <details close>
-<summary><strong>Chai et al., "Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction", CoRL, 2019.</srtong> <a href=http://proceedings.mlr.press/v100/chai20a/chai20a.pdf>paper</a> <a href=http://proceedings.mlr.press/v100/chai20a/chai20a.pdf>arxiv</a></summary>
+<summary><strong>Chai et al., "Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction", CoRL, 2019.</srtong> <a href=http://proceedings.mlr.press/v100/chai20a/chai20a.pdf>paper</a> <a href=https://arxiv.org/pdf/1910.05449.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -905,7 +905,7 @@ ___
 
 <a name=Jain_2019_CORL/>
 <details close>
-<summary><strong>Jain et al., "Discrete Residual Flow For Probabilistic Pedestrian Behavior Prediction", CoRL, 2019.</srtong> <a href=http://proceedings.mlr.press/v100/jain20a/jain20a.pdf>paper</a> <a href=http://proceedings.mlr.press/v100/jain20a/jain20a.pdf>arxiv</a></summary>
+<summary><strong>Jain et al., "Discrete Residual Flow For Probabilistic Pedestrian Behavior Prediction", CoRL, 2019.</srtong> <a href=http://proceedings.mlr.press/v100/jain20a/jain20a.pdf>paper</a> <a href=https://arxiv.org/pdf/1910.08041.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -938,7 +938,7 @@ ___
 
 <a name=Zhi_2019_CORL/>
 <details close>
-<summary><strong>Zhi et al., "Kernel Trajectory Maps For Multi-Modal Probabilistic Motion Prediction", CoRL, 2019.</srtong> <a href=http://proceedings.mlr.press/v100/zhi20a/zhi20a.pdf>paper</a> <a href=http://proceedings.mlr.press/v100/zhi20a/zhi20a.pdf>arxiv</a> <a href=http://proceedings.mlr.press/v100/zhi20a/zhi20a.pdf>code</a></summary>
+<summary><strong>Zhi et al., "Kernel Trajectory Maps For Multi-Modal Probabilistic Motion Prediction", CoRL, 2019.</srtong> <a href=http://proceedings.mlr.press/v100/zhi20a/zhi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/1907.05127.pdf>arxiv</a> <a href=https://github.com/wzhi/KernelTrajectoryMaps>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1031,7 +1031,7 @@ ___
 
 <a name=Bhattacharyya_2018_CVPR/>
 <details close>
-<summary><strong>Bhattacharyya et al., "Long-Term On-Board Prediction Of People In Traffic Scenes Under Uncertainty", CVPR, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf>code</a></summary>
+<summary><strong>Bhattacharyya et al., "Long-Term On-Board Prediction Of People In Traffic Scenes Under Uncertainty", CVPR, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1711.09026.pdf>arxiv</a> <a href=https://github.com/apratimbhattacharyya18/onboard_long_term_prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1061,7 +1061,7 @@ ___
 
 <a name=Gupta_2018_CVPR/>
 <details close>
-<summary><strong>Gupta et al., "Social Gan: Socially Acceptable Trajectories With Generative Adversarial Networks", CVPR, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>code</a></summary>
+<summary><strong>Gupta et al., "Social Gan: Socially Acceptable Trajectories With Generative Adversarial Networks", CVPR, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.10892.pdf>arxiv</a> <a href=https://github.com/agrimgupta92/sgan>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1092,7 +1092,7 @@ ___
 
 <a name=Hasan_2018_CVPR/>
 <details close>
-<summary><strong>Hasan et al., "Mx-Lstm: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses", CVPR, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Hasan_MX-LSTM_Mixing_Tracklets_CVPR_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Hasan_MX-LSTM_Mixing_Tracklets_CVPR_2018_paper.pdf>arxiv</a></summary>
+<summary><strong>Hasan et al., "Mx-Lstm: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses", CVPR, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Hasan_MX-LSTM_Mixing_Tracklets_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1805.00652.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1153,7 +1153,7 @@ ___
 
 <a name=Xu_2018_CVPR_encoding/>
 <details close>
-<summary><strong>Xu et al., "Encoding Crowd Interaction With Deep Neural Network For Pedestrian Trajectory Prediction", CVPR, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2136.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2136.pdf>code</a></summary>
+<summary><strong>Xu et al., "Encoding Crowd Interaction With Deep Neural Network For Pedestrian Trajectory Prediction", CVPR, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2136.pdf>paper</a> <a href=https://github.com/svip-lab/CIDNN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1250,7 +1250,7 @@ ___
 
 <a name=Fernando_2018_ACCV/>
 <details close>
-<summary><strong>Fernando et al., "Gd-Gan: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds", ACCV, 2019.</srtong> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_20>paper</a> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_20>arxiv</a></summary>
+<summary><strong>Fernando et al., "Gd-Gan: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds", ACCV, 2019.</srtong> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_20>paper</a> <a href=https://arxiv.org/pdf/1812.07667.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1342,7 +1342,7 @@ ___
 
 <a name=Pfeiffer_2018_ICRA/>
 <details close>
-<summary><strong>Pfeiffer et al., "A Data-Driven Model For Interaction-Aware Pedestrian Motion Prediction In Object Cluttered Environments", ICRA, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8461157>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8461157>arxiv</a></summary>
+<summary><strong>Pfeiffer et al., "A Data-Driven Model For Interaction-Aware Pedestrian Motion Prediction In Object Cluttered Environments", ICRA, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8461157>paper</a> <a href=https://arxiv.org/pdf/1709.08528.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1371,7 +1371,7 @@ ___
 
 <a name=Rehder_2018_ICRA/>
 <details close>
-<summary><strong>Rehder et al., "Pedestrian Prediction By Planning Using Deep Neural Networks", ICRA, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8460203>paper</a> <a href=https://ieeexplore.ieee.org/document/8460203>arxiv</a></summary>
+<summary><strong>Rehder et al., "Pedestrian Prediction By Planning Using Deep Neural Networks", ICRA, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8460203>paper</a> <a href=https://arxiv.org/pdf/1706.05904.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1432,7 +1432,7 @@ ___
 
 <a name=Sun_2018_ICRA/>
 <details close>
-<summary><strong>Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>arxiv</a></summary>
+<summary><strong>Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>paper</a> <a href=https://arxiv.org/pdf/1710.00126.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1463,7 +1463,7 @@ ___
 
 <a name=Vemula_2018_ICRA/>
 <details close>
-<summary><strong>Vemula et al., "Social Attention: Modeling Attention In Human Crowds", ICRA, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8460504>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8460504>arxiv</a></summary>
+<summary><strong>Vemula et al., "Social Attention: Modeling Attention In Human Crowds", ICRA, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8460504>paper</a> <a href=https://arxiv.org/pdf/1710.04689.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1525,7 +1525,7 @@ ___
 
 <a name=Schulz_2018_IROS/>
 <details close>
-<summary><strong>Schulz et al., "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments", IROS, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>arxiv</a></summary>
+<summary><strong>Schulz et al., "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments", IROS, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>paper</a> <a href=https://arxiv.org/pdf/1804.10467.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1556,7 +1556,7 @@ ___
 
 <a name=Shen_2018_IROS/>
 <details close>
-<summary><strong>Shen et al., "Transferable Pedestrian Motion Prediction Models At Intersections", IROS, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8593783>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8593783>arxiv</a></summary>
+<summary><strong>Shen et al., "Transferable Pedestrian Motion Prediction Models At Intersections", IROS, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8593783>paper</a> <a href=https://arxiv.org/pdf/1804.00495.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1618,7 +1618,7 @@ ___
 
 <a name=Zhang_2018_CORL/>
 <details close>
-<summary><strong>Zhang et al., "Integrating Kinematics And Environment Context Into Deep Inverse Reinforcement Learning For Predicting Off-Road Vehicle Trajectories", CoRL, 2018.</srtong> <a href=http://proceedings.mlr.press/v87/zhang18a/zhang18a.pdf>paper</a> <a href=http://proceedings.mlr.press/v87/zhang18a/zhang18a.pdf>arxiv</a> <a href=http://proceedings.mlr.press/v87/zhang18a/zhang18a.pdf>code</a></summary>
+<summary><strong>Zhang et al., "Integrating Kinematics And Environment Context Into Deep Inverse Reinforcement Learning For Predicting Off-Road Vehicle Trajectories", CoRL, 2018.</srtong> <a href=http://proceedings.mlr.press/v87/zhang18a/zhang18a.pdf>paper</a> <a href=https://arxiv.org/pdf/1810.07225.pdf>arxiv</a> <a href=https://github.com/yfzhang/vehicle-motion-forecasting>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1712,7 +1712,7 @@ ___
 
 <a name=Bartoli_2018_ICPR/>
 <details close>
-<summary><strong>Bartoli et al., "Context-Aware Trajectory Prediction", ICPR, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8545447>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8545447>arxiv</a></summary>
+<summary><strong>Bartoli et al., "Context-Aware Trajectory Prediction", ICPR, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8545447>paper</a> <a href=https://arxiv.org/pdf/1705.02503.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1741,7 +1741,7 @@ ___
 
 <a name=Lee_2017_CVPR/>
 <details close>
-<summary><strong>Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>code</a></summary>
+<summary><strong>Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.04394.pdf>arxiv</a> <a href=https://github.com/yadrimz/DESIRE>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1774,7 +1774,7 @@ ___
 
 <a name=Ma_2017_CVPR/>
 <details close>
-<summary><strong>Ma et al., "Forecasting Interactive Dynamics Of Pedestrians With Fictitious Play", CVPR, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf>arxiv</a></summary>
+<summary><strong>Ma et al., "Forecasting Interactive Dynamics Of Pedestrians With Fictitious Play", CVPR, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1604.01431.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1867,7 +1867,7 @@ ___
 
 <a name=Alahi_2016_CVPR/>
 <details close>
-<summary><strong>Alahi et al., "Social Lstm: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>code</a></summary>
+<summary><strong>Alahi et al., "Social Lstm: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>paper</a> <a href=https://github.com/quancore/social-lstm>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1930,7 +1930,7 @@ ___
 
 <a name=Ballan_2016_ECCV/>
 <details close>
-<summary><strong>Ballan et al., "Knowledge Transfer For Scene-Specific Motion Prediction", ECCV, 2016.</srtong> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46448-0_42>paper</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46448-0_42>arxiv</a></summary>
+<summary><strong>Ballan et al., "Knowledge Transfer For Scene-Specific Motion Prediction", ECCV, 2016.</srtong> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46448-0_42>paper</a> <a href=https://arxiv.org/pdf/1603.06987.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2324,3 +2324,4 @@ ___
 </ul>
 </details>
 
+</ul>
