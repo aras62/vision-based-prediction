@@ -77,6 +77,5 @@ By clicking on each metric you can see the list of papers that used that metric
 
 </details>
 </ul>
-</ul>
 </details>
 
