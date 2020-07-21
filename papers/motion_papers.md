@@ -20,7 +20,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -50,7 +50,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="../datasets/year_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -80,8 +80,8 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/<class 'list'>#mouse_fish">Mouse Fish</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -111,7 +111,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -143,9 +143,9 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/<class 'list'>#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/<class 'list'>#3dpw">3DPW</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -175,7 +175,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -204,7 +204,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#egopose">EgoPose</a></li>
+<li><a href="../datasets/year_datasets.md#egopose">EgoPose</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -233,9 +233,9 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/<class 'list'>#penn_action">Penn Action</a></li>
-<li><a href="../datasets/<class 'list'>#instavariety">InstaVariety</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -326,8 +326,8 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/<class 'list'>#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -389,8 +389,8 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#sbuki">SBUKI</a></li>
-<li><a href="../datasets/<class 'list'>#ca">CA</a></li>
+<li><a href="../datasets/year_datasets.md#sbuki">SBUKI</a></li>
+<li><a href="../datasets/year_datasets.md#ca">CA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -419,7 +419,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -448,7 +448,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -508,7 +508,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -537,7 +537,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -566,9 +566,9 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/<class 'list'>#penn_action">Penn Action</a></li>
-<li><a href="../datasets/<class 'list'>#mpii_human_pose">MPII Human Pose</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -597,7 +597,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -626,8 +626,8 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/<class 'list'>#penn_action">Penn Action</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -656,7 +656,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -685,7 +685,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>

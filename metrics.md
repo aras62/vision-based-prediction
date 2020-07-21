@@ -24,11 +24,11 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="datasets/<class 'list'>#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -57,8 +57,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -86,9 +86,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#yuv">YUV</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -117,8 +117,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -146,9 +146,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
-<li><a href="datasets/<class 'list'>#msr">MSR</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#msr">MSR</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -176,9 +176,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#yuv">YUV</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -207,8 +207,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
-<li><a href="datasets/<class 'list'>#jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -236,7 +236,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -264,9 +264,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -294,10 +294,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -325,8 +325,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -354,9 +354,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -385,9 +385,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -416,8 +416,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#youtube-8m">Youtube-8M</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#youtube-8m">Youtube-8M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -447,8 +447,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
-<li><a href="datasets/<class 'list'>#mug">MUG</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#mug">MUG</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -476,9 +476,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -506,9 +506,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -537,9 +537,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -569,8 +569,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -598,11 +598,11 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#sports-1m">Sports-1M</a></li>
-<li><a href="datasets/<class 'list'>#visor">ViSOR</a></li>
-<li><a href="datasets/<class 'list'>#prost">PROST</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#visor">ViSOR</a></li>
+<li><a href="datasets/year_datasets.md#prost">PROST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -629,10 +629,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -661,9 +661,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -691,8 +691,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -721,8 +721,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -750,8 +750,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -787,11 +787,11 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="datasets/<class 'list'>#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -820,9 +820,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
-<li><a href="datasets/<class 'list'>#bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -851,8 +851,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -880,9 +880,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#yuv">YUV</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -911,8 +911,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -940,9 +940,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
-<li><a href="datasets/<class 'list'>#msr">MSR</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#msr">MSR</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -970,9 +970,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#yuv">YUV</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1001,8 +1001,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
-<li><a href="datasets/<class 'list'>#jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1030,7 +1030,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1058,9 +1058,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1088,10 +1088,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1119,8 +1119,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1148,9 +1148,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1179,9 +1179,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1210,8 +1210,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#youtube-8m">Youtube-8M</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#youtube-8m">Youtube-8M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1241,9 +1241,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1271,9 +1271,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1302,9 +1302,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1334,8 +1334,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1363,10 +1363,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1395,9 +1395,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1425,8 +1425,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1455,8 +1455,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1492,11 +1492,11 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="datasets/<class 'list'>#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1525,9 +1525,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#yuv">YUV</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1556,9 +1556,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#yuv">YUV</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1587,9 +1587,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1618,9 +1618,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1649,8 +1649,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#youtube-8m">Youtube-8M</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#youtube-8m">Youtube-8M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1680,8 +1680,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
-<li><a href="datasets/<class 'list'>#mug">MUG</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#mug">MUG</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1709,8 +1709,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#bouncing_ball">Bouncing Ball</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#bouncing_ball">Bouncing Ball</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1738,9 +1738,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1770,7 +1770,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1797,10 +1797,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1829,8 +1829,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1859,7 +1859,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#atari">Atari</a></li>
+<li><a href="datasets/year_datasets.md#atari">Atari</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1894,9 +1894,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
-<li><a href="datasets/<class 'list'>#bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1925,8 +1925,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
-<li><a href="datasets/<class 'list'>#shapestack">ShapeStack</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#shapestack">ShapeStack</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1981,7 +1981,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2018,7 +2018,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2047,7 +2047,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2074,7 +2074,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2101,8 +2101,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2138,9 +2138,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
-<li><a href="datasets/<class 'list'>#bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2169,9 +2169,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
-<li><a href="datasets/<class 'list'>#uva-nemo">UvA-NEMO</a></li>
-<li><a href="datasets/<class 'list'>#mgif">MGIF</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
+<li><a href="datasets/year_datasets.md#mgif">MGIF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2206,7 +2206,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2233,8 +2233,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#youtube-8m">Youtube-8M</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#youtube-8m">Youtube-8M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2262,6 +2262,43 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
+<a name=bce></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Binary Cross Entropy (BCE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018.</strong> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.04166.pdf>arxiv</a> <a href=https://github.com/jthsieh/DDPAE-video-prediction>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#bouncing_ball">Bouncing Ball</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#mse">MSE</a></li>
+<li><a href="metrics.md#bce">BCE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Hsieh_2018_NeurIPS,
+    author = "Hsieh, Jun-Ting and Liu, Bingbin and Huang, De-An and Fei-Fei, Li F and Niebles, Juan Carlos",
+    title = "Learning To Decompose And Disentangle Representations For Video Prediction",
+    booktitle = "NeurIPS",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=is></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong></l>
@@ -2272,8 +2309,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2309,7 +2346,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2336,43 +2373,6 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=bce></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Binary Cross Entropy (BCE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018.</strong> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.04166.pdf>arxiv</a> <a href=https://github.com/jthsieh/DDPAE-video-prediction>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#mmnist">MMNIST</a></li>
-<li><a href="datasets/<class 'list'>#bouncing_ball">Bouncing Ball</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#mse">MSE</a></li>
-<li><a href="metrics.md#bce">BCE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hsieh_2018_NeurIPS,
-    author = "Hsieh, Jun-Ting and Liu, Bingbin and Huang, De-An and Fei-Fei, Li F and Niebles, Juan Carlos",
-    title = "Learning To Decompose And Disentangle Representations For Video Prediction",
-    booktitle = "NeurIPS",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=mmd></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Maximum Mean Discrepancy (MMD)</strong></l>
@@ -2383,8 +2383,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2422,7 +2422,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="datasets/year_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2449,8 +2449,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets/<class 'list'>#50salad">50Salad</a></li>
+<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2479,9 +2479,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="datasets/<class 'list'>#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2508,8 +2508,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets/<class 'list'>#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2537,9 +2537,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#uti">UTI</a></li>
-<li><a href="datasets/<class 'list'>#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2566,9 +2566,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#jhmdb">JHMDB</a></li>
-<li><a href="datasets/<class 'list'>#bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2595,8 +2595,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#breakfast">Breakfast</a></li>
-<li><a href="datasets/<class 'list'>#50salad">50Salad</a></li>
+<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2623,7 +2623,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#pie">PIE</a></li>
+<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2654,7 +2654,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2686,7 +2686,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2773,11 +2773,11 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#willow_action">Willow Action</a></li>
-<li><a href="datasets/<class 'list'>#wider">WIDER</a></li>
-<li><a href="datasets/<class 'list'>#stanford-40">Stanford-40</a></li>
-<li><a href="datasets/<class 'list'>#bu_action">BU Action</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="datasets/year_datasets.md#wider">WIDER</a></li>
+<li><a href="datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="datasets/year_datasets.md#bu_action">BU Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2805,9 +2805,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
-<li><a href="datasets/<class 'list'>#mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets/<class 'list'>#breakfast">Breakfast</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2836,7 +2836,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2864,8 +2864,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#breakfast">Breakfast</a></li>
-<li><a href="datasets/<class 'list'>#50salad">50Salad</a></li>
+<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2892,7 +2892,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#dad">DAD</a></li>
+<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2924,8 +2924,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#sbuki">SBUKI</a></li>
-<li><a href="datasets/<class 'list'>#ca">CA</a></li>
+<li><a href="datasets/year_datasets.md#sbuki">SBUKI</a></li>
+<li><a href="datasets/year_datasets.md#ca">CA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2952,8 +2952,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#pku-mmd">PKU-MMD</a></li>
-<li><a href="datasets/<class 'list'>#oad">OAD</a></li>
+<li><a href="datasets/year_datasets.md#pku-mmd">PKU-MMD</a></li>
+<li><a href="datasets/year_datasets.md#oad">OAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2980,9 +2980,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#uti">UTI</a></li>
-<li><a href="datasets/<class 'list'>#bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3009,8 +3009,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#gtea_gaze+">GTEA Gaze+</a></li>
-<li><a href="datasets/<class 'list'>#gtea_gaze">GTEA Gaze</a></li>
+<li><a href="datasets/year_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
+<li><a href="datasets/year_datasets.md#gtea_gaze">GTEA Gaze</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3037,9 +3037,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#uti">UTI</a></li>
-<li><a href="datasets/<class 'list'>#jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3066,8 +3066,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
-<li><a href="datasets/<class 'list'>#viena">VIENA</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#viena">VIENA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3123,7 +3123,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3179,8 +3179,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
-<li><a href="datasets/<class 'list'>#acticipate">ACTICIPATE</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#acticipate">ACTICIPATE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3208,8 +3208,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#hmdb">HMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#hmdb">HMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3236,8 +3236,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets/<class 'list'>#thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3264,8 +3264,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#cmu_mocap">CMU Mocap</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3292,9 +3292,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#bit">BIT</a></li>
-<li><a href="datasets/<class 'list'>#sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3349,9 +3349,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#uti">UTI</a></li>
-<li><a href="datasets/<class 'list'>#jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3406,8 +3406,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets/<class 'list'>#virat">VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3465,8 +3465,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3495,7 +3495,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3522,8 +3522,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets/<class 'list'>#thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3550,8 +3550,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="datasets/<class 'list'>#orgbd">ORGBD</a></li>
+<li><a href="datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="datasets/year_datasets.md#orgbd">ORGBD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3579,8 +3579,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#wnp">WnP</a></li>
-<li><a href="datasets/<class 'list'>#utka">UTKA</a></li>
+<li><a href="datasets/year_datasets.md#wnp">WnP</a></li>
+<li><a href="datasets/year_datasets.md#utka">UTKA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3607,7 +3607,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3696,7 +3696,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#oa">OA</a></li>
+<li><a href="datasets/year_datasets.md#oa">OA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3723,8 +3723,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3751,8 +3751,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#uti">UTI</a></li>
-<li><a href="datasets/<class 'list'>#bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3779,9 +3779,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#eth_pedestrian">ETH Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#daimler">Daimler</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#daimler">Daimler</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3838,7 +3838,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3866,7 +3866,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#fppa">FPPA</a></li>
+<li><a href="datasets/year_datasets.md#fppa">FPPA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3921,7 +3921,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#msrda">MSRDA</a></li>
+<li><a href="datasets/year_datasets.md#msrda">MSRDA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4034,7 +4034,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#daimler_path">Daimler Path</a></li>
+<li><a href="datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4069,8 +4069,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets/<class 'list'>#50salad">50Salad</a></li>
+<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4099,8 +4099,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets/<class 'list'>#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4128,8 +4128,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#youcook2">YouCook2</a></li>
-<li><a href="datasets/<class 'list'>#recipe1m">Recipe1M</a></li>
+<li><a href="datasets/year_datasets.md#youcook2">YouCook2</a></li>
+<li><a href="datasets/year_datasets.md#recipe1m">Recipe1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4156,7 +4156,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#pie">PIE</a></li>
+<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4187,7 +4187,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4216,7 +4216,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4248,7 +4248,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4278,9 +4278,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
-<li><a href="datasets/<class 'list'>#mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets/<class 'list'>#breakfast">Breakfast</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4309,7 +4309,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4368,7 +4368,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#dad">DAD</a></li>
+<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4429,8 +4429,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets/<class 'list'>#virat">VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4460,7 +4460,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4520,8 +4520,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
-<li><a href="datasets/<class 'list'>#brain4cars">Brain4Cars</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4551,7 +4551,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#brain4cars">Brain4Cars</a></li>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4580,7 +4580,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4641,7 +4641,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#brain4cars">Brain4Cars</a></li>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4679,8 +4679,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets/<class 'list'>#50salad">50Salad</a></li>
+<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4709,7 +4709,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#pie">PIE</a></li>
+<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4740,7 +4740,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4769,7 +4769,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4801,7 +4801,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4831,9 +4831,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
-<li><a href="datasets/<class 'list'>#mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets/<class 'list'>#breakfast">Breakfast</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4893,7 +4893,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#dad">DAD</a></li>
+<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4925,8 +4925,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets/<class 'list'>#virat">VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4956,7 +4956,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5016,8 +5016,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
-<li><a href="datasets/<class 'list'>#brain4cars">Brain4Cars</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5047,7 +5047,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#brain4cars">Brain4Cars</a></li>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5076,7 +5076,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5137,7 +5137,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#brain4cars">Brain4Cars</a></li>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5175,7 +5175,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#pie">PIE</a></li>
+<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5206,7 +5206,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5235,7 +5235,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5267,7 +5267,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#dad">DAD</a></li>
+<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5299,8 +5299,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
-<li><a href="datasets/<class 'list'>#acticipate">ACTICIPATE</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#acticipate">ACTICIPATE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5328,7 +5328,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5357,8 +5357,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
-<li><a href="datasets/<class 'list'>#brain4cars">Brain4Cars</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5388,7 +5388,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5457,7 +5457,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#actev/virat">ActEV/VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#actev/virat">ActEV/VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5484,11 +5484,11 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#willow_action">Willow Action</a></li>
-<li><a href="datasets/<class 'list'>#wider">WIDER</a></li>
-<li><a href="datasets/<class 'list'>#stanford-40">Stanford-40</a></li>
-<li><a href="datasets/<class 'list'>#bu_action">BU Action</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="datasets/year_datasets.md#wider">WIDER</a></li>
+<li><a href="datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="datasets/year_datasets.md#bu_action">BU Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5516,7 +5516,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#dad">DAD</a></li>
+<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5577,8 +5577,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#dad">DAD</a></li>
-<li><a href="datasets/<class 'list'>#epic-fail">Epic-Fail</a></li>
+<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
+<li><a href="datasets/year_datasets.md#epic-fail">Epic-Fail</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5606,8 +5606,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5636,7 +5636,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5663,9 +5663,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets/<class 'list'>#thumos">THUMOS</a></li>
-<li><a href="datasets/<class 'list'>#tv_series">TV Series</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#tv_series">TV Series</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5701,8 +5701,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#jhmdb">JHMDB</a></li>
-<li><a href="datasets/<class 'list'>#ava">AVA</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ava">AVA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5729,7 +5729,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5761,7 +5761,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5857,7 +5857,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5916,8 +5916,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cad-120">CAD-120</a></li>
-<li><a href="datasets/<class 'list'>#brain4cars">Brain4Cars</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5947,7 +5947,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#brain4cars">Brain4Cars</a></li>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5976,7 +5976,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#brain4cars">Brain4Cars</a></li>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6014,7 +6014,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#pie">PIE</a></li>
+<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6045,8 +6045,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6075,9 +6075,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#eth_pedestrian">ETH Pedestrian</a></li>
-<li><a href="datasets/<class 'list'>#daimler">Daimler</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#daimler">Daimler</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6113,8 +6113,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets/<class 'list'>#virat">VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6144,7 +6144,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6198,6 +6198,74 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
+<a name=run_time></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Run Time</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8794278>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#accuracy">Accuracy</a></li>
+<li><a href="metrics.md#recall">Recall</a></li>
+<li><a href="metrics.md#precision">Precision</a></li>
+<li><a href="metrics.md#f1">F1</a></li>
+<li><a href="metrics.md#ap">AP</a></li>
+<li><a href="metrics.md#run_time">Run Time</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Gujjar_2019_ICRA,
+    author = "Gujjar, P. and Vaughan, R.",
+    booktitle = "ICRA",
+    title = "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Saleh et al., "Real-Time Intent Prediction Of Pedestrians For Autonomous Ground Vehicles Via Spatio-Temporal Densenet", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793991>paper</a> <a href=https://arxiv.org/pdf/1904.09862.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#ap">AP</a></li>
+<li><a href="metrics.md#run_time">Run Time</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Saleh_2019_ICRA,
+    author = "Saleh, K. and Hossny, M. and Nahavandi, S.",
+    booktitle = "ICRA",
+    title = "Real-Time Intent Prediction Of Pedestrians For Autonomous Ground Vehicles Via Spatio-Temporal Densenet",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=tta></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Time To Accident (TTA)</strong></l>
@@ -6239,8 +6307,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#dad">DAD</a></li>
-<li><a href="datasets/<class 'list'>#epic-fail">Epic-Fail</a></li>
+<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
+<li><a href="datasets/year_datasets.md#epic-fail">Epic-Fail</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6257,74 +6325,6 @@ By clicking on each metric you can see the list of papers that used that metric.
     title = "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization",
     booktitle = "CVPR",
     year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=run_time></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8794278>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#accuracy">Accuracy</a></li>
-<li><a href="metrics.md#recall">Recall</a></li>
-<li><a href="metrics.md#precision">Precision</a></li>
-<li><a href="metrics.md#f1">F1</a></li>
-<li><a href="metrics.md#ap">AP</a></li>
-<li><a href="metrics.md#run_time">Run Time</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Gujjar_2019_ICRA,
-    author = "Gujjar, P. and Vaughan, R.",
-    booktitle = "ICRA",
-    title = "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Saleh et al., "Real-Time Intent Prediction Of Pedestrians For Autonomous Ground Vehicles Via Spatio-Temporal Densenet", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793991>paper</a> <a href=https://arxiv.org/pdf/1904.09862.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#ap">AP</a></li>
-<li><a href="metrics.md#run_time">Run Time</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Saleh_2019_ICRA,
-    author = "Saleh, K. and Hossny, M. and Nahavandi, S.",
-    booktitle = "ICRA",
-    title = "Real-Time Intent Prediction Of Pedestrians For Autonomous Ground Vehicles Via Spatio-Temporal Densenet",
-    year = "2019"
 }
 </pre>
 </details>
@@ -6372,32 +6372,34 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=mrr></a>
+<a name=tnr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Miss Rate (MRR)</strong></l>
+<summary><em><l style="font-size:20px"><strong>TNR</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Xu et al., "Activity Auto-Completion: Predicting Human Activities From Partial Videos", ICCV, 2015.</strong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Activity_Auto-Completion_Predicting_ICCV_2015_paper.pdf>paper</a></summary>
+<summary><strong>Volz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015.</strong> <a href=https://ieeexplore.ieee.org/document/7313236>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#uti">UTI</a></li>
+<li>Custom</li>
+
 </ul>
 
 <em>Metrics</em>
 <ul>
 <li><a href="metrics.md#accuracy">Accuracy</a></li>
-<li><a href="metrics.md#mrr">MRR</a></li>
+<li><a href="metrics.md#tnr">TNR</a></li>
+<li><a href="metrics.md#tpr">TPR</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Xu_2015_ICCV,
-    author = "Xu, Zhen and Qing, Laiyun and Miao, Jun",
-    title = "Activity Auto-Completion: Predicting Human Activities From Partial Videos",
-    booktitle = "ICCV",
+@InProceedings{Volz_2015_ITSC,
+    author = "Volz, Benjamin and Mielenz, Holger and Agamennoni, Gabriel and Siegwart, Roland",
+    title = "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks",
+    booktitle = "ITSC",
     year = "2015"
 }
 </pre>
@@ -6408,75 +6410,32 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=attc></a>
+<a name=pp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ATTC</strong></l>
+<summary><em><l style="font-size:20px"><strong>Prediction Power (PP)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", The CVPR, 2018.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02675.pdf>arxiv</a></summary>
+<summary><strong>Ziaeetabar et al., "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning", IROS, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8593717>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#dad">DAD</a></li>
+<li><a href="datasets/year_datasets.md#maniac">MANIAC</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#accuracy">Accuracy</a></li>
-<li><a href="metrics.md#recall">Recall</a></li>
-<li><a href="metrics.md#precision">Precision</a></li>
-<li><a href="metrics.md#f1">F1</a></li>
-<li><a href="metrics.md#map">mAP</a></li>
-<li><a href="metrics.md#attc">ATTC</a></li>
+<li><a href="metrics.md#pp">PP</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Suzuki_2018_CVPR,
-    author = "Suzuki, Tomoyuki and Kataoka, Hirokatsu and Aoki, Yoshimitsu and Satoh, Yutaka",
-    title = "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db",
-    booktitle = "The CVPR",
+@InProceedings{Ziaeetabar_2018_IROS,
+    author = "Ziaeetabar, F. and Kulvicius, T. and Tamosiunaite, M. and Wörgötter, F.",
+    booktitle = "IROS",
+    title = "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning",
     year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=fp></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>False positive (FP)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Jain et al., "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models", ICCV, 2015.</strong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1504.02789.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#brain4cars">Brain4Cars</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#recall">Recall</a></li>
-<li><a href="metrics.md#precision">Precision</a></li>
-<li><a href="metrics.md#ttm">TTM</a></li>
-<li><a href="metrics.md#fp">FP</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Jain_2015_ICCV,
-    author = "Jain, Ashesh and Koppula, Hema S. and Raghavan, Bharad and Soh, Shane and Saxena, Ashutosh",
-    title = "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models",
-    booktitle = "ICCV",
-    year = "2015"
 }
 </pre>
 </details>
@@ -6523,31 +6482,145 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=pp></a>
+<a name=mrr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Prediction Power (PP)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Miss Rate (MRR)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Ziaeetabar et al., "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning", IROS, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8593717>paper</a></summary>
+<summary><strong>Xu et al., "Activity Auto-Completion: Predicting Human Activities From Partial Videos", ICCV, 2015.</strong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Activity_Auto-Completion_Predicting_ICCV_2015_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#maniac">MANIAC</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#pp">PP</a></li>
+<li><a href="metrics.md#accuracy">Accuracy</a></li>
+<li><a href="metrics.md#mrr">MRR</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Ziaeetabar_2018_IROS,
-    author = "Ziaeetabar, F. and Kulvicius, T. and Tamosiunaite, M. and Wörgötter, F.",
+@InProceedings{Xu_2015_ICCV,
+    author = "Xu, Zhen and Qing, Laiyun and Miao, Jun",
+    title = "Activity Auto-Completion: Predicting Human Activities From Partial Videos",
+    booktitle = "ICCV",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=fp></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>False positive (FP)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Jain et al., "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models", ICCV, 2015.</strong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1504.02789.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#recall">Recall</a></li>
+<li><a href="metrics.md#precision">Precision</a></li>
+<li><a href="metrics.md#ttm">TTM</a></li>
+<li><a href="metrics.md#fp">FP</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Jain_2015_ICCV,
+    author = "Jain, Ashesh and Koppula, Hema S. and Raghavan, Bharad and Soh, Shane and Saxena, Ashutosh",
+    title = "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models",
+    booktitle = "ICCV",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=mae></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Manglik et al., "Forecasting Time-To-Collision From Monocular Video: Feasibility, Dataset, And Challenges", IROS, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8967730>paper</a> <a href=https://arxiv.org/pdf/1903.09102.pdf>arxiv</a> <a href=https://github.com/aashi7/NearCollision>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#luggage">Luggage</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#mae">MAE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Manglik_2019_IROS,
+    author = "Manglik, Aashi and Weng, Xinshuo and Ohn-Bar, Eshed and Kitani, Kris M",
     booktitle = "IROS",
-    title = "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning",
+    title = "Forecasting Time-To-Collision From Monocular Video: Feasibility, Dataset, And Challenges",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=attc></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>ATTC</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", The CVPR, 2018.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02675.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#accuracy">Accuracy</a></li>
+<li><a href="metrics.md#recall">Recall</a></li>
+<li><a href="metrics.md#precision">Precision</a></li>
+<li><a href="metrics.md#f1">F1</a></li>
+<li><a href="metrics.md#map">mAP</a></li>
+<li><a href="metrics.md#attc">ATTC</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Suzuki_2018_CVPR,
+    author = "Suzuki, Tomoyuki and Kataoka, Hirokatsu and Aoki, Yoshimitsu and Satoh, Yutaka",
+    title = "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db",
+    booktitle = "The CVPR",
     year = "2018"
 }
 </pre>
@@ -6568,9 +6641,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets/<class 'list'>#thumos">THUMOS</a></li>
-<li><a href="datasets/<class 'list'>#tv_series">TV Series</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#tv_series">TV Series</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6596,79 +6669,6 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=tnr></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>TNR</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Volz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015.</strong> <a href=https://ieeexplore.ieee.org/document/7313236>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#accuracy">Accuracy</a></li>
-<li><a href="metrics.md#tnr">TNR</a></li>
-<li><a href="metrics.md#tpr">TPR</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Volz_2015_ITSC,
-    author = "Volz, Benjamin and Mielenz, Holger and Agamennoni, Gabriel and Siegwart, Roland",
-    title = "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks",
-    booktitle = "ITSC",
-    year = "2015"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=mae></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Manglik et al., "Forecasting Time-To-Collision From Monocular Video: Feasibility, Dataset, And Challenges", IROS, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8967730>paper</a> <a href=https://arxiv.org/pdf/1903.09102.pdf>arxiv</a> <a href=https://github.com/aashi7/NearCollision>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#luggage">Luggage</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#mae">MAE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Manglik_2019_IROS,
-    author = "Manglik, Aashi and Weng, Xinshuo and Ohn-Bar, Eshed and Kitani, Kris M",
-    booktitle = "IROS",
-    title = "Forecasting Time-To-Collision From Monocular Video: Feasibility, Dataset, And Challenges",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 </ul><a name=metrics_trajectory></a>
 <h2 style="color:#30bd19">  Trajectory Prediction </h2><a href=#top>&uarr; top</a>
 <ul><a name=ade></a>
@@ -6681,8 +6681,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
-<li><a href="datasets/<class 'list'>#traf">TRAF</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#traf">TRAF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6740,9 +6740,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#actev/virat">ActEV/VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#actev/virat">ActEV/VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6770,8 +6770,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6799,8 +6799,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6828,10 +6828,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6860,8 +6860,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
-<li><a href="datasets/<class 'list'>#vpm">VPM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#vpm">VPM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6889,9 +6889,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6919,8 +6919,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6948,8 +6948,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
-<li><a href="datasets/<class 'list'>#pie">PIE</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6977,8 +6977,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7063,7 +7063,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7090,8 +7090,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7120,7 +7120,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7147,10 +7147,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
-<li><a href="datasets/<class 'list'>#interaction">INTERACTION</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7178,9 +7178,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
-<li><a href="datasets/<class 'list'>#oxford">Oxford</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#oxford">Oxford</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7235,8 +7235,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7326,8 +7326,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#eifp">EIFP</a></li>
-<li><a href="datasets/<class 'list'>#lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="datasets/year_datasets.md#eifp">EIFP</a></li>
+<li><a href="datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7355,10 +7355,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
-<li><a href="datasets/<class 'list'>#pets2009">PETS2009</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7386,7 +7386,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mot">MOT</a></li>
+<li><a href="datasets/year_datasets.md#mot">MOT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7413,7 +7413,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cityperson">CityPerson</a></li>
+<li><a href="datasets/year_datasets.md#cityperson">CityPerson</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7441,8 +7441,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7470,8 +7470,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#town_center">Town Center</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7499,8 +7499,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#sbuki">SBUKI</a></li>
-<li><a href="datasets/<class 'list'>#ca">CA</a></li>
+<li><a href="datasets/year_datasets.md#sbuki">SBUKI</a></li>
+<li><a href="datasets/year_datasets.md#ca">CA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7527,10 +7527,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#gc">GC</a></li>
-<li><a href="datasets/<class 'list'>#chuk">CHUK</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#chuk">CHUK</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7589,8 +7589,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7619,8 +7619,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#strands">STRANDS</a></li>
-<li><a href="datasets/<class 'list'>#l-cas">L-CAS</a></li>
+<li><a href="datasets/year_datasets.md#strands">STRANDS</a></li>
+<li><a href="datasets/year_datasets.md#l-cas">L-CAS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7648,8 +7648,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7735,8 +7735,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#town_center">Town Center</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7765,8 +7765,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7794,7 +7794,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7851,8 +7851,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7881,8 +7881,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#gc">GC</a></li>
-<li><a href="datasets/<class 'list'>#qmul">QMUL</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#qmul">QMUL</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7910,8 +7910,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7939,7 +7939,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7968,7 +7968,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#virat">VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8025,7 +8025,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#daimler_path">Daimler Path</a></li>
+<li><a href="datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8061,8 +8061,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
-<li><a href="datasets/<class 'list'>#traf">TRAF</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#traf">TRAF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8090,9 +8090,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#actev/virat">ActEV/VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#actev/virat">ActEV/VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8120,8 +8120,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8149,8 +8149,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8178,10 +8178,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8210,8 +8210,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
-<li><a href="datasets/<class 'list'>#vpm">VPM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#vpm">VPM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8239,9 +8239,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8269,8 +8269,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8298,8 +8298,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
-<li><a href="datasets/<class 'list'>#pie">PIE</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8327,8 +8327,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8385,8 +8385,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8415,10 +8415,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
-<li><a href="datasets/<class 'list'>#interaction">INTERACTION</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8446,8 +8446,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8537,8 +8537,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#eifp">EIFP</a></li>
-<li><a href="datasets/<class 'list'>#lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="datasets/year_datasets.md#eifp">EIFP</a></li>
+<li><a href="datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8566,10 +8566,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
-<li><a href="datasets/<class 'list'>#pets2009">PETS2009</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8597,8 +8597,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8626,8 +8626,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#town_center">Town Center</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8655,10 +8655,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#gc">GC</a></li>
-<li><a href="datasets/<class 'list'>#chuk">CHUK</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#chuk">CHUK</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8687,8 +8687,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8717,8 +8717,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8746,8 +8746,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#town_center">Town Center</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8776,8 +8776,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8805,8 +8805,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8835,7 +8835,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8872,7 +8872,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#eifp">EIFP</a></li>
+<li><a href="datasets/year_datasets.md#eifp">EIFP</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8955,7 +8955,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8982,8 +8982,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9069,7 +9069,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#tum_kitchen">TUM Kitchen</a></li>
+<li><a href="datasets/year_datasets.md#tum_kitchen">TUM Kitchen</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9096,8 +9096,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#gc">GC</a></li>
-<li><a href="datasets/<class 'list'>#mitt">MITT</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#mitt">MITT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9125,7 +9125,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#daimler_path">Daimler Path</a></li>
+<li><a href="datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9192,7 +9192,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cityperson">CityPerson</a></li>
+<li><a href="datasets/year_datasets.md#cityperson">CityPerson</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9249,8 +9249,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#town_center">Town Center</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9278,7 +9278,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#virat">VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9307,7 +9307,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#osu">OSU</a></li>
+<li><a href="datasets/year_datasets.md#osu">OSU</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9346,7 +9346,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#carla">CARLA</a></li>
+<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9374,7 +9374,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#atc">ATC</a></li>
+<li><a href="datasets/year_datasets.md#atc">ATC</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9432,7 +9432,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#virat">VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9461,8 +9461,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#gc">GC</a></li>
-<li><a href="datasets/<class 'list'>#mitt">MITT</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#mitt">MITT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9488,6 +9488,133 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
+<a name=minade></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>minADE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.02620.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#argoverse">ARGOVerse</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#minade">minADE</a></li>
+<li><a href="metrics.md#minfde">minFDE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Chang_2019_CVPR,
+    author = "Chang, Ming-Fang and Lambert, John and Sangkloy, Patsorn and Singh, Jagjeet and Bak, Slawomir and Hartnett, Andrew and Wang, De and Carr, Peter and Lucey, Simon and Ramanan, Deva and Hays, James",
+    title = "Argoverse: 3D Tracking And Forecasting With Rich Maps",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#minade">minADE</a></li>
+<li><a href="metrics.md#minfde">minFDE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Li_2019_CVPR,
+    author = "Li, Yuke",
+    title = "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Anderson et al., "Stochastic Sampling Simulation For Pedestrian Trajectory Prediction", IROS, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8967857>paper</a> <a href=https://arxiv.org/pdf/1903.01860.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#ade">ADE</a></li>
+<li><a href="metrics.md#fde">FDE</a></li>
+<li><a href="metrics.md#minade">minADE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Anderson_2019_IROS,
+    author = "Anderson, Cyrus and Du, Xiaoxiao and Vasudevan, Ram and Johnson-Roberson, Matthew",
+    booktitle = "IROS",
+    title = "Stochastic Sampling Simulation For Pedestrian Trajectory Prediction",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Chai et al., "Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction", CoRL, 2019.</strong> <a href=http://proceedings.mlr.press/v100/chai20a/chai20a.pdf>paper</a> <a href=https://arxiv.org/pdf/1910.05449.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#ade">ADE</a></li>
+<li><a href="metrics.md#fde">FDE</a></li>
+<li><a href="metrics.md#minade">minADE</a></li>
+<li><a href="metrics.md#ll">LL</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Chai_2019_CORL,
+    author = "Chai, Yuning and Sapp, Benjamin and Bansal, Mayank and Anguelov, Dragomir",
+    title = "Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction",
+    booktitle = "CoRL",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=ll></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Log-Likelihood (LL)</strong></l>
@@ -9498,8 +9625,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9526,7 +9653,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9612,230 +9739,6 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=minade></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>minADE</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.02620.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#argoverse">ARGOVerse</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#minade">minADE</a></li>
-<li><a href="metrics.md#minfde">minFDE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chang_2019_CVPR,
-    author = "Chang, Ming-Fang and Lambert, John and Sangkloy, Patsorn and Singh, Jagjeet and Bak, Slawomir and Hartnett, Andrew and Wang, De and Carr, Peter and Lucey, Simon and Ramanan, Deva and Hays, James",
-    title = "Argoverse: 3D Tracking And Forecasting With Rich Maps",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#minade">minADE</a></li>
-<li><a href="metrics.md#minfde">minFDE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Li_2019_CVPR,
-    author = "Li, Yuke",
-    title = "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Anderson et al., "Stochastic Sampling Simulation For Pedestrian Trajectory Prediction", IROS, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8967857>paper</a> <a href=https://arxiv.org/pdf/1903.01860.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#ade">ADE</a></li>
-<li><a href="metrics.md#fde">FDE</a></li>
-<li><a href="metrics.md#minade">minADE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Anderson_2019_IROS,
-    author = "Anderson, Cyrus and Du, Xiaoxiao and Vasudevan, Ram and Johnson-Roberson, Matthew",
-    booktitle = "IROS",
-    title = "Stochastic Sampling Simulation For Pedestrian Trajectory Prediction",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Chai et al., "Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction", CoRL, 2019.</strong> <a href=http://proceedings.mlr.press/v100/chai20a/chai20a.pdf>paper</a> <a href=https://arxiv.org/pdf/1910.05449.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#ade">ADE</a></li>
-<li><a href="metrics.md#fde">FDE</a></li>
-<li><a href="metrics.md#minade">minADE</a></li>
-<li><a href="metrics.md#ll">LL</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chai_2019_CORL,
-    author = "Chai, Yuning and Sapp, Benjamin and Bansal, Mayank and Anguelov, Dragomir",
-    title = "Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction",
-    booktitle = "CoRL",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=kld></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Tang et al., "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8794130>paper</a> <a href=https://arxiv.org/pdf/1911.04597.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#ll">LL</a></li>
-<li><a href="metrics.md#kld">KLD</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Tang_2019_ICRA,
-    author = "Tang, C. and Chen, J. and Tomizuka, M.",
-    booktitle = "ICRA",
-    title = "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Solaimanpour et al., "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings", ICRA, 2017.</strong> <a href=https://ieeexplore.ieee.org/document/7989097>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#ade">ADE</a></li>
-<li><a href="metrics.md#kld">KLD</a></li>
-<li><a href="metrics.md#accuracy">Accuracy</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Solaimanpour_2017_ICRA,
-    author = "Solaimanpour, S. and Doshi, P.",
-    booktitle = "ICRA",
-    title = "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016.</strong> <a href=https://ieeexplore.ieee.org/document/7477732>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#osu">OSU</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#nll">NLL</a></li>
-<li><a href="metrics.md#kld">KLD</a></li>
-<li><a href="metrics.md#mhd">MHD</a></li>
-<li><a href="metrics.md#mse">MSE</a></li>
-<li><a href="metrics.md#dtg">DtG</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Lee_2016_WACV,
-    author = "Lee, N. and Kitani, K. M.",
-    booktitle = "WACV",
-    title = "Predicting Wide Receiver Trajectories In American Football",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=mhd></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Modified Hausdorff Distance (MHD)</strong></l>
@@ -9846,7 +9749,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#atc">ATC</a></li>
+<li><a href="datasets/year_datasets.md#atc">ATC</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9904,7 +9807,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#osu">OSU</a></li>
+<li><a href="datasets/year_datasets.md#osu">OSU</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9933,6 +9836,237 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
+<a name=kld></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Tang et al., "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8794130>paper</a> <a href=https://arxiv.org/pdf/1911.04597.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#ll">LL</a></li>
+<li><a href="metrics.md#kld">KLD</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Tang_2019_ICRA,
+    author = "Tang, C. and Chen, J. and Tomizuka, M.",
+    booktitle = "ICRA",
+    title = "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Solaimanpour et al., "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings", ICRA, 2017.</strong> <a href=https://ieeexplore.ieee.org/document/7989097>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#ade">ADE</a></li>
+<li><a href="metrics.md#kld">KLD</a></li>
+<li><a href="metrics.md#accuracy">Accuracy</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Solaimanpour_2017_ICRA,
+    author = "Solaimanpour, S. and Doshi, P.",
+    booktitle = "ICRA",
+    title = "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016.</strong> <a href=https://ieeexplore.ieee.org/document/7477732>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#osu">OSU</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#nll">NLL</a></li>
+<li><a href="metrics.md#kld">KLD</a></li>
+<li><a href="metrics.md#mhd">MHD</a></li>
+<li><a href="metrics.md#mse">MSE</a></li>
+<li><a href="metrics.md#dtg">DtG</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lee_2016_WACV,
+    author = "Lee, N. and Kitani, K. M.",
+    booktitle = "WACV",
+    title = "Predicting Wide Receiver Trajectories In American Football",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=rmse></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Zhao et al., "Multi-Agent Tensor Fusion For Contextual Trajectory Prediction", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Multi-Agent_Tensor_Fusion_for_Contextual_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.04776.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#ade">ADE</a></li>
+<li><a href="metrics.md#fde">FDE</a></li>
+<li><a href="metrics.md#rmse">RMSE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhao_2019_CVPR,
+    author = "Zhao, Tianyang and Xu, Yifei and Monfort, Mathew and Choi, Wongun and Baker, Chris and Zhao, Yibiao and Wang, Yizhou and Wu, Ying Nian",
+    title = "Multi-Agent Tensor Fusion For Contextual Trajectory Prediction",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Ding et al., "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793568>paper</a> <a href=https://arxiv.org/pdf/1903.00847.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#run_time">Run Time</a></li>
+<li><a href="metrics.md#rmse">RMSE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ding_2019_ICRA_2,
+    author = "Ding, W. and Shen, S.",
+    booktitle = "ICRA",
+    title = "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=nlp></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Probability (NLP)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8460527>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#atc">ATC</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#run_time">Run Time</a></li>
+<li><a href="metrics.md#mhd">MHD</a></li>
+<li><a href="metrics.md#nlp">NLP</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rudenko_2018_ICRA,
+    author = "Rudenko, A. and Palmieri, L. and Arras, K. O.",
+    booktitle = "ICRA",
+    title = "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Rudenko et al., "Human Motion Prediction Under Social Grouping Constraints", IROS, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8594258>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#mhd">MHD</a></li>
+<li><a href="metrics.md#nlp">NLP</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rudenko_2018_IROS,
+    author = "Rudenko, A. and Palmieri, L. and Lilienthal, A. J. and Arras, K. O.",
+    booktitle = "IROS",
+    title = "Human Motion Prediction Under Social Grouping Constraints",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=accuracy></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Accuracy</strong></l>
@@ -9943,7 +10077,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#fm">FM</a></li>
+<li><a href="datasets/year_datasets.md#fm">FM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9998,35 +10132,34 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=miss_rate></a>
+<a name=meanmsd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Miss rate</strong></l>
+<summary><em><l style="font-size:20px"><strong>mean Mean Square Displacemen (meanMSD)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Felsen et al., "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf>paper</a></summary>
+<summary><strong>Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.01296.pdf>arxiv</a> <a href=https://sites.google.com/view/precog>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li>Custom</li>
-
+<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
+<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#ade">ADE</a></li>
-<li><a href="metrics.md#miss_rate">Miss rate</a></li>
-<li><a href="metrics.md#maxd">maxD</a></li>
+<li><a href="metrics.md#meanmsd">meanMSD</a></li>
+<li><a href="metrics.md#minmsd">minMSD</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Felsen_2018_ECCV,
-    author = "Felsen, Panna and Lucey, Patrick and Ganguly, Sujoy",
-    title = "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders",
-    booktitle = "ECCV",
-    year = "2018"
+@InProceedings{Rhinehart_2019_ICCV,
+    author = "Rhinehart, Nicholas and McAllister, Rowan and Kitani, Kris and Levine, Sergey",
+    title = "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings",
+    booktitle = "ICCV",
+    year = "2019"
 }
 </pre>
 </details>
@@ -10034,30 +10167,28 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 <details close>
-<summary><strong>Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.04394.pdf>arxiv</a> <a href=https://github.com/yadrimz/DESIRE>code</a></summary>
+<summary><strong>Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#ed">ED</a></li>
-<li><a href="metrics.md#mined">minED</a></li>
-<li><a href="metrics.md#maxd">maxD</a></li>
-<li><a href="metrics.md#miss_rate">Miss rate</a></li>
+<li><a href="metrics.md#meanmsd">meanMSD</a></li>
+<li><a href="metrics.md#minmsd">minMSD</a></li>
+<li><a href="metrics.md#ce">CE</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Lee_2017_CVPR,
-    author = "Lee, Namhoon and Choi, Wongun and Vernaza, Paul and Choy, Christopher B. and Torr, Philip H. S. and Chandraker, Manmohan",
-    title = "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
-    booktitle = "CVPR",
-    year = "2017"
+@InProceedings{Rhinehart_2018_ECCV,
+    author = "Rhinehart, Nicholas and Kitani, Kris M. and Vernaza, Paul",
+    title = "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting",
+    booktitle = "ECCV",
+    year = "2018"
 }
 </pre>
 </details>
@@ -10133,141 +10264,6 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=mined></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>minED</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.08945.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#ade">ADE</a></li>
-<li><a href="metrics.md#hit_rate">Hit Rate</a></li>
-<li><a href="metrics.md#mined">minED</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hong_2019_CVPR,
-    author = "Hong, Joey and Sapp, Benjamin and Philbin, James",
-    title = "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.04394.pdf>arxiv</a> <a href=https://github.com/yadrimz/DESIRE>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#ed">ED</a></li>
-<li><a href="metrics.md#mined">minED</a></li>
-<li><a href="metrics.md#maxd">maxD</a></li>
-<li><a href="metrics.md#miss_rate">Miss rate</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Lee_2017_CVPR,
-    author = "Lee, Namhoon and Choi, Wongun and Vernaza, Paul and Choy, Christopher B. and Torr, Philip H. S. and Chandraker, Manmohan",
-    title = "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
-    booktitle = "CVPR",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=minfde></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>minFDE</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.02620.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#argoverse">ARGOVerse</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#minade">minADE</a></li>
-<li><a href="metrics.md#minfde">minFDE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chang_2019_CVPR,
-    author = "Chang, Ming-Fang and Lambert, John and Sangkloy, Patsorn and Singh, Jagjeet and Bak, Slawomir and Hartnett, Andrew and Wang, De and Carr, Peter and Lucey, Simon and Ramanan, Deva and Hays, James",
-    title = "Argoverse: 3D Tracking And Forecasting With Rich Maps",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#minade">minADE</a></li>
-<li><a href="metrics.md#minfde">minFDE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Li_2019_CVPR,
-    author = "Li, Yuke",
-    title = "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=maxd></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>maxD</strong></l>
@@ -10308,8 +10304,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10337,42 +10333,13 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=nlp></a>
+<a name=miss_rate></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Probability (NLP)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Miss rate</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8460527>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#atc">ATC</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#run_time">Run Time</a></li>
-<li><a href="metrics.md#mhd">MHD</a></li>
-<li><a href="metrics.md#nlp">NLP</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rudenko_2018_ICRA,
-    author = "Rudenko, A. and Palmieri, L. and Arras, K. O.",
-    booktitle = "ICRA",
-    title = "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Rudenko et al., "Human Motion Prediction Under Social Grouping Constraints", IROS, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8594258>paper</a></summary>
+<summary><strong>Felsen et al., "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -10382,18 +10349,50 @@ By clicking on each metric you can see the list of papers that used that metric.
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#mhd">MHD</a></li>
-<li><a href="metrics.md#nlp">NLP</a></li>
+<li><a href="metrics.md#ade">ADE</a></li>
+<li><a href="metrics.md#miss_rate">Miss rate</a></li>
+<li><a href="metrics.md#maxd">maxD</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Rudenko_2018_IROS,
-    author = "Rudenko, A. and Palmieri, L. and Lilienthal, A. J. and Arras, K. O.",
-    booktitle = "IROS",
-    title = "Human Motion Prediction Under Social Grouping Constraints",
+@InProceedings{Felsen_2018_ECCV,
+    author = "Felsen, Panna and Lucey, Patrick and Ganguly, Sujoy",
+    title = "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders",
+    booktitle = "ECCV",
     year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.04394.pdf>arxiv</a> <a href=https://github.com/yadrimz/DESIRE>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#ed">ED</a></li>
+<li><a href="metrics.md#mined">minED</a></li>
+<li><a href="metrics.md#maxd">maxD</a></li>
+<li><a href="metrics.md#miss_rate">Miss rate</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lee_2017_CVPR,
+    author = "Lee, Namhoon and Choi, Wongun and Vernaza, Paul and Choy, Christopher B. and Torr, Philip H. S. and Chandraker, Manmohan",
+    title = "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
+    booktitle = "CVPR",
+    year = "2017"
 }
 </pre>
 </details>
@@ -10442,7 +10441,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#osu">OSU</a></li>
+<li><a href="datasets/year_datasets.md#osu">OSU</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10481,10 +10480,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#gc">GC</a></li>
-<li><a href="datasets/<class 'list'>#chuk">CHUK</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#chuk">CHUK</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10513,8 +10512,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10541,33 +10540,34 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=meanmsd></a>
+<a name=mined></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>mean Mean Square Displacemen (meanMSD)</strong></l>
+<summary><em><l style="font-size:20px"><strong>minED</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.01296.pdf>arxiv</a> <a href=https://sites.google.com/view/precog>code</a></summary>
+<summary><strong>Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.08945.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#carla">CARLA</a></li>
-<li><a href="datasets/<class 'list'>#nuscenes">nuScenes</a></li>
+<li>Custom</li>
+
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#meanmsd">meanMSD</a></li>
-<li><a href="metrics.md#minmsd">minMSD</a></li>
+<li><a href="metrics.md#ade">ADE</a></li>
+<li><a href="metrics.md#hit_rate">Hit Rate</a></li>
+<li><a href="metrics.md#mined">minED</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Rhinehart_2019_ICCV,
-    author = "Rhinehart, Nicholas and McAllister, Rowan and Kitani, Kris and Levine, Sergey",
-    title = "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings",
-    booktitle = "ICCV",
+@InProceedings{Hong_2019_CVPR,
+    author = "Hong, Joey and Sapp, Benjamin and Philbin, James",
+    title = "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions",
+    booktitle = "CVPR",
     year = "2019"
 }
 </pre>
@@ -10576,28 +10576,30 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 <details close>
-<summary><strong>Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf>paper</a></summary>
+<summary><strong>Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.04394.pdf>arxiv</a> <a href=https://github.com/yadrimz/DESIRE>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#meanmsd">meanMSD</a></li>
-<li><a href="metrics.md#minmsd">minMSD</a></li>
-<li><a href="metrics.md#ce">CE</a></li>
+<li><a href="metrics.md#ed">ED</a></li>
+<li><a href="metrics.md#mined">minED</a></li>
+<li><a href="metrics.md#maxd">maxD</a></li>
+<li><a href="metrics.md#miss_rate">Miss rate</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Rhinehart_2018_ECCV,
-    author = "Rhinehart, Nicholas and Kitani, Kris M. and Vernaza, Paul",
-    title = "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting",
-    booktitle = "ECCV",
-    year = "2018"
+@InProceedings{Lee_2017_CVPR,
+    author = "Lee, Namhoon and Choi, Wongun and Vernaza, Paul and Choy, Christopher B. and Torr, Philip H. S. and Chandraker, Manmohan",
+    title = "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
+    booktitle = "CVPR",
+    year = "2017"
 }
 </pre>
 </details>
@@ -10617,8 +10619,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#carla">CARLA</a></li>
-<li><a href="datasets/<class 'list'>#nuscenes">nuScenes</a></li>
+<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
+<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10646,7 +10648,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10673,35 +10675,31 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=rmse></a>
+<a name=minfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>minFDE</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Zhao et al., "Multi-Agent Tensor Fusion For Contextual Trajectory Prediction", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Multi-Agent_Tensor_Fusion_for_Contextual_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.04776.pdf>arxiv</a></summary>
+<summary><strong>Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.02620.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#eth">ETH</a></li>
-<li><a href="datasets/<class 'list'>#ngsim">NGSIM</a></li>
-<li><a href="datasets/<class 'list'>#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#argoverse">ARGOVerse</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#ade">ADE</a></li>
-<li><a href="metrics.md#fde">FDE</a></li>
-<li><a href="metrics.md#rmse">RMSE</a></li>
+<li><a href="metrics.md#minade">minADE</a></li>
+<li><a href="metrics.md#minfde">minFDE</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Zhao_2019_CVPR,
-    author = "Zhao, Tianyang and Xu, Yifei and Monfort, Mathew and Choi, Wongun and Baker, Chris and Zhao, Yibiao and Wang, Yizhou and Wu, Ying Nian",
-    title = "Multi-Agent Tensor Fusion For Contextual Trajectory Prediction",
+@InProceedings{Chang_2019_CVPR,
+    author = "Chang, Ming-Fang and Lambert, John and Sangkloy, Patsorn and Singh, Jagjeet and Bak, Slawomir and Hartnett, Andrew and Wang, De and Carr, Peter and Lucey, Simon and Ramanan, Deva and Hays, James",
+    title = "Argoverse: 3D Tracking And Forecasting With Rich Maps",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -10711,65 +10709,29 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 <details close>
-<summary><strong>Ding et al., "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793568>paper</a> <a href=https://arxiv.org/pdf/1903.00847.pdf>arxiv</a></summary>
+<summary><strong>Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#carla">CARLA</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#run_time">Run Time</a></li>
-<li><a href="metrics.md#rmse">RMSE</a></li>
+<li><a href="metrics.md#minade">minADE</a></li>
+<li><a href="metrics.md#minfde">minFDE</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Ding_2019_ICRA_2,
-    author = "Ding, W. and Shen, S.",
-    booktitle = "ICRA",
-    title = "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning",
+@InProceedings{Li_2019_CVPR,
+    author = "Li, Yuke",
+    title = "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes",
+    booktitle = "CVPR",
     year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=mane></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Mean angular error (MAnE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Hasan et al., ""Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention", WACV, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8354238>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#town_center">Town Center</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#ade">ADE</a></li>
-<li><a href="metrics.md#fde">FDE</a></li>
-<li><a href="metrics.md#mane">MAnE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hasan_2018_WACV,
-    author = "Hasan, I. and Setti, F. and Tsesmelis, T. and Del Bue, A. and Cristani, M. and Galasso, F.",
-    booktitle = "WACV",
-    title = "Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention,
-    year = "2018"
 }
 </pre>
 </details>
@@ -10809,227 +10771,6 @@ By clicking on each metric you can see the list of papers that used that metric.
     title = "Discrete Residual Flow For Probabilistic Pedestrian Behavior Prediction",
     booktitle = "CoRL",
     year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=precision></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Precision</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Yoo et al., "Visual Path Prediction In Complex Scenes With Crowded Moving Objects", CVPR, 2016.</strong> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yoo_Visual_Path_Prediction_CVPR_2016_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#gc">GC</a></li>
-<li><a href="datasets/<class 'list'>#qmul">QMUL</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#ade">ADE</a></li>
-<li><a href="metrics.md#precision">Precision</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Yoo_2016_CVPR,
-    author = "Yoo, YoungJoon and Yun, Kimin and Yun, Sangdoo and Hong, JongHee and Jeong, Hawook and Young Choi, Jin",
-    title = "Visual Path Prediction In Complex Scenes With Crowded Moving Objects",
-    booktitle = "CVPR",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=aede></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>AEDE</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>paper</a> <a href=https://arxiv.org/pdf/1710.00126.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#strands">STRANDS</a></li>
-<li><a href="datasets/<class 'list'>#l-cas">L-CAS</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#ade">ADE</a></li>
-<li><a href="metrics.md#aede">AEDE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Sun_2018_ICRA,
-    author = "Sun, L. and Yan, Z. and Mellado, S. M. and Hanheide, M. and Duckett, T.",
-    booktitle = "ICRA",
-    title = "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=dtg></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Distance to Goal (DtG)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016.</strong> <a href=https://ieeexplore.ieee.org/document/7477732>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#osu">OSU</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#nll">NLL</a></li>
-<li><a href="metrics.md#kld">KLD</a></li>
-<li><a href="metrics.md#mhd">MHD</a></li>
-<li><a href="metrics.md#mse">MSE</a></li>
-<li><a href="metrics.md#dtg">DtG</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Lee_2016_WACV,
-    author = "Lee, N. and Kitani, K. M.",
-    booktitle = "WACV",
-    title = "Predicting Wide Receiver Trajectories In American Football",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=pd></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Percentage Deviated (PD)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Shkurti et al., "Topologically Distinct Trajectory Predictions For Probabilistic Pursuit", IROS, 2017.</strong> <a href=https://ieeexplore.ieee.org/document/8206454>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#pd">PD</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Shkurti_2017_IROS,
-    author = "Shkurti, F. and Dudek, G.",
-    booktitle = "IROS",
-    title = "Topologically Distinct Trajectory Predictions For Probabilistic Pursuit",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=fnm></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Fraction of Near Misses (FNM)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Bai et al., "Intention-Aware Online Pomdp Planning For Autonomous Driving In A Crowd", ICRA, 2015.</strong> <a href=https://ieeexplore.ieee.org/document/7139219>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#fnm">FNM</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Bai_2015_ICRA,
-    author = "Bai, Haoyu and Cai, Shaojun and Ye, Nan and Hsu, David and Lee, Wee Sun",
-    title = "Intention-Aware Online Pomdp Planning For Autonomous Driving In A Crowd",
-    booktitle = "ICRA",
-    year = "2015"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=none></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>None</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>M\ogelmose et al., "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations", IV, 2015.</strong> <a href=https://ieeexplore.ieee.org/document/7225707>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#none">None</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mogelmose_2015_IV,
-    author = "M\ogelmose, Andreas and Trivedi, Mohan M and Moeslund, Thomas B",
-    title = "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations",
-    booktitle = "IV",
-    year = "2015"
 }
 </pre>
 </details>
@@ -11112,6 +10853,229 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
+<a name=fnm></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Fraction of Near Misses (FNM)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Bai et al., "Intention-Aware Online Pomdp Planning For Autonomous Driving In A Crowd", ICRA, 2015.</strong> <a href=https://ieeexplore.ieee.org/document/7139219>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#fnm">FNM</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Bai_2015_ICRA,
+    author = "Bai, Haoyu and Cai, Shaojun and Ye, Nan and Hsu, David and Lee, Wee Sun",
+    title = "Intention-Aware Online Pomdp Planning For Autonomous Driving In A Crowd",
+    booktitle = "ICRA",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=scr></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>State Collision Rate (SCR)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Ma et al., "Forecasting Interactive Dynamics Of Pedestrians With Fictitious Play", CVPR, 2017.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1604.01431.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#nll">NLL</a></li>
+<li><a href="metrics.md#scr">SCR</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ma_2017_CVPR,
+    author = "Ma, Wei-Chiu and Huang, De-An and Lee, Namhoon and Kitani, Kris M.",
+    title = "Forecasting Interactive Dynamics Of Pedestrians With Fictitious Play",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=aede></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>AEDE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>paper</a> <a href=https://arxiv.org/pdf/1710.00126.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#strands">STRANDS</a></li>
+<li><a href="datasets/year_datasets.md#l-cas">L-CAS</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#ade">ADE</a></li>
+<li><a href="metrics.md#aede">AEDE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Sun_2018_ICRA,
+    author = "Sun, L. and Yan, Z. and Mellado, S. M. and Hanheide, M. and Duckett, T.",
+    booktitle = "ICRA",
+    title = "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=mane></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mean angular error (MAnE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Hasan et al., ""Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention", WACV, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8354238>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#ade">ADE</a></li>
+<li><a href="metrics.md#fde">FDE</a></li>
+<li><a href="metrics.md#mane">MAnE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Hasan_2018_WACV,
+    author = "Hasan, I. and Setti, F. and Tsesmelis, T. and Del Bue, A. and Cristani, M. and Galasso, F.",
+    booktitle = "WACV",
+    title = "Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention,
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=dtg></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Distance to Goal (DtG)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016.</strong> <a href=https://ieeexplore.ieee.org/document/7477732>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#osu">OSU</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#nll">NLL</a></li>
+<li><a href="metrics.md#kld">KLD</a></li>
+<li><a href="metrics.md#mhd">MHD</a></li>
+<li><a href="metrics.md#mse">MSE</a></li>
+<li><a href="metrics.md#dtg">DtG</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lee_2016_WACV,
+    author = "Lee, N. and Kitani, K. M.",
+    booktitle = "WACV",
+    title = "Predicting Wide Receiver Trajectories In American Football",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=pd></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Percentage Deviated (PD)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Shkurti et al., "Topologically Distinct Trajectory Predictions For Probabilistic Pursuit", IROS, 2017.</strong> <a href=https://ieeexplore.ieee.org/document/8206454>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#pd">PD</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Shkurti_2017_IROS,
+    author = "Shkurti, F. and Dudek, G.",
+    booktitle = "IROS",
+    title = "Topologically Distinct Trajectory Predictions For Probabilistic Pursuit",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=ce></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Cross Entropy (CE)</strong></l>
@@ -11122,7 +11086,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11149,34 +11113,70 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=scr></a>
+<a name=none></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>State Collision Rate (SCR)</strong></l>
+<summary><em><l style="font-size:20px"><strong>None</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Ma et al., "Forecasting Interactive Dynamics Of Pedestrians With Fictitious Play", CVPR, 2017.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1604.01431.pdf>arxiv</a></summary>
+<summary><strong>M\ogelmose et al., "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations", IV, 2015.</strong> <a href=https://ieeexplore.ieee.org/document/7225707>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucy">UCY</a></li>
-<li><a href="datasets/<class 'list'>#town_center">Town Center</a></li>
+<li>Custom</li>
+
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#nll">NLL</a></li>
-<li><a href="metrics.md#scr">SCR</a></li>
+<li><a href="metrics.md#none">None</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Ma_2017_CVPR,
-    author = "Ma, Wei-Chiu and Huang, De-An and Lee, Namhoon and Kitani, Kris M.",
-    title = "Forecasting Interactive Dynamics Of Pedestrians With Fictitious Play",
+@InProceedings{Mogelmose_2015_IV,
+    author = "M\ogelmose, Andreas and Trivedi, Mohan M and Moeslund, Thomas B",
+    title = "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations",
+    booktitle = "IV",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=precision></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Precision</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Yoo et al., "Visual Path Prediction In Complex Scenes With Crowded Moving Objects", CVPR, 2016.</strong> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yoo_Visual_Path_Prediction_CVPR_2016_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#qmul">QMUL</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#ade">ADE</a></li>
+<li><a href="metrics.md#precision">Precision</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yoo_2016_CVPR,
+    author = "Yoo, YoungJoon and Yun, Kimin and Yun, Sangdoo and Hong, JongHee and Jeong, Hawook and Young Choi, Jin",
+    title = "Visual Path Prediction In Complex Scenes With Crowded Moving Objects",
     booktitle = "CVPR",
-    year = "2017"
+    year = "2016"
 }
 </pre>
 </details>
@@ -11235,7 +11235,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="datasets/year_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11263,8 +11263,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#mouse_fish">Mouse Fish</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11292,7 +11292,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#egopose">EgoPose</a></li>
+<li><a href="datasets/year_datasets.md#egopose">EgoPose</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11347,8 +11347,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11406,8 +11406,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#sbuki">SBUKI</a></li>
-<li><a href="datasets/<class 'list'>#ca">CA</a></li>
+<li><a href="datasets/year_datasets.md#sbuki">SBUKI</a></li>
+<li><a href="datasets/year_datasets.md#ca">CA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11462,7 +11462,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11489,8 +11489,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#ucf-101">UCF-101</a></li>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11553,7 +11553,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11581,7 +11581,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11611,9 +11611,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#cmu_mocap">CMU Mocap</a></li>
-<li><a href="datasets/<class 'list'>#3dpw">3DPW</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="datasets/year_datasets.md#3dpw">3DPW</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11641,7 +11641,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11668,7 +11668,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11695,7 +11695,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11723,7 +11723,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11750,7 +11750,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11777,7 +11777,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11804,7 +11804,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11840,9 +11840,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
-<li><a href="datasets/<class 'list'>#instavariety">InstaVariety</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11871,8 +11871,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11930,9 +11930,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
-<li><a href="datasets/<class 'list'>#mpii_human_pose">MPII Human Pose</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11967,9 +11967,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#cmu_mocap">CMU Mocap</a></li>
-<li><a href="datasets/<class 'list'>#3dpw">3DPW</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="datasets/year_datasets.md#3dpw">3DPW</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11997,9 +11997,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
-<li><a href="datasets/<class 'list'>#instavariety">InstaVariety</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12036,7 +12036,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12066,7 +12066,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12092,70 +12092,6 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=accuracy></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Accuracy</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8968192>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#accuracy">Accuracy</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Luo_2019_IROS,
-    author = "Luo, Ren C. and Mai, Lincong",
-    booktitle = "IROS",
-    title = "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Fragkiadaki et al., "Recurrent Network Models For Human Dynamics", ICCV, 2015.</strong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Fragkiadaki_Recurrent_Network_Models_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1508.00271.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#mane">MAnE</a></li>
-<li><a href="metrics.md#accuracy">Accuracy</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Fragkiadaki_2015_ICCV,
-    author = "Fragkiadaki, Katerina and Levine, Sergey and Felsen, Panna and Malik, Jitendra",
-    title = "Recurrent Network Models For Human Dynamics",
-    booktitle = "ICCV",
-    year = "2015"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=run_time></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Run Time</strong></l>
@@ -12166,8 +12102,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#mouse_fish">Mouse Fish</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12223,6 +12159,109 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
+<a name=accuracy></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Accuracy</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8968192>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#accuracy">Accuracy</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Luo_2019_IROS,
+    author = "Luo, Ren C. and Mai, Lincong",
+    booktitle = "IROS",
+    title = "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Fragkiadaki et al., "Recurrent Network Models For Human Dynamics", ICCV, 2015.</strong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Fragkiadaki_Recurrent_Network_Models_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1508.00271.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#mane">MAnE</a></li>
+<li><a href="metrics.md#accuracy">Accuracy</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Fragkiadaki_2015_ICCV,
+    author = "Fragkiadaki, Katerina and Levine, Sergey and Felsen, Panna and Malik, Jitendra",
+    title = "Recurrent Network Models For Human Dynamics",
+    booktitle = "ICCV",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=re></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Reconstruction Error (RE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.04781.pdf>arxiv</a> <a href={https://jasonyzhang.com/phd/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#instavariety">InstaVariety</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#pck">PCK</a></li>
+<li><a href="metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="metrics.md#re">RE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhang_2019_ICCV,
+    author = "Zhang, Jason Y. and Felsen, Panna and Kanazawa, Angjoo and Malik, Jitendra",
+    title = "Predicting 3D Human Dynamics From Video",
+    booktitle = "ICCV",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=npss></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Normalized Power Spectrum Similarity (NPSS)</strong></l>
@@ -12233,7 +12272,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12269,7 +12308,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12297,34 +12336,33 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=re></a>
+<a name=psent></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Reconstruction Error (RE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>PoSe Entropy (PSEnt)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.04781.pdf>arxiv</a> <a href={https://jasonyzhang.com/phd/>code</a></summary>
+<summary><strong>Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.05478.pdf>arxiv</a> <a href=https://github.com/magnux/MotionGAN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-<li><a href="datasets/<class 'list'>#penn_action">Penn Action</a></li>
-<li><a href="datasets/<class 'list'>#instavariety">InstaVariety</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#pck">PCK</a></li>
-<li><a href="metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="metrics.md#re">RE</a></li>
+<li><a href="metrics.md#mane">MAnE</a></li>
+<li><a href="metrics.md#human">Human</a></li>
+<li><a href="metrics.md#pskl">PSKL</a></li>
+<li><a href="metrics.md#psent">PSEnt</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Zhang_2019_ICCV,
-    author = "Zhang, Jason Y. and Felsen, Panna and Kanazawa, Angjoo and Malik, Jitendra",
-    title = "Predicting 3D Human Dynamics From Video",
+@InProceedings{Hernandez_2019_ICCV,
+    author = "Hernandez, Alejandro and Gall, Jurgen and Moreno-Noguer, Francesc",
+    title = "Human Motion Prediction Via Spatio-Temporal Inpainting",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -12346,7 +12384,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="datasets/year_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12372,144 +12410,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=psent></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>PoSe Entropy (PSEnt)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.05478.pdf>arxiv</a> <a href=https://github.com/magnux/MotionGAN>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#mane">MAnE</a></li>
-<li><a href="metrics.md#human">Human</a></li>
-<li><a href="metrics.md#pskl">PSKL</a></li>
-<li><a href="metrics.md#psent">PSEnt</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hernandez_2019_ICCV,
-    author = "Hernandez, Alejandro and Gall, Jurgen and Moreno-Noguer, Francesc",
-    title = "Human Motion Prediction Via Spatio-Temporal Inpainting",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 </ul><a name=metrics_other></a>
 <h2 style="color:#bd831f">  Other Prediction </h2><a href=#top>&uarr; top</a>
-<ul><a name=ssim></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.09395.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#run_time">Run Time</a></li>
-<li><a href="metrics.md#ssim">SSIM</a></li>
-<li><a href="metrics.md#tp">TP</a></li>
-<li><a href="metrics.md#tn">TN</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mohajerin_2019_CVPR,
-    author = "Mohajerin, Nima and Rohani, Mohsen",
-    title = "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Katyal et al., "Uncertainty-Aware Occupancy Map Prediction Using Generative Networks For Robot Navigation", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793500>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#run_time">Run Time</a></li>
-<li><a href="metrics.md#ssim">SSIM</a></li>
-<li><a href="metrics.md#psnr">PSNR</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Katyal_2019_ICRA,
-    author = "Katyal, K. and Popek, K. and Paxton, C. and Burlina, P. and Hager, G. D.",
-    booktitle = "ICRA",
-    title = "Uncertainty-Aware Occupancy Map Prediction Using Generative Networks For Robot Navigation",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Luc et al., "Predicting Deeper Into The Future Of Semantic Segmentation", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1703.07684.pdf>arxiv</a> <a href=https://github.com/facebookresearch/SegmPred>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#iou">IoU</a></li>
-<li><a href="metrics.md#ssim">SSIM</a></li>
-<li><a href="metrics.md#psnr">PSNR</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Luc_2017_ICCV,
-    author = "Luc, Pauline and Neverova, Natalia and Couprie, Camille and Verbeek, Jakob and LeCun, Yann",
-    title = "Predicting Deeper Into The Future Of Semantic Segmentation",
-    booktitle = "ICCV",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=accuracy></a>
+<ul><a name=accuracy></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Accuracy</strong></l>
 </em></summary>
@@ -12519,7 +12422,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#vist">VIST</a></li>
+<li><a href="datasets/year_datasets.md#vist">VIST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12546,7 +12449,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mu">MU</a></li>
+<li><a href="datasets/year_datasets.md#mu">MU</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12599,6 +12502,103 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
+<a name=precision></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Precision</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#fcvl">FCVL</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#run_time">Run Time</a></li>
+<li><a href="metrics.md#recall">Recall</a></li>
+<li><a href="metrics.md#precision">Precision</a></li>
+<li><a href="metrics.md#auc">AUC</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Choi_2016_IROS,
+    author = "Choi, S. and Lee, K. and Oh, S.",
+    booktitle = "IROS",
+    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8658402>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#recall">Recall</a></li>
+<li><a href="metrics.md#precision">Precision</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kim_2019_WACV,
+    author = "Kim, S. and Kim, H. and Lee, J. and Yoon, S. and Kahou, S. E. and Kashinath, K. and Prabhat, M.",
+    booktitle = "WACV",
+    title = "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017.</strong> <a href=https://ieeexplore.ieee.org/document/8206442>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#recall">Recall</a></li>
+<li><a href="metrics.md#precision">Precision</a></li>
+<li><a href="metrics.md#mcc">MCC</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Sur_2017_IROS,
+    author = "Sur, I. and Ben Amor, H.",
+    booktitle = "IROS",
+    title = "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=iou></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong></l>
@@ -12609,7 +12609,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12636,7 +12636,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12666,7 +12666,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12693,35 +12693,32 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=precision></a>
+<a name=mae></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Precision</strong></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
+<summary><strong>He et al., "Aggregated Sparse Attention For Steering Angle Prediction", ICPR, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8546051>paper</a> <a href=https://arxiv.org/pdf/1803.05785.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#fcvl">FCVL</a></li>
+<li><a href="datasets/year_datasets.md#diplecs">DIPLECS</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#run_time">Run Time</a></li>
-<li><a href="metrics.md#recall">Recall</a></li>
-<li><a href="metrics.md#precision">Precision</a></li>
-<li><a href="metrics.md#auc">AUC</a></li>
+<li><a href="metrics.md#mae">MAE</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Choi_2016_IROS,
-    author = "Choi, S. and Lee, K. and Oh, S.",
-    booktitle = "IROS",
-    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
-    year = "2016"
+@InProceedings{He_2018_ICPR,
+    author = "He, S. and Kangin, D. and Mi, Y. and Pugeault, N.",
+    booktitle = "ICPR",
+    title = "Aggregated Sparse Attention For Steering Angle Prediction",
+    year = "2018"
 }
 </pre>
 </details>
@@ -12729,57 +12726,26 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 <details close>
-<summary><strong>Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8658402>paper</a></summary>
+<summary><strong>Al-Halah et al., "Fashion Forward: Forecasting Visual Style In Fashion", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Al-Halah_Fashion_Forward_Forecasting_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06394.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li>Custom</li>
-
+<li><a href="datasets/year_datasets.md#amazon">Amazon</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#recall">Recall</a></li>
-<li><a href="metrics.md#precision">Precision</a></li>
+<li><a href="metrics.md#mae">MAE</a></li>
+<li><a href="metrics.md#mape">MAPE</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Kim_2019_WACV,
-    author = "Kim, S. and Kim, H. and Lee, J. and Yoon, S. and Kahou, S. E. and Kashinath, K. and Prabhat, M.",
-    booktitle = "WACV",
-    title = "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017.</strong> <a href=https://ieeexplore.ieee.org/document/8206442>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#recall">Recall</a></li>
-<li><a href="metrics.md#precision">Precision</a></li>
-<li><a href="metrics.md#mcc">MCC</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Sur_2017_IROS,
-    author = "Sur, I. and Ben Amor, H.",
-    booktitle = "IROS",
-    title = "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models",
+@InProceedings{Al-Halah_2017_ICCV,
+    author = "Al-Halah, Ziad and Stiefelhagen, Rainer and Grauman, Kristen",
+    title = "Fashion Forward: Forecasting Visual Style In Fashion",
+    booktitle = "ICCV",
     year = "2017"
 }
 </pre>
@@ -12787,46 +12753,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 
 </ul>
 </details>
-</ul>
-</details>
-
-<a name=recall></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Recall</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#fcvl">FCVL</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#run_time">Run Time</a></li>
-<li><a href="metrics.md#recall">Recall</a></li>
-<li><a href="metrics.md#precision">Precision</a></li>
-<li><a href="metrics.md#auc">AUC</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Choi_2016_IROS,
-    author = "Choi, S. and Lee, K. and Oh, S.",
-    booktitle = "IROS",
-    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8658402>paper</a></summary>
+<summary><strong>Wilson et al., "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs", ICRA, 2015.</strong> <a href=https://ieeexplore.ieee.org/document/7139221>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -12836,17 +12764,54 @@ By clicking on each metric you can see the list of papers that used that metric.
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#recall">Recall</a></li>
-<li><a href="metrics.md#precision">Precision</a></li>
+<li><a href="metrics.md#mae">MAE</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Kim_2019_WACV,
-    author = "Kim, S. and Kim, H. and Lee, J. and Yoon, S. and Kahou, S. E. and Kashinath, K. and Prabhat, M.",
-    booktitle = "WACV",
-    title = "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events",
+@InProceedings{Wilson_2015_ICRA,
+    author = "Wilson, G. N. and Ramirez-Serrano, A. and Sun, Q.",
+    booktitle = "ICRA",
+    title = "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=ssim></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.09395.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#run_time">Run Time</a></li>
+<li><a href="metrics.md#ssim">SSIM</a></li>
+<li><a href="metrics.md#tp">TP</a></li>
+<li><a href="metrics.md#tn">TN</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mohajerin_2019_CVPR,
+    author = "Mohajerin, Nima and Rohani, Mohsen",
+    title = "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks",
+    booktitle = "CVPR",
     year = "2019"
 }
 </pre>
@@ -12855,7 +12820,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 <details close>
-<summary><strong>Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017.</strong> <a href=https://ieeexplore.ieee.org/document/8206442>paper</a></summary>
+<summary><strong>Katyal et al., "Uncertainty-Aware Occupancy Map Prediction Using Generative Networks For Robot Navigation", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793500>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -12865,18 +12830,47 @@ By clicking on each metric you can see the list of papers that used that metric.
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#recall">Recall</a></li>
-<li><a href="metrics.md#precision">Precision</a></li>
-<li><a href="metrics.md#mcc">MCC</a></li>
+<li><a href="metrics.md#run_time">Run Time</a></li>
+<li><a href="metrics.md#ssim">SSIM</a></li>
+<li><a href="metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Sur_2017_IROS,
-    author = "Sur, I. and Ben Amor, H.",
-    booktitle = "IROS",
-    title = "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models",
+@InProceedings{Katyal_2019_ICRA,
+    author = "Katyal, K. and Popek, K. and Paxton, C. and Burlina, P. and Hager, G. D.",
+    booktitle = "ICRA",
+    title = "Uncertainty-Aware Occupancy Map Prediction Using Generative Networks For Robot Navigation",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Luc et al., "Predicting Deeper Into The Future Of Semantic Segmentation", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1703.07684.pdf>arxiv</a> <a href=https://github.com/facebookresearch/SegmPred>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#iou">IoU</a></li>
+<li><a href="metrics.md#ssim">SSIM</a></li>
+<li><a href="metrics.md#psnr">PSNR</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Luc_2017_ICCV,
+    author = "Luc, Pauline and Neverova, Natalia and Couprie, Camille and Verbeek, Jakob and LeCun, Yann",
+    title = "Predicting Deeper Into The Future Of Semantic Segmentation",
+    booktitle = "ICCV",
     year = "2017"
 }
 </pre>
@@ -12897,7 +12891,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12957,7 +12951,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#fcvl">FCVL</a></li>
+<li><a href="datasets/year_datasets.md#fcvl">FCVL</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12985,32 +12979,35 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=mae></a>
+<a name=recall></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Recall</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>He et al., "Aggregated Sparse Attention For Steering Angle Prediction", ICPR, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8546051>paper</a> <a href=https://arxiv.org/pdf/1803.05785.pdf>arxiv</a></summary>
+<summary><strong>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#diplecs">DIPLECS</a></li>
+<li><a href="datasets/year_datasets.md#fcvl">FCVL</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#mae">MAE</a></li>
+<li><a href="metrics.md#run_time">Run Time</a></li>
+<li><a href="metrics.md#recall">Recall</a></li>
+<li><a href="metrics.md#precision">Precision</a></li>
+<li><a href="metrics.md#auc">AUC</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{He_2018_ICPR,
-    author = "He, S. and Kangin, D. and Mi, Y. and Pugeault, N.",
-    booktitle = "ICPR",
-    title = "Aggregated Sparse Attention For Steering Angle Prediction",
-    year = "2018"
+@InProceedings{Choi_2016_IROS,
+    author = "Choi, S. and Lee, K. and Oh, S.",
+    booktitle = "IROS",
+    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
+    year = "2016"
 }
 </pre>
 </details>
@@ -13018,35 +13015,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 <details close>
-<summary><strong>Al-Halah et al., "Fashion Forward: Forecasting Visual Style In Fashion", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Al-Halah_Fashion_Forward_Forecasting_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06394.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#amazon">Amazon</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#mae">MAE</a></li>
-<li><a href="metrics.md#mape">MAPE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Al-Halah_2017_ICCV,
-    author = "Al-Halah, Ziad and Stiefelhagen, Rainer and Grauman, Kristen",
-    title = "Fashion Forward: Forecasting Visual Style In Fashion",
-    booktitle = "ICCV",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Wilson et al., "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs", ICRA, 2015.</strong> <a href=https://ieeexplore.ieee.org/document/7139221>paper</a></summary>
+<summary><strong>Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8658402>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -13056,17 +13025,48 @@ By clicking on each metric you can see the list of papers that used that metric.
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#mae">MAE</a></li>
+<li><a href="metrics.md#recall">Recall</a></li>
+<li><a href="metrics.md#precision">Precision</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Wilson_2015_ICRA,
-    author = "Wilson, G. N. and Ramirez-Serrano, A. and Sun, Q.",
-    booktitle = "ICRA",
-    title = "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs",
-    year = "2015"
+@InProceedings{Kim_2019_WACV,
+    author = "Kim, S. and Kim, H. and Lee, J. and Yoon, S. and Kahou, S. E. and Kashinath, K. and Prabhat, M.",
+    booktitle = "WACV",
+    title = "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017.</strong> <a href=https://ieeexplore.ieee.org/document/8206442>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#recall">Recall</a></li>
+<li><a href="metrics.md#precision">Precision</a></li>
+<li><a href="metrics.md#mcc">MCC</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Sur_2017_IROS,
+    author = "Sur, I. and Ben Amor, H.",
+    booktitle = "IROS",
+    title = "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models",
+    year = "2017"
 }
 </pre>
 </details>
@@ -13140,71 +13140,6 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=roc></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Receiver Operator Characteristic (ROC)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Schreiber et al., "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793582>paper</a> <a href=https://arxiv.org/pdf/1809.03782.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#roc">ROC</a></li>
-<li><a href="metrics.md#f1">F1</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Schreiber_2019_ICRA,
-    author = "Schreiber, M. and Hoermann, S. and Dietmayer, K.",
-    booktitle = "ICRA",
-    title = "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Hoermann et al., "Dynamic Occupancy Grid Prediction For Urban Autonomous Driving: A Deep Learning Approach With Fully Automatic Labeling", ICRA, 2018.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8460874>paper</a> <a href=https://arxiv.org/pdf/1705.08781.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#roc">ROC</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hoermann_2018_ICRA,
-    author = "Hoermann, S. and Bach, M. and Dietmayer, K.",
-    booktitle = "ICRA",
-    title = "Dynamic Occupancy Grid Prediction For Urban Autonomous Driving: A Deep Learning Approach With Fully Automatic Labeling",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=f1></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>F1</strong></l>
@@ -13215,7 +13150,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -13309,7 +13244,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -13336,6 +13271,71 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
+<a name=roc></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Receiver Operator Characteristic (ROC)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Schreiber et al., "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793582>paper</a> <a href=https://arxiv.org/pdf/1809.03782.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#roc">ROC</a></li>
+<li><a href="metrics.md#f1">F1</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Schreiber_2019_ICRA,
+    author = "Schreiber, M. and Hoermann, S. and Dietmayer, K.",
+    booktitle = "ICRA",
+    title = "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Hoermann et al., "Dynamic Occupancy Grid Prediction For Urban Autonomous Driving: A Deep Learning Approach With Fully Automatic Labeling", ICRA, 2018.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8460874>paper</a> <a href=https://arxiv.org/pdf/1705.08781.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#roc">ROC</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Hoermann_2018_ICRA,
+    author = "Hoermann, S. and Bach, M. and Dietmayer, K.",
+    booktitle = "ICRA",
+    title = "Dynamic Occupancy Grid Prediction For Urban Autonomous Driving: A Deep Learning Approach With Fully Automatic Labeling",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=mape></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong></l>
@@ -13346,7 +13346,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mbi-1m">MBI-1M</a></li>
+<li><a href="datasets/year_datasets.md#mbi-1m">MBI-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -13374,7 +13374,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#amazon">Amazon</a></li>
+<li><a href="datasets/year_datasets.md#amazon">Amazon</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -13400,230 +13400,6 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=tn></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.09395.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#run_time">Run Time</a></li>
-<li><a href="metrics.md#ssim">SSIM</a></li>
-<li><a href="metrics.md#tp">TP</a></li>
-<li><a href="metrics.md#tn">TN</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mohajerin_2019_CVPR,
-    author = "Mohajerin, Nima and Rohani, Mohsen",
-    title = "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=epe></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017.</strong> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>paper</a> <a href=https://arxiv.org/pdf/1711.03270.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#mse">MSE</a></li>
-<li><a href="metrics.md#miou">MIoU</a></li>
-<li><a href="metrics.md#epe">EPE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Jin_2017_NeurIPS,
-    author = "Jin, Xiaojie and Xiao, Huaxin and Shen, Xiaohui and Yang, Jimei and Lin, Zhe and Chen, Yunpeng and Jie, Zequn and Feng, Jiashi and Yan, Shuicheng",
-    title = "Predicting Scene Parsing And Motion Dynamics In The Future",
-    booktitle = "NeurIPS",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=auc></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#fcvl">FCVL</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#run_time">Run Time</a></li>
-<li><a href="metrics.md#recall">Recall</a></li>
-<li><a href="metrics.md#precision">Precision</a></li>
-<li><a href="metrics.md#auc">AUC</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Choi_2016_IROS,
-    author = "Choi, S. and Lee, K. and Oh, S.",
-    booktitle = "IROS",
-    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=nmape></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>normalized Mean Absolute Percentage Error (nMAPE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Siddiqui et al., "A Deep Learning Approach To Solar-Irradiance Forecasting In Sky-Videos", WACV, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8659184>paper</a> <a href=https://arxiv.org/pdf/1901.04881.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#arizona">Arizona</a></li>
-<li><a href="datasets/<class 'list'>#tuscan">Tuscan</a></li>
-<li><a href="datasets/<class 'list'>#golden_colorado">Golden Colorado</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#nmape">nMAPE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Siddiqui_2019_WACV,
-    author = "Siddiqui, T. A. and Bharadwaj, S. and Kalyanaraman, S.",
-    booktitle = "WACV",
-    title = "A Deep Learning Approach To Solar-Irradiance Forecasting In Sky-Videos",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=ism></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>ISM</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Afolabi et al., "People As Sensors: Imputing Maps From Human Actions", IROS, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8594511>paper</a> <a href=https://arxiv.org/pdf/1711.01022.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#psi">Psi</a></li>
-<li><a href="metrics.md#ism">ISM</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Afolabi_2018_IROS,
-    author = "Afolabi, O. and Driggs–Campbell, K. and Dong, R. and Kochenderfer, M. J. and Sastry, S. S.",
-    booktitle = "IROS",
-    title = "People As Sensors: Imputing Maps From Human Actions",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=ri></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Rand Index (RI)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.11496.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#iou">IoU</a></li>
-<li><a href="metrics.md#voi">VoI</a></li>
-<li><a href="metrics.md#gce">GCE</a></li>
-<li><a href="metrics.md#ri">RI</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Luc_2018_ECCV,
-    author = "Luc, Pauline and Couprie, Camille and LeCun, Yann and Verbeek, Jakob",
-    title = "Predicting Future Instance Segmentation By Forecasting Convolutional Features",
-    booktitle = "ECCV",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=miou></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>MIoU</strong></l>
@@ -13634,7 +13410,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -13661,118 +13437,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=tp></a>
+<a name=gce></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Positive (TP)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.09395.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#kitti">KITTI</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#run_time">Run Time</a></li>
-<li><a href="metrics.md#ssim">SSIM</a></li>
-<li><a href="metrics.md#tp">TP</a></li>
-<li><a href="metrics.md#tn">TN</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mohajerin_2019_CVPR,
-    author = "Mohajerin, Nima and Rohani, Mohsen",
-    title = "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=pcp></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Percentage of Correct Predictions (PCP)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Mottaghi et al., "What Happens If... Learning To Predict The Effect Of Forces In Images", ECCV, 2016.</strong> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46493-0_17>paper</a> <a href=https://arxiv.org/pdf/1603.05600.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#sun_rgb-d">SUN RGB-D</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#pcp">PCP</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mottaghi_2016_ECCV,
-    author = "Mottaghi, Roozbeh and Rastegari, Mohammad and Gupta, Abhinav and Farhadi, Ali",
-    editor = "Leibe, Bastian and Matas, Jiri and Sebe, Nicu and Welling, Max",
-    title = "What Happens If... Learning To Predict The Effect Of Forces In Images",
-    booktitle = "ECCV",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=rmse></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Chu et al., "Visual Weather Temperature Prediction", WACV, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8354136>paper</a> <a href=https://arxiv.org/pdf/1801.08267.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#amos">AMOS</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#rmse">RMSE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chu_2018_WACV,
-    author = "Chu, W. and Ho, K. and Borji, A.",
-    booktitle = "WACV",
-    title = "Visual Weather Temperature Prediction",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=voi></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Variation of Information (VoI)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Global Consistency Error (GCE)</strong></l>
 </em></summary>
 <ul>
 <details close>
@@ -13780,7 +13447,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -13818,7 +13485,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -13844,71 +13511,31 @@ By clicking on each metric you can see the list of papers that used that metric.
 </ul>
 </details>
 
-<a name=mse></a>
+<a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017.</strong> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>paper</a> <a href=https://arxiv.org/pdf/1711.03270.pdf>arxiv</a></summary>
+<summary><strong>Chu et al., "Visual Weather Temperature Prediction", WACV, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8354136>paper</a> <a href=https://arxiv.org/pdf/1801.08267.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#amos">AMOS</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#mse">MSE</a></li>
-<li><a href="metrics.md#miou">MIoU</a></li>
-<li><a href="metrics.md#epe">EPE</a></li>
+<li><a href="metrics.md#rmse">RMSE</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Jin_2017_NeurIPS,
-    author = "Jin, Xiaojie and Xiao, Huaxin and Shen, Xiaohui and Yang, Jimei and Lin, Zhe and Chen, Yunpeng and Jie, Zequn and Feng, Jiashi and Yan, Shuicheng",
-    title = "Predicting Scene Parsing And Motion Dynamics In The Future",
-    booktitle = "NeurIPS",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=gce></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Global Consistency Error (GCE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.11496.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#iou">IoU</a></li>
-<li><a href="metrics.md#voi">VoI</a></li>
-<li><a href="metrics.md#gce">GCE</a></li>
-<li><a href="metrics.md#ri">RI</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Luc_2018_ECCV,
-    author = "Luc, Pauline and Couprie, Camille and LeCun, Yann and Verbeek, Jakob",
-    title = "Predicting Future Instance Segmentation By Forecasting Convolutional Features",
-    booktitle = "ECCV",
+@InProceedings{Chu_2018_WACV,
+    author = "Chu, W. and Ho, K. and Borji, A.",
+    booktitle = "WACV",
+    title = "Visual Weather Temperature Prediction",
     year = "2018"
 }
 </pre>
@@ -13929,7 +13556,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/<class 'list'>#mbi-1m">MBI-1M</a></li>
+<li><a href="datasets/year_datasets.md#mbi-1m">MBI-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -13945,6 +13572,79 @@ By clicking on each metric you can see the list of papers that used that metric.
     author = "Wang, K. and Bansal, M. and Frahm, J.",
     booktitle = "WACV",
     title = "Retweet Wars: Tweet Popularity Prediction Via Dynamic Multimodal Regression",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=nmape></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>normalized Mean Absolute Percentage Error (nMAPE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Siddiqui et al., "A Deep Learning Approach To Solar-Irradiance Forecasting In Sky-Videos", WACV, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8659184>paper</a> <a href=https://arxiv.org/pdf/1901.04881.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#arizona">Arizona</a></li>
+<li><a href="datasets/year_datasets.md#tuscan">Tuscan</a></li>
+<li><a href="datasets/year_datasets.md#golden_colorado">Golden Colorado</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#nmape">nMAPE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Siddiqui_2019_WACV,
+    author = "Siddiqui, T. A. and Bharadwaj, S. and Kalyanaraman, S.",
+    booktitle = "WACV",
+    title = "A Deep Learning Approach To Solar-Irradiance Forecasting In Sky-Videos",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=ism></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>ISM</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Afolabi et al., "People As Sensors: Imputing Maps From Human Actions", IROS, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8594511>paper</a> <a href=https://arxiv.org/pdf/1711.01022.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#psi">Psi</a></li>
+<li><a href="metrics.md#ism">ISM</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Afolabi_2018_IROS,
+    author = "Afolabi, O. and Driggs–Campbell, K. and Dong, R. and Kochenderfer, M. J. and Sastry, S. S.",
+    booktitle = "IROS",
+    title = "People As Sensors: Imputing Maps From Human Actions",
     year = "2018"
 }
 </pre>
@@ -13984,6 +13684,306 @@ By clicking on each metric you can see the list of papers that used that metric.
     booktitle = "IROS",
     title = "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models",
     year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=mse></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017.</strong> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>paper</a> <a href=https://arxiv.org/pdf/1711.03270.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#mse">MSE</a></li>
+<li><a href="metrics.md#miou">MIoU</a></li>
+<li><a href="metrics.md#epe">EPE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Jin_2017_NeurIPS,
+    author = "Jin, Xiaojie and Xiao, Huaxin and Shen, Xiaohui and Yang, Jimei and Lin, Zhe and Chen, Yunpeng and Jie, Zequn and Feng, Jiashi and Yan, Shuicheng",
+    title = "Predicting Scene Parsing And Motion Dynamics In The Future",
+    booktitle = "NeurIPS",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=voi></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Variation of Information (VoI)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.11496.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#iou">IoU</a></li>
+<li><a href="metrics.md#voi">VoI</a></li>
+<li><a href="metrics.md#gce">GCE</a></li>
+<li><a href="metrics.md#ri">RI</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Luc_2018_ECCV,
+    author = "Luc, Pauline and Couprie, Camille and LeCun, Yann and Verbeek, Jakob",
+    title = "Predicting Future Instance Segmentation By Forecasting Convolutional Features",
+    booktitle = "ECCV",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=tp></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>True Positive (TP)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.09395.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#run_time">Run Time</a></li>
+<li><a href="metrics.md#ssim">SSIM</a></li>
+<li><a href="metrics.md#tp">TP</a></li>
+<li><a href="metrics.md#tn">TN</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mohajerin_2019_CVPR,
+    author = "Mohajerin, Nima and Rohani, Mohsen",
+    title = "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=epe></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017.</strong> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>paper</a> <a href=https://arxiv.org/pdf/1711.03270.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#mse">MSE</a></li>
+<li><a href="metrics.md#miou">MIoU</a></li>
+<li><a href="metrics.md#epe">EPE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Jin_2017_NeurIPS,
+    author = "Jin, Xiaojie and Xiao, Huaxin and Shen, Xiaohui and Yang, Jimei and Lin, Zhe and Chen, Yunpeng and Jie, Zequn and Feng, Jiashi and Yan, Shuicheng",
+    title = "Predicting Scene Parsing And Motion Dynamics In The Future",
+    booktitle = "NeurIPS",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=auc></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#fcvl">FCVL</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#run_time">Run Time</a></li>
+<li><a href="metrics.md#recall">Recall</a></li>
+<li><a href="metrics.md#precision">Precision</a></li>
+<li><a href="metrics.md#auc">AUC</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Choi_2016_IROS,
+    author = "Choi, S. and Lee, K. and Oh, S.",
+    booktitle = "IROS",
+    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=ri></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Rand Index (RI)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.11496.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#iou">IoU</a></li>
+<li><a href="metrics.md#voi">VoI</a></li>
+<li><a href="metrics.md#gce">GCE</a></li>
+<li><a href="metrics.md#ri">RI</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Luc_2018_ECCV,
+    author = "Luc, Pauline and Couprie, Camille and LeCun, Yann and Verbeek, Jakob",
+    title = "Predicting Future Instance Segmentation By Forecasting Convolutional Features",
+    booktitle = "ECCV",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=tn></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.09395.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#run_time">Run Time</a></li>
+<li><a href="metrics.md#ssim">SSIM</a></li>
+<li><a href="metrics.md#tp">TP</a></li>
+<li><a href="metrics.md#tn">TN</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mohajerin_2019_CVPR,
+    author = "Mohajerin, Nima and Rohani, Mohsen",
+    title = "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=pcp></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Percentage of Correct Predictions (PCP)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Mottaghi et al., "What Happens If... Learning To Predict The Effect Of Forces In Images", ECCV, 2016.</strong> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46493-0_17>paper</a> <a href=https://arxiv.org/pdf/1603.05600.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/year_datasets.md#sun_rgb-d">SUN RGB-D</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#pcp">PCP</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mottaghi_2016_ECCV,
+    author = "Mottaghi, Roozbeh and Rastegari, Mohammad and Gupta, Abhinav and Farhadi, Ali",
+    editor = "Leibe, Bastian and Matas, Jiri and Sebe, Nicu and Welling, Max",
+    title = "What Happens If... Learning To Predict The Effect Of Forces In Images",
+    booktitle = "ECCV",
+    year = "2016"
 }
 </pre>
 </details>
