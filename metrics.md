@@ -1,17 +1,17 @@
 ---
-<a href=README.md><l style="font-size:20px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=papers.md><l style="font-size:20px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=datasets.md><l style="font-size:20px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:25px">Metrics</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href=README.md><l style="font-size:20px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=papers.md><l style="font-size:20px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=datasets.md><l style="font-size:20px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:30px">Metrics</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---
 <a name=metrics_top></a>
-# Papers by metrics
+# Metrics for vision-based prediction
  <img src="./images/video_metrics.png" alt="video metrics" width="250"/><img src="./images/action_metrics.png" alt="action metrics" width="250"/><img src="./images/trajectory_metrics.png" alt="trajectory metrics" width="280"/><img src="./images/motion_metrics.png" alt="motion metrics" width="210"/><br/>
-In this page you can find the *metrics* used in vision-based prediction applications.The metrics are **sorted** based on **popularity**, (i.e how often used in prediction papers) and categorized in 5 groups:
+In this page you can find the *metrics* used in vision-based prediction applications.The metrics are **sorted** based on **popularity**, (i.e how often used in prediction papers) and categorized into 5 groups:
 * [Video](#metrics_video)
 * [Action](#metrics_action)
 * [Trajectory](#metrics_trajectory)
 * [Motion](#metrics_motion)
 * [Other](#metrics_other)<br/>
 
-By clicking on each metric you can see the list of papers that used that metric
+By clicking on each metric you can see the list of papers that used that metric. Each paper also can be expanded to display its information.
 <a name=metrics_video></a>
 <h2 style="color:#d52b0f">  Video Prediction </h2><a href=#metrics_top>&uarr; top</a>
 <ul><a name=metric_psnr></a>
@@ -2262,80 +2262,6 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_rmse></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Li et al., "Flow-Grounded Spatial-Temporal Video Prediction From Still Images", ECCV, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_kth">KTH</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_human">Human</a></li>
-<li><a href="metrics.md#metric_lpips">LPIPS</a></li>
-<li><a href="metrics.md#metric_rmse">RMSE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Li_2018_ECCV,
-    author = "Li, Yijun and Fang, Chen and Yang, Jimei and Wang, Zhaowen and Lu, Xin and Yang, Ming-Hsuan",
-    title = "Flow-Grounded Spatial-Temporal Video Prediction From Still Images",
-    booktitle = "ECCV",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_bce></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Binary Cross Entropy (BCE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018.</srtong> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>paper</a> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>arxiv</a> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_bouncing_ball">Bouncing Ball</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
-<li><a href="metrics.md#metric_bce">BCE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hsieh_2018_NeurIPS,
-    author = "Hsieh, Jun-Ting and Liu, Bingbin and Huang, De-An and Fei-Fei, Li F and Niebles, Juan Carlos",
-    title = "Learning To Decompose And Disentangle Representations For Video Prediction",
-    booktitle = "NeurIPS",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=metric_is></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong></l>
@@ -2401,6 +2327,80 @@ By clicking on each metric you can see the list of papers that used that metric
     title = "The Pose Knows: Video Forecasting By Generating Pose Futures",
     booktitle = "ICCV",
     year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_rmse></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Li et al., "Flow-Grounded Spatial-Temporal Video Prediction From Still Images", ECCV, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_kth">KTH</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_human">Human</a></li>
+<li><a href="metrics.md#metric_lpips">LPIPS</a></li>
+<li><a href="metrics.md#metric_rmse">RMSE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Li_2018_ECCV,
+    author = "Li, Yijun and Fang, Chen and Yang, Jimei and Wang, Zhaowen and Lu, Xin and Yang, Ming-Hsuan",
+    title = "Flow-Grounded Spatial-Temporal Video Prediction From Still Images",
+    booktitle = "ECCV",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_bce></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Binary Cross Entropy (BCE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018.</srtong> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>paper</a> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>arxiv</a> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
+<li><a href="datasets.md#data_bouncing_ball">Bouncing Ball</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="metrics.md#metric_bce">BCE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Hsieh_2018_NeurIPS,
+    author = "Hsieh, Jun-Ting and Liu, Bingbin and Huang, De-An and Fei-Fei, Li F and Niebles, Juan Carlos",
+    title = "Learning To Decompose And Disentangle Representations For Video Prediction",
+    booktitle = "NeurIPS",
+    year = "2018"
 }
 </pre>
 </details>
@@ -6004,101 +6004,6 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_rmse></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Mahmud et al., "Joint Prediction Of Activity Labels And Starting Times In Untrimmed Videos", ICCV, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Mahmud_Joint_Prediction_of_ICCV_2017_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets.md#data_virat">VIRAT</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-<li><a href="metrics.md#metric_recall">Recall</a></li>
-<li><a href="metrics.md#metric_precision">Precision</a></li>
-<li><a href="metrics.md#metric_rmse">RMSE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mahmud_2017_ICCV,
-    author = "Mahmud, Tahmida and Hasan, Mahmudul and Roy-Chowdhury, Amit K.",
-    title = "Joint Prediction Of Activity Labels And Starting Times In Untrimmed Videos",
-    booktitle = "ICCV",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Mahmud et al., "A Poisson Process Model For Activity Forecasting", ICIP, 2016.</srtong> <a href=https://ieeexplore.ieee.org/document/7532978>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_rmse">RMSE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mahmud_2016_ICIP,
-    author = "Mahmud, T. and Hasan, M. and Chakraborty, A. and Roy-Chowdhury, A. K.",
-    booktitle = "ICIP",
-    title = "A Poisson Process Model For Activity Forecasting",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>V\"olz et al., "A Data-Driven Approach For Pedestrian Intention Estimation", ITSC, 2016.</srtong> <a href=https://ieeexplore.ieee.org/document/7795975>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-<li><a href="metrics.md#metric_rmse">RMSE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Volz_2016_ITSC,
-    author = V\"olz, Benjamin and Behrendt, Karsten and Mielenz, Holger and Gilitschenski, Igor and Siegwart, Roland and Nieto, Juan,
-    title = "A Data-Driven Approach For Pedestrian Intention Estimation",
-    booktitle = "ITSC",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=metric_auc></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong></l>
@@ -6188,6 +6093,101 @@ By clicking on each metric you can see the list of papers that used that metric
     author = "Hariyono, Joko and Shahbaz, Ajmal and Kurnianggoro, Laksono and Jo, Kang-Hyun",
     title = "Estimation Of Collision Risk For Improving Driver'S Safety",
     booktitle = "IECON",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_rmse></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Mahmud et al., "Joint Prediction Of Activity Labels And Starting Times In Untrimmed Videos", ICCV, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Mahmud_Joint_Prediction_of_ICCV_2017_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets.md#data_virat">VIRAT</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="metrics.md#metric_recall">Recall</a></li>
+<li><a href="metrics.md#metric_precision">Precision</a></li>
+<li><a href="metrics.md#metric_rmse">RMSE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mahmud_2017_ICCV,
+    author = "Mahmud, Tahmida and Hasan, Mahmudul and Roy-Chowdhury, Amit K.",
+    title = "Joint Prediction Of Activity Labels And Starting Times In Untrimmed Videos",
+    booktitle = "ICCV",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Mahmud et al., "A Poisson Process Model For Activity Forecasting", ICIP, 2016.</srtong> <a href=https://ieeexplore.ieee.org/document/7532978>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_rmse">RMSE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mahmud_2016_ICIP,
+    author = "Mahmud, T. and Hasan, M. and Chakraborty, A. and Roy-Chowdhury, A. K.",
+    booktitle = "ICIP",
+    title = "A Poisson Process Model For Activity Forecasting",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>V\"olz et al., "A Data-Driven Approach For Pedestrian Intention Estimation", ITSC, 2016.</srtong> <a href=https://ieeexplore.ieee.org/document/7795975>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="metrics.md#metric_rmse">RMSE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Volz_2016_ITSC,
+    author = V\"olz, Benjamin and Behrendt, Karsten and Mielenz, Holger and Gilitschenski, Igor and Siegwart, Roland and Nieto, Juan,
+    title = "A Data-Driven Approach For Pedestrian Intention Estimation",
+    booktitle = "ITSC",
     year = "2016"
 }
 </pre>
@@ -6334,6 +6334,80 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
+<a name=metric_mrr></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Miss Rate (MRR)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Xu et al., "Activity Auto-Completion: Predicting Human Activities From Partial Videos", ICCV, 2015.</srtong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Activity_Auto-Completion_Predicting_ICCV_2015_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_uti">UTI</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="metrics.md#metric_mrr">MRR</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Xu_2015_ICCV,
+    author = "Xu, Zhen and Qing, Laiyun and Miao, Jun",
+    title = "Activity Auto-Completion: Predicting Human Activities From Partial Videos",
+    booktitle = "ICCV",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_tpr></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>V\"olz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015.</srtong> <a href=https://ieeexplore.ieee.org/document/7313236>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="metrics.md#metric_tnr">TNR</a></li>
+<li><a href="metrics.md#metric_tpr">TPR</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Volz_2015_ITSC,
+    author = V\"olz, Benjamin and Mielenz, Holger and Agamennoni, Gabriel and Siegwart, Roland,
+    title = "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks",
+    booktitle = "ITSC",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=metric_mae></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong></l>
@@ -6369,37 +6443,107 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_attc></a>
+<a name=metric_pp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ATTC</strong></l>
+<summary><em><l style="font-size:20px"><strong>Prediction Power (PP)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", The CVPR, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>arxiv</a></summary>
+<summary><strong>Ziaeetabar et al., "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning", IROS, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8593717>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_dad">DAD</a></li>
+<li><a href="datasets.md#data_maniac">MANIAC</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-<li><a href="metrics.md#metric_recall">Recall</a></li>
-<li><a href="metrics.md#metric_precision">Precision</a></li>
-<li><a href="metrics.md#metric_f1">F1</a></li>
-<li><a href="metrics.md#metric_map">mAP</a></li>
-<li><a href="metrics.md#metric_attc">ATTC</a></li>
+<li><a href="metrics.md#metric_pp">PP</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Suzuki_2018_CVPR,
-    author = "Suzuki, Tomoyuki and Kataoka, Hirokatsu and Aoki, Yoshimitsu and Satoh, Yutaka",
-    title = "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db",
-    booktitle = "The CVPR",
+@InProceedings{Ziaeetabar_2018_IROS,
+    author = "Ziaeetabar, F. and Kulvicius, T. and Tamosiunaite, M. and Wörgötter, F.",
+    booktitle = "IROS",
+    title = "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning",
     year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_mcc></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Strickland et al., "Deep Predictive Models For Collision Risk Assessment In Autonomous Driving", ICRA, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8461160>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8461160>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="metrics.md#metric_mcc">MCC</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Strickland_2018_ICRA,
+    author = "Strickland, M. and Fainekos, G. and Amor, H. B.",
+    booktitle = "ICRA",
+    title = "Deep Predictive Models For Collision Risk Assessment In Autonomous Driving",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_cap></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>calibrated Average Precision (cAP)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Gao et al., "Red: Reinforced Encoder-Decoder Networks For Action Anticipation", BMVC, 2017.</srtong> <a href=http://www.bmva.org/bmvc/2017/papers/paper092/paper092.pdf>paper</a> <a href=http://www.bmva.org/bmvc/2017/papers/paper092/paper092.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets.md#data_thumos">THUMOS</a></li>
+<li><a href="datasets.md#data_tv_series">TV Series</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_map">mAP</a></li>
+<li><a href="metrics.md#metric_cap">cAP</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Gao_2017_BMVC,
+    author = "Gao, Jiyang and Yang, Zhenheng and Nevatia, Ram",
+    title = "Red: Reinforced Encoder-Decoder Networks For Action Anticipation",
+    year = "2017",
+    booktitle = "BMVC"
 }
 </pre>
 </details>
@@ -6485,181 +6629,37 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_mrr></a>
+<a name=metric_attc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Miss Rate (MRR)</strong></l>
+<summary><em><l style="font-size:20px"><strong>ATTC</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Xu et al., "Activity Auto-Completion: Predicting Human Activities From Partial Videos", ICCV, 2015.</srtong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Activity_Auto-Completion_Predicting_ICCV_2015_paper.pdf>paper</a></summary>
+<summary><strong>Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", The CVPR, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_uti">UTI</a></li>
+<li><a href="datasets.md#data_dad">DAD</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
 <li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-<li><a href="metrics.md#metric_mrr">MRR</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Xu_2015_ICCV,
-    author = "Xu, Zhen and Qing, Laiyun and Miao, Jun",
-    title = "Activity Auto-Completion: Predicting Human Activities From Partial Videos",
-    booktitle = "ICCV",
-    year = "2015"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_mcc></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Strickland et al., "Deep Predictive Models For Collision Risk Assessment In Autonomous Driving", ICRA, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8461160>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8461160>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-<li><a href="metrics.md#metric_mcc">MCC</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Strickland_2018_ICRA,
-    author = "Strickland, M. and Fainekos, G. and Amor, H. B.",
-    booktitle = "ICRA",
-    title = "Deep Predictive Models For Collision Risk Assessment In Autonomous Driving",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_tpr></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>V\"olz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015.</srtong> <a href=https://ieeexplore.ieee.org/document/7313236>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-<li><a href="metrics.md#metric_tnr">TNR</a></li>
-<li><a href="metrics.md#metric_tpr">TPR</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Volz_2015_ITSC,
-    author = V\"olz, Benjamin and Mielenz, Holger and Agamennoni, Gabriel and Siegwart, Roland,
-    title = "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks",
-    booktitle = "ITSC",
-    year = "2015"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_pp></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Prediction Power (PP)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Ziaeetabar et al., "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning", IROS, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8593717>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_maniac">MANIAC</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_pp">PP</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ziaeetabar_2018_IROS,
-    author = "Ziaeetabar, F. and Kulvicius, T. and Tamosiunaite, M. and Wörgötter, F.",
-    booktitle = "IROS",
-    title = "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_cap></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>calibrated Average Precision (cAP)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Gao et al., "Red: Reinforced Encoder-Decoder Networks For Action Anticipation", BMVC, 2017.</srtong> <a href=http://www.bmva.org/bmvc/2017/papers/paper092/paper092.pdf>paper</a> <a href=http://www.bmva.org/bmvc/2017/papers/paper092/paper092.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets.md#data_thumos">THUMOS</a></li>
-<li><a href="datasets.md#data_tv_series">TV Series</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
+<li><a href="metrics.md#metric_recall">Recall</a></li>
+<li><a href="metrics.md#metric_precision">Precision</a></li>
+<li><a href="metrics.md#metric_f1">F1</a></li>
 <li><a href="metrics.md#metric_map">mAP</a></li>
-<li><a href="metrics.md#metric_cap">cAP</a></li>
+<li><a href="metrics.md#metric_attc">ATTC</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Gao_2017_BMVC,
-    author = "Gao, Jiyang and Yang, Zhenheng and Nevatia, Ram",
-    title = "Red: Reinforced Encoder-Decoder Networks For Action Anticipation",
-    year = "2017",
-    booktitle = "BMVC"
+@InProceedings{Suzuki_2018_CVPR,
+    author = "Suzuki, Tomoyuki and Kataoka, Hirokatsu and Aoki, Yoshimitsu and Satoh, Yutaka",
+    title = "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db",
+    booktitle = "The CVPR",
+    year = "2018"
 }
 </pre>
 </details>
@@ -9488,130 +9488,6 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_ll></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Log-Likelihood (LL)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Thiede et al., "Analyzing The Variety Loss In The Context Of Probabilistic Trajectory Prediction", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Thiede_Analyzing_the_Variety_Loss_in_the_Context_of_Probabilistic_Trajectory_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Thiede_Analyzing_the_Variety_Loss_in_the_Context_of_Probabilistic_Trajectory_ICCV_2019_paper.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_ll">LL</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Thiede_2019_ICCV,
-    author = "Thiede, Luca Anthony and Brahma, Pratik Prabhanjan",
-    title = "Analyzing The Variety Loss In The Context Of Probabilistic Trajectory Prediction",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Tang et al., "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8794130>paper</a> <a href=https://ieeexplore.ieee.org/document/8794130>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_ll">LL</a></li>
-<li><a href="metrics.md#metric_kld">KLD</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Tang_2019_ICRA,
-    author = "Tang, C. and Chen, J. and Tomizuka, M.",
-    booktitle = "ICRA",
-    title = "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Chai et al., "Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction", CoRL, 2019.</srtong> <a href=http://proceedings.mlr.press/v100/chai20a/chai20a.pdf>paper</a> <a href=http://proceedings.mlr.press/v100/chai20a/chai20a.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
-<li><a href="metrics.md#metric_minade">minADE</a></li>
-<li><a href="metrics.md#metric_ll">LL</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chai_2019_CORL,
-    author = "Chai, Yuning and Sapp, Benjamin and Bansal, Mayank and Anguelov, Dragomir",
-    title = "Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction",
-    booktitle = "CoRL",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Schulz et al., "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments", IROS, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_ll">LL</a></li>
-<li><a href="metrics.md#metric_wrmse">WRMSE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Schulz_2018_IROS,
-    author = "Schulz, J. and Hubmann, C. and Löchner, J. and Burschka, D.",
-    booktitle = "IROS",
-    title = "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=metric_minade></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>minADE</strong></l>
@@ -9739,34 +9615,33 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_mhd></a>
+<a name=metric_ll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Modified Hausdorff Distance (MHD)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Log-Likelihood (LL)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8460527>paper</a></summary>
+<summary><strong>Thiede et al., "Analyzing The Variety Loss In The Context Of Probabilistic Trajectory Prediction", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Thiede_Analyzing_the_Variety_Loss_in_the_Context_of_Probabilistic_Trajectory_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Thiede_Analyzing_the_Variety_Loss_in_the_Context_of_Probabilistic_Trajectory_ICCV_2019_paper.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_atc">ATC</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_run_time">Run Time</a></li>
-<li><a href="metrics.md#metric_mhd">MHD</a></li>
-<li><a href="metrics.md#metric_nlp">NLP</a></li>
+<li><a href="metrics.md#metric_ll">LL</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Rudenko_2018_ICRA,
-    author = "Rudenko, A. and Palmieri, L. and Arras, K. O.",
-    booktitle = "ICRA",
-    title = "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach",
-    year = "2018"
+@InProceedings{Thiede_2019_ICCV,
+    author = "Thiede, Luca Anthony and Brahma, Pratik Prabhanjan",
+    title = "Analyzing The Variety Loss In The Context Of Probabilistic Trajectory Prediction",
+    booktitle = "ICCV",
+    year = "2019"
 }
 </pre>
 </details>
@@ -9774,7 +9649,35 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 <details close>
-<summary><strong>Rudenko et al., "Human Motion Prediction Under Social Grouping Constraints", IROS, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8594258>paper</a></summary>
+<summary><strong>Tang et al., "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8794130>paper</a> <a href=https://ieeexplore.ieee.org/document/8794130>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_ll">LL</a></li>
+<li><a href="metrics.md#metric_kld">KLD</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Tang_2019_ICRA,
+    author = "Tang, C. and Chen, J. and Tomizuka, M.",
+    booktitle = "ICRA",
+    title = "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Chai et al., "Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction", CoRL, 2019.</srtong> <a href=http://proceedings.mlr.press/v100/chai20a/chai20a.pdf>paper</a> <a href=http://proceedings.mlr.press/v100/chai20a/chai20a.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -9784,18 +9687,20 @@ By clicking on each metric you can see the list of papers that used that metric
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_mhd">MHD</a></li>
-<li><a href="metrics.md#metric_nlp">NLP</a></li>
+<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="metrics.md#metric_minade">minADE</a></li>
+<li><a href="metrics.md#metric_ll">LL</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Rudenko_2018_IROS,
-    author = "Rudenko, A. and Palmieri, L. and Lilienthal, A. J. and Arras, K. O.",
-    booktitle = "IROS",
-    title = "Human Motion Prediction Under Social Grouping Constraints",
-    year = "2018"
+@InProceedings{Chai_2019_CORL,
+    author = "Chai, Yuning and Sapp, Benjamin and Bansal, Mayank and Anguelov, Dragomir",
+    title = "Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction",
+    booktitle = "CoRL",
+    year = "2019"
 }
 </pre>
 </details>
@@ -9803,30 +9708,28 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 <details close>
-<summary><strong>Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016.</srtong> <a href=https://ieeexplore.ieee.org/document/7477732>paper</a></summary>
+<summary><strong>Schulz et al., "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments", IROS, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_osu">OSU</a></li>
+<li>Custom</li>
+
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_nll">NLL</a></li>
-<li><a href="metrics.md#metric_kld">KLD</a></li>
-<li><a href="metrics.md#metric_mhd">MHD</a></li>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
-<li><a href="metrics.md#metric_dtg">DtG</a></li>
+<li><a href="metrics.md#metric_ll">LL</a></li>
+<li><a href="metrics.md#metric_wrmse">WRMSE</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Lee_2016_WACV,
-    author = "Lee, N. and Kitani, K. M.",
-    booktitle = "WACV",
-    title = "Predicting Wide Receiver Trajectories In American Football",
-    year = "2016"
+@InProceedings{Schulz_2018_IROS,
+    author = "Schulz, J. and Hubmann, C. and Löchner, J. and Burschka, D.",
+    booktitle = "IROS",
+    title = "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments",
+    year = "2018"
 }
 </pre>
 </details>
@@ -9933,276 +9836,9 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_ande></a>
+<a name=metric_mhd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Nonlinear Displacement Error (ANDE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Xu et al., "Encoding Crowd Interaction With Deep Neural Network For Pedestrian Trajectory Prediction", CVPR, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2136.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2136.pdf>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_gc">GC</a></li>
-<li><a href="datasets.md#data_chuk">CHUK</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
-<li><a href="metrics.md#metric_ande">ANDE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Xu_2018_CVPR_encoding,
-    author = "Xu, Yanyu and Piao, Zhixin and Gao, Shenghua",
-    title = "Encoding Crowd Interaction With Deep Neural Network For Pedestrian Trajectory Prediction",
-    booktitle = "CVPR",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Alahi et al., "Social Lstm: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
-<li><a href="metrics.md#metric_ande">ANDE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Alahi_2016_CVPR,
-    author = "Alahi, Alexandre and Goel, Kratarth and Ramanathan, Vignesh and Robicquet, Alexandre and Fei-Fei, Li and Savarese, Silvio",
-    title = "Social Lstm: Human Trajectory Prediction In Crowded Spaces",
-    booktitle = "CVPR",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_accuracy></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Accuracy</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Kim et al., "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Instance-Level_Future_Motion_Estimation_in_a_Single_Image_Based_on_ICCV_2019_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_fm">FM</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Kim_2019_ICCV,
-    author = "Kim, Kyung-Rae and Choi, Whan and Koh, Yeong Jun and Jeong, Seong-Gyun and Kim, Chang-Su",
-    title = "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Solaimanpour et al., "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings", ICRA, 2017.</srtong> <a href=https://ieeexplore.ieee.org/document/7989097>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_kld">KLD</a></li>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Solaimanpour_2017_ICRA,
-    author = "Solaimanpour, S. and Doshi, P.",
-    booktitle = "ICRA",
-    title = "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_hit_rate></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Hit Rate</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_hit_rate">Hit Rate</a></li>
-<li><a href="metrics.md#metric_mined">minED</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hong_2019_CVPR,
-    author = "Hong, Joey and Sapp, Benjamin and Philbin, James",
-    title = "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Chen et al., "Augmented Dictionary Learning For Motion Prediction", ICRA, 2016.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/7487407>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_hit_rate">Hit Rate</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chen_2016_ICRA,
-    author = "Chen, Y. F. and Liu, M. and How, J. P.",
-    booktitle = "ICRA",
-    title = "Augmented Dictionary Learning For Motion Prediction",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_minfde></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>minFDE</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_argoverse">ARGOVerse</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_minade">minADE</a></li>
-<li><a href="metrics.md#metric_minfde">minFDE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chang_2019_CVPR,
-    author = "Chang, Ming-Fang and Lambert, John and Sangkloy, Patsorn and Singh, Jagjeet and Bak, Slawomir and Hartnett, Andrew and Wang, De and Carr, Peter and Lucey, Simon and Ramanan, Deva and Hays, James",
-    title = "Argoverse: 3D Tracking And Forecasting With Rich Maps",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_minade">minADE</a></li>
-<li><a href="metrics.md#metric_minfde">minFDE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Li_2019_CVPR,
-    author = "Li, Yuke",
-    title = "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_nlp></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Probability (NLP)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Modified Hausdorff Distance (MHD)</strong></l>
 </em></summary>
 <ul>
 <details close>
@@ -10256,6 +9892,172 @@ By clicking on each metric you can see the list of papers that used that metric
     author = "Rudenko, A. and Palmieri, L. and Lilienthal, A. J. and Arras, K. O.",
     booktitle = "IROS",
     title = "Human Motion Prediction Under Social Grouping Constraints",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016.</srtong> <a href=https://ieeexplore.ieee.org/document/7477732>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_osu">OSU</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_nll">NLL</a></li>
+<li><a href="metrics.md#metric_kld">KLD</a></li>
+<li><a href="metrics.md#metric_mhd">MHD</a></li>
+<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="metrics.md#metric_dtg">DtG</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lee_2016_WACV,
+    author = "Lee, N. and Kitani, K. M.",
+    booktitle = "WACV",
+    title = "Predicting Wide Receiver Trajectories In American Football",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_maxd></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>maxD</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Felsen et al., "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders", ECCV, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="metrics.md#metric_miss_rate">Miss rate</a></li>
+<li><a href="metrics.md#metric_maxd">maxD</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Felsen_2018_ECCV,
+    author = "Felsen, Panna and Lucey, Patrick and Ganguly, Sujoy",
+    title = "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders",
+    booktitle = "ECCV",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_sd">SD</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_ed">ED</a></li>
+<li><a href="metrics.md#metric_mined">minED</a></li>
+<li><a href="metrics.md#metric_maxd">maxD</a></li>
+<li><a href="metrics.md#metric_miss_rate">Miss rate</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lee_2017_CVPR,
+    author = "Lee, Namhoon and Choi, Wongun and Vernaza, Paul and Choy, Christopher B. and Torr, Philip H. S. and Chandraker, Manmohan",
+    title = "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_minmsd></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>minMSD</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_carla">CARLA</a></li>
+<li><a href="datasets.md#data_nuscenes">nuScenes</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_meanmsd">meanMSD</a></li>
+<li><a href="metrics.md#metric_minmsd">minMSD</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rhinehart_2019_ICCV,
+    author = "Rhinehart, Nicholas and McAllister, Rowan and Kitani, Kris and Levine, Sergey",
+    title = "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings",
+    booktitle = "ICCV",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_meanmsd">meanMSD</a></li>
+<li><a href="metrics.md#metric_minmsd">minMSD</a></li>
+<li><a href="metrics.md#metric_ce">CE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rhinehart_2018_ECCV,
+    author = "Rhinehart, Nicholas and Kitani, Kris M. and Vernaza, Paul",
+    title = "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting",
+    booktitle = "ECCV",
     year = "2018"
 }
 </pre>
@@ -10334,141 +10136,9 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_meanmsd></a>
+<a name=metric_hit_rate></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>mean Mean Square Displacemen (meanMSD)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_carla">CARLA</a></li>
-<li><a href="datasets.md#data_nuscenes">nuScenes</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_meanmsd">meanMSD</a></li>
-<li><a href="metrics.md#metric_minmsd">minMSD</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rhinehart_2019_ICCV,
-    author = "Rhinehart, Nicholas and McAllister, Rowan and Kitani, Kris and Levine, Sergey",
-    title = "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_meanmsd">meanMSD</a></li>
-<li><a href="metrics.md#metric_minmsd">minMSD</a></li>
-<li><a href="metrics.md#metric_ce">CE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rhinehart_2018_ECCV,
-    author = "Rhinehart, Nicholas and Kitani, Kris M. and Vernaza, Paul",
-    title = "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting",
-    booktitle = "ECCV",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_minmsd></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>minMSD</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_carla">CARLA</a></li>
-<li><a href="datasets.md#data_nuscenes">nuScenes</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_meanmsd">meanMSD</a></li>
-<li><a href="metrics.md#metric_minmsd">minMSD</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rhinehart_2019_ICCV,
-    author = "Rhinehart, Nicholas and McAllister, Rowan and Kitani, Kris and Levine, Sergey",
-    title = "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_meanmsd">meanMSD</a></li>
-<li><a href="metrics.md#metric_minmsd">minMSD</a></li>
-<li><a href="metrics.md#metric_ce">CE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rhinehart_2018_ECCV,
-    author = "Rhinehart, Nicholas and Kitani, Kris M. and Vernaza, Paul",
-    title = "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting",
-    booktitle = "ECCV",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_mined></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>minED</strong></l>
+<summary><em><l style="font-size:20px"><strong>Hit Rate</strong></l>
 </em></summary>
 <ul>
 <details close>
@@ -10502,29 +10172,91 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 <details close>
-<summary><strong>Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>code</a></summary>
+<summary><strong>Chen et al., "Augmented Dictionary Learning For Motion Prediction", ICRA, 2016.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/7487407>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li>Custom</li>
+
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ed">ED</a></li>
-<li><a href="metrics.md#metric_mined">minED</a></li>
-<li><a href="metrics.md#metric_maxd">maxD</a></li>
-<li><a href="metrics.md#metric_miss_rate">Miss rate</a></li>
+<li><a href="metrics.md#metric_hit_rate">Hit Rate</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Lee_2017_CVPR,
-    author = "Lee, Namhoon and Choi, Wongun and Vernaza, Paul and Choy, Christopher B. and Torr, Philip H. S. and Chandraker, Manmohan",
-    title = "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
-    booktitle = "CVPR",
+@InProceedings{Chen_2016_ICRA,
+    author = "Chen, Y. F. and Liu, M. and How, J. P.",
+    booktitle = "ICRA",
+    title = "Augmented Dictionary Learning For Motion Prediction",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_accuracy></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Accuracy</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Kim et al., "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Instance-Level_Future_Motion_Estimation_in_a_Single_Image_Based_on_ICCV_2019_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_fm">FM</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kim_2019_ICCV,
+    author = "Kim, Kyung-Rae and Choi, Whan and Koh, Yeong Jun and Jeong, Seong-Gyun and Kim, Chang-Su",
+    title = "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression",
+    booktitle = "ICCV",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Solaimanpour et al., "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings", ICRA, 2017.</srtong> <a href=https://ieeexplore.ieee.org/document/7989097>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="metrics.md#metric_kld">KLD</a></li>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Solaimanpour_2017_ICRA,
+    author = "Solaimanpour, S. and Doshi, P.",
+    booktitle = "ICRA",
+    title = "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings",
     year = "2017"
 }
 </pre>
@@ -10604,13 +10336,13 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_maxd></a>
+<a name=metric_mined></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>maxD</strong></l>
+<summary><em><l style="font-size:20px"><strong>minED</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Felsen et al., "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders", ECCV, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf>paper</a></summary>
+<summary><strong>Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -10621,18 +10353,18 @@ By clicking on each metric you can see the list of papers that used that metric
 <em>Metrics</em>
 <ul>
 <li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_miss_rate">Miss rate</a></li>
-<li><a href="metrics.md#metric_maxd">maxD</a></li>
+<li><a href="metrics.md#metric_hit_rate">Hit Rate</a></li>
+<li><a href="metrics.md#metric_mined">minED</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Felsen_2018_ECCV,
-    author = "Felsen, Panna and Lucey, Patrick and Ganguly, Sujoy",
-    title = "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders",
-    booktitle = "ECCV",
-    year = "2018"
+@InProceedings{Hong_2019_CVPR,
+    author = "Hong, Joey and Sapp, Benjamin and Philbin, James",
+    title = "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions",
+    booktitle = "CVPR",
+    year = "2019"
 }
 </pre>
 </details>
@@ -10664,6 +10396,208 @@ By clicking on each metric you can see the list of papers that used that metric
     title = "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
     booktitle = "CVPR",
     year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_minfde></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>minFDE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_argoverse">ARGOVerse</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_minade">minADE</a></li>
+<li><a href="metrics.md#metric_minfde">minFDE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Chang_2019_CVPR,
+    author = "Chang, Ming-Fang and Lambert, John and Sangkloy, Patsorn and Singh, Jagjeet and Bak, Slawomir and Hartnett, Andrew and Wang, De and Carr, Peter and Lucey, Simon and Ramanan, Deva and Hays, James",
+    title = "Argoverse: 3D Tracking And Forecasting With Rich Maps",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_sd">SD</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_minade">minADE</a></li>
+<li><a href="metrics.md#metric_minfde">minFDE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Li_2019_CVPR,
+    author = "Li, Yuke",
+    title = "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_meanmsd></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>mean Mean Square Displacemen (meanMSD)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_carla">CARLA</a></li>
+<li><a href="datasets.md#data_nuscenes">nuScenes</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_meanmsd">meanMSD</a></li>
+<li><a href="metrics.md#metric_minmsd">minMSD</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rhinehart_2019_ICCV,
+    author = "Rhinehart, Nicholas and McAllister, Rowan and Kitani, Kris and Levine, Sergey",
+    title = "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings",
+    booktitle = "ICCV",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_meanmsd">meanMSD</a></li>
+<li><a href="metrics.md#metric_minmsd">minMSD</a></li>
+<li><a href="metrics.md#metric_ce">CE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rhinehart_2018_ECCV,
+    author = "Rhinehart, Nicholas and Kitani, Kris M. and Vernaza, Paul",
+    title = "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting",
+    booktitle = "ECCV",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_ande></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Average Nonlinear Displacement Error (ANDE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Xu et al., "Encoding Crowd Interaction With Deep Neural Network For Pedestrian Trajectory Prediction", CVPR, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2136.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2136.pdf>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_gc">GC</a></li>
+<li><a href="datasets.md#data_chuk">CHUK</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="metrics.md#metric_ande">ANDE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Xu_2018_CVPR_encoding,
+    author = "Xu, Yanyu and Piao, Zhixin and Gao, Shenghua",
+    title = "Encoding Crowd Interaction With Deep Neural Network For Pedestrian Trajectory Prediction",
+    booktitle = "CVPR",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Alahi et al., "Social Lstm: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="metrics.md#metric_ande">ANDE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Alahi_2016_CVPR,
+    author = "Alahi, Alexandre and Goel, Kratarth and Ramanathan, Vignesh and Robicquet, Alexandre and Fei-Fei, Li and Savarese, Silvio",
+    title = "Social Lstm: Human Trajectory Prediction In Crowded Spaces",
+    booktitle = "CVPR",
+    year = "2016"
 }
 </pre>
 </details>
@@ -10741,13 +10675,42 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_wrmse></a>
+<a name=metric_nlp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>WRMSE</strong></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Probability (NLP)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Schulz et al., "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments", IROS, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>arxiv</a></summary>
+<summary><strong>Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8460527>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_atc">ATC</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_run_time">Run Time</a></li>
+<li><a href="metrics.md#metric_mhd">MHD</a></li>
+<li><a href="metrics.md#metric_nlp">NLP</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rudenko_2018_ICRA,
+    author = "Rudenko, A. and Palmieri, L. and Arras, K. O.",
+    booktitle = "ICRA",
+    title = "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Rudenko et al., "Human Motion Prediction Under Social Grouping Constraints", IROS, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8594258>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -10757,17 +10720,204 @@ By clicking on each metric you can see the list of papers that used that metric
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ll">LL</a></li>
-<li><a href="metrics.md#metric_wrmse">WRMSE</a></li>
+<li><a href="metrics.md#metric_mhd">MHD</a></li>
+<li><a href="metrics.md#metric_nlp">NLP</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Schulz_2018_IROS,
-    author = "Schulz, J. and Hubmann, C. and Löchner, J. and Burschka, D.",
+@InProceedings{Rudenko_2018_IROS,
+    author = "Rudenko, A. and Palmieri, L. and Lilienthal, A. J. and Arras, K. O.",
     booktitle = "IROS",
-    title = "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments",
+    title = "Human Motion Prediction Under Social Grouping Constraints",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_fnm></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Fraction of Near Misses (FNM)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Bai et al., "Intention-Aware Online Pomdp Planning For Autonomous Driving In A Crowd", ICRA, 2015.</srtong> <a href=https://ieeexplore.ieee.org/document/7139219>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_fnm">FNM</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Bai_2015_ICRA,
+    author = "Bai, Haoyu and Cai, Shaojun and Ye, Nan and Hsu, David and Lee, Wee Sun",
+    title = "Intention-Aware Online Pomdp Planning For Autonomous Driving In A Crowd",
+    booktitle = "ICRA",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_mane></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mean angular error (MAnE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Hasan et al., ""Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention", WACV, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8354238>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_town_center">Town Center</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="metrics.md#metric_mane">MAnE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Hasan_2018_WACV,
+    author = "Hasan, I. and Setti, F. and Tsesmelis, T. and Del Bue, A. and Cristani, M. and Galasso, F.",
+    booktitle = "WACV",
+    title = "Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention,
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_dtg></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Distance to Goal (DtG)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016.</srtong> <a href=https://ieeexplore.ieee.org/document/7477732>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_osu">OSU</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_nll">NLL</a></li>
+<li><a href="metrics.md#metric_kld">KLD</a></li>
+<li><a href="metrics.md#metric_mhd">MHD</a></li>
+<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="metrics.md#metric_dtg">DtG</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lee_2016_WACV,
+    author = "Lee, N. and Kitani, K. M.",
+    booktitle = "WACV",
+    title = "Predicting Wide Receiver Trajectories In American Football",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_scr></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>State Collision Rate (SCR)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Ma et al., "Forecasting Interactive Dynamics Of Pedestrians With Fictitious Play", CVPR, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_town_center">Town Center</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_nll">NLL</a></li>
+<li><a href="metrics.md#metric_scr">SCR</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ma_2017_CVPR,
+    author = "Ma, Wei-Chiu and Huang, De-An and Lee, Namhoon and Kitani, Kris M.",
+    title = "Forecasting Interactive Dynamics Of Pedestrians With Fictitious Play",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_aede></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>AEDE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_strands">STRANDS</a></li>
+<li><a href="datasets.md#data_l-cas">L-CAS</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="metrics.md#metric_aede">AEDE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Sun_2018_ICRA,
+    author = "Sun, L. and Yan, Z. and Mellado, S. M. and Hanheide, M. and Duckett, T.",
+    booktitle = "ICRA",
+    title = "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data",
     year = "2018"
 }
 </pre>
@@ -10815,45 +10965,6 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_ece></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Jain et al., "Discrete Residual Flow For Probabilistic Pedestrian Behavior Prediction", CoRL, 2019.</srtong> <a href=http://proceedings.mlr.press/v100/jain20a/jain20a.pdf>paper</a> <a href=http://proceedings.mlr.press/v100/jain20a/jain20a.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
-<li><a href="metrics.md#metric_nll">NLL</a></li>
-<li><a href="metrics.md#metric_ece">ECE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Jain_2019_CORL,
-    author = "Jain, Ajay and Casas, Sergio and Liao, Renjie and Xiong, Yuwen and Feng, Song and Segal, Sean and Urtasun, Raquel",
-    title = "Discrete Residual Flow For Probabilistic Pedestrian Behavior Prediction",
-    booktitle = "CoRL",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=metric_pd></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Percentage Deviated (PD)</strong></l>
@@ -10881,43 +10992,6 @@ By clicking on each metric you can see the list of papers that used that metric
     booktitle = "IROS",
     title = "Topologically Distinct Trajectory Predictions For Probabilistic Pursuit",
     year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_aede></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>AEDE</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_strands">STRANDS</a></li>
-<li><a href="datasets.md#data_l-cas">L-CAS</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_aede">AEDE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Sun_2018_ICRA,
-    author = "Sun, L. and Yan, Z. and Mellado, S. M. and Hanheide, M. and Duckett, T.",
-    booktitle = "ICRA",
-    title = "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data",
-    year = "2018"
 }
 </pre>
 </details>
@@ -11000,13 +11074,13 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_fnm></a>
+<a name=metric_none></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Fraction of Near Misses (FNM)</strong></l>
+<summary><em><l style="font-size:20px"><strong>None</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Bai et al., "Intention-Aware Online Pomdp Planning For Autonomous Driving In A Crowd", ICRA, 2015.</srtong> <a href=https://ieeexplore.ieee.org/document/7139219>paper</a></summary>
+<summary><strong>M\ogelmose et al., "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations", IV, 2015.</srtong> <a href=https://ieeexplore.ieee.org/document/7225707>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -11016,16 +11090,16 @@ By clicking on each metric you can see the list of papers that used that metric
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_fnm">FNM</a></li>
+<li><a href="metrics.md#metric_none">None</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Bai_2015_ICRA,
-    author = "Bai, Haoyu and Cai, Shaojun and Ye, Nan and Hsu, David and Lee, Wee Sun",
-    title = "Intention-Aware Online Pomdp Planning For Autonomous Driving In A Crowd",
-    booktitle = "ICRA",
+@InProceedings{Mogelmose_2015_IV,
+    author = "M\ogelmose, Andreas and Trivedi, Mohan M and Moeslund, Thomas B",
+    title = "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations",
+    booktitle = "IV",
     year = "2015"
 }
 </pre>
@@ -11073,127 +11147,13 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_dtg></a>
+<a name=metric_ece></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Distance to Goal (DtG)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016.</srtong> <a href=https://ieeexplore.ieee.org/document/7477732>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_osu">OSU</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_nll">NLL</a></li>
-<li><a href="metrics.md#metric_kld">KLD</a></li>
-<li><a href="metrics.md#metric_mhd">MHD</a></li>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
-<li><a href="metrics.md#metric_dtg">DtG</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Lee_2016_WACV,
-    author = "Lee, N. and Kitani, K. M.",
-    booktitle = "WACV",
-    title = "Predicting Wide Receiver Trajectories In American Football",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_mane></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Mean angular error (MAnE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Hasan et al., ""Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention", WACV, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8354238>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_town_center">Town Center</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
-<li><a href="metrics.md#metric_mane">MAnE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hasan_2018_WACV,
-    author = "Hasan, I. and Setti, F. and Tsesmelis, T. and Del Bue, A. and Cristani, M. and Galasso, F.",
-    booktitle = "WACV",
-    title = "Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention,
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_scr></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>State Collision Rate (SCR)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Ma et al., "Forecasting Interactive Dynamics Of Pedestrians With Fictitious Play", CVPR, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_town_center">Town Center</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_nll">NLL</a></li>
-<li><a href="metrics.md#metric_scr">SCR</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ma_2017_CVPR,
-    author = "Ma, Wei-Chiu and Huang, De-An and Lee, Namhoon and Kitani, Kris M.",
-    title = "Forecasting Interactive Dynamics Of Pedestrians With Fictitious Play",
-    booktitle = "CVPR",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_none></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>None</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>M\ogelmose et al., "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations", IV, 2015.</srtong> <a href=https://ieeexplore.ieee.org/document/7225707>paper</a></summary>
+<summary><strong>Jain et al., "Discrete Residual Flow For Probabilistic Pedestrian Behavior Prediction", CoRL, 2019.</srtong> <a href=http://proceedings.mlr.press/v100/jain20a/jain20a.pdf>paper</a> <a href=http://proceedings.mlr.press/v100/jain20a/jain20a.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -11203,17 +11163,57 @@ By clicking on each metric you can see the list of papers that used that metric
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_none">None</a></li>
+<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="metrics.md#metric_nll">NLL</a></li>
+<li><a href="metrics.md#metric_ece">ECE</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Mogelmose_2015_IV,
-    author = "M\ogelmose, Andreas and Trivedi, Mohan M and Moeslund, Thomas B",
-    title = "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations",
-    booktitle = "IV",
-    year = "2015"
+@InProceedings{Jain_2019_CORL,
+    author = "Jain, Ajay and Casas, Sergio and Liao, Renjie and Xiong, Yuwen and Feng, Song and Segal, Sean and Urtasun, Raquel",
+    title = "Discrete Residual Flow For Probabilistic Pedestrian Behavior Prediction",
+    booktitle = "CoRL",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_wrmse></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>WRMSE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Schulz et al., "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments", IROS, 2018.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_ll">LL</a></li>
+<li><a href="metrics.md#metric_wrmse">WRMSE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Schulz_2018_IROS,
+    author = "Schulz, J. and Hubmann, C. and Löchner, J. and Burschka, D.",
+    booktitle = "IROS",
+    title = "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments",
+    year = "2018"
 }
 </pre>
 </details>
@@ -11957,6 +11957,70 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
+<a name=metric_accuracy></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Accuracy</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8968192>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Luo_2019_IROS,
+    author = "Luo, Ren C. and Mai, Lincong",
+    booktitle = "IROS",
+    title = "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Fragkiadaki et al., "Recurrent Network Models For Human Dynamics", ICCV, 2015.</srtong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Fragkiadaki_Recurrent_Network_Models_ICCV_2015_paper.pdf>paper</a> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Fragkiadaki_Recurrent_Network_Models_ICCV_2015_paper.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_mane">MAnE</a></li>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Fragkiadaki_2015_ICCV,
+    author = "Fragkiadaki, Katerina and Levine, Sergey and Felsen, Panna and Malik, Jitendra",
+    title = "Recurrent Network Models For Human Dynamics",
+    booktitle = "ICCV",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=metric_human></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong></l>
@@ -12014,70 +12078,6 @@ By clicking on each metric you can see the list of papers that used that metric
     title = "Adversarial Geometry-Aware Human Motion Prediction",
     booktitle = "ECCV",
     year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_accuracy></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Accuracy</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8968192>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Luo_2019_IROS,
-    author = "Luo, Ren C. and Mai, Lincong",
-    booktitle = "IROS",
-    title = "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Fragkiadaki et al., "Recurrent Network Models For Human Dynamics", ICCV, 2015.</srtong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Fragkiadaki_Recurrent_Network_Models_ICCV_2015_paper.pdf>paper</a> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Fragkiadaki_Recurrent_Network_Models_ICCV_2015_paper.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_mane">MAnE</a></li>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Fragkiadaki_2015_ICCV,
-    author = "Fragkiadaki, Katerina and Levine, Sergey and Felsen, Panna and Malik, Jitendra",
-    title = "Recurrent Network Models For Human Dynamics",
-    booktitle = "ICCV",
-    year = "2015"
 }
 </pre>
 </details>
@@ -12223,83 +12223,6 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_pskl></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>PoSe KL (PSKL)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_mane">MAnE</a></li>
-<li><a href="metrics.md#metric_human">Human</a></li>
-<li><a href="metrics.md#metric_pskl">PSKL</a></li>
-<li><a href="metrics.md#metric_psent">PSEnt</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hernandez_2019_ICCV,
-    author = "Hernandez, Alejandro and Gall, Jurgen and Moreno-Noguer, Francesc",
-    title = "Human Motion Prediction Via Spatio-Temporal Inpainting",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_re></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Reconstruction Error (RE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_instavariety">InstaVariety</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_pck">PCK</a></li>
-<li><a href="metrics.md#metric_mpjpe">MPJPE</a></li>
-<li><a href="metrics.md#metric_re">RE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zhang_2019_ICCV,
-    author = "Zhang, Jason Y. and Felsen, Panna and Kanazawa, Angjoo and Malik, Jitendra",
-    title = "Predicting 3D Human Dynamics From Video",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=metric_psent></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>PoSe Entropy (PSEnt)</strong></l>
@@ -12374,6 +12297,45 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
+<a name=metric_re></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Reconstruction Error (RE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets.md#data_instavariety">InstaVariety</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_pck">PCK</a></li>
+<li><a href="metrics.md#metric_mpjpe">MPJPE</a></li>
+<li><a href="metrics.md#metric_re">RE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhang_2019_ICCV,
+    author = "Zhang, Jason Y. and Felsen, Panna and Kanazawa, Angjoo and Malik, Jitendra",
+    title = "Predicting 3D Human Dynamics From Video",
+    booktitle = "ICCV",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=metric_lo></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Limb Orientation (LO)</strong></l>
@@ -12410,11 +12372,49 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
+<a name=metric_pskl></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>PoSe KL (PSKL)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_mane">MAnE</a></li>
+<li><a href="metrics.md#metric_human">Human</a></li>
+<li><a href="metrics.md#metric_pskl">PSKL</a></li>
+<li><a href="metrics.md#metric_psent">PSEnt</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Hernandez_2019_ICCV,
+    author = "Hernandez, Alejandro and Gall, Jurgen and Moreno-Noguer, Francesc",
+    title = "Human Motion Prediction Via Spatio-Temporal Inpainting",
+    booktitle = "ICCV",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><a name=metrics_other></a>
 <h2 style="color:#bd831f">  Other Prediction </h2><a href=#metrics_top>&uarr; top</a>
-<ul><a name=metric_precision></a>
+<ul><a name=metric_recall></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Precision</strong></l>
+<summary><em><l style="font-size:20px"><strong>Recall</strong></l>
 </em></summary>
 <ul>
 <details close>
@@ -12499,6 +12499,190 @@ By clicking on each metric you can see the list of papers that used that metric
     author = "Sur, I. and Ben Amor, H.",
     booktitle = "IROS",
     title = "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_accuracy></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Accuracy</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_vist">VIST</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zeng_2017_ICCV,
+    author = "Zeng, Kuo-Hao and Shen, William B. and Huang, De-An and Sun, Min and Carlos Niebles, Juan",
+    title = "Visual Forecasting By Imitating Dynamics In Natural Sequences",
+    booktitle = "ICCV",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Carvajal et al., "Towards Miss Universe Automatic Prediction: The Evening Gown Competition", ICPR, 2016.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/7899781>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/7899781>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_mu">MU</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Carvajal_2016_ICPR,
+    author = "Carvajal, J. and Wiliem, A. and Sanderson, C. and Lovell, B.",
+    booktitle = "ICPR",
+    title = "Towards Miss Universe Automatic Prediction: The Evening Gown Competition",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Joo et al., "Automated Facial Trait Judgment And Election Outcome Prediction: Social Dimensions Of Face", ICCV, 2015.</srtong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Joo_2015_ICCV,
+    author = "Joo, Jungseock and Steen, Francis F. and Zhu, Song-Chun",
+    title = "Automated Facial Trait Judgment And Election Outcome Prediction: Social Dimensions Of Face",
+    booktitle = "ICCV",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_iou></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Terwilliger et al., "Recurrent Flow-Guided Semantic Forecasting", WACV, 2019.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8658639>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8658639>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_iou">IoU</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Terwilliger_2019_WACV,
+    author = "Terwilliger, A. and Brazil, G. and Liu, X.",
+    booktitle = "WACV",
+    title = "Recurrent Flow-Guided Semantic Forecasting",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_iou">IoU</a></li>
+<li><a href="metrics.md#metric_voi">VoI</a></li>
+<li><a href="metrics.md#metric_gce">GCE</a></li>
+<li><a href="metrics.md#metric_ri">RI</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Luc_2018_ECCV,
+    author = "Luc, Pauline and Couprie, Camille and LeCun, Yann and Verbeek, Jakob",
+    title = "Predicting Future Instance Segmentation By Forecasting Convolutional Features",
+    booktitle = "ECCV",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Luc et al., "Predicting Deeper Into The Future Of Semantic Segmentation", ICCV, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_iou">IoU</a></li>
+<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="metrics.md#metric_psnr">PSNR</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Luc_2017_ICCV,
+    author = "Luc, Pauline and Neverova, Natalia and Couprie, Camille and Verbeek, Jakob and LeCun, Yann",
+    title = "Predicting Deeper Into The Future Of Semantic Segmentation",
+    booktitle = "ICCV",
     year = "2017"
 }
 </pre>
@@ -12607,378 +12791,6 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_mae></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>He et al., "Aggregated Sparse Attention For Steering Angle Prediction", ICPR, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8546051>paper</a> <a href=https://ieeexplore.ieee.org/document/8546051>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_diplecs">DIPLECS</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_mae">MAE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{He_2018_ICPR,
-    author = "He, S. and Kangin, D. and Mi, Y. and Pugeault, N.",
-    booktitle = "ICPR",
-    title = "Aggregated Sparse Attention For Steering Angle Prediction",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Al-Halah et al., "Fashion Forward: Forecasting Visual Style In Fashion", ICCV, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Al-Halah_Fashion_Forward_Forecasting_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Al-Halah_Fashion_Forward_Forecasting_ICCV_2017_paper.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_amazon">Amazon</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_mae">MAE</a></li>
-<li><a href="metrics.md#metric_mape">MAPE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Al-Halah_2017_ICCV,
-    author = "Al-Halah, Ziad and Stiefelhagen, Rainer and Grauman, Kristen",
-    title = "Fashion Forward: Forecasting Visual Style In Fashion",
-    booktitle = "ICCV",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Wilson et al., "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs", ICRA, 2015.</srtong> <a href=https://ieeexplore.ieee.org/document/7139221>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_mae">MAE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Wilson_2015_ICRA,
-    author = "Wilson, G. N. and Ramirez-Serrano, A. and Sun, Q.",
-    booktitle = "ICRA",
-    title = "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs",
-    year = "2015"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_iou></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Terwilliger et al., "Recurrent Flow-Guided Semantic Forecasting", WACV, 2019.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8658639>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8658639>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_iou">IoU</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Terwilliger_2019_WACV,
-    author = "Terwilliger, A. and Brazil, G. and Liu, X.",
-    booktitle = "WACV",
-    title = "Recurrent Flow-Guided Semantic Forecasting",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_iou">IoU</a></li>
-<li><a href="metrics.md#metric_voi">VoI</a></li>
-<li><a href="metrics.md#metric_gce">GCE</a></li>
-<li><a href="metrics.md#metric_ri">RI</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Luc_2018_ECCV,
-    author = "Luc, Pauline and Couprie, Camille and LeCun, Yann and Verbeek, Jakob",
-    title = "Predicting Future Instance Segmentation By Forecasting Convolutional Features",
-    booktitle = "ECCV",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Luc et al., "Predicting Deeper Into The Future Of Semantic Segmentation", ICCV, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_iou">IoU</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Luc_2017_ICCV,
-    author = "Luc, Pauline and Neverova, Natalia and Couprie, Camille and Verbeek, Jakob and LeCun, Yann",
-    title = "Predicting Deeper Into The Future Of Semantic Segmentation",
-    booktitle = "ICCV",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_accuracy></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Accuracy</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_vist">VIST</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zeng_2017_ICCV,
-    author = "Zeng, Kuo-Hao and Shen, William B. and Huang, De-An and Sun, Min and Carlos Niebles, Juan",
-    title = "Visual Forecasting By Imitating Dynamics In Natural Sequences",
-    booktitle = "ICCV",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Carvajal et al., "Towards Miss Universe Automatic Prediction: The Evening Gown Competition", ICPR, 2016.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/7899781>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/7899781>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_mu">MU</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Carvajal_2016_ICPR,
-    author = "Carvajal, J. and Wiliem, A. and Sanderson, C. and Lovell, B.",
-    booktitle = "ICPR",
-    title = "Towards Miss Universe Automatic Prediction: The Evening Gown Competition",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Joo et al., "Automated Facial Trait Judgment And Election Outcome Prediction: Social Dimensions Of Face", ICCV, 2015.</srtong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Joo_2015_ICCV,
-    author = "Joo, Jungseock and Steen, Francis F. and Zhu, Song-Chun",
-    title = "Automated Facial Trait Judgment And Election Outcome Prediction: Social Dimensions Of Face",
-    booktitle = "ICCV",
-    year = "2015"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_recall></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Recall</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_fcvl">FCVL</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_run_time">Run Time</a></li>
-<li><a href="metrics.md#metric_recall">Recall</a></li>
-<li><a href="metrics.md#metric_precision">Precision</a></li>
-<li><a href="metrics.md#metric_auc">AUC</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Choi_2016_IROS,
-    author = "Choi, S. and Lee, K. and Oh, S.",
-    booktitle = "IROS",
-    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8658402>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_recall">Recall</a></li>
-<li><a href="metrics.md#metric_precision">Precision</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Kim_2019_WACV,
-    author = "Kim, S. and Kim, H. and Lee, J. and Yoon, S. and Kahou, S. E. and Kashinath, K. and Prabhat, M.",
-    booktitle = "WACV",
-    title = "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017.</srtong> <a href=https://ieeexplore.ieee.org/document/8206442>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_recall">Recall</a></li>
-<li><a href="metrics.md#metric_precision">Precision</a></li>
-<li><a href="metrics.md#metric_mcc">MCC</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Sur_2017_IROS,
-    author = "Sur, I. and Ben Amor, H.",
-    booktitle = "IROS",
-    title = "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=metric_ssim></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong></l>
@@ -13076,6 +12888,194 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
+<a name=metric_precision></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Precision</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_fcvl">FCVL</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_run_time">Run Time</a></li>
+<li><a href="metrics.md#metric_recall">Recall</a></li>
+<li><a href="metrics.md#metric_precision">Precision</a></li>
+<li><a href="metrics.md#metric_auc">AUC</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Choi_2016_IROS,
+    author = "Choi, S. and Lee, K. and Oh, S.",
+    booktitle = "IROS",
+    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8658402>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_recall">Recall</a></li>
+<li><a href="metrics.md#metric_precision">Precision</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kim_2019_WACV,
+    author = "Kim, S. and Kim, H. and Lee, J. and Yoon, S. and Kahou, S. E. and Kashinath, K. and Prabhat, M.",
+    booktitle = "WACV",
+    title = "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017.</srtong> <a href=https://ieeexplore.ieee.org/document/8206442>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_recall">Recall</a></li>
+<li><a href="metrics.md#metric_precision">Precision</a></li>
+<li><a href="metrics.md#metric_mcc">MCC</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Sur_2017_IROS,
+    author = "Sur, I. and Ben Amor, H.",
+    booktitle = "IROS",
+    title = "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_mae></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>He et al., "Aggregated Sparse Attention For Steering Angle Prediction", ICPR, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8546051>paper</a> <a href=https://ieeexplore.ieee.org/document/8546051>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_diplecs">DIPLECS</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_mae">MAE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{He_2018_ICPR,
+    author = "He, S. and Kangin, D. and Mi, Y. and Pugeault, N.",
+    booktitle = "ICPR",
+    title = "Aggregated Sparse Attention For Steering Angle Prediction",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Al-Halah et al., "Fashion Forward: Forecasting Visual Style In Fashion", ICCV, 2017.</srtong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Al-Halah_Fashion_Forward_Forecasting_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Al-Halah_Fashion_Forward_Forecasting_ICCV_2017_paper.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_amazon">Amazon</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_mae">MAE</a></li>
+<li><a href="metrics.md#metric_mape">MAPE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Al-Halah_2017_ICCV,
+    author = "Al-Halah, Ziad and Stiefelhagen, Rainer and Grauman, Kristen",
+    title = "Fashion Forward: Forecasting Visual Style In Fashion",
+    booktitle = "ICCV",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Wilson et al., "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs", ICRA, 2015.</srtong> <a href=https://ieeexplore.ieee.org/document/7139221>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_mae">MAE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wilson_2015_ICRA,
+    author = "Wilson, G. N. and Ramirez-Serrano, A. and Sun, Q.",
+    booktitle = "ICRA",
+    title = "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=metric_mape></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong></l>
@@ -13131,6 +13131,70 @@ By clicking on each metric you can see the list of papers that used that metric
     title = "Fashion Forward: Forecasting Visual Style In Fashion",
     booktitle = "ICCV",
     year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_f1></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>F1</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Guizilini et al., "Dynamic Hilbert Maps: Real-Time Occupancy Predictions In Changing Environments", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8793914>paper</a> <a href=https://ieeexplore.ieee.org/document/8793914>arxiv</a> <a href=https://ieeexplore.ieee.org/document/8793914>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_f1">F1</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Guizilini_2019_ICRA,
+    author = "Guizilini, V. and Senanayake, R. and Ramos, F.",
+    booktitle = "ICRA",
+    title = "Dynamic Hilbert Maps: Real-Time Occupancy Predictions In Changing Environments",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong>Schreiber et al., "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8793582>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8793582>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_roc">ROC</a></li>
+<li><a href="metrics.md#metric_f1">F1</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Schreiber_2019_ICRA,
+    author = "Schreiber, M. and Hoermann, S. and Dietmayer, K.",
+    booktitle = "ICRA",
+    title = "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks",
+    year = "2019"
 }
 </pre>
 </details>
@@ -13198,70 +13262,6 @@ By clicking on each metric you can see the list of papers that used that metric
     title = "Predicting Deeper Into The Future Of Semantic Segmentation",
     booktitle = "ICCV",
     year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_f1></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>F1</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Guizilini et al., "Dynamic Hilbert Maps: Real-Time Occupancy Predictions In Changing Environments", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/document/8793914>paper</a> <a href=https://ieeexplore.ieee.org/document/8793914>arxiv</a> <a href=https://ieeexplore.ieee.org/document/8793914>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_f1">F1</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Guizilini_2019_ICRA,
-    author = "Guizilini, V. and Senanayake, R. and Ramos, F.",
-    booktitle = "ICRA",
-    title = "Dynamic Hilbert Maps: Real-Time Occupancy Predictions In Changing Environments",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong>Schreiber et al., "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks", ICRA, 2019.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/8793582>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8793582>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_roc">ROC</a></li>
-<li><a href="metrics.md#metric_f1">F1</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Schreiber_2019_ICRA,
-    author = "Schreiber, M. and Hoermann, S. and Dietmayer, K.",
-    booktitle = "ICRA",
-    title = "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks",
-    year = "2019"
 }
 </pre>
 </details>
@@ -13400,13 +13400,13 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_gce></a>
+<a name=metric_mse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Global Consistency Error (GCE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>arxiv</a></summary>
+<summary><strong>Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017.</srtong> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>paper</a> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -13415,20 +13415,19 @@ By clicking on each metric you can see the list of papers that used that metric
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_iou">IoU</a></li>
-<li><a href="metrics.md#metric_voi">VoI</a></li>
-<li><a href="metrics.md#metric_gce">GCE</a></li>
-<li><a href="metrics.md#metric_ri">RI</a></li>
+<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="metrics.md#metric_miou">MIoU</a></li>
+<li><a href="metrics.md#metric_epe">EPE</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Luc_2018_ECCV,
-    author = "Luc, Pauline and Couprie, Camille and LeCun, Yann and Verbeek, Jakob",
-    title = "Predicting Future Instance Segmentation By Forecasting Convolutional Features",
-    booktitle = "ECCV",
-    year = "2018"
+@InProceedings{Jin_2017_NeurIPS,
+    author = "Jin, Xiaojie and Xiao, Huaxin and Shen, Xiaohui and Yang, Jimei and Lin, Zhe and Chen, Yunpeng and Jie, Zequn and Feng, Jiashi and Yan, Shuicheng",
+    title = "Predicting Scene Parsing And Motion Dynamics In The Future",
+    booktitle = "NeurIPS",
+    year = "2017"
 }
 </pre>
 </details>
@@ -13438,35 +13437,71 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_tn></a>
+<a name=metric_auc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>arxiv</a></summary>
+<summary><strong>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_fcvl">FCVL</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
 <li><a href="metrics.md#metric_run_time">Run Time</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_tp">TP</a></li>
-<li><a href="metrics.md#metric_tn">TN</a></li>
+<li><a href="metrics.md#metric_recall">Recall</a></li>
+<li><a href="metrics.md#metric_precision">Precision</a></li>
+<li><a href="metrics.md#metric_auc">AUC</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Mohajerin_2019_CVPR,
-    author = "Mohajerin, Nima and Rohani, Mohsen",
-    title = "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks",
-    booktitle = "CVPR",
-    year = "2019"
+@InProceedings{Choi_2016_IROS,
+    author = "Choi, S. and Lee, K. and Oh, S.",
+    booktitle = "IROS",
+    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_psi></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Psi</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Afolabi et al., "People As Sensors: Imputing Maps From Human Actions", IROS, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8594511>paper</a> <a href=https://ieeexplore.ieee.org/document/8594511>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_jaad">JAAD</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_psi">Psi</a></li>
+<li><a href="metrics.md#metric_ism">ISM</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Afolabi_2018_IROS,
+    author = "Afolabi, O. and Driggs–Campbell, K. and Dong, R. and Kochenderfer, M. J. and Sastry, S. S.",
+    booktitle = "IROS",
+    title = "People As Sensors: Imputing Maps From Human Actions",
+    year = "2018"
 }
 </pre>
 </details>
@@ -13503,117 +13538,6 @@ By clicking on each metric you can see the list of papers that used that metric
     booktitle = "WACV",
     title = "Retweet Wars: Tweet Popularity Prediction Via Dynamic Multimodal Regression",
     year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_pcp></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Percentage of Correct Predictions (PCP)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Mottaghi et al., "What Happens If... Learning To Predict The Effect Of Forces In Images", ECCV, 2016.</srtong> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46493-0_17>paper</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46493-0_17>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_sun_rgb-d">SUN RGB-D</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_pcp">PCP</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mottaghi_2016_ECCV,
-    author = "Mottaghi, Roozbeh and Rastegari, Mohammad and Gupta, Abhinav and Farhadi, Ali",
-    editor = "Leibe, Bastian and Matas, Jiri and Sebe, Nicu and Welling, Max",
-    title = "What Happens If... Learning To Predict The Effect Of Forces In Images",
-    booktitle = "ECCV",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_voi></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Variation of Information (VoI)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_iou">IoU</a></li>
-<li><a href="metrics.md#metric_voi">VoI</a></li>
-<li><a href="metrics.md#metric_gce">GCE</a></li>
-<li><a href="metrics.md#metric_ri">RI</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Luc_2018_ECCV,
-    author = "Luc, Pauline and Couprie, Camille and LeCun, Yann and Verbeek, Jakob",
-    title = "Predicting Future Instance Segmentation By Forecasting Convolutional Features",
-    booktitle = "ECCV",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_epe></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017.</srtong> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>paper</a> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
-<li><a href="metrics.md#metric_miou">MIoU</a></li>
-<li><a href="metrics.md#metric_epe">EPE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Jin_2017_NeurIPS,
-    author = "Jin, Xiaojie and Xiao, Huaxin and Shen, Xiaohui and Yang, Jimei and Lin, Zhe and Chen, Yunpeng and Jie, Zequn and Feng, Jiashi and Yan, Shuicheng",
-    title = "Predicting Scene Parsing And Motion Dynamics In The Future",
-    booktitle = "NeurIPS",
-    year = "2017"
 }
 </pre>
 </details>
@@ -13698,6 +13622,80 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
+<a name=metric_gce></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Global Consistency Error (GCE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_iou">IoU</a></li>
+<li><a href="metrics.md#metric_voi">VoI</a></li>
+<li><a href="metrics.md#metric_gce">GCE</a></li>
+<li><a href="metrics.md#metric_ri">RI</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Luc_2018_ECCV,
+    author = "Luc, Pauline and Couprie, Camille and LeCun, Yann and Verbeek, Jakob",
+    title = "Predicting Future Instance Segmentation By Forecasting Convolutional Features",
+    booktitle = "ECCV",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_pcp></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Percentage of Correct Predictions (PCP)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Mottaghi et al., "What Happens If... Learning To Predict The Effect Of Forces In Images", ECCV, 2016.</srtong> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46493-0_17>paper</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46493-0_17>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_sun_rgb-d">SUN RGB-D</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_pcp">PCP</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mottaghi_2016_ECCV,
+    author = "Mottaghi, Roozbeh and Rastegari, Mohammad and Gupta, Abhinav and Farhadi, Ali",
+    editor = "Leibe, Bastian and Matas, Jiri and Sebe, Nicu and Welling, Max",
+    title = "What Happens If... Learning To Predict The Effect Of Forces In Images",
+    booktitle = "ECCV",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=metric_mcc></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong></l>
@@ -13736,6 +13734,81 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
+<a name=metric_tn></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_run_time">Run Time</a></li>
+<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="metrics.md#metric_tp">TP</a></li>
+<li><a href="metrics.md#metric_tn">TN</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mohajerin_2019_CVPR,
+    author = "Mohajerin, Nima and Rohani, Mohsen",
+    title = "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_epe></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017.</srtong> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>paper</a> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="metrics.md#metric_miou">MIoU</a></li>
+<li><a href="metrics.md#metric_epe">EPE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Jin_2017_NeurIPS,
+    author = "Jin, Xiaojie and Xiao, Huaxin and Shen, Xiaohui and Yang, Jimei and Lin, Zhe and Chen, Yunpeng and Jie, Zequn and Feng, Jiashi and Yan, Shuicheng",
+    title = "Predicting Scene Parsing And Motion Dynamics In The Future",
+    booktitle = "NeurIPS",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=metric_ism></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>ISM</strong></l>
@@ -13762,6 +13835,44 @@ By clicking on each metric you can see the list of papers that used that metric
     author = "Afolabi, O. and Driggs–Campbell, K. and Dong, R. and Kochenderfer, M. J. and Sastry, S. S.",
     booktitle = "IROS",
     title = "People As Sensors: Imputing Maps From Human Actions",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=metric_voi></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Variation of Information (VoI)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong>Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018.</srtong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_iou">IoU</a></li>
+<li><a href="metrics.md#metric_voi">VoI</a></li>
+<li><a href="metrics.md#metric_gce">GCE</a></li>
+<li><a href="metrics.md#metric_ri">RI</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Luc_2018_ECCV,
+    author = "Luc, Pauline and Couprie, Camille and LeCun, Yann and Verbeek, Jakob",
+    title = "Predicting Future Instance Segmentation By Forecasting Convolutional Features",
+    booktitle = "ECCV",
     year = "2018"
 }
 </pre>
@@ -13810,41 +13921,6 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_rmse></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Chu et al., "Visual Weather Temperature Prediction", WACV, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8354136>paper</a> <a href=https://ieeexplore.ieee.org/document/8354136>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_amos">AMOS</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_rmse">RMSE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chu_2018_WACV,
-    author = "Chu, W. and Ho, K. and Borji, A.",
-    booktitle = "WACV",
-    title = "Visual Weather Temperature Prediction",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=metric_nmape></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>normalized Mean Absolute Percentage Error (nMAPE)</strong></l>
@@ -13882,108 +13958,32 @@ By clicking on each metric you can see the list of papers that used that metric
 </ul>
 </details>
 
-<a name=metric_mse></a>
+<a name=metric_rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong>Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017.</srtong> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>paper</a> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>arxiv</a></summary>
+<summary><strong>Chu et al., "Visual Weather Temperature Prediction", WACV, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8354136>paper</a> <a href=https://ieeexplore.ieee.org/document/8354136>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets.md#data_amos">AMOS</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
-<li><a href="metrics.md#metric_miou">MIoU</a></li>
-<li><a href="metrics.md#metric_epe">EPE</a></li>
+<li><a href="metrics.md#metric_rmse">RMSE</a></li>
 </ul>
 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Jin_2017_NeurIPS,
-    author = "Jin, Xiaojie and Xiao, Huaxin and Shen, Xiaohui and Yang, Jimei and Lin, Zhe and Chen, Yunpeng and Jie, Zequn and Feng, Jiashi and Yan, Shuicheng",
-    title = "Predicting Scene Parsing And Motion Dynamics In The Future",
-    booktitle = "NeurIPS",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_psi></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Psi</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Afolabi et al., "People As Sensors: Imputing Maps From Human Actions", IROS, 2018.</srtong> <a href=https://ieeexplore.ieee.org/document/8594511>paper</a> <a href=https://ieeexplore.ieee.org/document/8594511>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_jaad">JAAD</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_psi">Psi</a></li>
-<li><a href="metrics.md#metric_ism">ISM</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Afolabi_2018_IROS,
-    author = "Afolabi, O. and Driggs–Campbell, K. and Dong, R. and Kochenderfer, M. J. and Sastry, S. S.",
-    booktitle = "IROS",
-    title = "People As Sensors: Imputing Maps From Human Actions",
+@InProceedings{Chu_2018_WACV,
+    author = "Chu, W. and Ho, K. and Borji, A.",
+    booktitle = "WACV",
+    title = "Visual Weather Temperature Prediction",
     year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=metric_auc></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</srtong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_fcvl">FCVL</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_run_time">Run Time</a></li>
-<li><a href="metrics.md#metric_recall">Recall</a></li>
-<li><a href="metrics.md#metric_precision">Precision</a></li>
-<li><a href="metrics.md#metric_auc">AUC</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Choi_2016_IROS,
-    author = "Choi, S. and Lee, K. and Oh, S.",
-    booktitle = "IROS",
-    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
-    year = "2016"
 }
 </pre>
 </details>
