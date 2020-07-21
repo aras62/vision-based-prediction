@@ -1,16 +1,21 @@
+---
+<a href=README.md><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=papers.md><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=datasets.md><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=metrics.md><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+---
+Video&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](action_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Trajectory](trajectory_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](motion_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+___
 <a name=video></a>
-<h2> <l style="color:#d52b0f";> Video Prediction Papers</l> 
+<h2 style="color:#d52b0f";> Video Prediction Papers</h2> 
 <a name=Kwon_2019_CVPR/>
 <details close>
 <summary><strong>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets/datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/datasets.md#data_chuk_avenue">CHUK Avenue</a></li>
-<li><a href="datasets/datasets.md#data_shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets.md#data_chuk_avenue">CHUK Avenue</a></li>
+<li><a href="datasets.md#data_shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -41,9 +46,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets/datasets.md#data_cityscapes">Cityscapes</a></li>
-<li><a href="datasets/datasets.md#data_bair_push">BAIR Push</a></li>
+<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
+<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets.md#data_bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -74,8 +79,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets/datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -105,9 +110,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/datasets.md#data_yuv">YUV</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets.md#data_yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -138,8 +143,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets/datasets.md#data_shapestack">ShapeStack</a></li>
+<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets.md#data_shapestack">ShapeStack</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -168,9 +173,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets/datasets.md#data_uva-nemo">UvA-NEMO</a></li>
-<li><a href="datasets/datasets.md#data_mgif">MGIF</a></li>
+<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets.md#data_uva-nemo">UvA-NEMO</a></li>
+<li><a href="datasets.md#data_mgif">MGIF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -199,8 +204,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets/datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
+<li><a href="datasets.md#data_kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -230,9 +235,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets/datasets.md#data_kth">KTH</a></li>
-<li><a href="datasets/datasets.md#data_msr">MSR</a></li>
+<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
+<li><a href="datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets.md#data_msr">MSR</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -262,7 +267,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_jaad">JAAD</a></li>
+<li><a href="datasets.md#data_jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -321,9 +326,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets/datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/datasets.md#data_yuv">YUV</a></li>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets.md#data_yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -354,8 +359,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets/datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -385,7 +390,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -415,9 +420,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets/datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -447,10 +452,10 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets/datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets/datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -480,8 +485,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -511,7 +516,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets.md#data_kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -542,9 +547,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets/datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -575,9 +580,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets/datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
+<li><a href="datasets.md#data_kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -608,8 +613,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/datasets.md#data_youtube-8m">Youtube-8M</a></li>
+<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets.md#data_youtube-8m">Youtube-8M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -641,8 +646,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets/datasets.md#data_mug">MUG</a></li>
+<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets.md#data_mug">MUG</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -672,8 +677,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets/datasets.md#data_bouncing_ball">Bouncing Ball</a></li>
+<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
+<li><a href="datasets.md#data_bouncing_ball">Bouncing Ball</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -703,9 +708,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets/datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets/datasets.md#data_bair_push">BAIR Push</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
+<li><a href="datasets.md#data_bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -735,7 +740,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -764,9 +769,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets/datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -797,9 +802,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets/datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -831,8 +836,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets/datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -862,7 +867,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -891,11 +896,11 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets/datasets.md#data_sports-1m">Sports-1M</a></li>
-<li><a href="datasets/datasets.md#data_visor">ViSOR</a></li>
-<li><a href="datasets/datasets.md#data_prost">PROST</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
+<li><a href="datasets.md#data_sports-1m">Sports-1M</a></li>
+<li><a href="datasets.md#data_visor">ViSOR</a></li>
+<li><a href="datasets.md#data_prost">PROST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -924,10 +929,10 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets/datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/datasets.md#data_thumos">THUMOS</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets.md#data_thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -958,8 +963,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -989,7 +994,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_mmnist">MMNIST</a></li>
+<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1018,9 +1023,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets/datasets.md#data_sports-1m">Sports-1M</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1050,8 +1055,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets/datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
+<li><a href="datasets.md#data_kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1082,8 +1087,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets/datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1113,8 +1118,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets/datasets.md#data_bair_push">BAIR Push</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1144,7 +1149,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_atari">Atari</a></li>
+<li><a href="datasets.md#data_atari">Atari</a></li>
 </ul>
 
 <em>Metrics</em>

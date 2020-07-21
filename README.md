@@ -7,7 +7,7 @@ Similar to the survey paper, the papers are categorized into 5 groups: **Video**
 
 The papers can be found in three different ways by:
 
-* [Applications](papers/papers.md)
+* [Papers](papers/papers.md)
 * [Datasets](datasets/datasets.md)
 * [Metrics](metrics.md)
 

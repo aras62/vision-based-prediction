@@ -1,13 +1,18 @@
+---
+<a href=README.md><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=papers.md><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=datasets.md><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=metrics.md><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+---
+[Video](video_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](action_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Trajectory&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](motion_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+___
 <a name=trajectory></a>
-<h2> <l style="color:#30bd19";> Trajectory Prediction Papers</l> 
+<h2 style="color:#30bd19";> Trajectory Prediction Papers</h2> 
 <a name=Chandra_2019_CVPR/>
 <details close>
 <summary><strong>Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ngsim">NGSIM</a></li>
-<li><a href="datasets/datasets.md#data_traf">TRAF</a></li>
+<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets.md#data_traf">TRAF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -37,7 +42,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_argoverse">ARGOVerse</a></li>
+<li><a href="datasets.md#data_argoverse">ARGOVerse</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -99,9 +104,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets/datasets.md#data_sd">SD</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -131,9 +136,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets/datasets.md#data_actev/virat">ActEV/VIRAT</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_actev/virat">ActEV/VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -163,8 +168,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -194,8 +199,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -225,10 +230,10 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets/datasets.md#data_ngsim">NGSIM</a></li>
-<li><a href="datasets/datasets.md#data_sd">SD</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets.md#data_sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -259,8 +264,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ngsim">NGSIM</a></li>
-<li><a href="datasets/datasets.md#data_vpm">VPM</a></li>
+<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets.md#data_vpm">VPM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -290,9 +295,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets/datasets.md#data_sd">SD</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -322,8 +327,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -353,7 +358,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_fm">FM</a></li>
+<li><a href="datasets.md#data_fm">FM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -382,8 +387,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_jaad">JAAD</a></li>
-<li><a href="datasets/datasets.md#data_pie">PIE</a></li>
+<li><a href="datasets.md#data_jaad">JAAD</a></li>
+<li><a href="datasets.md#data_pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -413,8 +418,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_carla">CARLA</a></li>
-<li><a href="datasets/datasets.md#data_nuscenes">nuScenes</a></li>
+<li><a href="datasets.md#data_carla">CARLA</a></li>
+<li><a href="datasets.md#data_nuscenes">nuScenes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -444,8 +449,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -474,8 +479,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -566,7 +571,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -595,7 +600,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -625,7 +630,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_carla">CARLA</a></li>
+<li><a href="datasets.md#data_carla">CARLA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -655,8 +660,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -687,7 +692,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_eifp">EIFP</a></li>
+<li><a href="datasets.md#data_eifp">EIFP</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -716,7 +721,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -745,10 +750,10 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets/datasets.md#data_sd">SD</a></li>
-<li><a href="datasets/datasets.md#data_interaction">INTERACTION</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets.md#data_interaction">INTERACTION</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -778,9 +783,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets/datasets.md#data_cityscapes">Cityscapes</a></li>
-<li><a href="datasets/datasets.md#data_oxford">Oxford</a></li>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets.md#data_oxford">Oxford</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -839,8 +844,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -936,8 +941,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_eifp">EIFP</a></li>
-<li><a href="datasets/datasets.md#data_lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="datasets.md#data_eifp">EIFP</a></li>
+<li><a href="datasets.md#data_lankershim_boulevard">Lankershim Boulevard</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -967,10 +972,10 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets/datasets.md#data_sd">SD</a></li>
-<li><a href="datasets/datasets.md#data_pets2009">PETS2009</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets.md#data_pets2009">PETS2009</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1000,7 +1005,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_mot">MOT</a></li>
+<li><a href="datasets.md#data_mot">MOT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1029,7 +1034,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_cityperson">CityPerson</a></li>
+<li><a href="datasets.md#data_cityperson">CityPerson</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1059,8 +1064,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1090,8 +1095,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_town_center">Town Center</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1121,8 +1126,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_sbuki">SBUKI</a></li>
-<li><a href="datasets/datasets.md#data_ca">CA</a></li>
+<li><a href="datasets.md#data_sbuki">SBUKI</a></li>
+<li><a href="datasets.md#data_ca">CA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1151,10 +1156,10 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets/datasets.md#data_gc">GC</a></li>
-<li><a href="datasets/datasets.md#data_chuk">CHUK</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_gc">GC</a></li>
+<li><a href="datasets.md#data_chuk">CHUK</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1217,7 +1222,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1248,8 +1253,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1340,7 +1345,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1399,7 +1404,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_atc">ATC</a></li>
+<li><a href="datasets.md#data_atc">ATC</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1430,8 +1435,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_strands">STRANDS</a></li>
-<li><a href="datasets/datasets.md#data_l-cas">L-CAS</a></li>
+<li><a href="datasets.md#data_strands">STRANDS</a></li>
+<li><a href="datasets.md#data_l-cas">L-CAS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1461,8 +1466,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1647,8 +1652,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_town_center">Town Center</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1679,8 +1684,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1710,7 +1715,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1739,8 +1744,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets/datasets.md#data_sd">SD</a></li>
+<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets.md#data_sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1772,8 +1777,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_town_center">Town Center</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1865,8 +1870,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1897,8 +1902,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_gc">GC</a></li>
-<li><a href="datasets/datasets.md#data_qmul">QMUL</a></li>
+<li><a href="datasets.md#data_gc">GC</a></li>
+<li><a href="datasets.md#data_qmul">QMUL</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1928,8 +1933,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets/datasets.md#data_sd">SD</a></li>
+<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets.md#data_sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1959,7 +1964,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_gc">GC</a></li>
+<li><a href="datasets.md#data_gc">GC</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2050,7 +2055,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_virat">VIRAT</a></li>
+<li><a href="datasets.md#data_virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2141,7 +2146,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_osu">OSU</a></li>
+<li><a href="datasets.md#data_osu">OSU</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2204,7 +2209,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_tum_kitchen">TUM Kitchen</a></li>
+<li><a href="datasets.md#data_tum_kitchen">TUM Kitchen</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2233,8 +2238,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_gc">GC</a></li>
-<li><a href="datasets/datasets.md#data_mitt">MITT</a></li>
+<li><a href="datasets.md#data_gc">GC</a></li>
+<li><a href="datasets.md#data_mitt">MITT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2264,7 +2269,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_daimler_path">Daimler Path</a></li>
+<li><a href="datasets.md#data_daimler_path">Daimler Path</a></li>
 </ul>
 
 <em>Metrics</em>

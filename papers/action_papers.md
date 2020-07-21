@@ -1,7 +1,9 @@
 ---
-<a href=README.md><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=papers/papers.md><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=datasets/datasets.md><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=metrics.md><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href=README.md><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=papers.md><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=datasets.md><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=metrics.md><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---
-[Video](video_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Action&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Trajectory](trajectory_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](motion_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a name=action></a>
+[Video](video_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Action&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Trajectory](trajectory_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](motion_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+___
+<a name=action></a>
 <h2 style="color:#2f38e8";> Action Prediction Papers</h2> 
 <a name=Joo_2019_CVPR/>
 <details close>
@@ -9,7 +11,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="datasets.md#data_cmu_panoptic">CMU Panoptic</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -38,8 +40,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets/datasets.md#data_50salad">50Salad</a></li>
+<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets.md#data_50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -70,7 +72,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_actev/virat">ActEV/VIRAT</a></li>
+<li><a href="datasets.md#data_actev/virat">ActEV/VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -99,8 +101,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_jhmdb">JHMDB</a></li>
-<li><a href="datasets/datasets.md#data_ava">AVA</a></li>
+<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets.md#data_ava">AVA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -129,9 +131,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="datasets/datasets.md#data_ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="datasets.md#data_ntu_rgb-d">NTU RGB-D</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -160,8 +162,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets/datasets.md#data_egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets.md#data_egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -191,9 +193,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets/datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_uti">UTI</a></li>
+<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -222,8 +224,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_youcook2">YouCook2</a></li>
-<li><a href="datasets/datasets.md#data_recipe1m">Recipe1M</a></li>
+<li><a href="datasets.md#data_youcook2">YouCook2</a></li>
+<li><a href="datasets.md#data_recipe1m">Recipe1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -252,9 +254,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_jhmdb">JHMDB</a></li>
-<li><a href="datasets/datasets.md#data_bit">BIT</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets.md#data_bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -283,8 +285,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_breakfast">Breakfast</a></li>
-<li><a href="datasets/datasets.md#data_50salad">50Salad</a></li>
+<li><a href="datasets.md#data_breakfast">Breakfast</a></li>
+<li><a href="datasets.md#data_50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -313,7 +315,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_pie">PIE</a></li>
+<li><a href="datasets.md#data_pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -346,7 +348,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -377,7 +379,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_jaad">JAAD</a></li>
+<li><a href="datasets.md#data_jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -411,7 +413,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_jaad">JAAD</a></li>
+<li><a href="datasets.md#data_jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -441,7 +443,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -503,7 +505,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_luggage">Luggage</a></li>
+<li><a href="datasets.md#data_luggage">Luggage</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -563,11 +565,11 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_willow_action">Willow Action</a></li>
-<li><a href="datasets/datasets.md#data_wider">WIDER</a></li>
-<li><a href="datasets/datasets.md#data_stanford-40">Stanford-40</a></li>
-<li><a href="datasets/datasets.md#data_bu_action">BU Action</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_willow_action">Willow Action</a></li>
+<li><a href="datasets.md#data_wider">WIDER</a></li>
+<li><a href="datasets.md#data_stanford-40">Stanford-40</a></li>
+<li><a href="datasets.md#data_bu_action">BU Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -597,9 +599,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_cad-120">CAD-120</a></li>
-<li><a href="datasets/datasets.md#data_mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets/datasets.md#data_breakfast">Breakfast</a></li>
+<li><a href="datasets.md#data_cad-120">CAD-120</a></li>
+<li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets.md#data_breakfast">Breakfast</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -630,7 +632,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -693,8 +695,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_breakfast">Breakfast</a></li>
-<li><a href="datasets/datasets.md#data_50salad">50Salad</a></li>
+<li><a href="datasets.md#data_breakfast">Breakfast</a></li>
+<li><a href="datasets.md#data_50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -723,7 +725,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_dad">DAD</a></li>
+<li><a href="datasets.md#data_dad">DAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -757,8 +759,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_sbuki">SBUKI</a></li>
-<li><a href="datasets/datasets.md#data_ca">CA</a></li>
+<li><a href="datasets.md#data_sbuki">SBUKI</a></li>
+<li><a href="datasets.md#data_ca">CA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -787,8 +789,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_pku-mmd">PKU-MMD</a></li>
-<li><a href="datasets/datasets.md#data_oad">OAD</a></li>
+<li><a href="datasets.md#data_pku-mmd">PKU-MMD</a></li>
+<li><a href="datasets.md#data_oad">OAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -817,9 +819,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets/datasets.md#data_bit">BIT</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_uti">UTI</a></li>
+<li><a href="datasets.md#data_bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -848,8 +850,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_gtea_gaze+">GTEA Gaze+</a></li>
-<li><a href="datasets/datasets.md#data_gtea_gaze">GTEA Gaze</a></li>
+<li><a href="datasets.md#data_gtea_gaze+">GTEA Gaze+</a></li>
+<li><a href="datasets.md#data_gtea_gaze">GTEA Gaze</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -878,9 +880,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets/datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_uti">UTI</a></li>
+<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -909,8 +911,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_jaad">JAAD</a></li>
-<li><a href="datasets/datasets.md#data_viena">VIENA</a></li>
+<li><a href="datasets.md#data_jaad">JAAD</a></li>
+<li><a href="datasets.md#data_viena">VIENA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -970,7 +972,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1030,8 +1032,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_cad-120">CAD-120</a></li>
-<li><a href="datasets/datasets.md#data_acticipate">ACTICIPATE</a></li>
+<li><a href="datasets.md#data_cad-120">CAD-120</a></li>
+<li><a href="datasets.md#data_acticipate">ACTICIPATE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1061,7 +1063,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_maniac">MANIAC</a></li>
+<li><a href="datasets.md#data_maniac">MANIAC</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1090,8 +1092,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_hmdb">HMDB</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_hmdb">HMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1151,8 +1153,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets/datasets.md#data_thumos">THUMOS</a></li>
+<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets.md#data_thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1181,8 +1183,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets/datasets.md#data_cmu_mocap">CMU Mocap</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_cmu_mocap">CMU Mocap</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1211,9 +1213,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_bit">BIT</a></li>
-<li><a href="datasets/datasets.md#data_sports-1m">Sports-1M</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_bit">BIT</a></li>
+<li><a href="datasets.md#data_sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1272,8 +1274,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_dad">DAD</a></li>
-<li><a href="datasets/datasets.md#data_epic-fail">Epic-Fail</a></li>
+<li><a href="datasets.md#data_dad">DAD</a></li>
+<li><a href="datasets.md#data_epic-fail">Epic-Fail</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1303,9 +1305,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets/datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_uti">UTI</a></li>
+<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1364,8 +1366,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets/datasets.md#data_virat">VIRAT</a></li>
+<li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets.md#data_virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1397,7 +1399,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_cad-120">CAD-120</a></li>
+<li><a href="datasets.md#data_cad-120">CAD-120</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1458,8 +1460,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1490,7 +1492,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1519,7 +1521,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_jaad">JAAD</a></li>
+<li><a href="datasets.md#data_jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1548,9 +1550,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets/datasets.md#data_thumos">THUMOS</a></li>
-<li><a href="datasets/datasets.md#data_tv_series">TV Series</a></li>
+<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets.md#data_thumos">THUMOS</a></li>
+<li><a href="datasets.md#data_tv_series">TV Series</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1613,8 +1615,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_cad-120">CAD-120</a></li>
-<li><a href="datasets/datasets.md#data_brain4cars">Brain4Cars</a></li>
+<li><a href="datasets.md#data_cad-120">CAD-120</a></li>
+<li><a href="datasets.md#data_brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1646,8 +1648,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets/datasets.md#data_thumos">THUMOS</a></li>
+<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets.md#data_thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1676,8 +1678,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="datasets/datasets.md#data_orgbd">ORGBD</a></li>
+<li><a href="datasets.md#data_sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="datasets.md#data_orgbd">ORGBD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1707,8 +1709,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_wnp">WnP</a></li>
-<li><a href="datasets/datasets.md#data_utka">UTKA</a></li>
+<li><a href="datasets.md#data_wnp">WnP</a></li>
+<li><a href="datasets.md#data_utka">UTKA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1768,7 +1770,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_brain4cars">Brain4Cars</a></li>
+<li><a href="datasets.md#data_brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1799,7 +1801,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_cad-120">CAD-120</a></li>
+<li><a href="datasets.md#data_cad-120">CAD-120</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1894,7 +1896,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_oa">OA</a></li>
+<li><a href="datasets.md#data_oa">OA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1923,7 +1925,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1952,8 +1954,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_uti">UTI</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_uti">UTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1982,8 +1984,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets/datasets.md#data_bit">BIT</a></li>
+<li><a href="datasets.md#data_uti">UTI</a></li>
+<li><a href="datasets.md#data_bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2012,9 +2014,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets/datasets.md#data_eth_pedestrian">ETH Pedestrian</a></li>
-<li><a href="datasets/datasets.md#data_daimler">Daimler</a></li>
+<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets.md#data_eth_pedestrian">ETH Pedestrian</a></li>
+<li><a href="datasets.md#data_daimler">Daimler</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2075,7 +2077,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_brain4cars">Brain4Cars</a></li>
+<li><a href="datasets.md#data_brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2107,7 +2109,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_uti">UTI</a></li>
+<li><a href="datasets.md#data_uti">UTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2137,7 +2139,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_fppa">FPPA</a></li>
+<li><a href="datasets.md#data_fppa">FPPA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2196,7 +2198,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_msrda">MSRDA</a></li>
+<li><a href="datasets.md#data_msrda">MSRDA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2317,7 +2319,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_daimler_path">Daimler Path</a></li>
+<li><a href="datasets.md#data_daimler_path">Daimler Path</a></li>
 </ul>
 
 <em>Metrics</em>

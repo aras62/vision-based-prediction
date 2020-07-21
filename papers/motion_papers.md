@@ -1,12 +1,17 @@
+---
+<a href=README.md><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=papers.md><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=datasets.md><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=metrics.md><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+---
+[Video](video_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](action_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Trajectory](trajectory_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Motion&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+___
 <a name=motion></a>
-<h2> <l style="color:#c12fdc";> Motion Prediction Papers</l> 
+<h2 style="color:#c12fdc";> Motion Prediction Papers</h2> 
 <a name=Gopalakrishnan_2019_CVPR/>
 <details close>
 <summary><strong>Gopalakrishnan et al., "A Neural Temporal Model For Human Motion Prediction", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -36,7 +41,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="datasets.md#data_cmu_panoptic">CMU Panoptic</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -66,8 +71,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets/datasets.md#data_mouse_fish">Mouse Fish</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_mouse_fish">Mouse Fish</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -97,7 +102,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -129,9 +134,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets/datasets.md#data_cmu_mocap">CMU Mocap</a></li>
-<li><a href="datasets/datasets.md#data_3dpw">3DPW</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_cmu_mocap">CMU Mocap</a></li>
+<li><a href="datasets.md#data_3dpw">3DPW</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -161,7 +166,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -190,7 +195,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_egopose">EgoPose</a></li>
+<li><a href="datasets.md#data_egopose">EgoPose</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -219,9 +224,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets/datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets/datasets.md#data_instavariety">InstaVariety</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets.md#data_instavariety">InstaVariety</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -312,8 +317,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets/datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -375,8 +380,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_sbuki">SBUKI</a></li>
-<li><a href="datasets/datasets.md#data_ca">CA</a></li>
+<li><a href="datasets.md#data_sbuki">SBUKI</a></li>
+<li><a href="datasets.md#data_ca">CA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -405,7 +410,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -434,7 +439,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -494,7 +499,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -523,7 +528,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -552,9 +557,9 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets/datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets/datasets.md#data_mpii_human_pose">MPII Human Pose</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets.md#data_mpii_human_pose">MPII Human Pose</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -583,7 +588,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -612,8 +617,8 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets/datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -642,7 +647,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -671,7 +676,7 @@
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
