@@ -3794,7 +3794,7 @@ Below is the list of datasets grouped according to their applications.Within eac
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, audio, bounding box, object class, text, temporal segment</li>
-<li><em><strong>Task:</strong></em> Cooking  (egocentric)</li>
+<li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
@@ -4094,7 +4094,7 @@ Below is the list of datasets grouped according to their applications.Within eac
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, object class, temporal segment</li>
-<li><em><strong>Task:</strong></em> Driving (accident)</li>
+<li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
@@ -5315,7 +5315,7 @@ Below is the list of datasets grouped according to their applications.Within eac
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, gaze, mask, activity label, temporal segment</li>
-<li><em><strong>Task:</strong></em> Cooking  (egocentric)</li>
+<li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>

@@ -4283,170 +4283,6 @@ Below is the list of datasets grouped according to their tasks.Within each group
 </details>
 
 </ul></details>
-</ul><a name=datasets_Cooking  (egocentric)></a>
-<h2>Cooking  (egocentric)</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_epic-kitchens></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Epic-Kitchens</strong></l> <a href=https://epic-kitchens.github.io/2019>link</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02748.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, audio, bounding box, object class, text, temporal segment</li>
-<li><em><strong>Task:</strong></em> Cooking  (egocentric)</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Ke et al., "Time-Conditioned Action Anticipation In One Shot", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Ke_Time-Conditioned_Action_Anticipation_in_One_Shot_CVPR_2019_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets.md#data_50salad">50Salad</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-<li><a href="metrics.md#metric_recall">Recall</a></li>
-<li><a href="metrics.md#metric_precision">Precision</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ke_2019_CVPR,
-    author = "Ke, Qiuhong and Fritz, Mario and Schiele, Bernt",
-    title = "Time-Conditioned Action Anticipation In One Shot",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Furnari et al., "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.09035.pdf>arxiv</a> <a href=https://github.com/fpv-iplab/rulstm>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets.md#data_egtea_gaze+">EGTEA Gaze+</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-<li><a href="metrics.md#metric_recall">Recall</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Furnari_2019_ICCV,
-    author = "Furnari, Antonino and Farinella, Giovanni Maria",
-    title = "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Furnari et al., "Egocentric Action Anticipation By Disentangling Encoding And Inference", ICIP, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8803534>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-<li><a href="metrics.md#metric_recall">Recall</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Furnari_2019_ICIP,
-    author = "Furnari, A. and Farinella, G. M.",
-    booktitle = "ICIP",
-    title = "Egocentric Action Anticipation By Disentangling Encoding And Inference",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Damen_2018_ECCV,
-    author = "Damen, Dima and Doughty, Hazel and Farinella, Giovanni Maria and Fidler, Sanja and Furnari, Antonino and Kazakos, Evangelos and Moltisanti, Davide and Munro, Jonathan and Perrett, Toby and Price, Will and Wray, Michael",
-    title = "Scaling Egocentric Vision: The Epic-Kitchens Dataset",
-    booktitle = "ECCV",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=data_egtea_gaze+></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Extended Georgia Tech Egocentric Activity Gaze+ (EGTEA Gaze+)</strong></l> <a href=http://www.cbi.gatech.edu/fpv/>link</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00626.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, gaze, mask, activity label, temporal segment</li>
-<li><em><strong>Task:</strong></em> Cooking  (egocentric)</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Furnari et al., "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.09035.pdf>arxiv</a> <a href=https://github.com/fpv-iplab/rulstm>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets.md#data_egtea_gaze+">EGTEA Gaze+</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-<li><a href="metrics.md#metric_recall">Recall</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Furnari_2019_ICCV,
-    author = "Furnari, Antonino and Farinella, Giovanni Maria",
-    title = "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Li_2018_ECCV_2,
-    author = "Li, Yin and Liu, Miao and Rehg, James M",
-    title = "In The Eye Of Beholder: Joint Learning Of Gaze And Actions In First Person Video",
-    booktitle = "ECCV",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul></details>
 </ul><a name=datasets_Cooking (egocentric)></a>
 <h2>Cooking (egocentric)</h2> <a href=#top>&uarr; top</a>
 <ul><a name=data_50salad></a>
@@ -4558,6 +4394,116 @@ Below is the list of datasets grouped according to their tasks.Within each group
 </details>
 
 </ul></details>
+<a name=data_epic-kitchens></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Epic-Kitchens</strong></l> <a href=https://epic-kitchens.github.io/2019>link</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02748.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, audio, bounding box, object class, text, temporal segment</li>
+<li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Ke et al., "Time-Conditioned Action Anticipation In One Shot", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Ke_Time-Conditioned_Action_Anticipation_in_One_Shot_CVPR_2019_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets.md#data_50salad">50Salad</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="metrics.md#metric_recall">Recall</a></li>
+<li><a href="metrics.md#metric_precision">Precision</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ke_2019_CVPR,
+    author = "Ke, Qiuhong and Fritz, Mario and Schiele, Bernt",
+    title = "Time-Conditioned Action Anticipation In One Shot",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Furnari et al., "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.09035.pdf>arxiv</a> <a href=https://github.com/fpv-iplab/rulstm>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets.md#data_egtea_gaze+">EGTEA Gaze+</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="metrics.md#metric_recall">Recall</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Furnari_2019_ICCV,
+    author = "Furnari, Antonino and Farinella, Giovanni Maria",
+    title = "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention",
+    booktitle = "ICCV",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Furnari et al., "Egocentric Action Anticipation By Disentangling Encoding And Inference", ICIP, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8803534>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="metrics.md#metric_recall">Recall</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Furnari_2019_ICIP,
+    author = "Furnari, A. and Farinella, G. M.",
+    booktitle = "ICIP",
+    title = "Egocentric Action Anticipation By Disentangling Encoding And Inference",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Damen_2018_ECCV,
+    author = "Damen, Dima and Doughty, Hazel and Farinella, Giovanni Maria and Fidler, Sanja and Furnari, Antonino and Kazakos, Evangelos and Moltisanti, Davide and Munro, Jonathan and Perrett, Toby and Price, Will and Wray, Michael",
+    title = "Scaling Egocentric Vision: The Epic-Kitchens Dataset",
+    booktitle = "ECCV",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul></details>
 <a name=data_gtea_gaze></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Georgia Tech Egocentric Activity Gaze (GTEA Gaze)</strong></l> <a href=http://www.cbi.gatech.edu/fpv/>link</a> <a href=https://link.springer.com/content/pdf/10.1007%2F978-3-642-33718-5_23.pdf>paper</a></summary> 
@@ -4655,6 +4601,58 @@ Below is the list of datasets grouped according to their tasks.Within each group
     title = "Delving Into Egocentric Actions",
     booktitle = "CVPR",
     year = "2015"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=data_egtea_gaze+></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Extended Georgia Tech Egocentric Activity Gaze+ (EGTEA Gaze+)</strong></l> <a href=http://www.cbi.gatech.edu/fpv/>link</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00626.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, gaze, mask, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Furnari et al., "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.09035.pdf>arxiv</a> <a href=https://github.com/fpv-iplab/rulstm>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets.md#data_egtea_gaze+">EGTEA Gaze+</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="metrics.md#metric_recall">Recall</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Furnari_2019_ICCV,
+    author = "Furnari, Antonino and Farinella, Giovanni Maria",
+    title = "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention",
+    booktitle = "ICCV",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Li_2018_ECCV_2,
+    author = "Li, Yin and Liu, Miao and Rehg, James M",
+    title = "In The Eye Of Beholder: Joint Learning Of Gaze And Actions In First Person Video",
+    booktitle = "ECCV",
+    year = "2018"
 }
 </pre>
 </details>
@@ -6738,6 +6736,91 @@ Below is the list of datasets grouped according to their tasks.Within each group
 </details>
 
 </ul></details>
+<a name=data_dad></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Dashcam Accident Dataset (DAD)</strong></l> <a href=https://aliensunmin.github.io/project/dashcam/>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-54190-7_9>paper</a></summary> 
+<ul><li>
+<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<li><em><strong>Data type:</strong></em> RGB, bounding box, object class, temporal segment</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", The CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02675.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_dad">DAD</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="metrics.md#metric_recall">Recall</a></li>
+<li><a href="metrics.md#metric_precision">Precision</a></li>
+<li><a href="metrics.md#metric_f1">F1</a></li>
+<li><a href="metrics.md#metric_map">mAP</a></li>
+<li><a href="metrics.md#metric_attc">ATTC</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Suzuki_2018_CVPR,
+    author = "Suzuki, Tomoyuki and Kataoka, Hirokatsu and Aoki, Yoshimitsu and Satoh, Yutaka",
+    title = "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db",
+    booktitle = "The CVPR",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06560.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets.md#data_dad">DAD</a></li>
+<li><a href="datasets.md#data_epic-fail">Epic-Fail</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="metrics.md#metric_map">mAP</a></li>
+<li><a href="metrics.md#metric_tta">TTA</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zeng_2017_CVPR,
+    author = "Zeng, Kuo-Hao and Chou, Shih-Han and Chan, Fu-Hsiang and Carlos Niebles, Juan and Sun, Min",
+    title = "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Chan_2016_ACCV,
+    author = "Chan, Fu-Hsiang and Chen, Yu-Ting and Xiang, Yu and Sun, Min",
+    editor = "Lai, Shang-Hong and Lepetit, Vincent and Nishino, Ko and Sato, Yoichi",
+    title = "Anticipating Accidents In Dashcam Videos",
+    booktitle = "ACCV",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
 <a name=data_qmul></a>
 <details close>
 <summary><l style="font-size:20px"><strong>QMUL</strong></l> <a href=http://personal.ie.cuhk.edu.hk/~ccloy/downloads_qmul_junction.html>link</a> <a href=http://www.bmva.org/bmvc/2009/Papers/Paper077/Paper077.pdf>paper</a></summary> 
@@ -7526,93 +7609,6 @@ Below is the list of datasets grouped according to their tasks.Within each group
     title = "Argoverse: 3D Tracking And Forecasting With Rich Maps",
     booktitle = "CVPR",
     year = "2019"
-}
-</pre>
-</details>
-
-</ul></details>
-</ul><a name=datasets_Driving (accident)></a>
-<h2>Driving (accident)</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_dad></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Dashcam Accident Dataset (DAD)</strong></l> <a href=https://aliensunmin.github.io/project/dashcam/>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-54190-7_9>paper</a></summary> 
-<ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, object class, temporal segment</li>
-<li><em><strong>Task:</strong></em> Driving (accident)</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", The CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02675.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_dad">DAD</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
-<li><a href="metrics.md#metric_recall">Recall</a></li>
-<li><a href="metrics.md#metric_precision">Precision</a></li>
-<li><a href="metrics.md#metric_f1">F1</a></li>
-<li><a href="metrics.md#metric_map">mAP</a></li>
-<li><a href="metrics.md#metric_attc">ATTC</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Suzuki_2018_CVPR,
-    author = "Suzuki, Tomoyuki and Kataoka, Hirokatsu and Aoki, Yoshimitsu and Satoh, Yutaka",
-    title = "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db",
-    booktitle = "The CVPR",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06560.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets.md#data_dad">DAD</a></li>
-<li><a href="datasets.md#data_epic-fail">Epic-Fail</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#metric_map">mAP</a></li>
-<li><a href="metrics.md#metric_tta">TTA</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zeng_2017_CVPR,
-    author = "Zeng, Kuo-Hao and Chou, Shih-Han and Chan, Fu-Hsiang and Carlos Niebles, Juan and Sun, Min",
-    title = "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization",
-    booktitle = "CVPR",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Chan_2016_ACCV,
-    author = "Chan, Fu-Hsiang and Chen, Yu-Ting and Xiang, Yu and Sun, Min",
-    editor = "Lai, Shang-Hong and Lepetit, Vincent and Nishino, Ko and Sato, Yoichi",
-    title = "Anticipating Accidents In Dashcam Videos",
-    booktitle = "ACCV",
-    year = "2017"
 }
 </pre>
 </details>
