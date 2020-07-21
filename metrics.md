@@ -166,7 +166,8 @@ By clicking on each metric you can see the list of papers that used that metric
 </details>
 
 <a name=metrics_action></a>
-<h2>Action prediction</h2><a href=metrics_top>&uarr; top</a>
+<h2>Action prediction</h2>
+[&uarr; top](#metrics_top)
 <a name=metric_accuracy></a>
 <details close>
 <summary><em>Accuracy</em></summary>
