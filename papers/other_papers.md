@@ -20,7 +20,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -52,7 +52,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -174,7 +174,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -204,7 +204,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_fcvl">FCVL</a></li>
+<li><a href="datasets/year_datasets.md#fcvl">FCVL</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -327,9 +327,9 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_arizona">Arizona</a></li>
-<li><a href="datasets.md#data_tuscan">Tuscan</a></li>
-<li><a href="datasets.md#data_golden_colorado">Golden Colorado</a></li>
+<li><a href="datasets/year_datasets.md#arizona">Arizona</a></li>
+<li><a href="datasets/year_datasets.md#tuscan">Tuscan</a></li>
+<li><a href="datasets/year_datasets.md#golden_colorado">Golden Colorado</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -358,7 +358,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -387,7 +387,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -419,7 +419,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_amos">AMOS</a></li>
+<li><a href="datasets/year_datasets.md#amos">AMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -448,7 +448,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mbi-1m">MBI-1M</a></li>
+<li><a href="datasets/year_datasets.md#mbi-1m">MBI-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -478,7 +478,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_diplecs">DIPLECS</a></li>
+<li><a href="datasets/year_datasets.md#diplecs">DIPLECS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -507,7 +507,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_amazon">Amazon</a></li>
+<li><a href="datasets/year_datasets.md#amazon">Amazon</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -537,7 +537,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -568,7 +568,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_vist">VIST</a></li>
+<li><a href="datasets/year_datasets.md#vist">VIST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -597,7 +597,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -660,7 +660,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_sun_rgb-d">SUN RGB-D</a></li>
+<li><a href="datasets/year_datasets.md#sun_rgb-d">SUN RGB-D</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -690,7 +690,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mu">MU</a></li>
+<li><a href="datasets/year_datasets.md#mu">MU</a></li>
 </ul>
 
 <em>Metrics</em>

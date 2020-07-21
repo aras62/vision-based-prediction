@@ -9,11 +9,11 @@ ___
 Below is the list of datasets grouped according to their years.Within each group, the datasets are **sorted** based on their **popularity**, (i.e how often they are used in prediction papers).
 <a name=datasets_1981></a>
 <h2>1981</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_golden_colorado></a>
+<ul><a name=golden_colorado></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Golden Colorado</strong></l> <a href=https://www.osti.gov/dataexplorer/biblio/dataset/1052221>link</a> <a href=>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Weather</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -23,9 +23,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_arizona">Arizona</a></li>
-<li><a href="datasets.md#data_tuscan">Tuscan</a></li>
-<li><a href="datasets.md#data_golden_colorado">Golden Colorado</a></li>
+<li><a href="datasets/year_datasets.md#arizona">Arizona</a></li>
+<li><a href="datasets/year_datasets.md#tuscan">Tuscan</a></li>
+<li><a href="datasets/year_datasets.md#golden_colorado">Golden Colorado</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -63,11 +63,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2004></a>
 <h2>2004</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_kth></a>
+<ul><a name=kth></a>
 <details close>
 <summary><l style="font-size:20px"><strong>KTH</strong></l> <a href=http://www.nada.kth.se/cvap/actions/>link</a> <a href=https://ieeexplore.ieee.org/document/1334462>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Grayscale, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -77,8 +77,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -106,9 +106,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
-<li><a href="datasets.md#data_msr">MSR</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#msr">MSR</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -136,7 +136,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -165,9 +165,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -196,9 +196,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -227,8 +227,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -256,8 +256,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -298,11 +298,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2006></a>
 <h2>2006</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_tuscan></a>
+<ul><a name=tuscan></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Tuscan, Arizona</strong></l> <a href=http://www.mmto.org/>link</a> <a href=https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6267/62671A/The-MMT-all-sky-camera/10.1117/12.672508.short?SSO=1>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Weather</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -312,9 +312,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_arizona">Arizona</a></li>
-<li><a href="datasets.md#data_tuscan">Tuscan</a></li>
-<li><a href="datasets.md#data_golden_colorado">Golden Colorado</a></li>
+<li><a href="datasets/year_datasets.md#arizona">Arizona</a></li>
+<li><a href="datasets/year_datasets.md#tuscan">Tuscan</a></li>
+<li><a href="datasets/year_datasets.md#golden_colorado">Golden Colorado</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -354,11 +354,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2007></a>
 <h2>2007</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_ucy></a>
+<ul><a name=ucy></a>
 <details close>
 <summary><l style="font-size:20px"><strong>UCY</strong></l> <a href=https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data>link</a> <a href=https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2007.01089.x>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, trajectory, gaze</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -368,9 +368,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -398,9 +398,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_actev/virat">ActEV/VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#actev/virat">ActEV/VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -428,8 +428,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -457,8 +457,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -486,10 +486,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -518,9 +518,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -548,8 +548,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -577,8 +577,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -605,8 +605,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -634,8 +634,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -664,10 +664,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
-<li><a href="datasets.md#data_interaction">INTERACTION</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -695,8 +695,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -724,10 +724,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
-<li><a href="datasets.md#data_pets2009">PETS2009</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -755,8 +755,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -784,8 +784,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_town_center">Town Center</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -813,10 +813,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_gc">GC</a></li>
-<li><a href="datasets.md#data_chuk">CHUK</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#chuk">CHUK</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -845,8 +845,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -875,8 +875,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -904,8 +904,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_town_center">Town Center</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -934,8 +934,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -963,7 +963,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -990,8 +990,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_town_center">Town Center</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1019,8 +1019,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1049,8 +1049,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1090,11 +1090,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_ngsim></a>
+<a name=ngsim></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Next Generation simulationulation (NGSIM)</strong></l> <a href=https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm>link</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>, <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Map, trajectory</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -1104,7 +1104,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1133,7 +1133,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1163,7 +1163,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1190,8 +1190,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
-<li><a href="datasets.md#data_traf">TRAF</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#traf">TRAF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1219,10 +1219,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1251,8 +1251,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
-<li><a href="datasets.md#data_vpm">VPM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#vpm">VPM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1280,8 +1280,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1308,7 +1308,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1335,7 +1335,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1363,7 +1363,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1400,11 +1400,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_lankershim_boulevard></a>
+<a name=lankershim_boulevard></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Lankershim Boulevard</strong></l> <a href=https://www.fhwa.dot.gov/publications/research/operations/07029/index.cfm>link</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, trajectory</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -1414,8 +1414,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_eifp">EIFP</a></li>
-<li><a href="datasets.md#data_lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="datasets/year_datasets.md#eifp">EIFP</a></li>
+<li><a href="datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1452,11 +1452,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_eth_pedestrian></a>
+<a name=eth_pedestrian></a>
 <details close>
 <summary><l style="font-size:20px"><strong>ETH Pedestrian</strong></l> <a href=https://data.vision.ee.ethz.ch/cvl/aess/>link</a> <a href=https://ieeexplore.ieee.org/document/4409092>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -1466,9 +1466,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_eth_pedestrian">ETH Pedestrian</a></li>
-<li><a href="datasets.md#data_daimler">Daimler</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#daimler">Daimler</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1505,11 +1505,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_amos></a>
+<a name=amos></a>
 <details close>
 <summary><l style="font-size:20px"><strong>AMOS</strong></l> <a href=http://amos.cse.wustl.edu/>link</a> <a href=https://ieeexplore.ieee.org/document/4270283>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, temperature, time</li>
 <li><em><strong>Task:</strong></em> Weather</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -1519,7 +1519,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_amos">AMOS</a></li>
+<li><a href="datasets/year_datasets.md#amos">AMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1557,11 +1557,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2008></a>
 <h2>2008</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_mitt></a>
+<ul><a name=mitt></a>
 <details close>
 <summary><l style="font-size:20px"><strong>MIT Trajectory (MITT)</strong></l> <a href=http://www.ee.cuhk.edu.hk/~xgwang/MITtrajsingle.html>link</a> <a href=https://ieeexplore.ieee.org/document/4587718>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, trajectory</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -1571,8 +1571,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_gc">GC</a></li>
-<li><a href="datasets.md#data_mitt">MITT</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#mitt">MITT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1609,11 +1609,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_daimler></a>
+<a name=daimler></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Daimler</strong></l> <a href=http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/Daimler_Mono_Ped__Detection_Be/daimler_mono_ped__detection_be.html>link</a> <a href=https://ieeexplore.ieee.org/document/4657363>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Grayscale, bounding box</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -1623,9 +1623,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_eth_pedestrian">ETH Pedestrian</a></li>
-<li><a href="datasets.md#data_daimler">Daimler</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#daimler">Daimler</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1667,11 +1667,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2009></a>
 <h2>2009</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_eth></a>
+<ul><a name=eth></a>
 <details close>
 <summary><l style="font-size:20px"><strong>ETH</strong></l> <a href=http://www.vision.ee.ethz.ch/en/datasets/>link</a> <a href=https://ieeexplore.ieee.org/document/5459260>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, trajectory</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -1681,9 +1681,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1711,9 +1711,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_actev/virat">ActEV/VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#actev/virat">ActEV/VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1741,8 +1741,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1770,8 +1770,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1799,10 +1799,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1831,9 +1831,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1861,8 +1861,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1890,8 +1890,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1919,8 +1919,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1949,10 +1949,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
-<li><a href="datasets.md#data_interaction">INTERACTION</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -1980,8 +1980,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2009,10 +2009,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
-<li><a href="datasets.md#data_pets2009">PETS2009</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2040,8 +2040,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2069,10 +2069,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_gc">GC</a></li>
-<li><a href="datasets.md#data_chuk">CHUK</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#chuk">CHUK</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2101,8 +2101,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2131,7 +2131,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2158,8 +2158,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2187,8 +2187,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2216,8 +2216,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2255,11 +2255,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_caltech_pedestrian></a>
+<a name=caltech_pedestrian></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Caltech Pedestrian</strong></l> <a href=http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>link</a> <a href=https://ieeexplore.ieee.org/document/5206631>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>, <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -2269,11 +2269,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_chuk_avenue">CHUK Avenue</a></li>
-<li><a href="datasets.md#data_shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2302,8 +2302,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2331,9 +2331,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_yuv">YUV</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2362,9 +2362,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_yuv">YUV</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2393,10 +2393,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2424,9 +2424,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2455,8 +2455,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_youtube-8m">Youtube-8M</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#youtube-8m">Youtube-8M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2486,10 +2486,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2518,9 +2518,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_eth_pedestrian">ETH Pedestrian</a></li>
-<li><a href="datasets.md#data_daimler">Daimler</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#daimler">Daimler</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2557,11 +2557,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_yuv></a>
+<a name=yuv></a>
 <details close>
 <summary><l style="font-size:20px"><strong>YUV Videos</strong></l> <a href=http://trace.kom.aau.dk/yuv/index.html>link</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Mix videos</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -2571,9 +2571,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_yuv">YUV</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2602,9 +2602,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_yuv">YUV</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2642,11 +2642,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_eifp></a>
+<a name=eifp></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Edinburgh Informatics Forum Pedestrian (EIFP)</strong></l> <a href=http://homepages.inf.ed.ac.uk/rbf/FORUMTRACKING/>link</a> <a href=https://homepages.inf.ed.ac.uk/rbf/FORUMTRACKING/IM090734.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -2656,7 +2656,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_eifp">EIFP</a></li>
+<li><a href="datasets/year_datasets.md#eifp">EIFP</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2683,8 +2683,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_eifp">EIFP</a></li>
-<li><a href="datasets.md#data_lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="datasets/year_datasets.md#eifp">EIFP</a></li>
+<li><a href="datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2721,11 +2721,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_tum_kitchen></a>
+<a name=tum_kitchen></a>
 <details close>
 <summary><l style="font-size:20px"><strong>TUM Kitchen</strong></l> <a href=https://ias.in.tum.de/dokuwiki/software/kitchen-activity-data>link</a> <a href=https://ieeexplore.ieee.org/document/5457583>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, RFID, 3D pose, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -2735,7 +2735,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_tum_kitchen">TUM Kitchen</a></li>
+<li><a href="datasets/year_datasets.md#tum_kitchen">TUM Kitchen</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2771,11 +2771,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_qmul></a>
+<a name=qmul></a>
 <details close>
 <summary><l style="font-size:20px"><strong>QMUL</strong></l> <a href=http://personal.ie.cuhk.edu.hk/~ccloy/downloads_qmul_junction.html>link</a> <a href=http://www.bmva.org/bmvc/2009/Papers/Paper077/Paper077.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, trajectory</li>
 <li><em><strong>Task:</strong></em> Driving, Anomaly</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -2785,8 +2785,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_gc">GC</a></li>
-<li><a href="datasets.md#data_qmul">QMUL</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#qmul">QMUL</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2823,11 +2823,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_pets2009></a>
+<a name=pets2009></a>
 <details close>
 <summary><l style="font-size:20px"><strong>PETS2009</strong></l> <a href=http://www.cvg.reading.ac.uk/PETS2009/a.html>link</a> <a href=https://ieeexplore.ieee.org/document/5399556>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -2837,10 +2837,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
-<li><a href="datasets.md#data_pets2009">PETS2009</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2877,11 +2877,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_osu></a>
+<a name=osu></a>
 <details close>
 <summary><l style="font-size:20px"><strong>OSU</strong></l> <a href=http://eecs.oregonstate.edu/football/tracking/dataset>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/5206801>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, attribute</li>
 <li><em><strong>Task:</strong></em> Sport</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -2891,7 +2891,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_osu">OSU</a></li>
+<li><a href="datasets/year_datasets.md#osu">OSU</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2931,11 +2931,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_ca></a>
+<a name=ca></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Collective Activity (CA)</strong></l> <a href=http://www-personal.umich.edu/~wgchoi/eccv12/wongun_eccv12.html>link</a> <a href=https://ieeexplore.ieee.org/document/5457461>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>, <a href=papers.md#trajectory>Trajectory prediction<application></a>, <a href=papers.md#motion>Motion prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, attribute, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -2945,8 +2945,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_sbuki">SBUKI</a></li>
-<li><a href="datasets.md#data_ca">CA</a></li>
+<li><a href="datasets/year_datasets.md#sbuki">SBUKI</a></li>
+<li><a href="datasets/year_datasets.md#ca">CA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -2984,11 +2984,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2010></a>
 <h2>2010</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_uti></a>
+<ul><a name=uti></a>
 <details close>
 <summary><l style="font-size:20px"><strong>UT Interaction (UTI)</strong></l> <a href=http://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html>link</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -2998,9 +2998,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3027,9 +3027,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets.md#data_bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3056,9 +3056,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3085,9 +3085,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3114,8 +3114,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3142,8 +3142,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets.md#data_bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3170,7 +3170,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3207,11 +3207,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_tv_human_interaction></a>
+<a name=tv_human_interaction></a>
 <details close>
 <summary><l style="font-size:20px"><strong>TV Human Interaction (THI)</strong></l> <a href=http://www.robots.ox.ac.uk/~alonso/tv_human_interactions.html>link</a> <a href=http://www.bmva.org/bmvc/2010/conference/paper50/abstract50.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, head pose, activity label</li>
 <li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -3221,9 +3221,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3250,8 +3250,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets.md#data_thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3278,7 +3278,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3305,9 +3305,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets.md#data_thumos">THUMOS</a></li>
-<li><a href="datasets.md#data_tv_series">TV Series</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#tv_series">TV Series</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3335,8 +3335,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets.md#data_thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3372,11 +3372,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_willow_action></a>
+<a name=willow_action></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Willow Action</strong></l> <a href=https://www.di.ens.fr/willow/research/stillactions/>link</a> <a href=http://www.bmva.org/bmvc/2010/conference/paper97/paper97.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB (image), activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -3386,11 +3386,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_willow_action">Willow Action</a></li>
-<li><a href="datasets.md#data_wider">WIDER</a></li>
-<li><a href="datasets.md#data_stanford-40">Stanford-40</a></li>
-<li><a href="datasets.md#data_bu_action">BU Action</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="datasets/year_datasets.md#wider">WIDER</a></li>
+<li><a href="datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="datasets/year_datasets.md#bu_action">BU Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3427,11 +3427,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_visor></a>
+<a name=visor></a>
 <details close>
 <summary><l style="font-size:20px"><strong>ViSOR</strong></l> <a href=imagelab.ing.unimore.it/visor>link</a> <a href=https://link.springer.com/Article/10.1007/s11042-009-0402-9>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, pose, attribute</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -3441,11 +3441,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_sports-1m">Sports-1M</a></li>
-<li><a href="datasets.md#data_visor">ViSOR</a></li>
-<li><a href="datasets.md#data_prost">PROST</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#visor">ViSOR</a></li>
+<li><a href="datasets/year_datasets.md#prost">PROST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3484,11 +3484,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_prost></a>
+<a name=prost></a>
 <details close>
 <summary><l style="font-size:20px"><strong>PROST</strong></l> <a href=www.gpu4vision.com>link</a> <a href=https://ieeexplore.ieee.org/document/5540145>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Object</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -3498,11 +3498,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_sports-1m">Sports-1M</a></li>
-<li><a href="datasets.md#data_visor">ViSOR</a></li>
-<li><a href="datasets.md#data_prost">PROST</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#visor">ViSOR</a></li>
+<li><a href="datasets/year_datasets.md#prost">PROST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3538,11 +3538,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_mug></a>
+<a name=mug></a>
 <details close>
 <summary><l style="font-size:20px"><strong>MUG</strong></l> <a href=https://mug.ee.auth.gr/fed/>link</a> <a href=https://ieeexplore.ieee.org/document/5617662>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, keypoints, motion label</li>
 <li><em><strong>Task:</strong></em> Face (expression)</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -3552,8 +3552,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_mug">MUG</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#mug">MUG</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3590,11 +3590,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_msr></a>
+<a name=msr></a>
 <details close>
 <summary><l style="font-size:20px"><strong>MSR</strong></l> <a href=https://www.microsoft.com/en-us/download/details.aspx?id=52315>link</a> <a href=https://ieeexplore.ieee.org/document/5543273>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Depth, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -3604,9 +3604,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
-<li><a href="datasets.md#data_msr">MSR</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#msr">MSR</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3643,11 +3643,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_diplecs></a>
+<a name=diplecs></a>
 <details close>
 <summary><l style="font-size:20px"><strong>DIPLECS</strong></l> <a href=https://cvssp.org/data/diplecs/>link</a> <a href=https://link.springer.com/content/pdf/10.1007%2F978-3-642-15567-3_12.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -3657,7 +3657,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_diplecs">DIPLECS</a></li>
+<li><a href="datasets/year_datasets.md#diplecs">DIPLECS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3695,11 +3695,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2011></a>
 <h2>2011</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_town_center></a>
+<ul><a name=town_center></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Town Center</strong></l> <a href=http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/project.html#datasets>link</a> <a href=https://ieeexplore.ieee.org/document/5995667>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -3709,8 +3709,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_town_center">Town Center</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3738,8 +3738,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_town_center">Town Center</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3768,8 +3768,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_town_center">Town Center</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3806,11 +3806,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_virat></a>
+<a name=virat></a>
 <details close>
 <summary><l style="font-size:20px"><strong>VIRAT</strong></l> <a href=http://viratdata.org/>link</a> <a href=https://ieeexplore.ieee.org/document/5995586>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>, <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Surveillance, Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -3820,8 +3820,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets.md#data_virat">VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3851,7 +3851,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_virat">VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3889,11 +3889,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_stanford-40></a>
+<a name=stanford-40></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Stanford-40</strong></l> <a href=http://vision.stanford.edu/Datasets/40actions.html>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/6126386>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB (image), bounding box, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -3903,11 +3903,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_willow_action">Willow Action</a></li>
-<li><a href="datasets.md#data_wider">WIDER</a></li>
-<li><a href="datasets.md#data_stanford-40">Stanford-40</a></li>
-<li><a href="datasets.md#data_bu_action">BU Action</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="datasets/year_datasets.md#wider">WIDER</a></li>
+<li><a href="datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="datasets/year_datasets.md#bu_action">BU Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3944,11 +3944,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_hmdb></a>
+<a name=hmdb></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Human Motion Database (HMDB)</strong></l> <a href=http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/>link</a> <a href=https://ieeexplore.ieee.org/document/6126543>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, mask, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -3958,8 +3958,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_hmdb">HMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#hmdb">HMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -3995,11 +3995,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_fcvl></a>
+<a name=fcvl></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Ford Campus Vision LiDAR (FCVL)</strong></l> <a href=http://robots.engin.umich.edu/SoftwareData/Ford>link</a> <a href=https://journals.sagepub.com/doi/pdf/10.1177/0278364911400640>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, LIDAR, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -4009,7 +4009,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_fcvl">FCVL</a></li>
+<li><a href="datasets/year_datasets.md#fcvl">FCVL</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4053,11 +4053,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2012></a>
 <h2>2012</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_ucf-101></a>
+<ul><a name=ucf-101></a>
 <details close>
 <summary><l style="font-size:20px"><strong>UCF-101</strong></l> <a href=https://www.crcv.ucf.edu/data/UCF101.php>link</a> <a href=>paper</a> <a href=https://arxiv.org/pdf/1212.0402.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>, <a href=papers.md#action>Action prediction<application></a>, <a href=papers.md#motion>Motion prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -4067,11 +4067,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_chuk_avenue">CHUK Avenue</a></li>
-<li><a href="datasets.md#data_shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4100,9 +4100,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_yuv">YUV</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4131,7 +4131,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4159,9 +4159,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4189,10 +4189,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4220,8 +4220,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4249,9 +4249,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4280,9 +4280,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4311,9 +4311,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4342,9 +4342,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4374,11 +4374,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_sports-1m">Sports-1M</a></li>
-<li><a href="datasets.md#data_visor">ViSOR</a></li>
-<li><a href="datasets.md#data_prost">PROST</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#visor">ViSOR</a></li>
+<li><a href="datasets/year_datasets.md#prost">PROST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4405,10 +4405,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4437,8 +4437,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4466,9 +4466,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4496,9 +4496,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="datasets.md#data_ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4525,9 +4525,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4554,9 +4554,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
-<li><a href="datasets.md#data_bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4583,11 +4583,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_willow_action">Willow Action</a></li>
-<li><a href="datasets.md#data_wider">WIDER</a></li>
-<li><a href="datasets.md#data_stanford-40">Stanford-40</a></li>
-<li><a href="datasets.md#data_bu_action">BU Action</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="datasets/year_datasets.md#wider">WIDER</a></li>
+<li><a href="datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="datasets/year_datasets.md#bu_action">BU Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4615,9 +4615,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets.md#data_bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4644,9 +4644,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4673,8 +4673,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_hmdb">HMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#hmdb">HMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4701,9 +4701,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_bit">BIT</a></li>
-<li><a href="datasets.md#data_sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4730,9 +4730,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4759,8 +4759,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4789,8 +4789,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4826,11 +4826,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_kitti></a>
+<a name=kitti></a>
 <details close>
 <summary><l style="font-size:20px"><strong>KITTI</strong></l> <a href=http://www.cvlibs.net/datasets/kitti/>link</a> <a href=https://ieeexplore.ieee.org/document/6248074>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>, <a href=papers.md#trajectory>Trajectory prediction<application></a>, <a href=papers.md#other>Other prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a>, <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Stereo RGB, LIDAR, bounding box, optical flow, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -4840,11 +4840,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_chuk_avenue">CHUK Avenue</a></li>
-<li><a href="datasets.md#data_shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4873,8 +4873,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4902,9 +4902,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_yuv">YUV</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4933,10 +4933,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4964,9 +4964,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -4995,9 +4995,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5026,9 +5026,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5058,8 +5058,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5087,10 +5087,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5119,9 +5119,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5149,9 +5149,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
-<li><a href="datasets.md#data_oxford">Oxford</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#oxford">Oxford</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5178,7 +5178,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5207,8 +5207,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5238,7 +5238,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5268,7 +5268,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5304,11 +5304,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_gc></a>
+<a name=gc></a>
 <details close>
 <summary><l style="font-size:20px"><strong>New York Grand Central (GC)</strong></l> <a href=http://www.ee.cuhk.edu.hk/~xgwang/grandcentral.html>link</a> <a href=https://ieeexplore.ieee.org/document/6248013>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, trajectory</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -5318,10 +5318,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_gc">GC</a></li>
-<li><a href="datasets.md#data_chuk">CHUK</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#chuk">CHUK</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5350,8 +5350,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_gc">GC</a></li>
-<li><a href="datasets.md#data_qmul">QMUL</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#qmul">QMUL</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5379,7 +5379,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5408,8 +5408,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_gc">GC</a></li>
-<li><a href="datasets.md#data_mitt">MITT</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#mitt">MITT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5446,11 +5446,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_bit></a>
+<a name=bit></a>
 <details close>
 <summary><l style="font-size:20px"><strong>BIT</strong></l> <a href=https://sites.google.com/site/alexkongy/software>link</a> <a href=https://link.springer.com/content/pdf/10.1007%2F978-3-642-33718-5_22.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, activity label</li>
 <li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -5460,9 +5460,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
-<li><a href="datasets.md#data_bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5489,9 +5489,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets.md#data_bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5518,9 +5518,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_bit">BIT</a></li>
-<li><a href="datasets.md#data_sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5547,8 +5547,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets.md#data_bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5584,11 +5584,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_mpii_cooking></a>
+<a name=mpii_cooking></a>
 <details close>
 <summary><l style="font-size:20px"><strong>MPII Cooking</strong></l> <a href=https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/human-activity-recognition/mpii-cooking-activities-dataset/>link</a> <a href=https://ieeexplore.ieee.org/document/6247801>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, 3D pose, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -5598,9 +5598,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cad-120">CAD-120</a></li>
-<li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets.md#data_breakfast">Breakfast</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5629,8 +5629,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets.md#data_virat">VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5660,7 +5660,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5696,11 +5696,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_uva-nemo></a>
+<a name=uva-nemo></a>
 <details close>
 <summary><l style="font-size:20px"><strong>UvA-NEMO</strong></l> <a href=https://www.uva-nemo.org/>link</a> <a href=https://link.springer.com/content/pdf/10.1007%2F978-3-642-33712-3_38.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Face (smile)</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -5710,9 +5710,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_uva-nemo">UvA-NEMO</a></li>
-<li><a href="datasets.md#data_mgif">MGIF</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
+<li><a href="datasets/year_datasets.md#mgif">MGIF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5749,11 +5749,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_utka></a>
+<a name=utka></a>
 <details close>
 <summary><l style="font-size:20px"><strong>UTKinect-Action (UTKA)</strong></l> <a href=http://cvrc.ece.utexas.edu/KinectDatasets/HOJ3D.html>link</a> <a href=https://ieeexplore.ieee.org/document/6239233>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -5763,8 +5763,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_wnp">WnP</a></li>
-<li><a href="datasets.md#data_utka">UTKA</a></li>
+<li><a href="datasets/year_datasets.md#wnp">WnP</a></li>
+<li><a href="datasets/year_datasets.md#utka">UTKA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5800,11 +5800,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_sbuki></a>
+<a name=sbuki></a>
 <details close>
 <summary><l style="font-size:20px"><strong>SBU Kinetic Interction (SBUKI)</strong></l> <a href=https://www3.cs.stonybrook.edu/~kyun/research/kinect_interaction/index.html>link</a> <a href=https://ieeexplore.ieee.org/document/6239234>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>, <a href=papers.md#trajectory>Trajectory prediction<application></a>, <a href=papers.md#motion>Motion prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label</li>
 <li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -5814,8 +5814,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_sbuki">SBUKI</a></li>
-<li><a href="datasets.md#data_ca">CA</a></li>
+<li><a href="datasets/year_datasets.md#sbuki">SBUKI</a></li>
+<li><a href="datasets/year_datasets.md#ca">CA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5851,11 +5851,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_msrda></a>
+<a name=msrda></a>
 <details close>
 <summary><l style="font-size:20px"><strong>MSR Daily Activity (MSRDA)</strong></l> <a href=https://documents.uow.edu.au/~wanqing/#MSRAction3DDatasets>link</a> <a href=https://ieeexplore.ieee.org/document/6247813>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Depth, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -5865,7 +5865,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_msrda">MSRDA</a></li>
+<li><a href="datasets/year_datasets.md#msrda">MSRDA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5901,11 +5901,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_maniac></a>
+<a name=maniac></a>
 <details close>
 <summary><l style="font-size:20px"><strong>MANIAC</strong></l> <a href=https://alexandria.physik3.uni-goettingen.de/cns-group/datasets/maniac/>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/6163000>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, semantic segment, activity label</li>
 <li><em><strong>Task:</strong></em> Object interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -5915,7 +5915,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_maniac">MANIAC</a></li>
+<li><a href="datasets/year_datasets.md#maniac">MANIAC</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -5951,11 +5951,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_gtea_gaze></a>
+<a name=gtea_gaze></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Georgia Tech Egocentric Activity Gaze (GTEA Gaze)</strong></l> <a href=http://www.cbi.gatech.edu/fpv/>link</a> <a href=https://link.springer.com/content/pdf/10.1007%2F978-3-642-33718-5_23.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, gaze, mask, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -5965,8 +5965,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_gtea_gaze+">GTEA Gaze+</a></li>
-<li><a href="datasets.md#data_gtea_gaze">GTEA Gaze</a></li>
+<li><a href="datasets/year_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
+<li><a href="datasets/year_datasets.md#gtea_gaze">GTEA Gaze</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6004,11 +6004,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2013></a>
 <h2>2013</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_penn_action></a>
+<ul><a name=penn_action></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Penn Action</strong></l> <a href=http://dreamdragon.github.io/PennAction/>link</a> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Zhang_From_Actemes_to_2013_ICCV_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>, <a href=papers.md#motion>Motion prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, pose, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -6018,8 +6018,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_shapestack">ShapeStack</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#shapestack">ShapeStack</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6046,9 +6046,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_uva-nemo">UvA-NEMO</a></li>
-<li><a href="datasets.md#data_mgif">MGIF</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
+<li><a href="datasets/year_datasets.md#mgif">MGIF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6075,8 +6075,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6104,8 +6104,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_mug">MUG</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#mug">MUG</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6133,8 +6133,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6162,8 +6162,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6191,9 +6191,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_instavariety">InstaVariety</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6222,8 +6222,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6251,9 +6251,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_mpii_human_pose">MPII Human Pose</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6289,11 +6289,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_jhmdb></a>
+<a name=jhmdb></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Joint-Annotated Human Motion Data Base (JHMDB)</strong></l> <a href=http://jhmdb.is.tue.mpg.de/>link</a> <a href=https://openaccess.thecvf.com/content_iccv_2013/papers/Jhuang_Towards_Understanding_Action_2013_ICCV_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>, <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, mask, activity label, pose, optical flow</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -6303,8 +6303,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6332,8 +6332,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
-<li><a href="datasets.md#data_ava">AVA</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ava">AVA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6360,9 +6360,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
-<li><a href="datasets.md#data_bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6389,9 +6389,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6418,9 +6418,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_uti">UTI</a></li>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6447,8 +6447,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6486,11 +6486,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_cad-120></a>
+<a name=cad-120></a>
 <details close>
 <summary><l style="font-size:20px"><strong>CAD-120</strong></l> <a href=http://pr.cs.cornell.edu/humanactivities/data.php>link</a> <a href=https://journals.sagepub.com/doi/abs/10.1177/0278364913478446>paper</a> <a href=https://arxiv.org/pdf/1210.1207.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -6500,9 +6500,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cad-120">CAD-120</a></li>
-<li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets.md#data_breakfast">Breakfast</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6531,8 +6531,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cad-120">CAD-120</a></li>
-<li><a href="datasets.md#data_acticipate">ACTICIPATE</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#acticipate">ACTICIPATE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6560,7 +6560,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6589,8 +6589,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cad-120">CAD-120</a></li>
-<li><a href="datasets.md#data_brain4cars">Brain4Cars</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6620,7 +6620,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6662,11 +6662,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_50salad></a>
+<a name=50salad></a>
 <details close>
 <summary><l style="font-size:20px"><strong>50Salads</strong></l> <a href=https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/>link</a> <a href=https://dl.acm.org/doi/abs/10.1145/2493432.2493482>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -6676,8 +6676,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets.md#data_50salad">50Salad</a></li>
+<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6706,8 +6706,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_breakfast">Breakfast</a></li>
-<li><a href="datasets.md#data_50salad">50Salad</a></li>
+<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6734,8 +6734,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_breakfast">Breakfast</a></li>
-<li><a href="datasets.md#data_50salad">50Salad</a></li>
+<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6771,11 +6771,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_daimler_path></a>
+<a name=daimler_path></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Daimler Path</strong></l> <a href=http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/Pedestrian_Path_Predict_GCPR_1/pedestrian_path_predict_gcpr_1.html>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-642-40602-7_18>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Stereo grayscale, bounding box, temporal segment, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -6785,7 +6785,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_daimler_path">Daimler Path</a></li>
+<li><a href="datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6812,7 +6812,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_daimler_path">Daimler Path</a></li>
+<li><a href="datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6849,13 +6849,13 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_chuk_avenue></a>
+<a name=chuk_avenue></a>
 <details close>
 <summary><l style="font-size:20px"><strong>CHUK Avenue</strong></l> <a href=http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html>link</a> <a href=https://openaccess.thecvf.com/content_iccv_2013/papers/Lu_Abnormal_Event_Detection_2013_ICCV_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>, <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, anomaly, temporal segment</li>
-<li><em><strong>Task:</strong></em> Surveillance, anomaly</li>
+<li><em><strong>Task:</strong></em> Surveillance, Anomaly</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
@@ -6863,11 +6863,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_chuk_avenue">CHUK Avenue</a></li>
-<li><a href="datasets.md#data_shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6896,10 +6896,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_gc">GC</a></li>
-<li><a href="datasets.md#data_chuk">CHUK</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/year_datasets.md#chuk">CHUK</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6937,11 +6937,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_atc></a>
+<a name=atc></a>
 <details close>
 <summary><l style="font-size:20px"><strong>ATC</strong></l> <a href=https://irc.atr.jp/crest2010_HRI/ATC_dataset/>link</a> <a href=https://ieeexplore.ieee.org/document/6636027>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, trajectory, attribute</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -6951,7 +6951,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_atc">ATC</a></li>
+<li><a href="datasets/year_datasets.md#atc">ATC</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -6994,11 +6994,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2014></a>
 <h2>2014</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_human3.6m></a>
+<ul><a name=human3.6m></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Human3.6M</strong></l> <a href=http://vision.imar.ro/human3.6m/description.php>link</a> <a href=https://ieeexplore.ieee.org/document/6682899>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>, <a href=papers.md#action>Action prediction<application></a>, <a href=papers.md#motion>Motion prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, 3D pose, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -7008,9 +7008,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7038,10 +7038,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7069,8 +7069,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7098,9 +7098,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7128,7 +7128,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7155,9 +7155,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7187,7 +7187,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7214,8 +7214,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7243,8 +7243,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7272,8 +7272,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_cmu_mocap">CMU Mocap</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7300,7 +7300,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7328,8 +7328,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_mouse_fish">Mouse Fish</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7357,7 +7357,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7387,9 +7387,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_cmu_mocap">CMU Mocap</a></li>
-<li><a href="datasets.md#data_3dpw">3DPW</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="datasets/year_datasets.md#3dpw">3DPW</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7417,7 +7417,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7444,9 +7444,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_instavariety">InstaVariety</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7475,8 +7475,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7504,7 +7504,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7531,7 +7531,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7559,7 +7559,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7586,9 +7586,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_mpii_human_pose">MPII Human Pose</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7615,7 +7615,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7642,7 +7642,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7669,7 +7669,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7709,11 +7709,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_sports-1m></a>
+<a name=sports-1m></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Sports-1M</strong></l> <a href=https://cs.stanford.edu/people/karpathy/deepvideo/>link</a> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>, <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, activity label</li>
 <li><em><strong>Task:</strong></em> Sport</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -7723,11 +7723,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_sports-1m">Sports-1M</a></li>
-<li><a href="datasets.md#data_visor">ViSOR</a></li>
-<li><a href="datasets.md#data_prost">PROST</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#visor">ViSOR</a></li>
+<li><a href="datasets/year_datasets.md#prost">PROST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7754,9 +7754,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7784,9 +7784,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_bit">BIT</a></li>
-<li><a href="datasets.md#data_sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7822,11 +7822,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_breakfast></a>
+<a name=breakfast></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Breakfast</strong></l> <a href=http://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -7836,8 +7836,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_breakfast">Breakfast</a></li>
-<li><a href="datasets.md#data_50salad">50Salad</a></li>
+<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7864,9 +7864,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cad-120">CAD-120</a></li>
-<li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
-<li><a href="datasets.md#data_breakfast">Breakfast</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7895,8 +7895,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_breakfast">Breakfast</a></li>
-<li><a href="datasets.md#data_50salad">50Salad</a></li>
+<li><a href="datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7932,11 +7932,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_orgbd></a>
+<a name=orgbd></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Online RGBD Action Dataset (ORGBD)</strong></l> <a href=https://sites.google.com/site/skicyyu/orgbd>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-16814-2_4>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, bounding box, 3D pose, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -7946,8 +7946,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="datasets.md#data_orgbd">ORGBD</a></li>
+<li><a href="datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="datasets/year_datasets.md#orgbd">ORGBD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -7985,11 +7985,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_mpii_human_pose></a>
+<a name=mpii_human_pose></a>
 <details close>
 <summary><l style="font-size:20px"><strong>MPII Human Pose</strong></l> <a href=http://human-pose.mpi-inf.mpg.de/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2014/papers/Andriluka_2D_Human_Pose_2014_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#motion>Motion prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, pose, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -7999,9 +7999,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_mpii_human_pose">MPII Human Pose</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8039,11 +8039,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2015></a>
 <h2>2015</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_mmnist></a>
+<ul><a name=mmnist></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Moving MNIST (MMNIST)</strong></l> <a href=http://www.cs.toronto.edu/~nitish/unsupervised_video/>link</a> <a href=http://proceedings.mlr.press/v37/srivastava15.pdf>paper</a> <a href=https://arxiv.org/pdf/1502.04681.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Grayscale</li>
 <li><em><strong>Task:</strong></em> Digit</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -8053,9 +8053,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
-<li><a href="datasets.md#data_bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8084,8 +8084,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8113,9 +8113,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
-<li><a href="datasets.md#data_msr">MSR</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#msr">MSR</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8143,9 +8143,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8174,8 +8174,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_bouncing_ball">Bouncing Ball</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#bouncing_ball">Bouncing Ball</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8203,9 +8203,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8233,11 +8233,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_sports-1m">Sports-1M</a></li>
-<li><a href="datasets.md#data_visor">ViSOR</a></li>
-<li><a href="datasets.md#data_prost">PROST</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="datasets/year_datasets.md#visor">ViSOR</a></li>
+<li><a href="datasets/year_datasets.md#prost">PROST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8264,7 +8264,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8291,8 +8291,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_kth">KTH</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8330,11 +8330,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_thumos></a>
+<a name=thumos></a>
 <details close>
 <summary><l style="font-size:20px"><strong>THUMOS</strong></l> <a href=http://www.thumos.info/home.html>link</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>, <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -8344,10 +8344,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8376,8 +8376,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets.md#data_thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8404,9 +8404,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets.md#data_thumos">THUMOS</a></li>
-<li><a href="datasets.md#data_tv_series">TV Series</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#tv_series">TV Series</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8434,8 +8434,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets.md#data_thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8471,11 +8471,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_brain4cars></a>
+<a name=brain4cars></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Brain4Cars</strong></l> <a href=https://github.com/asheshjain399/ICCV2015_Brain4Cars>link</a> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1504.02789.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, attribute, temporal segment, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -8485,8 +8485,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cad-120">CAD-120</a></li>
-<li><a href="datasets.md#data_brain4cars">Brain4Cars</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8516,7 +8516,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_brain4cars">Brain4Cars</a></li>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8545,7 +8545,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_brain4cars">Brain4Cars</a></li>
+<li><a href="datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8584,11 +8584,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_sysu_3dhoi></a>
+<a name=sysu_3dhoi></a>
 <details close>
 <summary><l style="font-size:20px"><strong>SYSU 3DHOI</strong></l> <a href=http://www.isee-ai.cn/~hujianfang/ProjectJOULE.html>link</a> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hu_Jointly_Learning_Heterogeneous_2015_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label</li>
 <li><em><strong>Task:</strong></em> Object interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -8598,9 +8598,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="datasets.md#data_ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8627,8 +8627,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="datasets.md#data_orgbd">ORGBD</a></li>
+<li><a href="datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="datasets/year_datasets.md#orgbd">ORGBD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8665,11 +8665,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_wider></a>
+<a name=wider></a>
 <details close>
 <summary><l style="font-size:20px"><strong>WIDER</strong></l> <a href=http://yjxiong.me/event_recog/WIDER/>link</a> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xiong_Recognize_Complex_Events_2015_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB (image), activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -8679,11 +8679,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_willow_action">Willow Action</a></li>
-<li><a href="datasets.md#data_wider">WIDER</a></li>
-<li><a href="datasets.md#data_stanford-40">Stanford-40</a></li>
-<li><a href="datasets.md#data_bu_action">BU Action</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="datasets/year_datasets.md#wider">WIDER</a></li>
+<li><a href="datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="datasets/year_datasets.md#bu_action">BU Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8720,11 +8720,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_wnp></a>
+<a name=wnp></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Watch-n-Push (WnP)</strong></l> <a href=http://watchnpatch.cs.cornell.edu/>link</a> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wu_Watch-n-Patch_Unsupervised_Understanding_2015_CVPR_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1603.03541.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -8734,8 +8734,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_wnp">WnP</a></li>
-<li><a href="datasets.md#data_utka">UTKA</a></li>
+<li><a href="datasets/year_datasets.md#wnp">WnP</a></li>
+<li><a href="datasets/year_datasets.md#utka">UTKA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8771,11 +8771,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_sun_rgb-d></a>
+<a name=sun_rgb-d></a>
 <details close>
 <summary><l style="font-size:20px"><strong>SUN RGB-D</strong></l> <a href=http://rgbd.cs.princeton.edu/>link</a> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, 3D bounding box, object class</li>
 <li><em><strong>Task:</strong></em> Place</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -8785,7 +8785,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_sun_rgb-d">SUN RGB-D</a></li>
+<li><a href="datasets/year_datasets.md#sun_rgb-d">SUN RGB-D</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8822,11 +8822,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_mot></a>
+<a name=mot></a>
 <details close>
 <summary><l style="font-size:20px"><strong>MOT</strong></l> <a href=https://motchallenge.net/>link</a> <a href=>paper</a> <a href=https://arxiv.org/pdf/1504.01942.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -8836,7 +8836,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mot">MOT</a></li>
+<li><a href="datasets/year_datasets.md#mot">MOT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8872,11 +8872,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_mbi-1m></a>
+<a name=mbi-1m></a>
 <details close>
 <summary><l style="font-size:20px"><strong>MicroBlog-Images (MBI-1M)</strong></l> <a href=http://academic.mywebsiteontheinternet.com/data/>link</a> <a href=https://dl.acm.org/doi/abs/10.1145/2671188.2749405>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB (image), attribute, text</li>
 <li><em><strong>Task:</strong></em> Tweet</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -8886,7 +8886,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mbi-1m">MBI-1M</a></li>
+<li><a href="datasets/year_datasets.md#mbi-1m">MBI-1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8923,11 +8923,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_gtea_gaze+></a>
+<a name=gtea_gaze+></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Georgia Tech Egocentric Activity Gaze+ (GTEA Gaze+)</strong></l> <a href=http://www.cbi.gatech.edu/fpv/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2015/papers/Li_Delving_Into_Egocentric_2015_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, gaze, mask, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -8937,8 +8937,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_gtea_gaze+">GTEA Gaze+</a></li>
-<li><a href="datasets.md#data_gtea_gaze">GTEA Gaze</a></li>
+<li><a href="datasets/year_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
+<li><a href="datasets/year_datasets.md#gtea_gaze">GTEA Gaze</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -8974,11 +8974,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_fppa></a>
+<a name=fppa></a>
 <details close>
 <summary><l style="font-size:20px"><strong>First Person Personalized Activities (FPPA)</strong></l> <a href=http://bvision11.cs.unc.edu/bigpen/yipin/ICCV2015/prediction_webpage/Prediction.html>link</a> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhou_Temporal_Perception_and_ICCV_2015_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -8988,7 +8988,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_fppa">FPPA</a></li>
+<li><a href="datasets/year_datasets.md#fppa">FPPA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9024,11 +9024,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_cmu_panoptic></a>
+<a name=cmu_panoptic></a>
 <details close>
 <summary><l style="font-size:20px"><strong>CMU Panoptic</strong></l> <a href=http://domedb.perception.cs.cmu.edu/dataset.html>link</a> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.03153.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>, <a href=papers.md#motion>Motion prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, multiview, 3D pose, 3D facial landmark</li>
 <li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -9038,7 +9038,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="datasets/year_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9074,11 +9074,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_atari></a>
+<a name=atari></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Atari</strong></l> <a href=https://github.com/junhyukoh/nips2015-action-conditional-video-prediction>link</a> <a href=https://papers.nips.cc/paper/5859-action-conditional-video-prediction-using-deep-networks-in-atari-games.pdf>paper</a> <a href=https://arxiv.org/pdf/1507.08750.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Game</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -9088,7 +9088,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_atari">Atari</a></li>
+<li><a href="datasets/year_datasets.md#atari">Atari</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9124,11 +9124,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_amazon></a>
+<a name=amazon></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Amazon</strong></l> <a href=http://jmcauley.ucsd.edu/data/amazon/index_2014.html>link</a> <a href=https://dl.acm.org/doi/abs/10.1145/2766462.2767755>paper</a> <a href=https://arxiv.org/pdf/1506.04757.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Features, attribute, text</li>
 <li><em><strong>Task:</strong></em> Fashion</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -9138,7 +9138,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_amazon">Amazon</a></li>
+<li><a href="datasets/year_datasets.md#amazon">Amazon</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9177,11 +9177,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2016></a>
 <h2>2016</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_sd></a>
+<ul><a name=sd></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Stanford Drone (SD)</strong></l> <a href=http://cvgl.stanford.edu/projects/uav_data/>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46484-8_33>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, object class</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -9191,9 +9191,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9221,10 +9221,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9253,9 +9253,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9283,10 +9283,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
-<li><a href="datasets.md#data_interaction">INTERACTION</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9314,10 +9314,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
-<li><a href="datasets.md#data_pets2009">PETS2009</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9345,8 +9345,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9376,8 +9376,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9414,11 +9414,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_cityscapes></a>
+<a name=cityscapes></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Cityscapes</strong></l> <a href=https://www.cityscapes-dataset.com/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1604.01685.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>, <a href=papers.md#trajectory>Trajectory prediction<application></a>, <a href=papers.md#other>Other prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a>, <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Stereo RGB, bounding box, semantic segment, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -9428,9 +9428,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
-<li><a href="datasets.md#data_bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9459,9 +9459,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9489,9 +9489,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
-<li><a href="datasets.md#data_oxford">Oxford</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#oxford">Oxford</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9518,7 +9518,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9545,7 +9545,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9575,7 +9575,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9604,7 +9604,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9642,11 +9642,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_bair_push></a>
+<a name=bair_push></a>
 <details close>
 <summary><l style="font-size:20px"><strong>BAIR Push</strong></l> <a href=https://sites.google.com/site/brainrobotdata/home/push-dataset>link</a> <a href=https://papers.nips.cc/paper/6161-unsupervised-learning-for-physical-interaction-through-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1605.07157.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Robot object manipulation</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -9656,9 +9656,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
-<li><a href="datasets.md#data_bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9687,9 +9687,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9717,8 +9717,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_bair_push">BAIR Push</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9755,11 +9755,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_dad></a>
+<a name=dad></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Dashcam Accident Dataset (DAD)</strong></l> <a href=https://aliensunmin.github.io/project/dashcam/>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-54190-7_9>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, object class, temporal segment</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -9769,7 +9769,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_dad">DAD</a></li>
+<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9801,8 +9801,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_dad">DAD</a></li>
-<li><a href="datasets.md#data_epic-fail">Epic-Fail</a></li>
+<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
+<li><a href="datasets/year_datasets.md#epic-fail">Epic-Fail</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9840,11 +9840,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_cmu_mocap></a>
+<a name=cmu_mocap></a>
 <details close>
 <summary><l style="font-size:20px"><strong>CMU Mocap</strong></l> <a href=http://mocap.cs.cmu.edu/>link</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>, <a href=papers.md#motion>Motion prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> 3D pose, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -9854,8 +9854,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_cmu_mocap">CMU Mocap</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9882,9 +9882,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_cmu_mocap">CMU Mocap</a></li>
-<li><a href="datasets.md#data_3dpw">3DPW</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="datasets/year_datasets.md#3dpw">3DPW</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9921,11 +9921,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_youtube-8m></a>
+<a name=youtube-8m></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Youtube-8M</strong></l> <a href=https://research.google.com/youtube8m/>link</a> <a href=>paper</a> <a href=https://arxiv.org/pdf/1609.08675.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -9935,8 +9935,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_youtube-8m">Youtube-8M</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#youtube-8m">Youtube-8M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -9975,11 +9975,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_vist></a>
+<a name=vist></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Visual Storytelling (VIST)</strong></l> <a href=http://visionandlanguage.net/VIST/>link</a> <a href=https://www.aclweb.org/anthology/N16-1147.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, text</li>
 <li><em><strong>Task:</strong></em> Visual story</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -9989,7 +9989,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_vist">VIST</a></li>
+<li><a href="datasets/year_datasets.md#vist">VIST</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10025,11 +10025,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_tv_series></a>
+<a name=tv_series></a>
 <details close>
 <summary><l style="font-size:20px"><strong>TV Series</strong></l> <a href=https://github.com/zhenyangli/online_action>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46454-1_17>paper</a> <a href=https://arxiv.org/pdf/1604.06506.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10039,9 +10039,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="datasets.md#data_thumos">THUMOS</a></li>
-<li><a href="datasets.md#data_tv_series">TV Series</a></li>
+<li><a href="datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="datasets/year_datasets.md#tv_series">TV Series</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10078,11 +10078,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_oad></a>
+<a name=oad></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Online Action Detection (OAD)</strong></l> <a href=http://www.icst.pku.edu.cn/struct/Projects/OAD.html>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46478-7_13>paper</a> <a href=https://arxiv.org/pdf/1604.05633.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10092,8 +10092,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_pku-mmd">PKU-MMD</a></li>
-<li><a href="datasets.md#data_oad">OAD</a></li>
+<li><a href="datasets/year_datasets.md#pku-mmd">PKU-MMD</a></li>
+<li><a href="datasets/year_datasets.md#oad">OAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10129,11 +10129,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_oa></a>
+<a name=oa></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Ongoing Activity (OA)</strong></l> <a href=http://www.mpii.de/ongoing-activity>link</a> <a href=https://ieeexplore.ieee.org/document/7477586>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10143,7 +10143,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_oa">OA</a></li>
+<li><a href="datasets/year_datasets.md#oa">OA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10179,11 +10179,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_ntu_rgb-d></a>
+<a name=ntu_rgb-d></a>
 <details close>
 <summary><l style="font-size:20px"><strong>NTU RGB-D</strong></l> <a href=http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1604.02808.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, IR, 3D pose, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10193,9 +10193,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="datasets.md#data_ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10231,11 +10231,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_mu></a>
+<a name=mu></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Miss Universe (MU)</strong></l> <a href=http://staff.itee.uq.edu.au/lovell/MissUniverse/>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/7899781>paper</a> <a href=https://arxiv.org/pdf/1604.07547.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#other>Other prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, scores</li>
 <li><em><strong>Task:</strong></em> Miss universe</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10245,7 +10245,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mu">MU</a></li>
+<li><a href="datasets/year_datasets.md#mu">MU</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10281,11 +10281,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_bouncing_ball></a>
+<a name=bouncing_ball></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Bouncing Ball (BB)</strong></l> <a href=https://github.com/mbchang/dynamics>link</a> <a href=https://openreview.net/pdf?id=Bkab5dqxe>paper</a> <a href=https://arxiv.org/pdf/1612.00341.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Object (simulation)</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10295,8 +10295,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_mmnist">MMNIST</a></li>
-<li><a href="datasets.md#data_bouncing_ball">Bouncing Ball</a></li>
+<li><a href="datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/year_datasets.md#bouncing_ball">Bouncing Ball</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10335,11 +10335,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2017></a>
 <h2>2017</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_jaad></a>
+<ul><a name=jaad></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Joint Attention in Autonomous Driving (JAAD)</strong></l> <a href=http://data.nvision2.eecs.yorku.ca/JAAD_dataset/>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w3/Rasouli_Are_They_Going_ICCV_2017_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a>, <a href=papers.md#action>Action prediction<application></a>, <a href=papers.md#trajectory>Trajectory prediction<application></a>, <a href=papers.md#other>Other prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a>, <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, attribute, temporal segment</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10349,7 +10349,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10376,7 +10376,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10404,8 +10404,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_jaad">JAAD</a></li>
-<li><a href="datasets.md#data_viena">VIENA</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#viena">VIENA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10433,7 +10433,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10460,8 +10460,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_jaad">JAAD</a></li>
-<li><a href="datasets.md#data_pie">PIE</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10489,7 +10489,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10526,11 +10526,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_strands></a>
+<a name=strands></a>
 <details close>
 <summary><l style="font-size:20px"><strong>STRANDS</strong></l> <a href=https://strands.readthedocs.io/en/latest/datasets/>link</a> <a href=https://ieeexplore.ieee.org/document/7948740>paper</a> <a href=https://arxiv.org/pdf/1604.04384.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, 3D bounding box</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10540,8 +10540,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_strands">STRANDS</a></li>
-<li><a href="datasets.md#data_l-cas">L-CAS</a></li>
+<li><a href="datasets/year_datasets.md#strands">STRANDS</a></li>
+<li><a href="datasets/year_datasets.md#l-cas">L-CAS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10581,11 +10581,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_recipe1m></a>
+<a name=recipe1m></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Recipe1M</strong></l> <a href=http://pic2recipe.csail.mit.edu/>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Cross-Modal_Embeddings_With_Adversarial_Networks_for_Cooking_Recipes_and_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.01273.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB (image), text</li>
 <li><em><strong>Task:</strong></em> Cooking</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10595,8 +10595,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_youcook2">YouCook2</a></li>
-<li><a href="datasets.md#data_recipe1m">Recipe1M</a></li>
+<li><a href="datasets/year_datasets.md#youcook2">YouCook2</a></li>
+<li><a href="datasets/year_datasets.md#recipe1m">Recipe1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10632,13 +10632,13 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_pku-mmd></a>
+<a name=pku-mmd></a>
 <details close>
 <summary><l style="font-size:20px"><strong>PKU-MMD</strong></l> <a href=http://www.icst.pku.edu.cn/struct/Projects/PKUMMD.html>link</a> <a href=>paper</a> <a href=https://arxiv.org/pdf/1703.07475.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, IR, 3D pose, multiview, temporal segment</li>
-<li><em><strong>Task:</strong></em> Activity, interaction</li>
+<li><em><strong>Task:</strong></em> Activity, Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
@@ -10646,8 +10646,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_pku-mmd">PKU-MMD</a></li>
-<li><a href="datasets.md#data_oad">OAD</a></li>
+<li><a href="datasets/year_datasets.md#pku-mmd">PKU-MMD</a></li>
+<li><a href="datasets/year_datasets.md#oad">OAD</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10683,11 +10683,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_oxford></a>
+<a name=oxford></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Oxford Robot Car (ORC)</strong></l> <a href=https://robotcar-dataset.robots.ox.ac.uk/>link</a> <a href=https://journals.sagepub.com/doi/abs/10.1177/0278364916679498>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Stereo RGB, LIDAR, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10697,9 +10697,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
-<li><a href="datasets.md#data_oxford">Oxford</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/year_datasets.md#oxford">Oxford</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10738,11 +10738,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_mouse_fish></a>
+<a name=mouse_fish></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Mouse Fish</strong></l> <a href=https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/behaviorAnalysis/Lie-X/Lie-X.html>link</a> <a href=https://link.springer.com/article/10.1007/s11263-017-0998-6>paper</a> <a href=https://arxiv.org/pdf/1609.03773.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#motion>Motion prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Depth, 3D pose</li>
 <li><em><strong>Task:</strong></em> Animal</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10752,8 +10752,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_mouse_fish">Mouse Fish</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10793,11 +10793,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_l-cas></a>
+<a name=l-cas></a>
 <details close>
 <summary><l style="font-size:20px"><strong>L-CAS</strong></l> <a href=https://lcas.lincoln.ac.uk/wp/research/data-sets-software/l-cas-3d-point-cloud-people-dataset/>link</a> <a href=https://ieeexplore.ieee.org/document/8202247>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> LIDAR, 3D bounding box, attribute</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10807,8 +10807,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_strands">STRANDS</a></li>
-<li><a href="datasets.md#data_l-cas">L-CAS</a></li>
+<li><a href="datasets/year_datasets.md#strands">STRANDS</a></li>
+<li><a href="datasets/year_datasets.md#l-cas">L-CAS</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10845,11 +10845,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_epic-fail></a>
+<a name=epic-fail></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Epic-Fail</strong></l> <a href=http://aliensunmin.github.io/project/video-Forecasting/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06560.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, trajectory, temporal segment</li>
 <li><em><strong>Task:</strong></em> Risk assessment</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10859,8 +10859,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_dad">DAD</a></li>
-<li><a href="datasets.md#data_epic-fail">Epic-Fail</a></li>
+<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
+<li><a href="datasets/year_datasets.md#epic-fail">Epic-Fail</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10897,11 +10897,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_cityperson></a>
+<a name=cityperson></a>
 <details close>
 <summary><l style="font-size:20px"><strong>CityPersons</strong></l> <a href=https://bitbucket.org/shanshanzhang/citypersons/src/default/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_CityPersons_A_Diverse_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1702.05693.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Stereo RGB, bounding box, semantic segment</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10911,7 +10911,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cityperson">CityPerson</a></li>
+<li><a href="datasets/year_datasets.md#cityperson">CityPerson</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -10948,11 +10948,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_bu_action></a>
+<a name=bu_action></a>
 <details close>
 <summary><l style="font-size:20px"><strong>BU Action (BUA)</strong></l> <a href=http://cs-people.bu.edu/sbargal/BU-action/>link</a> <a href=https://www.sciencedirect.com/science/article/abs/pii/S0031320317300353>paper</a> <a href=https://arxiv.org/pdf/1512.07155.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB (image), activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -10962,11 +10962,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_willow_action">Willow Action</a></li>
-<li><a href="datasets.md#data_wider">WIDER</a></li>
-<li><a href="datasets.md#data_stanford-40">Stanford-40</a></li>
-<li><a href="datasets.md#data_bu_action">BU Action</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="datasets/year_datasets.md#wider">WIDER</a></li>
+<li><a href="datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="datasets/year_datasets.md#bu_action">BU Action</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11007,11 +11007,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2018></a>
 <h2>2018</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_epic-kitchens></a>
+<ul><a name=epic-kitchens></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Epic-Kitchens</strong></l> <a href=https://epic-kitchens.github.io/2019>link</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02748.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, audio, bounding box, object class, text, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11021,8 +11021,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets.md#data_50salad">50Salad</a></li>
+<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11051,8 +11051,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets.md#data_egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11080,7 +11080,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11117,11 +11117,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_youcook2></a>
+<a name=youcook2></a>
 <details close>
 <summary><l style="font-size:20px"><strong>YouCook2</strong></l> <a href=http://youcook2.eecs.umich.edu/>link</a> <a href=https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17344/16367>paper</a> <a href=https://arxiv.org/pdf/1703.09788.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, audio, text, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11131,8 +11131,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_youcook2">YouCook2</a></li>
-<li><a href="datasets.md#data_recipe1m">Recipe1M</a></li>
+<li><a href="datasets/year_datasets.md#youcook2">YouCook2</a></li>
+<li><a href="datasets/year_datasets.md#recipe1m">Recipe1M</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11168,11 +11168,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_viena></a>
+<a name=viena></a>
 <details close>
 <summary><l style="font-size:20px"><strong>VIENA</strong></l> <a href=https://sites.google.com/view/viena2-project/home>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_28>paper</a> <a href=https://arxiv.org/pdf/1810.09044.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, activity label, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving (simulation)</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11182,8 +11182,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_jaad">JAAD</a></li>
-<li><a href="datasets.md#data_viena">VIENA</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#viena">VIENA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11221,11 +11221,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_shapestack></a>
+<a name=shapestack></a>
 <details close>
 <summary><l style="font-size:20px"><strong>ShapeStack</strong></l> <a href=https://shapestacks.robots.ox.ac.uk/>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.08522.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, mask, stability</li>
 <li><em><strong>Task:</strong></em> Object (simulation)</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11235,8 +11235,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_shapestack">ShapeStack</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#shapestack">ShapeStack</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11272,13 +11272,13 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_shanghaitech_campus></a>
+<a name=shanghaitech_campus></a>
 <details close>
 <summary><l style="font-size:20px"><strong>ShanghaiTech Campus (STC)</strong></l> <a href=https://svip-lab.github.io/dataset/campus_dataset.html>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Future_Frame_Prediction_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1712.09867.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, anomaly</li>
-<li><em><strong>Task:</strong></em> Surveillance, anomaly</li>
+<li><em><strong>Task:</strong></em> Surveillance, Anomaly</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
@@ -11286,11 +11286,11 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
-<li><a href="datasets.md#data_kitti">KITTI</a></li>
-<li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="datasets.md#data_chuk_avenue">CHUK Avenue</a></li>
-<li><a href="datasets.md#data_shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11328,11 +11328,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_egtea_gaze+></a>
+<a name=egtea_gaze+></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Extended Georgia Tech Egocentric Activity Gaze+ (EGTEA Gaze+)</strong></l> <a href=http://www.cbi.gatech.edu/fpv/>link</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00626.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, gaze, mask, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11342,8 +11342,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets.md#data_egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11380,11 +11380,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_ava></a>
+<a name=ava></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Atomic Visual Actions (AVA)</strong></l> <a href=https://research.google.com/ava/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gu_AVA_A_Video_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.08421.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11394,8 +11394,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
-<li><a href="datasets.md#data_ava">AVA</a></li>
+<li><a href="datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="datasets/year_datasets.md#ava">AVA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11431,11 +11431,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_acticipate></a>
+<a name=acticipate></a>
 <details close>
 <summary><l style="font-size:20px"><strong>ACTICIPATE</strong></l> <a href=http://vislab.isr.tecnico.ulisboa.pt/datasets/>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/8460924/>paper</a> <a href=https://arxiv.org/pdf/1802.10503.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, gaze, pose</li>
 <li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11445,8 +11445,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_cad-120">CAD-120</a></li>
-<li><a href="datasets.md#data_acticipate">ACTICIPATE</a></li>
+<li><a href="datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="datasets/year_datasets.md#acticipate">ACTICIPATE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11483,11 +11483,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_actev/virat></a>
+<a name=actev/virat></a>
 <details close>
 <summary><l style="font-size:20px"><strong>ActEV/VIRAT</strong></l> <a href=https://actev.nist.gov/trecvid19>link</a> <a href=https://www-nlpir.nist.gov/projects/tvpubs/tv18.papers/tv18overview.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>, <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11497,7 +11497,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_actev/virat">ActEV/VIRAT</a></li>
+<li><a href="datasets/year_datasets.md#actev/virat">ActEV/VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11533,11 +11533,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_3dpw></a>
+<a name=3dpw></a>
 <details close>
 <summary><l style="font-size:20px"><strong>3D POSES IN THE WILD (3DPW)</strong></l> <a href=https://virtualhumans.mpi-inf.mpg.de/3DPW/>link</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Timo_von_Marcard_Recovering_Accurate_3D_ECCV_2018_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#motion>Motion prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, 2D/3D pose, models</li>
 <li><em><strong>Task:</strong></em> Outdoor</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11547,9 +11547,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_cmu_mocap">CMU Mocap</a></li>
-<li><a href="datasets.md#data_3dpw">3DPW</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="datasets/year_datasets.md#3dpw">3DPW</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11588,11 +11588,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 </ul><a name=datasets_2019></a>
 <h2>2019</h2> <a href=#top>&uarr; top</a>
-<ul><a name=data_pie></a>
+<ul><a name=pie></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Pedestrian Intention Estimation (PIE)</strong></l> <a href=http://data.nvision2.eecs.yorku.ca/PIE_dataset/>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a>, <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, object class, attribute, temporal segment, vehicle sensors, </li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11602,7 +11602,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_pie">PIE</a></li>
+<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11633,8 +11633,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_jaad">JAAD</a></li>
-<li><a href="datasets.md#data_pie">PIE</a></li>
+<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11671,11 +11671,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_carla></a>
+<a name=carla></a>
 <details close>
 <summary><l style="font-size:20px"><strong>CARLA</strong></l> <a href=https://sites.google.com/view/precog>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.01296.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Driving (simulation)</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11685,8 +11685,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_carla">CARLA</a></li>
-<li><a href="datasets.md#data_nuscenes">nuScenes</a></li>
+<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
+<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11714,7 +11714,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_carla">CARLA</a></li>
+<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11751,11 +11751,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_traf></a>
+<a name=traf></a>
 <details close>
 <summary><l style="font-size:20px"><strong>TRAF</strong></l> <a href=https://drive.google.com/drive/folders/1LqzJuRkx5yhOcjWFORO5WZ97v6jg8RHN>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.04767.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, object class, time-of-day</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11765,8 +11765,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
-<li><a href="datasets.md#data_traf">TRAF</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#traf">TRAF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11803,11 +11803,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_vpm></a>
+<a name=vpm></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Vehicle-Pedestrian-Mixed (VPM)</strong></l> <a href=http://vr.ict.ac.cn/vp-lstm.>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Bi_Joint_Prediction_for_Kinematic_Trajectories_in_Vehicle-Pedestrian-Mixed_Scenes_ICCV_2019_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11817,8 +11817,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ngsim">NGSIM</a></li>
-<li><a href="datasets.md#data_vpm">VPM</a></li>
+<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/year_datasets.md#vpm">VPM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11855,11 +11855,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_nuscenes></a>
+<a name=nuscenes></a>
 <details close>
 <summary><l style="font-size:20px"><strong>nuScenes</strong></l> <a href=https://www.nuscenes.org/>link</a> <a href=>paper</a> <a href=https://arxiv.org/pdf/1903.11027.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, LIDAR, 3D bounding box, vehicle sensors, map</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11869,8 +11869,8 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_carla">CARLA</a></li>
-<li><a href="datasets.md#data_nuscenes">nuScenes</a></li>
+<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
+<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11907,11 +11907,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_mgif></a>
+<a name=mgif></a>
 <details close>
 <summary><l style="font-size:20px"><strong>MGIF</strong></l> <a href=https://github.com/AliaksandrSiarohin/monkey-net>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Siarohin_Animating_Arbitrary_Objects_via_Deep_Motion_Transfer_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.08861.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#video>Video prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11921,9 +11921,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_uva-nemo">UvA-NEMO</a></li>
-<li><a href="datasets.md#data_mgif">MGIF</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
+<li><a href="datasets/year_datasets.md#mgif">MGIF</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -11959,11 +11959,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_luggage></a>
+<a name=luggage></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Luggage</strong></l> <a href=https://aashi7.github.io/NearCollision.html>link</a> <a href=https://ieeexplore.ieee.org/document/8967730>paper</a> <a href=https://arxiv.org/pdf/1903.09102.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#action>Action prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Stereo RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Robot</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -11973,7 +11973,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_luggage">Luggage</a></li>
+<li><a href="datasets/year_datasets.md#luggage">Luggage</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12009,11 +12009,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_interaction></a>
+<a name=interaction></a>
 <details close>
 <summary><l style="font-size:20px"><strong>INTERACTION</strong></l> <a href=https://interaction-dataset.com>link</a> <a href=>paper</a> <a href=https://arxiv.org/pdf/1910.03088.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Map, trajectory</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -12023,10 +12023,10 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_ucy">UCY</a></li>
-<li><a href="datasets.md#data_eth">ETH</a></li>
-<li><a href="datasets.md#data_sd">SD</a></li>
-<li><a href="datasets.md#data_interaction">INTERACTION</a></li>
+<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/year_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12063,11 +12063,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_instavariety></a>
+<a name=instavariety></a>
 <details close>
 <summary><l style="font-size:20px"><strong>InstaVariety</strong></l> <a href=https://github.com/akanazawa/human_dynamics>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kanazawa_Learning_3D_Human_Dynamics_From_Video_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.01601.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#motion>Motion prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Rgb, Bounding Box, Pose</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -12077,9 +12077,9 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
-<li><a href="datasets.md#data_penn_action">Penn Action</a></li>
-<li><a href="datasets.md#data_instavariety">InstaVariety</a></li>
+<li><a href="datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="datasets/year_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12117,11 +12117,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_fm></a>
+<a name=fm></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Future Motion (FM)</strong></l> <a href=https://mcl.korea.ac.kr/~krkim/iccv2019/index.html>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Instance-Level_Future_Motion_Estimation_in_a_Single_Image_Based_on_ICCV_2019_paper.pdf>paper</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, attribute</li>
 <li><em><strong>Task:</strong></em> Mix</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -12131,7 +12131,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_fm">FM</a></li>
+<li><a href="datasets/year_datasets.md#fm">FM</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12167,11 +12167,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_egopose></a>
+<a name=egopose></a>
 <details close>
 <summary><l style="font-size:20px"><strong>EgoPose</strong></l> <a href=https://github.com/Khrylx/EgoPose>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Ego-Pose_Estimation_and_Forecasting_As_Real-Time_PD_Control_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.03173.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#motion>Motion prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, 3D pose</li>
 <li><em><strong>Task:</strong></em> Pose (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -12181,7 +12181,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_egopose">EgoPose</a></li>
+<li><a href="datasets/year_datasets.md#egopose">EgoPose</a></li>
 </ul>
 
 <em>Metrics</em>
@@ -12217,11 +12217,11 @@ Below is the list of datasets grouped according to their years.Within each group
 </details>
 
 </ul></details>
-<a name=data_argoverse></a>
+<a name=argoverse></a>
 <details close>
 <summary><l style="font-size:20px"><strong>ARGOVerse</strong></l> <a href=https://www.argoverse.org/data.html>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.02620.pdf>arxiv</a></summary> 
 <ul><li>
-<em><strong>Applications:</strong></em> <a href=papers.md#trajectory>Trajectory prediction<application></a></li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, LIDAR, 3D bounding box, Map</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
@@ -12231,7 +12231,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets.md#data_argoverse">ARGOVerse</a></li>
+<li><a href="datasets/year_datasets.md#argoverse">ARGOVerse</a></li>
 </ul>
 
 <em>Metrics</em>
