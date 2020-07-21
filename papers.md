@@ -1,9 +1,9 @@
 <a name=video></a>
 ## Video Prediction
 <a name=Kwon_2019_CVPR></a>
-### Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -43,9 +43,9 @@
 </details>
 
 <a name=Castrejon_2019_ICCV></a>
-### Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1904.12165.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_mmnist">MMNIST</a></li>
@@ -81,9 +81,9 @@
 </details>
 
 <a name=Gao_2019_ICCV></a>
-### Gao et al., "Disentangling Propagation And Generation For Video Prediction", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Disentangling_Propagation_and_Generation_for_Video_Prediction_ICCV_2019_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Gao et al., "Disentangling Propagation And Generation For Video Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Disentangling_Propagation_and_Generation_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_kitti">KITTI</a></li>
@@ -115,9 +115,9 @@
 </details>
 
 <a name=Ho_2019_ICCV></a>
-### Ho et al., "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Ho et al., "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -153,9 +153,9 @@
 </details>
 
 <a name=Ye_2019_ICCV></a>
-### Ye et al., "Compositional Video Prediction", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1908.08522.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Ye et al., "Compositional Video Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_penn_action">Penn Action</a></li>
@@ -185,9 +185,9 @@
 </details>
 
 <a name=Kim_2019_NeurIPS></a>
-### Kim et al., "Unsupervised Keypoint Learning For Guiding Class-Conditional Video Prediction", NeurIPS, 2019. [paper](https://papers.nips.cc/paper/8637-unsupervised-keypoint-learning-for-guiding-class-conditional-video-prediction.pdf) [arxiv](https://arxiv.org/pdf/1910.02027.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Kim et al., "Unsupervised Keypoint Learning For Guiding Class-Conditional Video Prediction", NeurIPS, 2019.</em> <a href=https://papers.nips.cc/paper/8637-unsupervised-keypoint-learning-for-guiding-class-conditional-video-prediction.pdf>paper</a> <a href=https://papers.nips.cc/paper/8637-unsupervised-keypoint-learning-for-guiding-class-conditional-video-prediction.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_penn_action">Penn Action</a></li>
@@ -219,9 +219,9 @@
 </details>
 
 <a name=Lee_2019_BMVC></a>
-### Lee et al., "Mutual Suppression Network For Video Prediction Using Disentangled Features", BMVC, 2019. [paper](https://bmvc2019.org/wp-content/uploads/papers/0336-paper.pdf) [arxiv](https://arxiv.org/pdf/1804.04810.pdf) [code](https://github.com/aras62/SF-GRU)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Lee et al., "Mutual Suppression Network For Video Prediction Using Disentangled Features", BMVC, 2019.</em> <a href=https://bmvc2019.org/wp-content/uploads/papers/0336-paper.pdf>paper</a> <a href=https://bmvc2019.org/wp-content/uploads/papers/0336-paper.pdf>arxiv</a> <a href=https://bmvc2019.org/wp-content/uploads/papers/0336-paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_mmnist">MMNIST</a></li>
@@ -253,9 +253,9 @@
 </details>
 
 <a name=Wang_2019_BMVC></a>
-### Wang et al., "Order Matters: Shuffling Sequence Generation For Video Prediction", BMVC, 2019. [paper](https://bmvc2019.org/wp-content/uploads/papers/1023-paper.pdf) [arxiv](https://arxiv.org/pdf/1907.08845.pdf) [code](https://github.com/andrewjywang/SEENet)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Wang et al., "Order Matters: Shuffling Sequence Generation For Video Prediction", BMVC, 2019.</em> <a href=https://bmvc2019.org/wp-content/uploads/papers/1023-paper.pdf>paper</a> <a href=https://bmvc2019.org/wp-content/uploads/papers/1023-paper.pdf>arxiv</a> <a href=https://bmvc2019.org/wp-content/uploads/papers/1023-paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_mmnist">MMNIST</a></li>
@@ -289,9 +289,9 @@
 </details>
 
 <a name=Gujjar_2019_ICRA></a>
-### Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8794278)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8794278>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_jaad">JAAD</a></li>
@@ -319,9 +319,9 @@
 </details>
 
 <a name=Jung_2019_IROS></a>
-### Jung et al., "Goal-Directed Behavior Under Variational Predictive Coding: Dynamic Organization Of Visual Attention And Working Memory", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8968597) [arxiv](https://arxiv.org/pdf/1903.04932.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Jung et al., "Goal-Directed Behavior Under Variational Predictive Coding: Dynamic Organization Of Visual Attention And Working Memory", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8968597>paper</a> <a href=https://ieeexplore.ieee.org/document/8968597>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -349,9 +349,9 @@
 </details>
 
 <a name=Ho_2019_ICIP></a>
-### Ho et al., "Deep Reinforcement Learning For Video Prediction", ICIP, 2019. [paper](https://ieeexplore.ieee.org/document/8803825)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Ho et al., "Deep Reinforcement Learning For Video Prediction", ICIP, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8803825>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_kitti">KITTI</a></li>
@@ -387,9 +387,9 @@
 </details>
 
 <a name=Tang_2019_ICIP></a>
-### Tang et al., "Pose Guided Global And Local Gan For Appearance Preserving Human Video Prediction", ICIP, 2019. [paper](https://ieeexplore.ieee.org/document/8803792)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Tang et al., "Pose Guided Global And Local Gan For Appearance Preserving Human Video Prediction", ICIP, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8803792>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_penn_action">Penn Action</a></li>
@@ -421,9 +421,9 @@
 </details>
 
 <a name=Zhang_2019_ICIP></a>
-### Zhang et al., "Looking-Ahead: Neural Future Video Frame Prediction", ICIP, 2019. [paper](https://ieeexplore.ieee.org/document/8803151)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zhang et al., "Looking-Ahead: Neural Future Video Frame Prediction", ICIP, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8803151>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -453,9 +453,9 @@
 </details>
 
 <a name=Xu_2018_CVPR></a>
-### Xu et al., "Structure Preserving Video Prediction", CVPR, 2018. [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Xu_Structure_Preserving_Video_CVPR_2018_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Xu et al., "Structure Preserving Video Prediction", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Xu_Structure_Preserving_Video_CVPR_2018_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -489,9 +489,9 @@
 </details>
 
 <a name=Byeon_2018_ECCV></a>
-### Byeon et al., "Contextvp: Fully Context-Aware Video Prediction", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Wonmin_Byeon_ContextVP_Fully_Context-Aware_ECCV_2018_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Byeon et al., "Contextvp: Fully Context-Aware Video Prediction", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wonmin_Byeon_ContextVP_Fully_Context-Aware_ECCV_2018_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -527,9 +527,9 @@
 </details>
 
 <a name=Cai_2018_ECCV></a>
-### Cai et al., "Deep Video Generation, Prediction And Completion Of Human Action Sequences", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Chunyan_Bai_Deep_Video_Generation_ECCV_2018_paper.pdf) [arxiv](https://arxiv.org/pdf/1711.08682.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Cai et al., "Deep Video Generation, Prediction And Completion Of Human Action Sequences", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Chunyan_Bai_Deep_Video_Generation_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Chunyan_Bai_Deep_Video_Generation_ECCV_2018_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -561,9 +561,9 @@
 </details>
 
 <a name=Li_2018_ECCV></a>
-### Li et al., "Flow-Grounded Spatial-Temporal Video Prediction From Still Images", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf) [arxiv](https://arxiv.org/pdf/2006.00626.pdf) [code](https://github.com/Yijunmaverick/FlowGrounded-VideoPrediction)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Li et al., "Flow-Grounded Spatial-Temporal Video Prediction From Still Images", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_kth">KTH</a></li>
@@ -595,9 +595,9 @@
 </details>
 
 <a name=Liu_2018_ECCV></a>
-### Liu et al., "Dyan: A Dynamical Atoms-Based Network For Video Prediction", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf)) [code](https://github.com/liuem607/DYAN)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Liu et al., "Dyan: A Dynamical Atoms-Based Network For Video Prediction", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf)>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf)>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -633,9 +633,9 @@
 </details>
 
 <a name=Oliu_2018_ECCV></a>
-### Oliu et al., "Folded Recurrent Neural Networks For Future Video Prediction", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Marc_Oliu_Folded_Recurrent_Neural_ECCV_2018_paper.pdf) [arxiv](https://arxiv.org/pdf/1712.00311.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Oliu et al., "Folded Recurrent Neural Networks For Future Video Prediction", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Marc_Oliu_Folded_Recurrent_Neural_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Marc_Oliu_Folded_Recurrent_Neural_ECCV_2018_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -671,9 +671,9 @@
 </details>
 
 <a name=Reda_2018_ECCV></a>
-### Reda et al., "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf) [arxiv](https://arxiv.org/pdf/1811.00684.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Reda et al., "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
@@ -709,9 +709,9 @@
 </details>
 
 <a name=Zhao_2018_ECCV></a>
-### Zhao et al., "Learning To Forecast And Refine Residual Motion For Image-To-Video Generation", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Long_Zhao_Learning_to_Forecast_ECCV_2018_paper.pdf) [arxiv](https://arxiv.org/pdf/1807.09951.pdf) [code](https://github.com/garyzhao/FRGAN)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zhao et al., "Learning To Forecast And Refine Residual Motion For Image-To-Video Generation", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Long_Zhao_Learning_to_Forecast_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Long_Zhao_Learning_to_Forecast_ECCV_2018_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Long_Zhao_Learning_to_Forecast_ECCV_2018_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_penn_action">Penn Action</a></li>
@@ -743,9 +743,9 @@
 </details>
 
 <a name=Hsieh_2018_NeurIPS></a>
-### Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018. [paper](https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf) [arxiv](https://arxiv.org/pdf/1806.04166.pdf) [code](https://github.com/jthsieh/DDPAE-video-prediction)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018.</em> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>paper</a> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>arxiv</a> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_mmnist">MMNIST</a></li>
@@ -777,9 +777,9 @@
 </details>
 
 <a name=Xu_2018_NeurIPS></a>
-### Xu et al., "Video Prediction Via Selective Sampling", NeurIPS, 2018. [paper](https://papers.nips.cc/paper/7442-video-prediction-via-selective-sampling.pdf) [code](https://github.com/xjwxjw/VPSS)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Xu et al., "Video Prediction Via Selective Sampling", NeurIPS, 2018.</em> <a href=https://papers.nips.cc/paper/7442-video-prediction-via-selective-sampling.pdf>paper</a> <a href=https://papers.nips.cc/paper/7442-video-prediction-via-selective-sampling.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -813,9 +813,9 @@
 </details>
 
 <a name=Wichers_2018_ICML></a>
-### Wichers et al., "Hierarchical Long-Term Video Prediction Without Supervision", ICML, 2018. [paper](http://proceedings.mlr.press/v80/wichers18a.html) [arxiv](https://arxiv.org/pdf/1806.04768.pdf) [code](https://bit.ly/2HqiHqx)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Wichers et al., "Hierarchical Long-Term Video Prediction Without Supervision", ICML, 2018.</em> <a href=http://proceedings.mlr.press/v80/wichers18a.html>paper</a> <a href=http://proceedings.mlr.press/v80/wichers18a.html>arxiv</a> <a href=http://proceedings.mlr.press/v80/wichers18a.html>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -843,9 +843,9 @@
 </details>
 
 <a name=Bhattacharjee_2018_ACCV></a>
-### Bhattacharjee et al., "Predicting Video Frames Using Feature Based Locally Guided Objectives", ACCV, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-20870-7_42)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Bhattacharjee et al., "Predicting Video Frames Using Feature Based Locally Guided Objectives", ACCV, 2019.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20870-7_42>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -880,9 +880,9 @@
 </details>
 
 <a name=Ying_2018_ACCV></a>
-### Ying et al., "Better Guider Predicts Future Better: Difference Guided Generative Adversarial Networks", ACCV, 2018. [paper](https://link.springer.com/chapter/10.1007/978-3-030-20876-9_18) [arxiv](https://arxiv.org/pdf/1901.01649.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Ying et al., "Better Guider Predicts Future Better: Difference Guided Generative Adversarial Networks", ACCV, 2018.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20876-9_18>paper</a> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20876-9_18>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -919,9 +919,9 @@
 </details>
 
 <a name=Jin_2018_IROS></a>
-### Jin et al., "Varnet: Exploring Variations For Unsupervised Video Prediction", IROS, 2018. [paper](https://ieeexplore.ieee.org/document/8594264) [code](https://github.com/jinbeibei/VarNet)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Jin et al., "Varnet: Exploring Variations For Unsupervised Video Prediction", IROS, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8594264>paper</a> <a href=https://ieeexplore.ieee.org/document/8594264>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_kitti">KITTI</a></li>
@@ -953,9 +953,9 @@
 </details>
 
 <a name=Ji_2018_WACV></a>
-### Ji et al., "Dynamic Visual Sequence Prediction With Motion Flow Networks", WACV, 2018. [paper](https://ieeexplore.ieee.org/document/8354223)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Ji et al., "Dynamic Visual Sequence Prediction With Motion Flow Networks", WACV, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8354223>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -983,9 +983,9 @@
 </details>
 
 <a name=Lu_2017_CVPR></a>
-### Lu et al., "Flexible Spatio-Temporal Networks For Video Prediction", CVPR, 2017. [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lu_Flexible_Spatio-Temporal_Networks_CVPR_2017_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Lu et al., "Flexible Spatio-Temporal Networks For Video Prediction", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lu_Flexible_Spatio-Temporal_Networks_CVPR_2017_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -1021,9 +1021,9 @@
 </details>
 
 <a name=Liang_2017_ICCV></a>
-### Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1708.00284.pdf) [code](https://github.com/gurkirt/realtime-action-detection)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -1061,9 +1061,9 @@
 </details>
 
 <a name=Walker_2017_ICCV></a>
-### Walker et al., "The Pose Knows: Video Forecasting By Generating Pose Futures", ICCV, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Walker_The_Pose_Knows_ICCV_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1705.00053.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Walker et al., "The Pose Knows: Video Forecasting By Generating Pose Futures", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Walker_The_Pose_Knows_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Walker_The_Pose_Knows_ICCV_2017_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -1095,9 +1095,9 @@
 </details>
 
 <a name=Zeng_2017_ICCV></a>
-### Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/supplemental/Zeng_Visual_Forecasting_by_ICCV_2017_supplemental.pdf) [arxiv](https://arxiv.org/pdf/1708.05827.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/supplemental/Zeng_Visual_Forecasting_by_ICCV_2017_supplemental.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/supplemental/Zeng_Visual_Forecasting_by_ICCV_2017_supplemental.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_mmnist">MMNIST</a></li>
@@ -1125,9 +1125,9 @@
 </details>
 
 <a name=Bhattacharjee_2017_NeurIPS></a>
-### Bhattacharjee et al., "Temporal Coherency Based Criteria For Predicting Video Frames Using Deep Multi-Stage Generative Adversarial Networks", NeurIPS, 2017. [paper](https://papers.nips.cc/paper/7014-temporal-coherency-based-criteria-for-predicting-video-frames-using-deep-multi-stage-generative-adversarial-networks.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Bhattacharjee et al., "Temporal Coherency Based Criteria For Predicting Video Frames Using Deep Multi-Stage Generative Adversarial Networks", NeurIPS, 2017.</em> <a href=https://papers.nips.cc/paper/7014-temporal-coherency-based-criteria-for-predicting-video-frames-using-deep-multi-stage-generative-adversarial-networks.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -1161,9 +1161,9 @@
 </details>
 
 <a name=Wang_2017_NeurIPS></a>
-### Wang et al., "Predrnn: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal Lstms", NeurIPS, 2017. [paper](https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf) [code](https://github.com/ujjax/pred-rnn)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Wang et al., "Predrnn: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal Lstms", NeurIPS, 2017.</em> <a href=https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf>paper</a> <a href=https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_mmnist">MMNIST</a></li>
@@ -1197,9 +1197,9 @@
 </details>
 
 <a name=Villegas_2017_ICML></a>
-### Villegas et al., "Learning To Generate Long-Term Future Via Hierarchical Prediction", ICML, 2017. [paper](http://proceedings.mlr.press/v70/villegas17a.html) [arxiv](https://arxiv.org/pdf/1704.05831.pdf) [code](https://github.com/rubenvillegas/icml2017hierchvid)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Villegas et al., "Learning To Generate Long-Term Future Via Hierarchical Prediction", ICML, 2017.</em> <a href=http://proceedings.mlr.press/v70/villegas17a.html>paper</a> <a href=http://proceedings.mlr.press/v70/villegas17a.html>arxiv</a> <a href=http://proceedings.mlr.press/v70/villegas17a.html>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -1231,9 +1231,9 @@
 </details>
 
 <a name=Finn_2016_NeurIPS></a>
-### Finn et al., "Unsupervised Learning For Physical Interaction Through Video Prediction", NeurIPS, 2016. [paper](https://papers.nips.cc/paper/6161-unsupervised-learning-for-physical-interaction-through-video-prediction.pdf) [arxiv](https://arxiv.org/pdf/1605.07157.pdf) [code](https://github.com/tensorflow/models/tree/master/research/video_prediction)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Finn et al., "Unsupervised Learning For Physical Interaction Through Video Prediction", NeurIPS, 2016.</em> <a href=https://papers.nips.cc/paper/6161-unsupervised-learning-for-physical-interaction-through-video-prediction.pdf>paper</a> <a href=https://papers.nips.cc/paper/6161-unsupervised-learning-for-physical-interaction-through-video-prediction.pdf>arxiv</a> <a href=https://papers.nips.cc/paper/6161-unsupervised-learning-for-physical-interaction-through-video-prediction.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -1265,9 +1265,9 @@
 </details>
 
 <a name=Oh_2015_NeurIPS></a>
-### Oh et al., "Action-Conditional Video Prediction Using Deep Networks In Atari Games", NeurIPS, 2015. [paper](https://papers.nips.cc/paper/5859-action-conditional-video-prediction-using-deep-networks-in-atari-games.pdf) [arxiv](https://arxiv.org/pdf/1507.08750.pdf) [code](https://github.com/junhyukoh/nips2015-action-conditional-video-prediction)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Oh et al., "Action-Conditional Video Prediction Using Deep Networks In Atari Games", NeurIPS, 2015.</em> <a href=https://papers.nips.cc/paper/5859-action-conditional-video-prediction-using-deep-networks-in-atari-games.pdf>paper</a> <a href=https://papers.nips.cc/paper/5859-action-conditional-video-prediction-using-deep-networks-in-atari-games.pdf>arxiv</a> <a href=https://papers.nips.cc/paper/5859-action-conditional-video-prediction-using-deep-networks-in-atari-games.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_atari">Atari</a></li>
@@ -1297,9 +1297,9 @@
 <a name=action></a>
 ## Action Prediction
 <a name=Joo_2019_CVPR></a>
-### Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1906.04158.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_cmu_panoptic">CMU Panoptic</a></li>
@@ -1327,9 +1327,9 @@
 </details>
 
 <a name=Ke_2019_CVPR></a>
-### Ke et al., "Time-Conditioned Action Anticipation In One Shot", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ke_Time-Conditioned_Action_Anticipation_in_One_Shot_CVPR_2019_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Ke et al., "Time-Conditioned Action Anticipation In One Shot", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Ke_Time-Conditioned_Action_Anticipation_in_One_Shot_CVPR_2019_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
@@ -1363,9 +1363,9 @@
 </details>
 
 <a name=Liang_2019_CVPR></a>
-### Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1902.03748.pdf) [code](https://github.com/google/next-prediction)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_actev/virat">ActEV/VIRAT</a></li>
@@ -1393,9 +1393,9 @@
 </details>
 
 <a name=Sun_2019_CVPR></a>
-### Sun et al., "Relational Action Forecasting", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Relational_Action_Forecasting_CVPR_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1904.04231.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Sun et al., "Relational Action Forecasting", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Relational_Action_Forecasting_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Relational_Action_Forecasting_CVPR_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_jhmdb">JHMDB</a></li>
@@ -1425,9 +1425,9 @@
 </details>
 
 <a name=Wang_2019_CVPR></a>
-### Wang et al., "Progressive Teacher-Student Learning For Early Action Prediction", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Progressive_Teacher-Student_Learning_for_Early_Action_Prediction_CVPR_2019_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Wang et al., "Progressive Teacher-Student Learning For Early Action Prediction", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Progressive_Teacher-Student_Learning_for_Early_Action_Prediction_CVPR_2019_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -1459,9 +1459,9 @@
 </details>
 
 <a name=Furnari_2019_ICCV></a>
-### Furnari et al., "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1905.09035.pdf) [code](https://github.com/fpv-iplab/rulstm)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Furnari et al., "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
@@ -1493,9 +1493,9 @@
 </details>
 
 <a name=Gammulle_2019_ICCV></a>
-### Gammulle et al., "Predicting The Future: A Jointly Learnt Model For Action Anticipation", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gammulle_Predicting_the_Future_A_Jointly_Learnt_Model_for_Action_Anticipation_ICCV_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1912.07148.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Gammulle et al., "Predicting The Future: A Jointly Learnt Model For Action Anticipation", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Gammulle_Predicting_the_Future_A_Jointly_Learnt_Model_for_Action_Anticipation_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Gammulle_Predicting_the_Future_A_Jointly_Learnt_Model_for_Action_Anticipation_ICCV_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -1527,9 +1527,9 @@
 </details>
 
 <a name=Sener_2019_ICCV></a>
-### Sener et al., "Zero-Shot Anticipation For Instructional Activities", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sener_Zero-Shot_Anticipation_for_Instructional_Activities_ICCV_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1812.02501.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Sener et al., "Zero-Shot Anticipation For Instructional Activities", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Sener_Zero-Shot_Anticipation_for_Instructional_Activities_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Sener_Zero-Shot_Anticipation_for_Instructional_Activities_ICCV_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_youcook2">YouCook2</a></li>
@@ -1559,9 +1559,9 @@
 </details>
 
 <a name=Zhao_2019_ICCV></a>
-### Zhao et al., "Spatiotemporal Feature Residual Propagation For Action Prediction", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf) [code](https://github.com/JoeHEZHAO/Spatiotemporal-Residual-Propagation)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zhao et al., "Spatiotemporal Feature Residual Propagation For Action Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -1593,9 +1593,9 @@
 </details>
 
 <a name=Gammulle_2019_BMVC></a>
-### Gammulle et al., "Forecasting Future Action Sequences With Neural Memory Networks", BMVC, 2019. [paper](https://bmvc2019.org/wp-content/uploads/papers/0585-paper.pdf) [arxiv](https://arxiv.org/pdf/1909.09278.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Gammulle et al., "Forecasting Future Action Sequences With Neural Memory Networks", BMVC, 2019.</em> <a href=https://bmvc2019.org/wp-content/uploads/papers/0585-paper.pdf>paper</a> <a href=https://bmvc2019.org/wp-content/uploads/papers/0585-paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_breakfast">Breakfast</a></li>
@@ -1625,9 +1625,9 @@
 </details>
 
 <a name=Rasouli_2019_BMVC></a>
-### Rasouli et al., "Pedestrian Action Anticipation Using Contextual Feature Fusion In Stacked Rnns", BMVC, 2019. [paper](https://bmvc2019.org/wp-content/uploads/papers/0283-paper.pdf) [arxiv](https://arxiv.org/pdf/2005.06582.pdf) [code](https://github.com/aras62/SF-GRU)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Rasouli et al., "Pedestrian Action Anticipation Using Contextual Feature Fusion In Stacked Rnns", BMVC, 2019.</em> <a href=https://bmvc2019.org/wp-content/uploads/papers/0283-paper.pdf>paper</a> <a href=https://bmvc2019.org/wp-content/uploads/papers/0283-paper.pdf>arxiv</a> <a href=https://bmvc2019.org/wp-content/uploads/papers/0283-paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_pie">PIE</a></li>
@@ -1663,9 +1663,9 @@
 </details>
 
 <a name=Ding_2019_ICRA></a>
-### Ding et al., "Predicting Vehicle Behaviors Over An Extended Horizon Using Behavior Interaction Network", ICRA, 2019. [paper](https://ieeexplore.ieee.org/document/8794146) [arxiv](https://arxiv.org/pdf/1903.00848.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Ding et al., "Predicting Vehicle Behaviors Over An Extended Horizon Using Behavior Interaction Network", ICRA, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8794146>paper</a> <a href=https://ieeexplore.ieee.org/document/8794146>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ngsim">NGSIM</a></li>
@@ -1697,9 +1697,9 @@
 </details>
 
 <a name=Gujjar_2019_ICRA></a>
-### Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8794278)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8794278>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_jaad">JAAD</a></li>
@@ -1737,9 +1737,9 @@
 </details>
 
 <a name=Saleh_2019_ICRA></a>
-### Saleh et al., "Real-Time Intent Prediction Of Pedestrians For Autonomous Ground Vehicles Via Spatio-Temporal Densenet", ICRA, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8793991) [arxiv](https://arxiv.org/pdf/1904.09862.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Saleh et al., "Real-Time Intent Prediction Of Pedestrians For Autonomous Ground Vehicles Via Spatio-Temporal Densenet", ICRA, 2019.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8793991>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8793991>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_jaad">JAAD</a></li>
@@ -1769,9 +1769,9 @@
 </details>
 
 <a name=Scheel_2019_ICRA></a>
-### Scheel et al., "Attention-Based Lane Change Prediction", ICRA, 2019. [paper](https://ieeexplore.ieee.org/document/8793648) [arxiv](https://arxiv.org/pdf/1903.01246.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Scheel et al., "Attention-Based Lane Change Prediction", ICRA, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8793648>paper</a> <a href=https://ieeexplore.ieee.org/document/8793648>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ngsim">NGSIM</a></li>
@@ -1805,9 +1805,9 @@
 </details>
 
 <a name=Luo_2019_IROS></a>
-### Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8968192)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8968192>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -1835,9 +1835,9 @@
 </details>
 
 <a name=Manglik_2019_IROS></a>
-### Manglik et al., "Forecasting Time-To-Collision From Monocular Video: Feasibility, Dataset, And Challenges", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8967730) [arxiv](https://arxiv.org/pdf/1903.09102.pdf) [code](https://github.com/aashi7/NearCollision)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Manglik et al., "Forecasting Time-To-Collision From Monocular Video: Feasibility, Dataset, And Challenges", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8967730>paper</a> <a href=https://ieeexplore.ieee.org/document/8967730>arxiv</a> <a href=https://ieeexplore.ieee.org/document/8967730>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_luggage">Luggage</a></li>
@@ -1865,9 +1865,9 @@
 </details>
 
 <a name=Wu_2019_IROS></a>
-### Wu et al., "Gaze-Based Intention Anticipation Over Driving Manoeuvres In Semi-Autonomous Vehicles", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8967779)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Wu et al., "Gaze-Based Intention Anticipation Over Driving Manoeuvres In Semi-Autonomous Vehicles", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8967779>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -1897,9 +1897,9 @@
 </details>
 
 <a name=Safaei_2019_WACV></a>
-### Safaei et al., "Still Image Action Recognition By Predicting Spatial-Temporal Pixel Evolution", WACV, 2019. [paper](https://ieeexplore.ieee.org/document/8658386)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Safaei et al., "Still Image Action Recognition By Predicting Spatial-Temporal Pixel Evolution", WACV, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8658386>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -1937,9 +1937,9 @@
 </details>
 
 <a name=Alati_2019_ICIP></a>
-### Alati et al., "Help By Predicting What To Do", ICIP, 2019. [paper](https://ieeexplore.ieee.org/document/8803155)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Alati et al., "Help By Predicting What To Do", ICIP, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8803155>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_cad-120">CAD-120</a></li>
@@ -1975,9 +1975,9 @@
 </details>
 
 <a name=Furnari_2019_ICIP></a>
-### Furnari et al., "Egocentric Action Anticipation By Disentangling Encoding And Inference", ICIP, 2019. [paper](https://ieeexplore.ieee.org/document/8803534)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Furnari et al., "Egocentric Action Anticipation By Disentangling Encoding And Inference", ICIP, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8803534>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_epic-kitchens">Epic-Kitchens</a></li>
@@ -2007,9 +2007,9 @@
 </details>
 
 <a name=Wang_2019_ICIP></a>
-### Wang et al., "A Learning-Based Prediction Model For Baby Accidents", ICIP, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8803820)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Wang et al., "A Learning-Based Prediction Model For Baby Accidents", ICIP, 2019.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8803820>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -2043,9 +2043,9 @@
 </details>
 
 <a name=Farha_2018_CVPR></a>
-### Abu et al., "When Will You Do What? - Anticipating Temporal Occurrences Of Activities", CVPR, 2018. [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Abu_Farha_When_Will_You_CVPR_2018_paper.pdf) [arxiv](https://arxiv.org/pdf/1804.00892.pdf) [code](https://github.com/yabufarha/anticipating-activities)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Abu et al., "When Will You Do What? - Anticipating Temporal Occurrences Of Activities", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Abu_Farha_When_Will_You_CVPR_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Abu_Farha_When_Will_You_CVPR_2018_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Abu_Farha_When_Will_You_CVPR_2018_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_breakfast">Breakfast</a></li>
@@ -2075,9 +2075,9 @@
 </details>
 
 <a name=Suzuki_2018_CVPR></a>
-### Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", The CVPR, 2018. [paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf) [arxiv](https://arxiv.org/pdf/1804.02675.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", The CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_dad">DAD</a></li>
@@ -2115,9 +2115,9 @@
 </details>
 
 <a name=Yao_2018_CVPR></a>
-### Yao et al., "Multiple Granularity Group Interaction Prediction", CVPR, 2018. [paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0721.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Yao et al., "Multiple Granularity Group Interaction Prediction", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0721.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_sbuki">SBUKI</a></li>
@@ -2147,9 +2147,9 @@
 </details>
 
 <a name=Liu_2018_CVPR_ssnet></a>
-### Liu et al., "Ssnet: Scale Selection Network For Online 3D Action Prediction", CVPR, 2018. [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_SSNet_Scale_Selection_CVPR_2018_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Liu et al., "Ssnet: Scale Selection Network For Online 3D Action Prediction", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_SSNet_Scale_Selection_CVPR_2018_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_pku-mmd">PKU-MMD</a></li>
@@ -2179,9 +2179,9 @@
 </details>
 
 <a name=Chen_2018_ECCV></a>
-### Chen et al., "Part-Activated Deep Reinforcement Learning For Action Prediction", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Chen_Part-Activated_Deep_Reinforcement_ECCV_2018_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Chen et al., "Part-Activated Deep Reinforcement Learning For Action Prediction", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Chen_Part-Activated_Deep_Reinforcement_ECCV_2018_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -2213,9 +2213,9 @@
 </details>
 
 <a name=Shen_2018_ECCV></a>
-### Shen et al., "Egocentric Activity Prediction Via Event Modulated Attention", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Shen_Egocentric_Activity_Prediction_ECCV_2018_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Shen et al., "Egocentric Activity Prediction Via Event Modulated Attention", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Shen_Egocentric_Activity_Prediction_ECCV_2018_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_gtea_gaze+">GTEA Gaze+</a></li>
@@ -2245,9 +2245,9 @@
 </details>
 
 <a name=Shi_2018_ECCV></a>
-### Shi et al., "Action Anticipation With Rbf Kernelized Feature Mapping Rnn", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuge_Shi_Action_Anticipation_with_ECCV_2018_paper.pdf) [arxiv](https://arxiv.org/pdf/1911.07806.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Shi et al., "Action Anticipation With Rbf Kernelized Feature Mapping Rnn", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuge_Shi_Action_Anticipation_with_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuge_Shi_Action_Anticipation_with_ECCV_2018_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -2279,9 +2279,9 @@
 </details>
 
 <a name=Aliakbarian_2018_ACCV></a>
-### Aliakbarian et al., "Viena: A Driving Anticipation Dataset", ACCV, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-20887-5_28) [arxiv](https://arxiv.org/pdf/1810.09044.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Aliakbarian et al., "Viena: A Driving Anticipation Dataset", ACCV, 2019.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_28>paper</a> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_28>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_jaad">JAAD</a></li>
@@ -2312,9 +2312,9 @@
 </details>
 
 <a name=Butepage_2018_ICRA></a>
-### Bütepage et al., "Anticipating Many Futures: Online Human Motion Prediction And Generation For Human-Robot Interaction", ICRA, 2018. [paper](https://ieeexplore.ieee.org/document/8460651) [arxiv](https://arxiv.org/pdf/1702.08212.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Bütepage et al., "Anticipating Many Futures: Online Human Motion Prediction And Generation For Human-Robot Interaction", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8460651>paper</a> <a href=https://ieeexplore.ieee.org/document/8460651>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -2342,9 +2342,9 @@
 </details>
 
 <a name=Scheel_2018_ICRA></a>
-### Scheel et al., "Situation Assessment For Planning Lane Changes: Combining Recurrent Models And Prediction", ICRA, 2018. [paper](https://ieeexplore.ieee.org/document/8462838/) [arxiv](https://arxiv.org/pdf/1805.06776.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Scheel et al., "Situation Assessment For Planning Lane Changes: Combining Recurrent Models And Prediction", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8462838/>paper</a> <a href=https://ieeexplore.ieee.org/document/8462838/>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ngsim">NGSIM</a></li>
@@ -2372,9 +2372,9 @@
 </details>
 
 <a name=Strickland_2018_ICRA></a>
-### Strickland et al., "Deep Predictive Models For Collision Risk Assessment In Autonomous Driving", ICRA, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8461160) [arxiv](https://arxiv.org/pdf/1711.10453.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Strickland et al., "Deep Predictive Models For Collision Risk Assessment In Autonomous Driving", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8461160>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8461160>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -2404,9 +2404,9 @@
 </details>
 
 <a name=Schydlo_2018_ICRA_2></a>
-### Schydlo et al., "Anticipation In Human-Robot Cooperation: A Recurrent Neural Network Approach For Multiple Action Sequences Prediction", ICRA, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8460924) [arxiv](https://arxiv.org/pdf/1802.10503.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Schydlo et al., "Anticipation In Human-Robot Cooperation: A Recurrent Neural Network Approach For Multiple Action Sequences Prediction", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8460924>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8460924>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_cad-120">CAD-120</a></li>
@@ -2438,9 +2438,9 @@
 </details>
 
 <a name=Ziaeetabar_2018_IROS></a>
-### Ziaeetabar et al., "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning", IROS, 2018. [paper](https://ieeexplore.ieee.org/document/8593717)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Ziaeetabar et al., "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning", IROS, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8593717>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_maniac">MANIAC</a></li>
@@ -2468,9 +2468,9 @@
 </details>
 
 <a name=Cho_2018_WACV></a>
-### Cho et al., "A Temporal Sequence Learning For Action Recognition And Prediction", WACV, 2018. [paper](https://ieeexplore.ieee.org/document/8354149) [arxiv](https://arxiv.org/pdf/1906.06813.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Cho et al., "A Temporal Sequence Learning For Action Recognition And Prediction", WACV, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8354149>paper</a> <a href=https://ieeexplore.ieee.org/document/8354149>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -2500,9 +2500,9 @@
 </details>
 
 <a name=Casas_2018_CORL></a>
-### Casas et al., "Intentnet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018. [paper](http://proceedings.mlr.press/v87/casas18a/casas18a.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Casas et al., "Intentnet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018.</em> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -2532,9 +2532,9 @@
 </details>
 
 <a name=Zhong_2018_ICIP></a>
-### Zhong et al., "Unsupervised Learning For Forecasting Action Representations", ICIP, 2018. [paper](https://ieeexplore.ieee.org/document/8451428)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zhong et al., "Unsupervised Learning For Forecasting Action Representations", ICIP, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8451428>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
@@ -2564,9 +2564,9 @@
 </details>
 
 <a name=Butepage_2017_CVPR></a>
-### Butepage et al., "Deep Representation Learning For Human Motion Prediction And Classification", CVPR, 2017. [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Butepage_Deep_Representation_Learning_CVPR_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1702.07486.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Butepage et al., "Deep Representation Learning For Human Motion Prediction And Classification", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Butepage_Deep_Representation_Learning_CVPR_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Butepage_Deep_Representation_Learning_CVPR_2017_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -2596,9 +2596,9 @@
 </details>
 
 <a name=Kong_2017_CVPR></a>
-### Kong et al., "Deep Sequential Context Networks For Action Prediction", CVPR, 2017. [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Kong_Deep_Sequential_Context_CVPR_2017_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Kong et al., "Deep Sequential Context Networks For Action Prediction", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Kong_Deep_Sequential_Context_CVPR_2017_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -2630,9 +2630,9 @@
 </details>
 
 <a name=Su_2017_CVPR></a>
-### Su et al., "Predicting Behaviors Of Basketball Players From First Person Videos", CVPR, 2017. [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Su_Predicting_Behaviors_of_CVPR_2017_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Su et al., "Predicting Behaviors Of Basketball Players From First Person Videos", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Su_Predicting_Behaviors_of_CVPR_2017_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -2660,9 +2660,9 @@
 </details>
 
 <a name=Zeng_2017_CVPR></a>
-### Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017. [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1705.06560.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_dad">DAD</a></li>
@@ -2694,9 +2694,9 @@
 </details>
 
 <a name=Aliakbarian_2017_ICCV></a>
-### Sadegh et al., "Encouraging Lstms To Anticipate Actions Very Early", ICCV, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Aliakbarian_Encouraging_LSTMs_to_ICCV_2017_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Sadegh et al., "Encouraging Lstms To Anticipate Actions Very Early", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Aliakbarian_Encouraging_LSTMs_to_ICCV_2017_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -2728,9 +2728,9 @@
 </details>
 
 <a name=Felsen_2017_ICCV></a>
-### Felsen et al., "What Will Happen Next? Forecasting Player Moves In Sports Videos", ICCV, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Felsen_What_Will_Happen_ICCV_2017_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Felsen et al., "What Will Happen Next? Forecasting Player Moves In Sports Videos", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Felsen_What_Will_Happen_ICCV_2017_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -2758,9 +2758,9 @@
 </details>
 
 <a name=Mahmud_2017_ICCV></a>
-### Mahmud et al., "Joint Prediction Of Activity Labels And Starting Times In Untrimmed Videos", ICCV, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Mahmud_Joint_Prediction_of_ICCV_2017_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Mahmud et al., "Joint Prediction Of Activity Labels And Starting Times In Untrimmed Videos", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Mahmud_Joint_Prediction_of_ICCV_2017_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
@@ -2796,9 +2796,9 @@
 </details>
 
 <a name=Qi_2017_ICCV></a>
-### Qi et al., "Predicting Human Activities Using Stochastic Grammar", ICCV, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_Predicting_Human_Activities_ICCV_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1708.00945.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Qi et al., "Predicting Human Activities Using Stochastic Grammar", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_Predicting_Human_Activities_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_Predicting_Human_Activities_ICCV_2017_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_cad-120">CAD-120</a></li>
@@ -2807,11 +2807,11 @@
 
 <em>Metrics</em>
 <ul>
+<li><a href="metrics.md#metric_recall">Recall</a></li>
+
 <li><a href="metrics.md#metric_precision">Precision</a></li>
 
 <li><a href="metrics.md#metric_f1">F1</a></li>
-
-<li><a href="metrics.md#metric_recall">recall</a></li>
 
 </ul>
 
@@ -2830,9 +2830,9 @@
 </details>
 
 <a name=Rhinehart_2017_ICCV></a>
-### Rhinehart et al., "First-Person Activity Forecasting With Online Inverse Reinforcement Learning", ICCV, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rhinehart_First-Person_Activity_Forecasting_ICCV_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1612.07796.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Rhinehart et al., "First-Person Activity Forecasting With Online Inverse Reinforcement Learning", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Rhinehart_First-Person_Activity_Forecasting_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Rhinehart_First-Person_Activity_Forecasting_ICCV_2017_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -2860,9 +2860,9 @@
 </details>
 
 <a name=Singh_2017_ICCV></a>
-### Singh et al., "Online Real-Time Multiple Spatiotemporal Action Localisation And Prediction", ICCV, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Online_Real-Time_Multiple_ICCV_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1611.08563.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Singh et al., "Online Real-Time Multiple Spatiotemporal Action Localisation And Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Online_Real-Time_Multiple_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Online_Real-Time_Multiple_ICCV_2017_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -2896,9 +2896,9 @@
 </details>
 
 <a name=Zeng_2017_ICCV></a>
-### Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1708.05827.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
@@ -2926,9 +2926,9 @@
 </details>
 
 <a name=Rasouli_2017_ICCVW></a>
-### Rasouli et al., "Are They Going To Cross? A Benchmark Dataset And Baseline For Pedestrian Crosswalk Behavior", ICCVW, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w3/Rasouli_Are_They_Going_ICCV_2017_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Rasouli et al., "Are They Going To Cross? A Benchmark Dataset And Baseline For Pedestrian Crosswalk Behavior", ICCVW, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w3/Rasouli_Are_They_Going_ICCV_2017_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_jaad">JAAD</a></li>
@@ -2956,9 +2956,9 @@
 </details>
 
 <a name=Gao_2017_BMVC></a>
-### Gao et al., "Red: Reinforced Encoder-Decoder Networks For Action Anticipation", BMVC, 2017. [paper](http://www.bmva.org/bmvc/2017/papers/paper092/paper092.pdf) [arxiv](https://arxiv.org/pdf/1707.04818.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Gao et al., "Red: Reinforced Encoder-Decoder Networks For Action Anticipation", BMVC, 2017.</em> <a href=http://www.bmva.org/bmvc/2017/papers/paper092/paper092.pdf>paper</a> <a href=http://www.bmva.org/bmvc/2017/papers/paper092/paper092.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
@@ -2992,9 +2992,9 @@
 </details>
 
 <a name=Kwak_2017_IPT></a>
-### Kwak et al., "Pedestrian Intention Prediction Based On Dynamic Fuzzy Automata For Vehicle Driving At Nighttime", Infrared Physics \\& Technology, 2017. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1350449516304935)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Kwak et al., "Pedestrian Intention Prediction Based On Dynamic Fuzzy Automata For Vehicle Driving At Nighttime", Infrared Physics \\& Technology, 2017.</em> <a href=https://www.sciencedirect.com/science/article/abs/pii/S1350449516304935>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -3026,9 +3026,9 @@
 </details>
 
 <a name=Jain_2016_CVPR></a>
-### Jain et al., "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016. [paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf) [arxiv](https://arxiv.org/pdf/1511.05298.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Jain et al., "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_cad-120">CAD-120</a></li>
@@ -3064,9 +3064,9 @@
 </details>
 
 <a name=Vondrick_2016_CVPR_2></a>
-### Vondrick et al., "Anticipating Visual Representations From Unlabeled Video", CVPR, 2016. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vondrick_Anticipating_Visual_Representations_CVPR_2016_paper.pdf) [arxiv](https://arxiv.org/pdf/1504.08023.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Vondrick et al., "Anticipating Visual Representations From Unlabeled Video", CVPR, 2016.</em> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vondrick_Anticipating_Visual_Representations_CVPR_2016_paper.pdf>paper</a> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vondrick_Anticipating_Visual_Representations_CVPR_2016_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_tv_human_interaction">TV Human Interaction</a></li>
@@ -3096,9 +3096,9 @@
 </details>
 
 <a name=Hu_2016_ECCV></a>
-### Hu et al., "Real-Time Rgb-D Activity Prediction By Soft Regression", ECCV, 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_17)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Hu et al., "Real-Time Rgb-D Activity Prediction By Soft Regression", ECCV, 2016.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46448-0_17>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_sysu_3dhoi">SYSU 3DHOI</a></li>
@@ -3129,9 +3129,9 @@
 </details>
 
 <a name=Kataoka_2016_BMVC></a>
-### Kataoka et al., "Recognition Of Transitional Action For Short-Term Action Prediction Using Discriminative Temporal Cnn Feature", BMVC, 2016. [paper](http://www.bmva.org/bmvc/2016/papers/paper012/paper012.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Kataoka et al., "Recognition Of Transitional Action For Short-Term Action Prediction Using Discriminative Temporal Cnn Feature", BMVC, 2016.</em> <a href=http://www.bmva.org/bmvc/2016/papers/paper012/paper012.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_wnp">WnP</a></li>
@@ -3161,9 +3161,9 @@
 </details>
 
 <a name=Chan_2016_ACCV></a>
-### Chan et al., "Anticipating Accidents In Dashcam Videos", ACCV, 2017. [paper](https://link.springer.com/chapter/10.1007/978-3-319-54190-7_9)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Chan et al., "Anticipating Accidents In Dashcam Videos", ACCV, 2017.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-319-54190-7_9>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -3192,9 +3192,9 @@
 </details>
 
 <a name=Jain_2016_ICRA></a>
-### Jain et al., "Recurrent Neural Networks For Driver Activity Anticipation Via Sensory-Fusion Architecture", ICRA, 2016. [paper](https://ieeexplore.ieee.org/document/7487478) [arxiv](https://arxiv.org/pdf/1509.05016.pdf) [code](https://github.com/asheshjain399/RNNexp)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Jain et al., "Recurrent Neural Networks For Driver Activity Anticipation Via Sensory-Fusion Architecture", ICRA, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7487478>paper</a> <a href=https://ieeexplore.ieee.org/document/7487478>arxiv</a> <a href=https://ieeexplore.ieee.org/document/7487478>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_brain4cars">Brain4Cars</a></li>
@@ -3226,9 +3226,9 @@
 </details>
 
 <a name=Hu_2016_IROS></a>
-### Hu et al., "Human Intent Forecasting Using Intrinsic Kinematic Constraints", IROS, 2016. [paper](https://ieeexplore.ieee.org/document/7759141)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Hu et al., "Human Intent Forecasting Using Intrinsic Kinematic Constraints", IROS, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7759141>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_cad-120">CAD-120</a></li>
@@ -3262,9 +3262,9 @@
 </details>
 
 <a name=Park_2016_IROS></a>
-### Park et al., "Hi Robot: Human Intention-Aware Robot Planning For Safe And Efficient Navigation In Crowds", IROS, 2016. [paper](https://ieeexplore.ieee.org/document/7759511)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Park et al., "Hi Robot: Human Intention-Aware Robot Planning For Safe And Efficient Navigation In Crowds", IROS, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7759511>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -3292,9 +3292,9 @@
 </details>
 
 <a name=Schneemann_2016_IROS></a>
-### Schneemann et al., "Context-Based Detection Of Pedestrian Crossing Intention For Autonomous Driving In Urban Environments", IROS, 2016. [paper](https://ieeexplore.ieee.org/document/7759351)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Schneemann et al., "Context-Based Detection Of Pedestrian Crossing Intention For Autonomous Driving In Urban Environments", IROS, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7759351>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -3328,9 +3328,9 @@
 </details>
 
 <a name=Li_2016_WACV></a>
-### Li et al., "Recognition Of Ongoing Complex Activities By Sequence Prediction Over A Hierarchical Label Space", WACV, 2016. [paper](https://ieeexplore.ieee.org/document/7477586)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Li et al., "Recognition Of Ongoing Complex Activities By Sequence Prediction Over A Hierarchical Label Space", WACV, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7477586>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_oa">OA</a></li>
@@ -3358,9 +3358,9 @@
 </details>
 
 <a name=Mahmud_2016_ICIP></a>
-### Mahmud et al., "A Poisson Process Model For Activity Forecasting", ICIP, 2016. [paper](https://ieeexplore.ieee.org/document/7532978)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Mahmud et al., "A Poisson Process Model For Activity Forecasting", ICIP, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7532978>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_mpii_cooking">MPII Cooking</a></li>
@@ -3388,9 +3388,9 @@
 </details>
 
 <a name=Xu_2016_ICIP></a>
-### Xu et al., "Human Activities Prediction By Learning Combinatorial Sparse Representations", ICIP, 2016. [paper](https://ieeexplore.ieee.org/document/7532452)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Xu et al., "Human Activities Prediction By Learning Combinatorial Sparse Representations", ICIP, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7532452>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -3420,9 +3420,9 @@
 </details>
 
 <a name=Lee_2016_ICPR></a>
-### Lee et al., "Human Activity Prediction Based On Sub-Volume Relationship Descriptor", ICPR, 2016. [paper](https://ieeexplore.ieee.org/document/7899939)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Lee et al., "Human Activity Prediction Based On Sub-Volume Relationship Descriptor", ICPR, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7899939>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_uti">UTI</a></li>
@@ -3452,9 +3452,9 @@
 </details>
 
 <a name=Hariyono_2016_IES></a>
-### Hariyono et al., "Estimation Of Collision Risk For Improving Driver'S Safety", IECON, 2016. [paper](https://ieeexplore.ieee.org/document/7793743)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Hariyono et al., "Estimation Of Collision Risk For Improving Driver'S Safety", IECON, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7793743>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_caltech_pedestrian">Caltech Pedestrian</a></li>
@@ -3488,9 +3488,9 @@
 </details>
 
 <a name=Volz_2016_ITSC></a>
-### V\"olz et al., "A Data-Driven Approach For Pedestrian Intention Estimation", ITSC, 2016. [paper](https://ieeexplore.ieee.org/document/7795975)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>V\"olz et al., "A Data-Driven Approach For Pedestrian Intention Estimation", ITSC, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7795975>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -3520,9 +3520,9 @@
 </details>
 
 <a name=Jain_2015_ICCV></a>
-### Jain et al., "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models", ICCV, 2015. [paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf) [arxiv](https://arxiv.org/pdf/1504.02789.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Jain et al., "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models", ICCV, 2015.</em> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf>paper</a> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_brain4cars">Brain4Cars</a></li>
@@ -3556,9 +3556,9 @@
 </details>
 
 <a name=Xu_2015_ICCV></a>
-### Xu et al., "Activity Auto-Completion: Predicting Human Activities From Partial Videos", ICCV, 2015. [paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Activity_Auto-Completion_Predicting_ICCV_2015_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Xu et al., "Activity Auto-Completion: Predicting Human Activities From Partial Videos", ICCV, 2015.</em> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Activity_Auto-Completion_Predicting_ICCV_2015_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_uti">UTI</a></li>
@@ -3588,9 +3588,9 @@
 </details>
 
 <a name=Zhou_2015_ICCV></a>
-### Zhou et al., "Temporal Perception And Prediction In Ego-Centric Video", ICCV, 2015. [paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Temporal_Perception_and_ICCV_2015_paper.pdf) [code](https://github.com/aditya7874/Activity-Prediction-in-EgoCentric-Videos)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zhou et al., "Temporal Perception And Prediction In Ego-Centric Video", ICCV, 2015.</em> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Temporal_Perception_and_ICCV_2015_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Temporal_Perception_and_ICCV_2015_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_fppa">FPPA</a></li>
@@ -3618,9 +3618,9 @@
 </details>
 
 <a name=Arpino_2015_ICRA></a>
-### Pérez-D'Arpino et al., "Fast Target Prediction Of Human Reaching Motion For Cooperative Human-Robot Manipulation Tasks Using Time Series Classification", ICRA, 2015. [paper](https://ieeexplore.ieee.org/document/7140066)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Pérez-D'Arpino et al., "Fast Target Prediction Of Human Reaching Motion For Cooperative Human-Robot Manipulation Tasks Using Time Series Classification", ICRA, 2015.</em> <a href=https://ieeexplore.ieee.org/document/7140066>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -3648,9 +3648,9 @@
 </details>
 
 <a name=Zhang_2015_ICRA></a>
-### Zhang et al., "Bio-Inspired Predictive Orientation Decomposition Of Skeleton Trajectories For Real-Time Human Activity Prediction", ICRA, 2015. [paper](https://ieeexplore.ieee.org/document/7139618)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zhang et al., "Bio-Inspired Predictive Orientation Decomposition Of Skeleton Trajectories For Real-Time Human Activity Prediction", ICRA, 2015.</em> <a href=https://ieeexplore.ieee.org/document/7139618>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_msrda">MSRDA</a></li>
@@ -3678,9 +3678,9 @@
 </details>
 
 <a name=Hashimoto_2015_ICVES></a>
-### Hashimoto et al., "Probability Estimation For Pedestrian Crossing Intention At Signalized Crosswalks", ICVES, 2015. [paper](https://ieeexplore.ieee.org/document/7396904)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Hashimoto et al., "Probability Estimation For Pedestrian Crossing Intention At Signalized Crosswalks", ICVES, 2015.</em> <a href=https://ieeexplore.ieee.org/document/7396904>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -3708,9 +3708,9 @@
 </details>
 
 <a name=Kohler_2015_ITSC></a>
-### K\"ohler et al., "Stereo-Vision-Based Pedestrian'S Intention Detection In A Moving Vehicle", ITSC, 2015. [paper](https://ieeexplore.ieee.org/abstract/document/7313466)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>K\"ohler et al., "Stereo-Vision-Based Pedestrian'S Intention Detection In A Moving Vehicle", ITSC, 2015.</em> <a href=https://ieeexplore.ieee.org/abstract/document/7313466>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -3738,9 +3738,9 @@
 </details>
 
 <a name=Volz_2015_ITSC></a>
-### V\"olz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015. [paper](https://ieeexplore.ieee.org/document/7313236)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>V\"olz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015.</em> <a href=https://ieeexplore.ieee.org/document/7313236>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -3772,9 +3772,9 @@
 </details>
 
 <a name=Schulz_2015_IV></a>
-### Schulz et al., "Pedestrian Intention Recognition Using Latent-Dynamic Conditional Random Fields", IV, 2015. [paper](https://ieeexplore.ieee.org/document/7225754)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Schulz et al., "Pedestrian Intention Recognition Using Latent-Dynamic Conditional Random Fields", IV, 2015.</em> <a href=https://ieeexplore.ieee.org/document/7225754>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_daimler_path">Daimler Path</a></li>
@@ -3804,9 +3804,9 @@
 <a name=trajectory></a>
 ## Trajectory Prediction
 <a name=Chandra_2019_CVPR></a>
-### Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1812.04767.pdf) [code](https://go.umd.edu/TraPHic)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ngsim">NGSIM</a></li>
@@ -3838,9 +3838,9 @@
 </details>
 
 <a name=Chang_2019_CVPR></a>
-### Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1911.02620.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Chang et al., "Argoverse: 3D Tracking And Forecasting With Rich Maps", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_argoverse">ARGOVerse</a></li>
@@ -3870,9 +3870,9 @@
 </details>
 
 <a name=Hong_2019_CVPR></a>
-### Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1906.08945.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -3904,9 +3904,9 @@
 </details>
 
 <a name=Li_2019_CVPR></a>
-### Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -3940,9 +3940,9 @@
 </details>
 
 <a name=Liang_2019_CVPR></a>
-### Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1902.03748.pdf) [code](https://github.com/google/next-prediction)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -3976,9 +3976,9 @@
 </details>
 
 <a name=Sadeghian_2019_CVPR></a>
-### Sadeghian et al., "Sophie: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1806.01482.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Sadeghian et al., "Sophie: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -4010,9 +4010,9 @@
 </details>
 
 <a name=Zhang_2019_CVPR></a>
-### Zhang et al., "Sr-Lstm: State Refinement For Lstm Towards Pedestrian Trajectory Prediction", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1903.02793.pdf) [code](https://github.com/zhangpur/SR-LSTM)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zhang et al., "Sr-Lstm: State Refinement For Lstm Towards Pedestrian Trajectory Prediction", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -4044,9 +4044,9 @@
 </details>
 
 <a name=Zhao_2019_CVPR></a>
-### Zhao et al., "Multi-Agent Tensor Fusion For Contextual Trajectory Prediction", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Multi-Agent_Tensor_Fusion_for_Contextual_Trajectory_Prediction_CVPR_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1904.04776.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zhao et al., "Multi-Agent Tensor Fusion For Contextual Trajectory Prediction", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Multi-Agent_Tensor_Fusion_for_Contextual_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Multi-Agent_Tensor_Fusion_for_Contextual_Trajectory_Prediction_CVPR_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -4084,9 +4084,9 @@
 </details>
 
 <a name=Bi_2019_ICCV></a>
-### Bi et al., "Joint Prediction For Kinematic Trajectories In Vehicle-Pedestrian-Mixed Scenes", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bi_Joint_Prediction_for_Kinematic_Trajectories_in_Vehicle-Pedestrian-Mixed_Scenes_ICCV_2019_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Bi et al., "Joint Prediction For Kinematic Trajectories In Vehicle-Pedestrian-Mixed Scenes", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Bi_Joint_Prediction_for_Kinematic_Trajectories_in_Vehicle-Pedestrian-Mixed_Scenes_ICCV_2019_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ngsim">NGSIM</a></li>
@@ -4118,9 +4118,9 @@
 </details>
 
 <a name=Choi_2019_ICCV></a>
-### Choi et al., "Looking To Relations For Future Trajectory Forecast", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Looking_to_Relations_for_Future_Trajectory_Forecast_ICCV_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1905.08855.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Choi et al., "Looking To Relations For Future Trajectory Forecast", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Looking_to_Relations_for_Future_Trajectory_Forecast_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Looking_to_Relations_for_Future_Trajectory_Forecast_ICCV_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -4154,9 +4154,9 @@
 </details>
 
 <a name=Huang_2019_ICCV></a>
-### Huang et al., "Stgat: Modeling Spatial-Temporal Interactions For Human Trajectory Prediction", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Huang et al., "Stgat: Modeling Spatial-Temporal Interactions For Human Trajectory Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -4188,9 +4188,9 @@
 </details>
 
 <a name=Kim_2019_ICCV></a>
-### Kim et al., "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Instance-Level_Future_Motion_Estimation_in_a_Single_Image_Based_on_ICCV_2019_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Kim et al., "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Instance-Level_Future_Motion_Estimation_in_a_Single_Image_Based_on_ICCV_2019_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_fm">FM</a></li>
@@ -4218,9 +4218,9 @@
 </details>
 
 <a name=Rasouli_2019_ICCV></a>
-### Rasouli et al., "Pie: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf) [code](https://github.com/aras62/PIEPredict)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Rasouli et al., "Pie: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_jaad">JAAD</a></li>
@@ -4252,9 +4252,9 @@
 </details>
 
 <a name=Rhinehart_2019_ICCV></a>
-### Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1905.01296.pdf) [code](https://sites.google.com/view/precog)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_carla">CARLA</a></li>
@@ -4286,9 +4286,9 @@
 </details>
 
 <a name=Thiede_2019_ICCV></a>
-### Thiede et al., "Analyzing The Variety Loss In The Context Of Probabilistic Trajectory Prediction", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thiede_Analyzing_the_Variety_Loss_in_the_Context_of_Probabilistic_Trajectory_ICCV_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1907.10178.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Thiede et al., "Analyzing The Variety Loss In The Context Of Probabilistic Trajectory Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Thiede_Analyzing_the_Variety_Loss_in_the_Context_of_Probabilistic_Trajectory_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Thiede_Analyzing_the_Variety_Loss_in_the_Context_of_Probabilistic_Trajectory_ICCV_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -4318,9 +4318,9 @@
 </details>
 
 <a name=Kosaraju_2019_NeurIPS></a>
-### Kosaraju et al., "Social-Bigat: Multimodal Trajectory Forecasting Using Bicycle-Gan And Graph Attention Networks", NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8308-social-bigat-multimodal-trajectory-forecasting-using-bicycle-gan-and-graph-attention-networks.pdf) [arxiv](https://arxiv.org/pdf/1907.03395.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Kosaraju et al., "Social-Bigat: Multimodal Trajectory Forecasting Using Bicycle-Gan And Graph Attention Networks", NeurIPS, 2019.</em> <a href=http://papers.nips.cc/paper/8308-social-bigat-multimodal-trajectory-forecasting-using-bicycle-gan-and-graph-attention-networks.pdf>paper</a> <a href=http://papers.nips.cc/paper/8308-social-bigat-multimodal-trajectory-forecasting-using-bicycle-gan-and-graph-attention-networks.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -4352,9 +4352,9 @@
 </details>
 
 <a name=Cui_2019_ICRA></a>
-### Cui et al., "Multimodal Trajectory Predictions For Autonomous Driving Using Deep Convolutional Networks", ICRA, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8793868) [arxiv](https://arxiv.org/pdf/1809.10732.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Cui et al., "Multimodal Trajectory Predictions For Autonomous Driving Using Deep Convolutional Networks", ICRA, 2019.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8793868>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8793868>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -4384,9 +4384,9 @@
 </details>
 
 <a name=Huang_2019_ICRA></a>
-### Huang et al., "Uncertainty-Aware Driver Trajectory Prediction At Urban Intersections", ICRA, 2019. [paper](https://ieeexplore.ieee.org/document/8794282) [arxiv](https://arxiv.org/pdf/1901.05105.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Huang et al., "Uncertainty-Aware Driver Trajectory Prediction At Urban Intersections", ICRA, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8794282>paper</a> <a href=https://ieeexplore.ieee.org/document/8794282>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -4414,9 +4414,9 @@
 </details>
 
 <a name=Li_2019_ICRA></a>
-### Li et al., "Interaction-Aware Multi-Agent Tracking And Probabilistic Behavior Prediction Via Adversarial Learning", ICRA, 2019. [paper](https://ieeexplore.ieee.org/document/8793661) [arxiv](https://arxiv.org/pdf/1904.02390.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Li et al., "Interaction-Aware Multi-Agent Tracking And Probabilistic Behavior Prediction Via Adversarial Learning", ICRA, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8793661>paper</a> <a href=https://ieeexplore.ieee.org/document/8793661>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ngsim">NGSIM</a></li>
@@ -4444,9 +4444,9 @@
 </details>
 
 <a name=Tang_2019_ICRA></a>
-### Tang et al., "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network", ICRA, 2019. [paper](https://ieeexplore.ieee.org/document/8794130) [arxiv](https://arxiv.org/pdf/1911.04597.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Tang et al., "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network", ICRA, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8794130>paper</a> <a href=https://ieeexplore.ieee.org/document/8794130>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ngsim">NGSIM</a></li>
@@ -4476,9 +4476,9 @@
 </details>
 
 <a name=Ding_2019_ICRA_2></a>
-### Ding et al., "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning", ICRA, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8793568) [arxiv](https://arxiv.org/pdf/1903.00847.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Ding et al., "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning", ICRA, 2019.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8793568>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8793568>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_carla">CARLA</a></li>
@@ -4508,9 +4508,9 @@
 </details>
 
 <a name=Anderson_2019_IROS></a>
-### Anderson et al., "Stochastic Sampling Simulation For Pedestrian Trajectory Prediction", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8967857) [arxiv](https://arxiv.org/pdf/1903.01860.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Anderson et al., "Stochastic Sampling Simulation For Pedestrian Trajectory Prediction", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8967857>paper</a> <a href=https://ieeexplore.ieee.org/document/8967857>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -4544,9 +4544,9 @@
 </details>
 
 <a name=Carvalho_2019_IROS></a>
-### Carvalho et al., "Long-Term Prediction Of Motion Trajectories Using Path Homology Clusters", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8968125)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Carvalho et al., "Long-Term Prediction Of Motion Trajectories Using Path Homology Clusters", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8968125>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_eifp">EIFP</a></li>
@@ -4574,9 +4574,9 @@
 </details>
 
 <a name=Cho_2019_IROS></a>
-### Cho et al., "Deep Predictive Autonomous Driving Using Multi-Agent Joint Trajectory Prediction And Traffic Rules", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8967708)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Cho et al., "Deep Predictive Autonomous Driving Using Multi-Agent Joint Trajectory Prediction And Traffic Rules", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8967708>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ngsim">NGSIM</a></li>
@@ -4604,9 +4604,9 @@
 </details>
 
 <a name=Li_2019_IROS></a>
-### Li et al., "Conditional Generative Neural System For Probabilistic Trajectory Prediction", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8967822) [arxiv](https://arxiv.org/pdf/1905.01631.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Li et al., "Conditional Generative Neural System For Probabilistic Trajectory Prediction", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8967822>paper</a> <a href=https://ieeexplore.ieee.org/document/8967822>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -4642,9 +4642,9 @@
 </details>
 
 <a name=Srikanth_2019_IROS></a>
-### Srikanth et al., "Infer: Intermediate Representations For Future Prediction", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8968553) [arxiv](https://arxiv.org/pdf/1903.10641.pdf) [code](https://rebrand.ly/INFER-results)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Srikanth et al., "Infer: Intermediate Representations For Future Prediction", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8968553>paper</a> <a href=https://ieeexplore.ieee.org/document/8968553>arxiv</a> <a href=https://ieeexplore.ieee.org/document/8968553>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_kitti">KITTI</a></li>
@@ -4676,9 +4676,9 @@
 </details>
 
 <a name=Zhou_2019_IROS></a>
-### Zhou et al., "Clone Swarms: Learning To Predict And Control Multi-Robot Systems By Imitation", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8967824) [arxiv](https://arxiv.org/pdf/1912.02811.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zhou et al., "Clone Swarms: Learning To Predict And Control Multi-Robot Systems By Imitation", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8967824>paper</a> <a href=https://ieeexplore.ieee.org/document/8967824>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -4706,9 +4706,9 @@
 </details>
 
 <a name=Zhu_2019_IROS></a>
-### Zhu et al., "Starnet: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8967811) [arxiv](https://arxiv.org/pdf/1906.01797.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zhu et al., "Starnet: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8967811>paper</a> <a href=https://ieeexplore.ieee.org/document/8967811>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -4740,9 +4740,9 @@
 </details>
 
 <a name=Chai_2019_CORL></a>
-### Chai et al., "Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction", CoRL, 2019. [paper](http://proceedings.mlr.press/v100/chai20a/chai20a.pdf) [arxiv](https://arxiv.org/pdf/1910.05449.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Chai et al., "Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction", CoRL, 2019.</em> <a href=http://proceedings.mlr.press/v100/chai20a/chai20a.pdf>paper</a> <a href=http://proceedings.mlr.press/v100/chai20a/chai20a.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -4776,9 +4776,9 @@
 </details>
 
 <a name=Jain_2019_CORL></a>
-### Jain et al., "Discrete Residual Flow For Probabilistic Pedestrian Behavior Prediction", CoRL, 2019. [paper](http://proceedings.mlr.press/v100/jain20a/jain20a.pdf) [arxiv](https://arxiv.org/pdf/1910.08041.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Jain et al., "Discrete Residual Flow For Probabilistic Pedestrian Behavior Prediction", CoRL, 2019.</em> <a href=http://proceedings.mlr.press/v100/jain20a/jain20a.pdf>paper</a> <a href=http://proceedings.mlr.press/v100/jain20a/jain20a.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -4812,9 +4812,9 @@
 </details>
 
 <a name=Zhi_2019_CORL></a>
-### Zhi et al., "Kernel Trajectory Maps For Multi-Modal Probabilistic Motion Prediction", CoRL, 2019. [paper](http://proceedings.mlr.press/v100/zhi20a/zhi20a.pdf) [arxiv](https://arxiv.org/pdf/1907.05127.pdf) [code](https://github.com/wzhi/KernelTrajectoryMaps)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zhi et al., "Kernel Trajectory Maps For Multi-Modal Probabilistic Motion Prediction", CoRL, 2019.</em> <a href=http://proceedings.mlr.press/v100/zhi20a/zhi20a.pdf>paper</a> <a href=http://proceedings.mlr.press/v100/zhi20a/zhi20a.pdf>arxiv</a> <a href=http://proceedings.mlr.press/v100/zhi20a/zhi20a.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_eifp">EIFP</a></li>
@@ -4846,9 +4846,9 @@
 </details>
 
 <a name=Xue_2019_WACV></a>
-### Xue et al., "Location-Velocity Attention For Pedestrian Trajectory Prediction", WACV, 2019. [paper](https://ieeexplore.ieee.org/document/8659060)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Xue et al., "Location-Velocity Attention For Pedestrian Trajectory Prediction", WACV, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8659060>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -4884,9 +4884,9 @@
 </details>
 
 <a name=Sanchez_2019_ICIP></a>
-### Sanchez-Matilla et al., "A Predictor Of Moving Objects For First-Person Vision", ICIP, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8803140)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Sanchez-Matilla et al., "A Predictor Of Moving Objects For First-Person Vision", ICIP, 2019.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8803140>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_mot">MOT</a></li>
@@ -4914,9 +4914,9 @@
 </details>
 
 <a name=Bhattacharyya_2018_CVPR></a>
-### Bhattacharyya et al., "Long-Term On-Board Prediction Of People In Traffic Scenes Under Uncertainty", CVPR, 2018. [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf) [arxiv](https://arxiv.org/pdf/1711.09026.pdf) [code](https://github.com/apratimbhattacharyya18/onboard_long_term_prediction)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Bhattacharyya et al., "Long-Term On-Board Prediction Of People In Traffic Scenes Under Uncertainty", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_cityperson">CityPerson</a></li>
@@ -4946,9 +4946,9 @@
 </details>
 
 <a name=Gupta_2018_CVPR></a>
-### Gupta et al., "Social Gan: Socially Acceptable Trajectories With Generative Adversarial Networks", CVPR, 2018. [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf) [arxiv](https://arxiv.org/pdf/1803.10892.pdf) [code](https://github.com/agrimgupta92/sgan)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Gupta et al., "Social Gan: Socially Acceptable Trajectories With Generative Adversarial Networks", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -4980,9 +4980,9 @@
 </details>
 
 <a name=Hasan_2018_CVPR></a>
-### Hasan et al., "Mx-Lstm: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses", CVPR, 2018. [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hasan_MX-LSTM_Mixing_Tracklets_CVPR_2018_paper.pdf) [arxiv](https://arxiv.org/pdf/1805.00652.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Hasan et al., "Mx-Lstm: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Hasan_MX-LSTM_Mixing_Tracklets_CVPR_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Hasan_MX-LSTM_Mixing_Tracklets_CVPR_2018_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -5014,9 +5014,9 @@
 </details>
 
 <a name=Yao_2018_CVPR></a>
-### Yao et al., "Multiple Granularity Group Interaction Prediction", CVPR, 2018. [paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0721.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Yao et al., "Multiple Granularity Group Interaction Prediction", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0721.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_sbuki">SBUKI</a></li>
@@ -5046,9 +5046,9 @@
 </details>
 
 <a name=Xu_2018_CVPR_encoding></a>
-### Xu et al., "Encoding Crowd Interaction With Deep Neural Network For Pedestrian Trajectory Prediction", CVPR, 2018. [paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2136.pdf) [code](https://github.com/svip-lab/CIDNN)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Xu et al., "Encoding Crowd Interaction With Deep Neural Network For Pedestrian Trajectory Prediction", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2136.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2136.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -5086,9 +5086,9 @@
 </details>
 
 <a name=Felsen_2018_ECCV></a>
-### Felsen et al., "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Felsen et al., "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -5120,9 +5120,9 @@
 </details>
 
 <a name=Rhinehart_2018_ECCV></a>
-### Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_kitti">KITTI</a></li>
@@ -5154,9 +5154,9 @@
 </details>
 
 <a name=Fernando_2018_ACCV></a>
-### Fernando et al., "Gd-Gan: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds", ACCV, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-20887-5_20) [arxiv](https://arxiv.org/pdf/1812.07667.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Fernando et al., "Gd-Gan: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds", ACCV, 2019.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_20>paper</a> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_20>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -5189,9 +5189,9 @@
 </details>
 
 <a name=Baumann_2018_ICRA></a>
-### Baumann et al., "Predicting Ego-Vehicle Paths From Environmental Observations With A Deep Neural Network", ICRA, 2018. [paper](https://ieeexplore.ieee.org/document/8460704)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Baumann et al., "Predicting Ego-Vehicle Paths From Environmental Observations With A Deep Neural Network", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8460704>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -5219,9 +5219,9 @@
 </details>
 
 <a name=Lee_2018_ICRA></a>
-### Lee et al., "Robust Human Following By Deep Bayesian Trajectory Prediction For Home Service Robots", ICRA, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8462969)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Lee et al., "Robust Human Following By Deep Bayesian Trajectory Prediction For Home Service Robots", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8462969>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -5249,9 +5249,9 @@
 </details>
 
 <a name=Pfeiffer_2018_ICRA></a>
-### Pfeiffer et al., "A Data-Driven Model For Interaction-Aware Pedestrian Motion Prediction In Object Cluttered Environments", ICRA, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8461157) [arxiv](https://arxiv.org/pdf/1709.08528.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Pfeiffer et al., "A Data-Driven Model For Interaction-Aware Pedestrian Motion Prediction In Object Cluttered Environments", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8461157>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8461157>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_eth">ETH</a></li>
@@ -5279,9 +5279,9 @@
 </details>
 
 <a name=Rehder_2018_ICRA></a>
-### Rehder et al., "Pedestrian Prediction By Planning Using Deep Neural Networks", ICRA, 2018. [paper](https://ieeexplore.ieee.org/document/8460203) [arxiv](https://arxiv.org/pdf/1706.05904.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Rehder et al., "Pedestrian Prediction By Planning Using Deep Neural Networks", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8460203>paper</a> <a href=https://ieeexplore.ieee.org/document/8460203>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -5309,9 +5309,9 @@
 </details>
 
 <a name=Rudenko_2018_ICRA></a>
-### Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018. [paper](https://ieeexplore.ieee.org/document/8460527)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8460527>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_atc">ATC</a></li>
@@ -5343,9 +5343,9 @@
 </details>
 
 <a name=Sun_2018_ICRA></a>
-### Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8461228) [arxiv](https://arxiv.org/pdf/1710.00126.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_strands">STRANDS</a></li>
@@ -5377,9 +5377,9 @@
 </details>
 
 <a name=Vemula_2018_ICRA></a>
-### Vemula et al., "Social Attention: Modeling Attention In Human Crowds", ICRA, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8460504) [arxiv](https://arxiv.org/pdf/1710.04689.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Vemula et al., "Social Attention: Modeling Attention In Human Crowds", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8460504>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8460504>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -5411,9 +5411,9 @@
 </details>
 
 <a name=Rudenko_2018_IROS></a>
-### Rudenko et al., "Human Motion Prediction Under Social Grouping Constraints", IROS, 2018. [paper](https://ieeexplore.ieee.org/document/8594258)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Rudenko et al., "Human Motion Prediction Under Social Grouping Constraints", IROS, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8594258>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -5443,9 +5443,9 @@
 </details>
 
 <a name=Schulz_2018_IROS></a>
-### Schulz et al., "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments", IROS, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8594095) [arxiv](https://arxiv.org/pdf/1804.10467.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Schulz et al., "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments", IROS, 2018.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -5475,9 +5475,9 @@
 </details>
 
 <a name=Shen_2018_IROS></a>
-### Shen et al., "Transferable Pedestrian Motion Prediction Models At Intersections", IROS, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8593783) [arxiv](https://arxiv.org/pdf/1804.00495.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Shen et al., "Transferable Pedestrian Motion Prediction Models At Intersections", IROS, 2018.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8593783>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8593783>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -5507,9 +5507,9 @@
 </details>
 
 <a name=Casas_2018_CORL></a>
-### Casas et al., "Intentnet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018. [paper](http://proceedings.mlr.press/v87/casas18a/casas18a.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Casas et al., "Intentnet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018.</em> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -5539,9 +5539,9 @@
 </details>
 
 <a name=Zhang_2018_CORL></a>
-### Zhang et al., "Integrating Kinematics And Environment Context Into Deep Inverse Reinforcement Learning For Predicting Off-Road Vehicle Trajectories", CoRL, 2018. [paper](http://proceedings.mlr.press/v87/zhang18a/zhang18a.pdf) [arxiv](https://arxiv.org/pdf/1810.07225.pdf) [code](https://github.com/yfzhang/vehicle-motion-forecasting)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zhang et al., "Integrating Kinematics And Environment Context Into Deep Inverse Reinforcement Learning For Predicting Off-Road Vehicle Trajectories", CoRL, 2018.</em> <a href=http://proceedings.mlr.press/v87/zhang18a/zhang18a.pdf>paper</a> <a href=http://proceedings.mlr.press/v87/zhang18a/zhang18a.pdf>arxiv</a> <a href=http://proceedings.mlr.press/v87/zhang18a/zhang18a.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -5571,9 +5571,9 @@
 </details>
 
 <a name=Hasan_2018_WACV></a>
-### Hasan et al., ""Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention", WACV, 2018. [paper](https://ieeexplore.ieee.org/document/8354238)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Hasan et al., ""Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention", WACV, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8354238>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -5607,9 +5607,9 @@
 </details>
 
 <a name=Xue_2018_WACV></a>
-### Xue et al., "Ss-Lstm: A Hierarchical Lstm Model For Pedestrian Trajectory Prediction", WACV, 2018. [paper](https://ieeexplore.ieee.org/document/8354239)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Xue et al., "Ss-Lstm: A Hierarchical Lstm Model For Pedestrian Trajectory Prediction", WACV, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8354239>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -5641,9 +5641,9 @@
 </details>
 
 <a name=Bartoli_2018_ICPR></a>
-### Bartoli et al., "Context-Aware Trajectory Prediction", ICPR, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8545447) [arxiv](https://arxiv.org/pdf/1705.02503.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Bartoli et al., "Context-Aware Trajectory Prediction", ICPR, 2018.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8545447>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8545447>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -5671,9 +5671,9 @@
 </details>
 
 <a name=Lee_2017_CVPR></a>
-### Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017. [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1704.04394.pdf) [code](https://github.com/yadrimz/DESIRE)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_kitti">KITTI</a></li>
@@ -5709,9 +5709,9 @@
 </details>
 
 <a name=Ma_2017_CVPR></a>
-### Ma et al., "Forecasting Interactive Dynamics Of Pedestrians With Fictitious Play", CVPR, 2017. [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1604.01431.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Ma et al., "Forecasting Interactive Dynamics Of Pedestrians With Fictitious Play", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -5743,9 +5743,9 @@
 </details>
 
 <a name=Solaimanpour_2017_ICRA></a>
-### Solaimanpour et al., "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings", ICRA, 2017. [paper](https://ieeexplore.ieee.org/document/7989097)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Solaimanpour et al., "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings", ICRA, 2017.</em> <a href=https://ieeexplore.ieee.org/document/7989097>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -5777,9 +5777,9 @@
 </details>
 
 <a name=Shkurti_2017_IROS></a>
-### Shkurti et al., "Topologically Distinct Trajectory Predictions For Probabilistic Pursuit", IROS, 2017. [paper](https://ieeexplore.ieee.org/document/8206454)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Shkurti et al., "Topologically Distinct Trajectory Predictions For Probabilistic Pursuit", IROS, 2017.</em> <a href=https://ieeexplore.ieee.org/document/8206454>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -5807,9 +5807,9 @@
 </details>
 
 <a name=Alahi_2016_CVPR></a>
-### Alahi et al., "Social Lstm: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016. [paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf) [code](https://github.com/quancore/social-lstm)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Alahi et al., "Social Lstm: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -5843,9 +5843,9 @@
 </details>
 
 <a name=Yoo_2016_CVPR></a>
-### Yoo et al., "Visual Path Prediction In Complex Scenes With Crowded Moving Objects", CVPR, 2016. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yoo_Visual_Path_Prediction_CVPR_2016_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Yoo et al., "Visual Path Prediction In Complex Scenes With Crowded Moving Objects", CVPR, 2016.</em> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yoo_Visual_Path_Prediction_CVPR_2016_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_gc">GC</a></li>
@@ -5877,9 +5877,9 @@
 </details>
 
 <a name=Ballan_2016_ECCV></a>
-### Ballan et al., "Knowledge Transfer For Scene-Specific Motion Prediction", ECCV, 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_42) [arxiv](https://arxiv.org/pdf/1603.06987.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Ballan et al., "Knowledge Transfer For Scene-Specific Motion Prediction", ECCV, 2016.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46448-0_42>paper</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46448-0_42>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucy">UCY</a></li>
@@ -5910,9 +5910,9 @@
 </details>
 
 <a name=Yi_2016_ECCV></a>
-### Yi et al., "Pedestrian Behavior Understanding And Prediction With Deep Neural Networks", ECCV, 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_16)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Yi et al., "Pedestrian Behavior Understanding And Prediction With Deep Neural Networks", ECCV, 2016.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46448-0_16>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_gc">GC</a></li>
@@ -5943,9 +5943,9 @@
 </details>
 
 <a name=Chen_2016_ICRA></a>
-### Chen et al., "Augmented Dictionary Learning For Motion Prediction", ICRA, 2016. [paper](https://ieeexplore.ieee.org/abstract/document/7487407)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Chen et al., "Augmented Dictionary Learning For Motion Prediction", ICRA, 2016.</em> <a href=https://ieeexplore.ieee.org/abstract/document/7487407>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -5973,9 +5973,9 @@
 </details>
 
 <a name=Karasev_2016_ICRA></a>
-### Karasev et al., "Intent-Aware Long-Term Prediction Of Pedestrian Motion", ICRA, 2016. [paper](https://ieeexplore.ieee.org/document/7487409)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Karasev et al., "Intent-Aware Long-Term Prediction Of Pedestrian Motion", ICRA, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7487409>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -6003,9 +6003,9 @@
 </details>
 
 <a name=Vasquez_2016_ICRA></a>
-### Vasquez, "Novel Planning-Based Algorithms For Human Motion Prediction", ICRA, 2016. [paper](https://ieeexplore.ieee.org/abstract/document/7487505)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Vasquez, "Novel Planning-Based Algorithms For Human Motion Prediction", ICRA, 2016.</em> <a href=https://ieeexplore.ieee.org/abstract/document/7487505>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_virat">VIRAT</a></li>
@@ -6037,9 +6037,9 @@
 </details>
 
 <a name=Zhou_2016_ICRA></a>
-### Zhou et al., "Learning Time Series Models For Pedestrian Motion Prediction", ICRA, 2016. [paper](https://ieeexplore.ieee.org/document/7487506)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zhou et al., "Learning Time Series Models For Pedestrian Motion Prediction", ICRA, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7487506>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -6067,9 +6067,9 @@
 </details>
 
 <a name=Pfeiffer_2016_IROS></a>
-### Pfeiffer et al., "Predicting Actions To Act Predictably: Cooperative Partial Motion Planning With Maximum Entropy Models", IROS, 2016. [paper](https://ieeexplore.ieee.org/document/7759329)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Pfeiffer et al., "Predicting Actions To Act Predictably: Cooperative Partial Motion Planning With Maximum Entropy Models", IROS, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7759329>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -6097,9 +6097,9 @@
 </details>
 
 <a name=Lee_2016_WACV></a>
-### Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016. [paper](https://ieeexplore.ieee.org/document/7477732)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7477732>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_osu">OSU</a></li>
@@ -6135,9 +6135,9 @@
 </details>
 
 <a name=Bai_2015_ICRA></a>
-### Bai et al., "Intention-Aware Online Pomdp Planning For Autonomous Driving In A Crowd", ICRA, 2015. [paper](https://ieeexplore.ieee.org/document/7139219)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Bai et al., "Intention-Aware Online Pomdp Planning For Autonomous Driving In A Crowd", ICRA, 2015.</em> <a href=https://ieeexplore.ieee.org/document/7139219>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -6165,9 +6165,9 @@
 </details>
 
 <a name=Vo_2015_ICRA></a>
-### Vo et al., "Augmenting Physical State Prediction Through Structured Activity Inference", ICRA, 2015. [paper](https://ieeexplore.ieee.org/document/7139262)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Vo et al., "Augmenting Physical State Prediction Through Structured Activity Inference", ICRA, 2015.</em> <a href=https://ieeexplore.ieee.org/document/7139262>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_tum_kitchen">TUM Kitchen</a></li>
@@ -6195,9 +6195,9 @@
 </details>
 
 <a name=Akbarzadeh_2015_IROS></a>
-### Akbarzadeh et al., "Kernel Density Estimation For Target Trajectory Prediction", IROS, 2015. [paper](https://ieeexplore.ieee.org/document/7353858)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Akbarzadeh et al., "Kernel Density Estimation For Target Trajectory Prediction", IROS, 2015.</em> <a href=https://ieeexplore.ieee.org/document/7353858>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_gc">GC</a></li>
@@ -6229,9 +6229,9 @@
 </details>
 
 <a name=Schulz_2015_ITSC></a>
-### Schulz et al., "A Controlled Interactive Multiple Model Filter For Combined Pedestrian Intention Recognition And Path Prediction", ITSC, 2015. [paper](https://ieeexplore.ieee.org/abstract/document/7313129)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Schulz et al., "A Controlled Interactive Multiple Model Filter For Combined Pedestrian Intention Recognition And Path Prediction", ITSC, 2015.</em> <a href=https://ieeexplore.ieee.org/abstract/document/7313129>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_daimler_path">Daimler Path</a></li>
@@ -6261,9 +6261,9 @@
 </details>
 
 <a name=Mogelmose_2015_IV></a>
-### M\ogelmose et al., "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations", IV, 2015. [paper](https://ieeexplore.ieee.org/document/7225707)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>M\ogelmose et al., "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations", IV, 2015.</em> <a href=https://ieeexplore.ieee.org/document/7225707>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -6293,9 +6293,9 @@
 <a name=motion></a>
 ## Motion Prediction
 <a name=Gopalakrishnan_2019_CVPR></a>
-### Gopalakrishnan et al., "A Neural Temporal Model For Human Motion Prediction", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1809.03036.pdf) [code](https://github.com/cr7anand/neural_temporal_models)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Gopalakrishnan et al., "A Neural Temporal Model For Human Motion Prediction", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -6325,9 +6325,9 @@
 </details>
 
 <a name=Joo_2019_CVPR></a>
-### Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1906.04158.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_cmu_panoptic">CMU Panoptic</a></li>
@@ -6357,9 +6357,9 @@
 </details>
 
 <a name=Liu_2019_CVPR></a>
-### Liu et al., "Towards Natural And Accurate Future Motion Prediction Of Humans And Animals", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Towards_Natural_and_Accurate_Future_Motion_Prediction_of_Humans_and_CVPR_2019_paper.pdf) [code](https://github.com/BII-wushuang/Lie-Group-Motion-Prediction)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Liu et al., "Towards Natural And Accurate Future Motion Prediction Of Humans And Animals", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Towards_Natural_and_Accurate_Future_Motion_Prediction_of_Humans_and_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Towards_Natural_and_Accurate_Future_Motion_Prediction_of_Humans_and_CVPR_2019_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -6391,9 +6391,9 @@
 </details>
 
 <a name=Hernandez_2019_ICCV></a>
-### Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1812.05478.pdf) [code](https://github.com/magnux/MotionGAN)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -6427,9 +6427,9 @@
 </details>
 
 <a name=Mao_2019_ICCV></a>
-### Mao et al., "Learning Trajectory Dependencies For Human Motion Prediction", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Mao_Learning_Trajectory_Dependencies_for_Human_Motion_Prediction_ICCV_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1908.05436.pdf) [code](https://github.com/wei-mao-2019/LearnTrajDep)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Mao et al., "Learning Trajectory Dependencies For Human Motion Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Mao_Learning_Trajectory_Dependencies_for_Human_Motion_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Mao_Learning_Trajectory_Dependencies_for_Human_Motion_Prediction_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Mao_Learning_Trajectory_Dependencies_for_Human_Motion_Prediction_ICCV_2019_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -6463,9 +6463,9 @@
 </details>
 
 <a name=Wang_2019_ICCV></a>
-### Wang et al., "Imitation Learning For Human Pose Prediction", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Imitation_Learning_for_Human_Pose_Prediction_ICCV_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1909.03449.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Wang et al., "Imitation Learning For Human Pose Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Imitation_Learning_for_Human_Pose_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Imitation_Learning_for_Human_Pose_Prediction_ICCV_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -6493,9 +6493,9 @@
 </details>
 
 <a name=Yuan_2019_ICCV></a>
-### Yuan et al., "Ego-Pose Estimation And Forecasting As Real-Time Pd Control", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Ego-Pose_Estimation_and_Forecasting_As_Real-Time_PD_Control_ICCV_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1906.03173.pdf) [code](https://github.com/Khrylx/EgoPose)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Yuan et al., "Ego-Pose Estimation And Forecasting As Real-Time Pd Control", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Ego-Pose_Estimation_and_Forecasting_As_Real-Time_PD_Control_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Ego-Pose_Estimation_and_Forecasting_As_Real-Time_PD_Control_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Ego-Pose_Estimation_and_Forecasting_As_Real-Time_PD_Control_ICCV_2019_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_egopose">EgoPose</a></li>
@@ -6523,9 +6523,9 @@
 </details>
 
 <a name=Zhang_2019_ICCV></a>
-### Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1908.04781.pdf) [code]({https://jasonyzhang.com/phd/)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -6561,9 +6561,9 @@
 </details>
 
 <a name=Luo_2019_IROS></a>
-### Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8968192)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8968192>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -6591,9 +6591,9 @@
 </details>
 
 <a name=Talignani_2019_IROS></a>
-### Talignani et al., "Prediction Of Human Arm Target For Robot Reaching Movements", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8968559)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Talignani et al., "Prediction Of Human Arm Target For Robot Reaching Movements", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8968559>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -6621,9 +6621,9 @@
 </details>
 
 <a name=Chiu_2019_WACV></a>
-### Chiu et al., "Action-Agnostic Human Pose Forecasting", WACV, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8658717) [arxiv](https://arxiv.org/pdf/1810.09676.pdf) [code](https://github.com/eddyhkchiu/pose_forecast_wacv/)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Chiu et al., "Action-Agnostic Human Pose Forecasting", WACV, 2019.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8658717>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8658717>arxiv</a> <a href=https://ieeexplore.ieee.org/abstract/document/8658717>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -6655,9 +6655,9 @@
 </details>
 
 <a name=Wu_2019_WACV></a>
-### Wu et al., "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A Rgb Camera", WACV, 2019. [paper](https://ieeexplore.ieee.org/document/8658594)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Wu et al., "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A Rgb Camera", WACV, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8658594>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -6689,9 +6689,9 @@
 </details>
 
 <a name=Yao_2018_CVPR></a>
-### Yao et al., "Multiple Granularity Group Interaction Prediction", CVPR, 2018. [paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0721.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Yao et al., "Multiple Granularity Group Interaction Prediction", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0721.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_sbuki">SBUKI</a></li>
@@ -6721,9 +6721,9 @@
 </details>
 
 <a name=Gui_2018_ECCV></a>
-### Gui et al., "Few-Shot Human Motion Prediction Via Meta-Learning", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangyan_Gui_Few-Shot_Human_Motion_ECCV_2018_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Gui et al., "Few-Shot Human Motion Prediction Via Meta-Learning", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangyan_Gui_Few-Shot_Human_Motion_ECCV_2018_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -6751,9 +6751,9 @@
 </details>
 
 <a name=Gui_2018_ECCV_2></a>
-### Gui et al., "Adversarial Geometry-Aware Human Motion Prediction", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangyan_Gui_Adversarial_Geometry-Aware_Human_ECCV_2018_paper.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Gui et al., "Adversarial Geometry-Aware Human Motion Prediction", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangyan_Gui_Adversarial_Geometry-Aware_Human_ECCV_2018_paper.pdf>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -6783,9 +6783,9 @@
 </details>
 
 <a name=Butepage_2018_ICRA></a>
-### Bütepage et al., "Anticipating Many Futures: Online Human Motion Prediction And Generation For Human-Robot Interaction", ICRA, 2018. [paper](https://ieeexplore.ieee.org/document/8460651) [arxiv](https://arxiv.org/pdf/1702.08212.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Bütepage et al., "Anticipating Many Futures: Online Human Motion Prediction And Generation For Human-Robot Interaction", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8460651>paper</a> <a href=https://ieeexplore.ieee.org/document/8460651>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -6813,9 +6813,9 @@
 </details>
 
 <a name=Gui_2018_IROS></a>
-### Gui et al., "Teaching Robots To Predict Human Motion", IROS, 2018. [paper](https://ieeexplore.ieee.org/document/8594452)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Gui et al., "Teaching Robots To Predict Human Motion", IROS, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8594452>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -6843,9 +6843,9 @@
 </details>
 
 <a name=Butepage_2017_CVPR></a>
-### Butepage et al., "Deep Representation Learning For Human Motion Prediction And Classification", CVPR, 2017. [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Butepage_Deep_Representation_Learning_CVPR_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1702.07486.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Butepage et al., "Deep Representation Learning For Human Motion Prediction And Classification", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Butepage_Deep_Representation_Learning_CVPR_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Butepage_Deep_Representation_Learning_CVPR_2017_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -6873,9 +6873,9 @@
 </details>
 
 <a name=Chao_2017_CVPR></a>
-### Chao et al., "Forecasting Human Dynamics From Static Images", CVPR, 2017. [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chao_Forecasting_Human_Dynamics_CVPR_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1704.03432.pdf) [code](https://github.com/ywchao/image-play)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Chao et al., "Forecasting Human Dynamics From Static Images", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Chao_Forecasting_Human_Dynamics_CVPR_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Chao_Forecasting_Human_Dynamics_CVPR_2017_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Chao_Forecasting_Human_Dynamics_CVPR_2017_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -6907,9 +6907,9 @@
 </details>
 
 <a name=Martinez_2017_CVPR></a>
-### Martinez et al., "On Human Motion Prediction Using Recurrent Neural Networks", CVPR, 2017. [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Martinez_On_Human_Motion_CVPR_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1705.02445.pdf) [code](https://github.com/una-dinosauria/human-motion-prediction)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Martinez et al., "On Human Motion Prediction Using Recurrent Neural Networks", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Martinez_On_Human_Motion_CVPR_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Martinez_On_Human_Motion_CVPR_2017_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Martinez_On_Human_Motion_CVPR_2017_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -6937,9 +6937,9 @@
 </details>
 
 <a name=Walker_2017_ICCV></a>
-### Walker et al., "The Pose Knows: Video Forecasting By Generating Pose Futures", ICCV, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Walker_The_Pose_Knows_ICCV_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1705.00053.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Walker et al., "The Pose Knows: Video Forecasting By Generating Pose Futures", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Walker_The_Pose_Knows_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Walker_The_Pose_Knows_ICCV_2017_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_ucf-101">UCF-101</a></li>
@@ -6969,9 +6969,9 @@
 </details>
 
 <a name=Jain_2016_CVPR></a>
-### Jain et al., "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016. [paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf) [arxiv](https://arxiv.org/pdf/1511.05298.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Jain et al., "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -6999,9 +6999,9 @@
 </details>
 
 <a name=Fragkiadaki_2015_ICCV></a>
-### Fragkiadaki et al., "Recurrent Network Models For Human Dynamics", ICCV, 2015. [paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Fragkiadaki_Recurrent_Network_Models_ICCV_2015_paper.pdf) [arxiv](https://arxiv.org/pdf/1508.00271.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Fragkiadaki et al., "Recurrent Network Models For Human Dynamics", ICCV, 2015.</em> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Fragkiadaki_Recurrent_Network_Models_ICCV_2015_paper.pdf>paper</a> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Fragkiadaki_Recurrent_Network_Models_ICCV_2015_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_human3.6m">Human3.6M</a></li>
@@ -7031,9 +7031,9 @@
 </details>
 
 <a name=Cao_2015_WACV></a>
-### Cao et al., "Forecasting Human Pose And Motion With Multibody Dynamic Model", WACV, 2015. [paper](https://ieeexplore.ieee.org/abstract/document/7045887)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Cao et al., "Forecasting Human Pose And Motion With Multibody Dynamic Model", WACV, 2015.</em> <a href=https://ieeexplore.ieee.org/abstract/document/7045887>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -7063,9 +7063,9 @@
 <a name=other></a>
 ## Other Prediction
 <a name=Mohajerin_2019_CVPR></a>
-### Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf) [arxiv](https://arxiv.org/pdf/1812.09395.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_kitti">KITTI</a></li>
@@ -7099,9 +7099,9 @@
 </details>
 
 <a name=Guizilini_2019_ICRA></a>
-### Guizilini et al., "Dynamic Hilbert Maps: Real-Time Occupancy Predictions In Changing Environments", ICRA, 2019. [paper](https://ieeexplore.ieee.org/document/8793914) [arxiv](https://arxiv.org/pdf/1912.02149.pdf) [code](https://bitbucket.org/vguizilini/cvpp/src)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Guizilini et al., "Dynamic Hilbert Maps: Real-Time Occupancy Predictions In Changing Environments", ICRA, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8793914>paper</a> <a href=https://ieeexplore.ieee.org/document/8793914>arxiv</a> <a href=https://ieeexplore.ieee.org/document/8793914>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_kitti">KITTI</a></li>
@@ -7129,9 +7129,9 @@
 </details>
 
 <a name=Katyal_2019_ICRA></a>
-### Katyal et al., "Uncertainty-Aware Occupancy Map Prediction Using Generative Networks For Robot Navigation", ICRA, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8793500)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Katyal et al., "Uncertainty-Aware Occupancy Map Prediction Using Generative Networks For Robot Navigation", ICRA, 2019.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8793500>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -7163,9 +7163,9 @@
 </details>
 
 <a name=Schreiber_2019_ICRA></a>
-### Schreiber et al., "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks", ICRA, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8793582) [arxiv](https://arxiv.org/pdf/1809.03782.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Schreiber et al., "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks", ICRA, 2019.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8793582>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8793582>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -7195,9 +7195,9 @@
 </details>
 
 <a name=Hoermann_2018_ICRA></a>
-### Hoermann et al., "Dynamic Occupancy Grid Prediction For Urban Autonomous Driving: A Deep Learning Approach With Fully Automatic Labeling", ICRA, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8460874) [arxiv](https://arxiv.org/pdf/1705.08781.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Hoermann et al., "Dynamic Occupancy Grid Prediction For Urban Autonomous Driving: A Deep Learning Approach With Fully Automatic Labeling", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8460874>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8460874>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -7225,9 +7225,9 @@
 </details>
 
 <a name=Afolabi_2018_IROS></a>
-### Afolabi et al., "People As Sensors: Imputing Maps From Human Actions", IROS, 2018. [paper](https://ieeexplore.ieee.org/document/8594511) [arxiv](https://arxiv.org/pdf/1711.01022.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Afolabi et al., "People As Sensors: Imputing Maps From Human Actions", IROS, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8594511>paper</a> <a href=https://ieeexplore.ieee.org/document/8594511>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_jaad">JAAD</a></li>
@@ -7257,9 +7257,9 @@
 </details>
 
 <a name=Choi_2016_IROS></a>
-### Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016. [paper](https://ieeexplore.ieee.org/abstract/document/7759278)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</em> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_fcvl">FCVL</a></li>
@@ -7293,9 +7293,9 @@
 </details>
 
 <a name=Graves_2019_IROS></a>
-### Graves et al., "Perception As Prediction Using General Value Functions In Autonomous Driving Applications", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8968293) [arxiv](https://arxiv.org/pdf/2001.09113.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Graves et al., "Perception As Prediction Using General Value Functions In Autonomous Driving Applications", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8968293>paper</a> <a href=https://ieeexplore.ieee.org/document/8968293>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -7323,9 +7323,9 @@
 </details>
 
 <a name=Zapf_2019_IROS></a>
-### Zapf et al., "Pedestrian Density Prediction For Efficient Mobile Robot Exploration", IROS, 2019. [paper](https://ieeexplore.ieee.org/document/8967763)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zapf et al., "Pedestrian Density Prediction For Efficient Mobile Robot Exploration", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8967763>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -7353,9 +7353,9 @@
 </details>
 
 <a name=Kim_2019_WACV></a>
-### Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019. [paper](https://ieeexplore.ieee.org/document/8658402)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8658402>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -7385,9 +7385,9 @@
 </details>
 
 <a name=Siddiqui_2019_WACV></a>
-### Siddiqui et al., "A Deep Learning Approach To Solar-Irradiance Forecasting In Sky-Videos", WACV, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8659184) [arxiv](https://arxiv.org/pdf/1901.04881.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Siddiqui et al., "A Deep Learning Approach To Solar-Irradiance Forecasting In Sky-Videos", WACV, 2019.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8659184>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8659184>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_arizona">Arizona</a></li>
@@ -7419,9 +7419,9 @@
 </details>
 
 <a name=Terwilliger_2019_WACV></a>
-### Terwilliger et al., "Recurrent Flow-Guided Semantic Forecasting", WACV, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8658639) [arxiv](https://arxiv.org/pdf/1809.08318.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Terwilliger et al., "Recurrent Flow-Guided Semantic Forecasting", WACV, 2019.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8658639>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/8658639>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
@@ -7449,9 +7449,9 @@
 </details>
 
 <a name=Luc_2018_ECCV></a>
-### Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018. [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf) [arxiv](https://arxiv.org/pdf/1803.11496.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
@@ -7485,9 +7485,9 @@
 </details>
 
 <a name=Chu_2018_WACV></a>
-### Chu et al., "Visual Weather Temperature Prediction", WACV, 2018. [paper](https://ieeexplore.ieee.org/document/8354136) [arxiv](https://arxiv.org/pdf/1801.08267.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Chu et al., "Visual Weather Temperature Prediction", WACV, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8354136>paper</a> <a href=https://ieeexplore.ieee.org/document/8354136>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_amos">AMOS</a></li>
@@ -7515,9 +7515,9 @@
 </details>
 
 <a name=Wang_2018_WACV></a>
-### Wang et al., "Retweet Wars: Tweet Popularity Prediction Via Dynamic Multimodal Regression", WACV, 2018. [paper](https://ieeexplore.ieee.org/document/8354308)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Wang et al., "Retweet Wars: Tweet Popularity Prediction Via Dynamic Multimodal Regression", WACV, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8354308>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_mbi-1m">MBI-1M</a></li>
@@ -7547,9 +7547,9 @@
 </details>
 
 <a name=He_2018_ICPR></a>
-### He et al., "Aggregated Sparse Attention For Steering Angle Prediction", ICPR, 2018. [paper](https://ieeexplore.ieee.org/document/8546051) [arxiv](https://arxiv.org/pdf/1803.05785.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>He et al., "Aggregated Sparse Attention For Steering Angle Prediction", ICPR, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8546051>paper</a> <a href=https://ieeexplore.ieee.org/document/8546051>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_diplecs">DIPLECS</a></li>
@@ -7577,9 +7577,9 @@
 </details>
 
 <a name=Al-Halah_2017_ICCV></a>
-### Al-Halah et al., "Fashion Forward: Forecasting Visual Style In Fashion", ICCV, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Al-Halah_Fashion_Forward_Forecasting_ICCV_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1705.06394.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Al-Halah et al., "Fashion Forward: Forecasting Visual Style In Fashion", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Al-Halah_Fashion_Forward_Forecasting_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Al-Halah_Fashion_Forward_Forecasting_ICCV_2017_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_amazon">Amazon</a></li>
@@ -7609,9 +7609,9 @@
 </details>
 
 <a name=Luc_2017_ICCV></a>
-### Luc et al., "Predicting Deeper Into The Future Of Semantic Segmentation", ICCV, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1703.07684.pdf) [code](https://github.com/facebookresearch/SegmPred)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Luc et al., "Predicting Deeper Into The Future Of Semantic Segmentation", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf>arxiv</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf>code</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
@@ -7643,9 +7643,9 @@
 </details>
 
 <a name=Zeng_2017_ICCV></a>
-### Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf) [arxiv](https://arxiv.org/pdf/1708.05827.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_vist">VIST</a></li>
@@ -7673,9 +7673,9 @@
 </details>
 
 <a name=Jin_2017_NeurIPS></a>
-### Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017. [paper](https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf) [arxiv](https://arxiv.org/pdf/1711.03270.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017.</em> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>paper</a> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_cityscapes">Cityscapes</a></li>
@@ -7707,9 +7707,9 @@
 </details>
 
 <a name=Sur_2017_IROS></a>
-### Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017. [paper](https://ieeexplore.ieee.org/document/8206442)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017.</em> <a href=https://ieeexplore.ieee.org/document/8206442>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -7741,9 +7741,9 @@
 </details>
 
 <a name=Mottaghi_2016_ECCV></a>
-### Mottaghi et al., "What Happens If... Learning To Predict The Effect Of Forces In Images", ECCV, 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_17) [arxiv](https://arxiv.org/pdf/1603.05600.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Mottaghi et al., "What Happens If... Learning To Predict The Effect Of Forces In Images", ECCV, 2016.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46493-0_17>paper</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46493-0_17>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_sun_rgb-d">SUN RGB-D</a></li>
@@ -7772,9 +7772,9 @@
 </details>
 
 <a name=Carvajal_2016_ICPR></a>
-### Carvajal et al., "Towards Miss Universe Automatic Prediction: The Evening Gown Competition", ICPR, 2016. [paper](https://ieeexplore.ieee.org/abstract/document/7899781) [arxiv](https://arxiv.org/pdf/1604.07547.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Carvajal et al., "Towards Miss Universe Automatic Prediction: The Evening Gown Competition", ICPR, 2016.</em> <a href=https://ieeexplore.ieee.org/abstract/document/7899781>paper</a> <a href=https://ieeexplore.ieee.org/abstract/document/7899781>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li><a href="datasets.md#data_mu">MU</a></li>
@@ -7802,9 +7802,9 @@
 </details>
 
 <a name=Joo_2015_ICCV></a>
-### Joo et al., "Automated Facial Trait Judgment And Election Outcome Prediction: Social Dimensions Of Face", ICCV, 2015. [paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf) [arxiv](https://arxiv.org/pdf/1612.03153.pdf)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Joo et al., "Automated Facial Trait Judgment And Election Outcome Prediction: Social Dimensions Of Face", ICCV, 2015.</em> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf>arxiv</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
@@ -7832,9 +7832,9 @@
 </details>
 
 <a name=Wilson_2015_ICRA></a>
-### Wilson et al., "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs", ICRA, 2015. [paper](https://ieeexplore.ieee.org/document/7139221)
 <details close>
-<summary><em>Info</em></summary>
+<summary><em>Wilson et al., "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs", ICRA, 2015.</em> <a href=https://ieeexplore.ieee.org/document/7139221>paper</a></summary>
+
 <em>Datasets</em>
 <ul>
 <li>Custom</li>
