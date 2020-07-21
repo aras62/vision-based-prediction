@@ -16,7 +16,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <h3>Papers</h3>
 <ul><a name=Gopalakrishnan_2019_CVPR/>
 <details close>
-<summary><strong>Gopalakrishnan et al., "A Neural Temporal Model For Human Motion Prediction", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1809.03036.pdf>arxiv</a> <a href=https://github.com/cr7anand/neural_temporal_models>code</a></summary>
+<summary><strong><em>Gopalakrishnan et al., "A Neural Temporal Model For Human Motion Prediction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1809.03036.pdf>arxiv</a> <a href=https://github.com/cr7anand/neural_temporal_models>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -46,7 +46,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Joo_2019_CVPR/>
 <details close>
-<summary><strong>Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.04158.pdf>arxiv</a></summary>
+<summary><strong><em>Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.04158.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -76,7 +76,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Liu_2019_CVPR/>
 <details close>
-<summary><strong>Liu et al., "Towards Natural And Accurate Future Motion Prediction Of Humans And Animals", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Towards_Natural_and_Accurate_Future_Motion_Prediction_of_Humans_and_CVPR_2019_paper.pdf>paper</a> <a href=https://github.com/BII-wushuang/Lie-Group-Motion-Prediction>code</a></summary>
+<summary><strong><em>Liu et al., "Towards Natural And Accurate Future Motion Prediction Of Humans And Animals", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Towards_Natural_and_Accurate_Future_Motion_Prediction_of_Humans_and_CVPR_2019_paper.pdf>paper</a> <a href=https://github.com/BII-wushuang/Lie-Group-Motion-Prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -107,7 +107,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Hernandez_2019_ICCV/>
 <details close>
-<summary><strong>Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.05478.pdf>arxiv</a> <a href=https://github.com/magnux/MotionGAN>code</a></summary>
+<summary><strong><em>Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.05478.pdf>arxiv</a> <a href=https://github.com/magnux/MotionGAN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -139,7 +139,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Mao_2019_ICCV/>
 <details close>
-<summary><strong>Mao et al., "Learning Trajectory Dependencies For Human Motion Prediction", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Mao_Learning_Trajectory_Dependencies_for_Human_Motion_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.05436.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/LearnTrajDep>code</a></summary>
+<summary><strong><em>Mao et al., "Learning Trajectory Dependencies For Human Motion Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Mao_Learning_Trajectory_Dependencies_for_Human_Motion_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.05436.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/LearnTrajDep>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -171,7 +171,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Wang_2019_ICCV/>
 <details close>
-<summary><strong>Wang et al., "Imitation Learning For Human Pose Prediction", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Imitation_Learning_for_Human_Pose_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1909.03449.pdf>arxiv</a></summary>
+<summary><strong><em>Wang et al., "Imitation Learning For Human Pose Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Imitation_Learning_for_Human_Pose_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1909.03449.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -200,7 +200,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Yuan_2019_ICCV/>
 <details close>
-<summary><strong>Yuan et al., "Ego-Pose Estimation And Forecasting As Real-Time Pd Control", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Ego-Pose_Estimation_and_Forecasting_As_Real-Time_PD_Control_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.03173.pdf>arxiv</a> <a href=https://github.com/Khrylx/EgoPose>code</a></summary>
+<summary><strong><em>Yuan et al., "Ego-Pose Estimation And Forecasting As Real-Time Pd Control", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Ego-Pose_Estimation_and_Forecasting_As_Real-Time_PD_Control_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.03173.pdf>arxiv</a> <a href=https://github.com/Khrylx/EgoPose>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -229,7 +229,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Zhang_2019_ICCV/>
 <details close>
-<summary><strong>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.04781.pdf>arxiv</a> <a href={https://jasonyzhang.com/phd/>code</a></summary>
+<summary><strong><em>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.04781.pdf>arxiv</a> <a href={https://jasonyzhang.com/phd/>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -262,7 +262,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Luo_2019_IROS/>
 <details close>
-<summary><strong>Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8968192>paper</a></summary>
+<summary><strong><em>Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968192>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -292,7 +292,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Talignani_2019_IROS/>
 <details close>
-<summary><strong>Talignani et al., "Prediction Of Human Arm Target For Robot Reaching Movements", IROS, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8968559>paper</a></summary>
+<summary><strong><em>Talignani et al., "Prediction Of Human Arm Target For Robot Reaching Movements", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968559>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -322,7 +322,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Chiu_2019_WACV/>
 <details close>
-<summary><strong>Chiu et al., "Action-Agnostic Human Pose Forecasting", WACV, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8658717>paper</a> <a href=https://arxiv.org/pdf/1810.09676.pdf>arxiv</a> <a href=https://github.com/eddyhkchiu/pose_forecast_wacv/>code</a></summary>
+<summary><strong><em>Chiu et al., "Action-Agnostic Human Pose Forecasting", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8658717>paper</a> <a href=https://arxiv.org/pdf/1810.09676.pdf>arxiv</a> <a href=https://github.com/eddyhkchiu/pose_forecast_wacv/>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -353,7 +353,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Wu_2019_WACV/>
 <details close>
-<summary><strong>Wu et al., "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A Rgb Camera", WACV, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8658594>paper</a></summary>
+<summary><strong><em>Wu et al., "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A Rgb Camera", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8658594>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -385,7 +385,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Yao_2018_CVPR/>
 <details close>
-<summary><strong>Yao et al., "Multiple Granularity Group Interaction Prediction", CVPR, 2018.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0721.pdf>paper</a></summary>
+<summary><strong><em>Yao et al., "Multiple Granularity Group Interaction Prediction", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0721.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -415,7 +415,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Gui_2018_ECCV/>
 <details close>
-<summary><strong>Gui et al., "Few-Shot Human Motion Prediction Via Meta-Learning", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangyan_Gui_Few-Shot_Human_Motion_ECCV_2018_paper.pdf>paper</a></summary>
+<summary><strong><em>Gui et al., "Few-Shot Human Motion Prediction Via Meta-Learning", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangyan_Gui_Few-Shot_Human_Motion_ECCV_2018_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -444,7 +444,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Gui_2018_ECCV_2/>
 <details close>
-<summary><strong>Gui et al., "Adversarial Geometry-Aware Human Motion Prediction", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangyan_Gui_Adversarial_Geometry-Aware_Human_ECCV_2018_paper.pdf>paper</a></summary>
+<summary><strong><em>Gui et al., "Adversarial Geometry-Aware Human Motion Prediction", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangyan_Gui_Adversarial_Geometry-Aware_Human_ECCV_2018_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -474,7 +474,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Butepage_2018_ICRA/>
 <details close>
-<summary><strong>Bütepage et al., "Anticipating Many Futures: Online Human Motion Prediction And Generation For Human-Robot Interaction", ICRA, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8460651>paper</a> <a href=https://arxiv.org/pdf/1702.08212.pdf>arxiv</a></summary>
+<summary><strong><em>Bütepage et al., "Anticipating Many Futures: Online Human Motion Prediction And Generation For Human-Robot Interaction", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8460651>paper</a> <a href=https://arxiv.org/pdf/1702.08212.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -504,7 +504,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Gui_2018_IROS/>
 <details close>
-<summary><strong>Gui et al., "Teaching Robots To Predict Human Motion", IROS, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8594452>paper</a></summary>
+<summary><strong><em>Gui et al., "Teaching Robots To Predict Human Motion", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8594452>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -533,7 +533,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Butepage_2017_CVPR/>
 <details close>
-<summary><strong>Butepage et al., "Deep Representation Learning For Human Motion Prediction And Classification", CVPR, 2017.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Butepage_Deep_Representation_Learning_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1702.07486.pdf>arxiv</a></summary>
+<summary><strong><em>Butepage et al., "Deep Representation Learning For Human Motion Prediction And Classification", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Butepage_Deep_Representation_Learning_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1702.07486.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -562,7 +562,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Chao_2017_CVPR/>
 <details close>
-<summary><strong>Chao et al., "Forecasting Human Dynamics From Static Images", CVPR, 2017.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Chao_Forecasting_Human_Dynamics_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.03432.pdf>arxiv</a> <a href=https://github.com/ywchao/image-play>code</a></summary>
+<summary><strong><em>Chao et al., "Forecasting Human Dynamics From Static Images", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Chao_Forecasting_Human_Dynamics_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.03432.pdf>arxiv</a> <a href=https://github.com/ywchao/image-play>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -593,7 +593,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Martinez_2017_CVPR/>
 <details close>
-<summary><strong>Martinez et al., "On Human Motion Prediction Using Recurrent Neural Networks", CVPR, 2017.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Martinez_On_Human_Motion_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.02445.pdf>arxiv</a> <a href=https://github.com/una-dinosauria/human-motion-prediction>code</a></summary>
+<summary><strong><em>Martinez et al., "On Human Motion Prediction Using Recurrent Neural Networks", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Martinez_On_Human_Motion_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.02445.pdf>arxiv</a> <a href=https://github.com/una-dinosauria/human-motion-prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -622,7 +622,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Walker_2017_ICCV/>
 <details close>
-<summary><strong>Walker et al., "The Pose Knows: Video Forecasting By Generating Pose Futures", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Walker_The_Pose_Knows_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.00053.pdf>arxiv</a></summary>
+<summary><strong><em>Walker et al., "The Pose Knows: Video Forecasting By Generating Pose Futures", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Walker_The_Pose_Knows_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.00053.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -652,7 +652,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Jain_2016_CVPR/>
 <details close>
-<summary><strong>Jain et al., "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1511.05298.pdf>arxiv</a></summary>
+<summary><strong><em>Jain et al., "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1511.05298.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -681,7 +681,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Fragkiadaki_2015_ICCV/>
 <details close>
-<summary><strong>Fragkiadaki et al., "Recurrent Network Models For Human Dynamics", ICCV, 2015.</strong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Fragkiadaki_Recurrent_Network_Models_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1508.00271.pdf>arxiv</a></summary>
+<summary><strong><em>Fragkiadaki et al., "Recurrent Network Models For Human Dynamics", ICCV, 2015.</em></strong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Fragkiadaki_Recurrent_Network_Models_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1508.00271.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -711,7 +711,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Cao_2015_WACV/>
 <details close>
-<summary><strong>Cao et al., "Forecasting Human Pose And Motion With Multibody Dynamic Model", WACV, 2015.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/7045887>paper</a></summary>
+<summary><strong><em>Cao et al., "Forecasting Human Pose And Motion With Multibody Dynamic Model", WACV, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/7045887>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>

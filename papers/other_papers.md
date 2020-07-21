@@ -16,7 +16,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <h3>Papers</h3>
 <ul><a name=Mohajerin_2019_CVPR/>
 <details close>
-<summary><strong>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.09395.pdf>arxiv</a></summary>
+<summary><strong><em>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.09395.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -48,7 +48,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Guizilini_2019_ICRA/>
 <details close>
-<summary><strong>Guizilini et al., "Dynamic Hilbert Maps: Real-Time Occupancy Predictions In Changing Environments", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8793914>paper</a> <a href=https://arxiv.org/pdf/1912.02149.pdf>arxiv</a> <a href=https://bitbucket.org/vguizilini/cvpp/src>code</a></summary>
+<summary><strong><em>Guizilini et al., "Dynamic Hilbert Maps: Real-Time Occupancy Predictions In Changing Environments", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8793914>paper</a> <a href=https://arxiv.org/pdf/1912.02149.pdf>arxiv</a> <a href=https://bitbucket.org/vguizilini/cvpp/src>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -77,7 +77,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Katyal_2019_ICRA/>
 <details close>
-<summary><strong>Katyal et al., "Uncertainty-Aware Occupancy Map Prediction Using Generative Networks For Robot Navigation", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793500>paper</a></summary>
+<summary><strong><em>Katyal et al., "Uncertainty-Aware Occupancy Map Prediction Using Generative Networks For Robot Navigation", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793500>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -109,7 +109,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Schreiber_2019_ICRA/>
 <details close>
-<summary><strong>Schreiber et al., "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793582>paper</a> <a href=https://arxiv.org/pdf/1809.03782.pdf>arxiv</a></summary>
+<summary><strong><em>Schreiber et al., "Long-Term Occupancy Grid Prediction Using Recurrent Neural Networks", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793582>paper</a> <a href=https://arxiv.org/pdf/1809.03782.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -140,7 +140,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Hoermann_2018_ICRA/>
 <details close>
-<summary><strong>Hoermann et al., "Dynamic Occupancy Grid Prediction For Urban Autonomous Driving: A Deep Learning Approach With Fully Automatic Labeling", ICRA, 2018.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8460874>paper</a> <a href=https://arxiv.org/pdf/1705.08781.pdf>arxiv</a></summary>
+<summary><strong><em>Hoermann et al., "Dynamic Occupancy Grid Prediction For Urban Autonomous Driving: A Deep Learning Approach With Fully Automatic Labeling", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8460874>paper</a> <a href=https://arxiv.org/pdf/1705.08781.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -170,7 +170,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Afolabi_2018_IROS/>
 <details close>
-<summary><strong>Afolabi et al., "People As Sensors: Imputing Maps From Human Actions", IROS, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8594511>paper</a> <a href=https://arxiv.org/pdf/1711.01022.pdf>arxiv</a></summary>
+<summary><strong><em>Afolabi et al., "People As Sensors: Imputing Maps From Human Actions", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8594511>paper</a> <a href=https://arxiv.org/pdf/1711.01022.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -200,7 +200,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Choi_2016_IROS/>
 <details close>
-<summary><strong>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
+<summary><strong><em>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -232,7 +232,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Graves_2019_IROS/>
 <details close>
-<summary><strong>Graves et al., "Perception As Prediction Using General Value Functions In Autonomous Driving Applications", IROS, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8968293>paper</a> <a href=https://arxiv.org/pdf/2001.09113.pdf>arxiv</a></summary>
+<summary><strong><em>Graves et al., "Perception As Prediction Using General Value Functions In Autonomous Driving Applications", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968293>paper</a> <a href=https://arxiv.org/pdf/2001.09113.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -262,7 +262,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Zapf_2019_IROS/>
 <details close>
-<summary><strong>Zapf et al., "Pedestrian Density Prediction For Efficient Mobile Robot Exploration", IROS, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8967763>paper</a></summary>
+<summary><strong><em>Zapf et al., "Pedestrian Density Prediction For Efficient Mobile Robot Exploration", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8967763>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -292,7 +292,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Kim_2019_WACV/>
 <details close>
-<summary><strong>Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8658402>paper</a></summary>
+<summary><strong><em>Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8658402>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -323,7 +323,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Siddiqui_2019_WACV/>
 <details close>
-<summary><strong>Siddiqui et al., "A Deep Learning Approach To Solar-Irradiance Forecasting In Sky-Videos", WACV, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8659184>paper</a> <a href=https://arxiv.org/pdf/1901.04881.pdf>arxiv</a></summary>
+<summary><strong><em>Siddiqui et al., "A Deep Learning Approach To Solar-Irradiance Forecasting In Sky-Videos", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8659184>paper</a> <a href=https://arxiv.org/pdf/1901.04881.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -354,7 +354,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Terwilliger_2019_WACV/>
 <details close>
-<summary><strong>Terwilliger et al., "Recurrent Flow-Guided Semantic Forecasting", WACV, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8658639>paper</a> <a href=https://arxiv.org/pdf/1809.08318.pdf>arxiv</a></summary>
+<summary><strong><em>Terwilliger et al., "Recurrent Flow-Guided Semantic Forecasting", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8658639>paper</a> <a href=https://arxiv.org/pdf/1809.08318.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -383,7 +383,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Luc_2018_ECCV/>
 <details close>
-<summary><strong>Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.11496.pdf>arxiv</a></summary>
+<summary><strong><em>Luc et al., "Predicting Future Instance Segmentation By Forecasting Convolutional Features", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Pauline_Luc_Predicting_Future_Instance_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.11496.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -415,7 +415,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Chu_2018_WACV/>
 <details close>
-<summary><strong>Chu et al., "Visual Weather Temperature Prediction", WACV, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8354136>paper</a> <a href=https://arxiv.org/pdf/1801.08267.pdf>arxiv</a></summary>
+<summary><strong><em>Chu et al., "Visual Weather Temperature Prediction", WACV, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8354136>paper</a> <a href=https://arxiv.org/pdf/1801.08267.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -444,7 +444,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Wang_2018_WACV/>
 <details close>
-<summary><strong>Wang et al., "Retweet Wars: Tweet Popularity Prediction Via Dynamic Multimodal Regression", WACV, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8354308>paper</a></summary>
+<summary><strong><em>Wang et al., "Retweet Wars: Tweet Popularity Prediction Via Dynamic Multimodal Regression", WACV, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8354308>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -474,7 +474,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=He_2018_ICPR/>
 <details close>
-<summary><strong>He et al., "Aggregated Sparse Attention For Steering Angle Prediction", ICPR, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8546051>paper</a> <a href=https://arxiv.org/pdf/1803.05785.pdf>arxiv</a></summary>
+<summary><strong><em>He et al., "Aggregated Sparse Attention For Steering Angle Prediction", ICPR, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8546051>paper</a> <a href=https://arxiv.org/pdf/1803.05785.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -503,7 +503,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Al-Halah_2017_ICCV/>
 <details close>
-<summary><strong>Al-Halah et al., "Fashion Forward: Forecasting Visual Style In Fashion", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Al-Halah_Fashion_Forward_Forecasting_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06394.pdf>arxiv</a></summary>
+<summary><strong><em>Al-Halah et al., "Fashion Forward: Forecasting Visual Style In Fashion", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Al-Halah_Fashion_Forward_Forecasting_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06394.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -533,7 +533,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Luc_2017_ICCV/>
 <details close>
-<summary><strong>Luc et al., "Predicting Deeper Into The Future Of Semantic Segmentation", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1703.07684.pdf>arxiv</a> <a href=https://github.com/facebookresearch/SegmPred>code</a></summary>
+<summary><strong><em>Luc et al., "Predicting Deeper Into The Future Of Semantic Segmentation", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1703.07684.pdf>arxiv</a> <a href=https://github.com/facebookresearch/SegmPred>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -564,7 +564,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Zeng_2017_ICCV/>
 <details close>
-<summary><strong>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.05827.pdf>arxiv</a></summary>
+<summary><strong><em>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.05827.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -593,7 +593,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Jin_2017_NeurIPS/>
 <details close>
-<summary><strong>Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017.</strong> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>paper</a> <a href=https://arxiv.org/pdf/1711.03270.pdf>arxiv</a></summary>
+<summary><strong><em>Jin et al., "Predicting Scene Parsing And Motion Dynamics In The Future", NeurIPS, 2017.</em></strong> <a href=https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf>paper</a> <a href=https://arxiv.org/pdf/1711.03270.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -624,7 +624,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Sur_2017_IROS/>
 <details close>
-<summary><strong>Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017.</strong> <a href=https://ieeexplore.ieee.org/document/8206442>paper</a></summary>
+<summary><strong><em>Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017.</em></strong> <a href=https://ieeexplore.ieee.org/document/8206442>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -656,7 +656,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Mottaghi_2016_ECCV/>
 <details close>
-<summary><strong>Mottaghi et al., "What Happens If... Learning To Predict The Effect Of Forces In Images", ECCV, 2016.</strong> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46493-0_17>paper</a> <a href=https://arxiv.org/pdf/1603.05600.pdf>arxiv</a></summary>
+<summary><strong><em>Mottaghi et al., "What Happens If... Learning To Predict The Effect Of Forces In Images", ECCV, 2016.</em></strong> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46493-0_17>paper</a> <a href=https://arxiv.org/pdf/1603.05600.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -686,7 +686,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Carvajal_2016_ICPR/>
 <details close>
-<summary><strong>Carvajal et al., "Towards Miss Universe Automatic Prediction: The Evening Gown Competition", ICPR, 2016.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/7899781>paper</a> <a href=https://arxiv.org/pdf/1604.07547.pdf>arxiv</a></summary>
+<summary><strong><em>Carvajal et al., "Towards Miss Universe Automatic Prediction: The Evening Gown Competition", ICPR, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/7899781>paper</a> <a href=https://arxiv.org/pdf/1604.07547.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -715,7 +715,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Joo_2015_ICCV/>
 <details close>
-<summary><strong>Joo et al., "Automated Facial Trait Judgment And Election Outcome Prediction: Social Dimensions Of Face", ICCV, 2015.</strong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.03153.pdf>arxiv</a></summary>
+<summary><strong><em>Joo et al., "Automated Facial Trait Judgment And Election Outcome Prediction: Social Dimensions Of Face", ICCV, 2015.</em></strong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.03153.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -745,7 +745,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Wilson_2015_ICRA/>
 <details close>
-<summary><strong>Wilson et al., "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs", ICRA, 2015.</strong> <a href=https://ieeexplore.ieee.org/document/7139221>paper</a></summary>
+<summary><strong><em>Wilson et al., "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs", ICRA, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7139221>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>

@@ -16,7 +16,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <h3>Papers</h3>
 <ul><a name=Joo_2019_CVPR/>
 <details close>
-<summary><strong>Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.04158.pdf>arxiv</a></summary>
+<summary><strong><em>Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.04158.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -45,7 +45,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Ke_2019_CVPR/>
 <details close>
-<summary><strong>Ke et al., "Time-Conditioned Action Anticipation In One Shot", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Ke_Time-Conditioned_Action_Anticipation_in_One_Shot_CVPR_2019_paper.pdf>paper</a></summary>
+<summary><strong><em>Ke et al., "Time-Conditioned Action Anticipation In One Shot", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Ke_Time-Conditioned_Action_Anticipation_in_One_Shot_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -77,7 +77,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Liang_2019_CVPR/>
 <details close>
-<summary><strong>Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1902.03748.pdf>arxiv</a> <a href=https://github.com/google/next-prediction>code</a></summary>
+<summary><strong><em>Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1902.03748.pdf>arxiv</a> <a href=https://github.com/google/next-prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -106,7 +106,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Sun_2019_CVPR/>
 <details close>
-<summary><strong>Sun et al., "Relational Action Forecasting", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Relational_Action_Forecasting_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.04231.pdf>arxiv</a></summary>
+<summary><strong><em>Sun et al., "Relational Action Forecasting", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Relational_Action_Forecasting_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.04231.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -136,7 +136,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Wang_2019_CVPR/>
 <details close>
-<summary><strong>Wang et al., "Progressive Teacher-Student Learning For Early Action Prediction", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Progressive_Teacher-Student_Learning_for_Early_Action_Prediction_CVPR_2019_paper.pdf>paper</a></summary>
+<summary><strong><em>Wang et al., "Progressive Teacher-Student Learning For Early Action Prediction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Progressive_Teacher-Student_Learning_for_Early_Action_Prediction_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -167,7 +167,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Furnari_2019_ICCV/>
 <details close>
-<summary><strong>Furnari et al., "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.09035.pdf>arxiv</a> <a href=https://github.com/fpv-iplab/rulstm>code</a></summary>
+<summary><strong><em>Furnari et al., "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.09035.pdf>arxiv</a> <a href=https://github.com/fpv-iplab/rulstm>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -198,7 +198,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Gammulle_2019_ICCV/>
 <details close>
-<summary><strong>Gammulle et al., "Predicting The Future: A Jointly Learnt Model For Action Anticipation", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Gammulle_Predicting_the_Future_A_Jointly_Learnt_Model_for_Action_Anticipation_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1912.07148.pdf>arxiv</a></summary>
+<summary><strong><em>Gammulle et al., "Predicting The Future: A Jointly Learnt Model For Action Anticipation", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Gammulle_Predicting_the_Future_A_Jointly_Learnt_Model_for_Action_Anticipation_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1912.07148.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -229,7 +229,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Sener_2019_ICCV/>
 <details close>
-<summary><strong>Sener et al., "Zero-Shot Anticipation For Instructional Activities", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Sener_Zero-Shot_Anticipation_for_Instructional_Activities_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.02501.pdf>arxiv</a></summary>
+<summary><strong><em>Sener et al., "Zero-Shot Anticipation For Instructional Activities", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Sener_Zero-Shot_Anticipation_for_Instructional_Activities_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.02501.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -259,7 +259,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Zhao_2019_ICCV/>
 <details close>
-<summary><strong>Zhao et al., "Spatiotemporal Feature Residual Propagation For Action Prediction", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://github.com/JoeHEZHAO/Spatiotemporal-Residual-Propagation>code</a></summary>
+<summary><strong><em>Zhao et al., "Spatiotemporal Feature Residual Propagation For Action Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Spatiotemporal_Feature_Residual_Propagation_for_Action_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://github.com/JoeHEZHAO/Spatiotemporal-Residual-Propagation>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -290,7 +290,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Gammulle_2019_BMVC/>
 <details close>
-<summary><strong>Gammulle et al., "Forecasting Future Action Sequences With Neural Memory Networks", BMVC, 2019.</strong> <a href=https://bmvc2019.org/wp-content/uploads/papers/0585-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1909.09278.pdf>arxiv</a></summary>
+<summary><strong><em>Gammulle et al., "Forecasting Future Action Sequences With Neural Memory Networks", BMVC, 2019.</em></strong> <a href=https://bmvc2019.org/wp-content/uploads/papers/0585-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1909.09278.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -320,7 +320,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Rasouli_2019_BMVC/>
 <details close>
-<summary><strong>Rasouli et al., "Pedestrian Action Anticipation Using Contextual Feature Fusion In Stacked Rnns", BMVC, 2019.</strong> <a href=https://bmvc2019.org/wp-content/uploads/papers/0283-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2005.06582.pdf>arxiv</a> <a href=https://github.com/aras62/SF-GRU>code</a></summary>
+<summary><strong><em>Rasouli et al., "Pedestrian Action Anticipation Using Contextual Feature Fusion In Stacked Rnns", BMVC, 2019.</em></strong> <a href=https://bmvc2019.org/wp-content/uploads/papers/0283-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2005.06582.pdf>arxiv</a> <a href=https://github.com/aras62/SF-GRU>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -353,7 +353,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Ding_2019_ICRA/>
 <details close>
-<summary><strong>Ding et al., "Predicting Vehicle Behaviors Over An Extended Horizon Using Behavior Interaction Network", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8794146>paper</a> <a href=https://arxiv.org/pdf/1903.00848.pdf>arxiv</a></summary>
+<summary><strong><em>Ding et al., "Predicting Vehicle Behaviors Over An Extended Horizon Using Behavior Interaction Network", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8794146>paper</a> <a href=https://arxiv.org/pdf/1903.00848.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -384,7 +384,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Gujjar_2019_ICRA/>
 <details close>
-<summary><strong>Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8794278>paper</a></summary>
+<summary><strong><em>Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8794278>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -418,7 +418,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Saleh_2019_ICRA/>
 <details close>
-<summary><strong>Saleh et al., "Real-Time Intent Prediction Of Pedestrians For Autonomous Ground Vehicles Via Spatio-Temporal Densenet", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793991>paper</a> <a href=https://arxiv.org/pdf/1904.09862.pdf>arxiv</a></summary>
+<summary><strong><em>Saleh et al., "Real-Time Intent Prediction Of Pedestrians For Autonomous Ground Vehicles Via Spatio-Temporal Densenet", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793991>paper</a> <a href=https://arxiv.org/pdf/1904.09862.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -448,7 +448,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Scheel_2019_ICRA/>
 <details close>
-<summary><strong>Scheel et al., "Attention-Based Lane Change Prediction", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8793648>paper</a> <a href=https://arxiv.org/pdf/1903.01246.pdf>arxiv</a></summary>
+<summary><strong><em>Scheel et al., "Attention-Based Lane Change Prediction", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8793648>paper</a> <a href=https://arxiv.org/pdf/1903.01246.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -480,7 +480,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Luo_2019_IROS/>
 <details close>
-<summary><strong>Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8968192>paper</a></summary>
+<summary><strong><em>Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968192>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -510,7 +510,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Manglik_2019_IROS/>
 <details close>
-<summary><strong>Manglik et al., "Forecasting Time-To-Collision From Monocular Video: Feasibility, Dataset, And Challenges", IROS, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8967730>paper</a> <a href=https://arxiv.org/pdf/1903.09102.pdf>arxiv</a> <a href=https://github.com/aashi7/NearCollision>code</a></summary>
+<summary><strong><em>Manglik et al., "Forecasting Time-To-Collision From Monocular Video: Feasibility, Dataset, And Challenges", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8967730>paper</a> <a href=https://arxiv.org/pdf/1903.09102.pdf>arxiv</a> <a href=https://github.com/aashi7/NearCollision>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -539,7 +539,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Wu_2019_IROS/>
 <details close>
-<summary><strong>Wu et al., "Gaze-Based Intention Anticipation Over Driving Manoeuvres In Semi-Autonomous Vehicles", IROS, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8967779>paper</a></summary>
+<summary><strong><em>Wu et al., "Gaze-Based Intention Anticipation Over Driving Manoeuvres In Semi-Autonomous Vehicles", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8967779>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -570,7 +570,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Safaei_2019_WACV/>
 <details close>
-<summary><strong>Safaei et al., "Still Image Action Recognition By Predicting Spatial-Temporal Pixel Evolution", WACV, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8658386>paper</a></summary>
+<summary><strong><em>Safaei et al., "Still Image Action Recognition By Predicting Spatial-Temporal Pixel Evolution", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8658386>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -604,7 +604,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Alati_2019_ICIP/>
 <details close>
-<summary><strong>Alati et al., "Help By Predicting What To Do", ICIP, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8803155>paper</a></summary>
+<summary><strong><em>Alati et al., "Help By Predicting What To Do", ICIP, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8803155>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -637,7 +637,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Furnari_2019_ICIP/>
 <details close>
-<summary><strong>Furnari et al., "Egocentric Action Anticipation By Disentangling Encoding And Inference", ICIP, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8803534>paper</a></summary>
+<summary><strong><em>Furnari et al., "Egocentric Action Anticipation By Disentangling Encoding And Inference", ICIP, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8803534>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -667,7 +667,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Wang_2019_ICIP/>
 <details close>
-<summary><strong>Wang et al., "A Learning-Based Prediction Model For Baby Accidents", ICIP, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8803820>paper</a></summary>
+<summary><strong><em>Wang et al., "A Learning-Based Prediction Model For Baby Accidents", ICIP, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8803820>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -700,7 +700,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Farha_2018_CVPR/>
 <details close>
-<summary><strong>Abu et al., "When Will You Do What? - Anticipating Temporal Occurrences Of Activities", CVPR, 2018.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Abu_Farha_When_Will_You_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.00892.pdf>arxiv</a> <a href=https://github.com/yabufarha/anticipating-activities>code</a></summary>
+<summary><strong><em>Abu et al., "When Will You Do What? - Anticipating Temporal Occurrences Of Activities", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Abu_Farha_When_Will_You_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.00892.pdf>arxiv</a> <a href=https://github.com/yabufarha/anticipating-activities>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -730,7 +730,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Suzuki_2018_CVPR/>
 <details close>
-<summary><strong>Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", The CVPR, 2018.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02675.pdf>arxiv</a></summary>
+<summary><strong><em>Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", The CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02675.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -764,7 +764,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Yao_2018_CVPR/>
 <details close>
-<summary><strong>Yao et al., "Multiple Granularity Group Interaction Prediction", CVPR, 2018.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0721.pdf>paper</a></summary>
+<summary><strong><em>Yao et al., "Multiple Granularity Group Interaction Prediction", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0721.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -794,7 +794,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Liu_2018_CVPR_ssnet/>
 <details close>
-<summary><strong>Liu et al., "Ssnet: Scale Selection Network For Online 3D Action Prediction", CVPR, 2018.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_SSNet_Scale_Selection_CVPR_2018_paper.pdf>paper</a></summary>
+<summary><strong><em>Liu et al., "Ssnet: Scale Selection Network For Online 3D Action Prediction", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_SSNet_Scale_Selection_CVPR_2018_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -824,7 +824,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Chen_2018_ECCV/>
 <details close>
-<summary><strong>Chen et al., "Part-Activated Deep Reinforcement Learning For Action Prediction", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Chen_Part-Activated_Deep_Reinforcement_ECCV_2018_paper.pdf>paper</a></summary>
+<summary><strong><em>Chen et al., "Part-Activated Deep Reinforcement Learning For Action Prediction", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Chen_Part-Activated_Deep_Reinforcement_ECCV_2018_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -855,7 +855,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Shen_2018_ECCV/>
 <details close>
-<summary><strong>Shen et al., "Egocentric Activity Prediction Via Event Modulated Attention", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Shen_Egocentric_Activity_Prediction_ECCV_2018_paper.pdf>paper</a></summary>
+<summary><strong><em>Shen et al., "Egocentric Activity Prediction Via Event Modulated Attention", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Shen_Egocentric_Activity_Prediction_ECCV_2018_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -885,7 +885,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Shi_2018_ECCV/>
 <details close>
-<summary><strong>Shi et al., "Action Anticipation With Rbf Kernelized Feature Mapping Rnn", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuge_Shi_Action_Anticipation_with_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.07806.pdf>arxiv</a></summary>
+<summary><strong><em>Shi et al., "Action Anticipation With Rbf Kernelized Feature Mapping Rnn", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuge_Shi_Action_Anticipation_with_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.07806.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -916,7 +916,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Aliakbarian_2018_ACCV/>
 <details close>
-<summary><strong>Aliakbarian et al., "Viena: A Driving Anticipation Dataset", ACCV, 2019.</strong> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_28>paper</a> <a href=https://arxiv.org/pdf/1810.09044.pdf>arxiv</a></summary>
+<summary><strong><em>Aliakbarian et al., "Viena: A Driving Anticipation Dataset", ACCV, 2019.</em></strong> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_28>paper</a> <a href=https://arxiv.org/pdf/1810.09044.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -947,7 +947,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Butepage_2018_ICRA/>
 <details close>
-<summary><strong>Bütepage et al., "Anticipating Many Futures: Online Human Motion Prediction And Generation For Human-Robot Interaction", ICRA, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8460651>paper</a> <a href=https://arxiv.org/pdf/1702.08212.pdf>arxiv</a></summary>
+<summary><strong><em>Bütepage et al., "Anticipating Many Futures: Online Human Motion Prediction And Generation For Human-Robot Interaction", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8460651>paper</a> <a href=https://arxiv.org/pdf/1702.08212.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -977,7 +977,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Scheel_2018_ICRA/>
 <details close>
-<summary><strong>Scheel et al., "Situation Assessment For Planning Lane Changes: Combining Recurrent Models And Prediction", ICRA, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8462838/>paper</a> <a href=https://arxiv.org/pdf/1805.06776.pdf>arxiv</a></summary>
+<summary><strong><em>Scheel et al., "Situation Assessment For Planning Lane Changes: Combining Recurrent Models And Prediction", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8462838/>paper</a> <a href=https://arxiv.org/pdf/1805.06776.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1006,7 +1006,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Strickland_2018_ICRA/>
 <details close>
-<summary><strong>Strickland et al., "Deep Predictive Models For Collision Risk Assessment In Autonomous Driving", ICRA, 2018.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8461160>paper</a> <a href=https://arxiv.org/pdf/1711.10453.pdf>arxiv</a></summary>
+<summary><strong><em>Strickland et al., "Deep Predictive Models For Collision Risk Assessment In Autonomous Driving", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8461160>paper</a> <a href=https://arxiv.org/pdf/1711.10453.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1037,7 +1037,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Schydlo_2018_ICRA_2/>
 <details close>
-<summary><strong>Schydlo et al., "Anticipation In Human-Robot Cooperation: A Recurrent Neural Network Approach For Multiple Action Sequences Prediction", ICRA, 2018.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8460924>paper</a> <a href=https://arxiv.org/pdf/1802.10503.pdf>arxiv</a></summary>
+<summary><strong><em>Schydlo et al., "Anticipation In Human-Robot Cooperation: A Recurrent Neural Network Approach For Multiple Action Sequences Prediction", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8460924>paper</a> <a href=https://arxiv.org/pdf/1802.10503.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1068,7 +1068,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Ziaeetabar_2018_IROS/>
 <details close>
-<summary><strong>Ziaeetabar et al., "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning", IROS, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8593717>paper</a></summary>
+<summary><strong><em>Ziaeetabar et al., "Prediction Of Manipulation Action Classes Using Semantic Spatial Reasoning", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8593717>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1097,7 +1097,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Cho_2018_WACV/>
 <details close>
-<summary><strong>Cho et al., "A Temporal Sequence Learning For Action Recognition And Prediction", WACV, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8354149>paper</a> <a href=https://arxiv.org/pdf/1906.06813.pdf>arxiv</a></summary>
+<summary><strong><em>Cho et al., "A Temporal Sequence Learning For Action Recognition And Prediction", WACV, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8354149>paper</a> <a href=https://arxiv.org/pdf/1906.06813.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1127,7 +1127,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Casas_2018_CORL/>
 <details close>
-<summary><strong>Casas et al., "Intentnet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018.</strong> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>
+<summary><strong><em>Casas et al., "Intentnet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018.</em></strong> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1158,7 +1158,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Zhong_2018_ICIP/>
 <details close>
-<summary><strong>Zhong et al., "Unsupervised Learning For Forecasting Action Representations", ICIP, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8451428>paper</a></summary>
+<summary><strong><em>Zhong et al., "Unsupervised Learning For Forecasting Action Representations", ICIP, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8451428>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1188,7 +1188,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Butepage_2017_CVPR/>
 <details close>
-<summary><strong>Butepage et al., "Deep Representation Learning For Human Motion Prediction And Classification", CVPR, 2017.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Butepage_Deep_Representation_Learning_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1702.07486.pdf>arxiv</a></summary>
+<summary><strong><em>Butepage et al., "Deep Representation Learning For Human Motion Prediction And Classification", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Butepage_Deep_Representation_Learning_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1702.07486.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1218,7 +1218,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Kong_2017_CVPR/>
 <details close>
-<summary><strong>Kong et al., "Deep Sequential Context Networks For Action Prediction", CVPR, 2017.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Kong_Deep_Sequential_Context_CVPR_2017_paper.pdf>paper</a></summary>
+<summary><strong><em>Kong et al., "Deep Sequential Context Networks For Action Prediction", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Kong_Deep_Sequential_Context_CVPR_2017_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1249,7 +1249,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Su_2017_CVPR/>
 <details close>
-<summary><strong>Su et al., "Predicting Behaviors Of Basketball Players From First Person Videos", CVPR, 2017.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Su_Predicting_Behaviors_of_CVPR_2017_paper.pdf>paper</a></summary>
+<summary><strong><em>Su et al., "Predicting Behaviors Of Basketball Players From First Person Videos", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Su_Predicting_Behaviors_of_CVPR_2017_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1279,7 +1279,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Zeng_2017_CVPR/>
 <details close>
-<summary><strong>Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06560.pdf>arxiv</a></summary>
+<summary><strong><em>Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06560.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1310,7 +1310,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Aliakbarian_2017_ICCV/>
 <details close>
-<summary><strong>Sadegh et al., "Encouraging Lstms To Anticipate Actions Very Early", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Aliakbarian_Encouraging_LSTMs_to_ICCV_2017_paper.pdf>paper</a></summary>
+<summary><strong><em>Sadegh et al., "Encouraging Lstms To Anticipate Actions Very Early", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Aliakbarian_Encouraging_LSTMs_to_ICCV_2017_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1341,7 +1341,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Felsen_2017_ICCV/>
 <details close>
-<summary><strong>Felsen et al., "What Will Happen Next? Forecasting Player Moves In Sports Videos", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Felsen_What_Will_Happen_ICCV_2017_paper.pdf>paper</a></summary>
+<summary><strong><em>Felsen et al., "What Will Happen Next? Forecasting Player Moves In Sports Videos", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Felsen_What_Will_Happen_ICCV_2017_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1371,7 +1371,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Mahmud_2017_ICCV/>
 <details close>
-<summary><strong>Mahmud et al., "Joint Prediction Of Activity Labels And Starting Times In Untrimmed Videos", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Mahmud_Joint_Prediction_of_ICCV_2017_paper.pdf>paper</a></summary>
+<summary><strong><em>Mahmud et al., "Joint Prediction Of Activity Labels And Starting Times In Untrimmed Videos", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Mahmud_Joint_Prediction_of_ICCV_2017_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1404,7 +1404,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Qi_2017_ICCV/>
 <details close>
-<summary><strong>Qi et al., "Predicting Human Activities Using Stochastic Grammar", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_Predicting_Human_Activities_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00945.pdf>arxiv</a></summary>
+<summary><strong><em>Qi et al., "Predicting Human Activities Using Stochastic Grammar", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_Predicting_Human_Activities_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00945.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1435,7 +1435,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Rhinehart_2017_ICCV/>
 <details close>
-<summary><strong>Rhinehart et al., "First-Person Activity Forecasting With Online Inverse Reinforcement Learning", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Rhinehart_First-Person_Activity_Forecasting_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.07796.pdf>arxiv</a></summary>
+<summary><strong><em>Rhinehart et al., "First-Person Activity Forecasting With Online Inverse Reinforcement Learning", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Rhinehart_First-Person_Activity_Forecasting_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.07796.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1465,7 +1465,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Singh_2017_ICCV/>
 <details close>
-<summary><strong>Singh et al., "Online Real-Time Multiple Spatiotemporal Action Localisation And Prediction", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Online_Real-Time_Multiple_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1611.08563.pdf>arxiv</a></summary>
+<summary><strong><em>Singh et al., "Online Real-Time Multiple Spatiotemporal Action Localisation And Prediction", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Online_Real-Time_Multiple_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1611.08563.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1497,7 +1497,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Zeng_2017_ICCV/>
 <details close>
-<summary><strong>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.05827.pdf>arxiv</a></summary>
+<summary><strong><em>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.05827.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1526,7 +1526,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Rasouli_2017_ICCVW/>
 <details close>
-<summary><strong>Rasouli et al., "Are They Going To Cross? A Benchmark Dataset And Baseline For Pedestrian Crosswalk Behavior", ICCVW, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w3/Rasouli_Are_They_Going_ICCV_2017_paper.pdf>paper</a></summary>
+<summary><strong><em>Rasouli et al., "Are They Going To Cross? A Benchmark Dataset And Baseline For Pedestrian Crosswalk Behavior", ICCVW, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w3/Rasouli_Are_They_Going_ICCV_2017_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1555,7 +1555,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Gao_2017_BMVC/>
 <details close>
-<summary><strong>Gao et al., "Red: Reinforced Encoder-Decoder Networks For Action Anticipation", BMVC, 2017.</strong> <a href=http://www.bmva.org/bmvc/2017/papers/paper092/paper092.pdf>paper</a> <a href=https://arxiv.org/pdf/1707.04818.pdf>arxiv</a></summary>
+<summary><strong><em>Gao et al., "Red: Reinforced Encoder-Decoder Networks For Action Anticipation", BMVC, 2017.</em></strong> <a href=http://www.bmva.org/bmvc/2017/papers/paper092/paper092.pdf>paper</a> <a href=https://arxiv.org/pdf/1707.04818.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1587,7 +1587,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Kwak_2017_IPT/>
 <details close>
-<summary><strong>Kwak et al., "Pedestrian Intention Prediction Based On Dynamic Fuzzy Automata For Vehicle Driving At Nighttime", Infrared Physics \\& Technology, 2017.</strong> <a href=https://www.sciencedirect.com/science/article/abs/pii/S1350449516304935>paper</a></summary>
+<summary><strong><em>Kwak et al., "Pedestrian Intention Prediction Based On Dynamic Fuzzy Automata For Vehicle Driving At Nighttime", Infrared Physics \\& Technology, 2017.</em></strong> <a href=https://www.sciencedirect.com/science/article/abs/pii/S1350449516304935>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1620,7 +1620,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Jain_2016_CVPR/>
 <details close>
-<summary><strong>Jain et al., "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1511.05298.pdf>arxiv</a></summary>
+<summary><strong><em>Jain et al., "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1511.05298.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1653,7 +1653,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Vondrick_2016_CVPR_2/>
 <details close>
-<summary><strong>Vondrick et al., "Anticipating Visual Representations From Unlabeled Video", CVPR, 2016.</strong> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vondrick_Anticipating_Visual_Representations_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1504.08023.pdf>arxiv</a></summary>
+<summary><strong><em>Vondrick et al., "Anticipating Visual Representations From Unlabeled Video", CVPR, 2016.</em></strong> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vondrick_Anticipating_Visual_Representations_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1504.08023.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1683,7 +1683,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Hu_2016_ECCV/>
 <details close>
-<summary><strong>Hu et al., "Real-Time Rgb-D Activity Prediction By Soft Regression", ECCV, 2016.</strong> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46448-0_17>paper</a></summary>
+<summary><strong><em>Hu et al., "Real-Time Rgb-D Activity Prediction By Soft Regression", ECCV, 2016.</em></strong> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46448-0_17>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1714,7 +1714,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Kataoka_2016_BMVC/>
 <details close>
-<summary><strong>Kataoka et al., "Recognition Of Transitional Action For Short-Term Action Prediction Using Discriminative Temporal Cnn Feature", BMVC, 2016.</strong> <a href=http://www.bmva.org/bmvc/2016/papers/paper012/paper012.pdf>paper</a></summary>
+<summary><strong><em>Kataoka et al., "Recognition Of Transitional Action For Short-Term Action Prediction Using Discriminative Temporal Cnn Feature", BMVC, 2016.</em></strong> <a href=http://www.bmva.org/bmvc/2016/papers/paper012/paper012.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1744,7 +1744,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Chan_2016_ACCV/>
 <details close>
-<summary><strong>Chan et al., "Anticipating Accidents In Dashcam Videos", ACCV, 2017.</strong> <a href=https://link.springer.com/chapter/10.1007/978-3-319-54190-7_9>paper</a></summary>
+<summary><strong><em>Chan et al., "Anticipating Accidents In Dashcam Videos", ACCV, 2017.</em></strong> <a href=https://link.springer.com/chapter/10.1007/978-3-319-54190-7_9>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1775,7 +1775,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Jain_2016_ICRA/>
 <details close>
-<summary><strong>Jain et al., "Recurrent Neural Networks For Driver Activity Anticipation Via Sensory-Fusion Architecture", ICRA, 2016.</strong> <a href=https://ieeexplore.ieee.org/document/7487478>paper</a> <a href=https://arxiv.org/pdf/1509.05016.pdf>arxiv</a> <a href=https://github.com/asheshjain399/RNNexp>code</a></summary>
+<summary><strong><em>Jain et al., "Recurrent Neural Networks For Driver Activity Anticipation Via Sensory-Fusion Architecture", ICRA, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7487478>paper</a> <a href=https://arxiv.org/pdf/1509.05016.pdf>arxiv</a> <a href=https://github.com/asheshjain399/RNNexp>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1806,7 +1806,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Hu_2016_IROS/>
 <details close>
-<summary><strong>Hu et al., "Human Intent Forecasting Using Intrinsic Kinematic Constraints", IROS, 2016.</strong> <a href=https://ieeexplore.ieee.org/document/7759141>paper</a></summary>
+<summary><strong><em>Hu et al., "Human Intent Forecasting Using Intrinsic Kinematic Constraints", IROS, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7759141>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1838,7 +1838,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Park_2016_IROS/>
 <details close>
-<summary><strong>Park et al., "Hi Robot: Human Intention-Aware Robot Planning For Safe And Efficient Navigation In Crowds", IROS, 2016.</strong> <a href=https://ieeexplore.ieee.org/document/7759511>paper</a></summary>
+<summary><strong><em>Park et al., "Hi Robot: Human Intention-Aware Robot Planning For Safe And Efficient Navigation In Crowds", IROS, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7759511>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1868,7 +1868,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Schneemann_2016_IROS/>
 <details close>
-<summary><strong>Schneemann et al., "Context-Based Detection Of Pedestrian Crossing Intention For Autonomous Driving In Urban Environments", IROS, 2016.</strong> <a href=https://ieeexplore.ieee.org/document/7759351>paper</a></summary>
+<summary><strong><em>Schneemann et al., "Context-Based Detection Of Pedestrian Crossing Intention For Autonomous Driving In Urban Environments", IROS, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7759351>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1901,7 +1901,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Li_2016_WACV/>
 <details close>
-<summary><strong>Li et al., "Recognition Of Ongoing Complex Activities By Sequence Prediction Over A Hierarchical Label Space", WACV, 2016.</strong> <a href=https://ieeexplore.ieee.org/document/7477586>paper</a></summary>
+<summary><strong><em>Li et al., "Recognition Of Ongoing Complex Activities By Sequence Prediction Over A Hierarchical Label Space", WACV, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7477586>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1930,7 +1930,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Mahmud_2016_ICIP/>
 <details close>
-<summary><strong>Mahmud et al., "A Poisson Process Model For Activity Forecasting", ICIP, 2016.</strong> <a href=https://ieeexplore.ieee.org/document/7532978>paper</a></summary>
+<summary><strong><em>Mahmud et al., "A Poisson Process Model For Activity Forecasting", ICIP, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7532978>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1959,7 +1959,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Xu_2016_ICIP/>
 <details close>
-<summary><strong>Xu et al., "Human Activities Prediction By Learning Combinatorial Sparse Representations", ICIP, 2016.</strong> <a href=https://ieeexplore.ieee.org/document/7532452>paper</a></summary>
+<summary><strong><em>Xu et al., "Human Activities Prediction By Learning Combinatorial Sparse Representations", ICIP, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7532452>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1989,7 +1989,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Lee_2016_ICPR/>
 <details close>
-<summary><strong>Lee et al., "Human Activity Prediction Based On Sub-Volume Relationship Descriptor", ICPR, 2016.</strong> <a href=https://ieeexplore.ieee.org/document/7899939>paper</a></summary>
+<summary><strong><em>Lee et al., "Human Activity Prediction Based On Sub-Volume Relationship Descriptor", ICPR, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7899939>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2019,7 +2019,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Hariyono_2016_IES/>
 <details close>
-<summary><strong>Hariyono et al., "Estimation Of Collision Risk For Improving Driver'S Safety", IECON, 2016.</strong> <a href=https://ieeexplore.ieee.org/document/7793743>paper</a></summary>
+<summary><strong><em>Hariyono et al., "Estimation Of Collision Risk For Improving Driver'S Safety", IECON, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7793743>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2051,7 +2051,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Volz_2016_ITSC/>
 <details close>
-<summary><strong>Volz et al., "A Data-Driven Approach For Pedestrian Intention Estimation", ITSC, 2016.</strong> <a href=https://ieeexplore.ieee.org/document/7795975>paper</a></summary>
+<summary><strong><em>Volz et al., "A Data-Driven Approach For Pedestrian Intention Estimation", ITSC, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7795975>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2082,7 +2082,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Jain_2015_ICCV/>
 <details close>
-<summary><strong>Jain et al., "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models", ICCV, 2015.</strong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1504.02789.pdf>arxiv</a></summary>
+<summary><strong><em>Jain et al., "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models", ICCV, 2015.</em></strong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1504.02789.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2114,7 +2114,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Xu_2015_ICCV/>
 <details close>
-<summary><strong>Xu et al., "Activity Auto-Completion: Predicting Human Activities From Partial Videos", ICCV, 2015.</strong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Activity_Auto-Completion_Predicting_ICCV_2015_paper.pdf>paper</a></summary>
+<summary><strong><em>Xu et al., "Activity Auto-Completion: Predicting Human Activities From Partial Videos", ICCV, 2015.</em></strong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Activity_Auto-Completion_Predicting_ICCV_2015_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2144,7 +2144,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Zhou_2015_ICCV/>
 <details close>
-<summary><strong>Zhou et al., "Temporal Perception And Prediction In Ego-Centric Video", ICCV, 2015.</strong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Temporal_Perception_and_ICCV_2015_paper.pdf>paper</a> <a href=https://github.com/aditya7874/Activity-Prediction-in-EgoCentric-Videos>code</a></summary>
+<summary><strong><em>Zhou et al., "Temporal Perception And Prediction In Ego-Centric Video", ICCV, 2015.</em></strong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Zhou_Temporal_Perception_and_ICCV_2015_paper.pdf>paper</a> <a href=https://github.com/aditya7874/Activity-Prediction-in-EgoCentric-Videos>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2173,7 +2173,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Arpino_2015_ICRA/>
 <details close>
-<summary><strong>Pérez-D'Arpino et al., "Fast Target Prediction Of Human Reaching Motion For Cooperative Human-Robot Manipulation Tasks Using Time Series Classification", ICRA, 2015.</strong> <a href=https://ieeexplore.ieee.org/document/7140066>paper</a></summary>
+<summary><strong><em>Pérez-D'Arpino et al., "Fast Target Prediction Of Human Reaching Motion For Cooperative Human-Robot Manipulation Tasks Using Time Series Classification", ICRA, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7140066>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2203,7 +2203,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Zhang_2015_ICRA/>
 <details close>
-<summary><strong>Zhang et al., "Bio-Inspired Predictive Orientation Decomposition Of Skeleton Trajectories For Real-Time Human Activity Prediction", ICRA, 2015.</strong> <a href=https://ieeexplore.ieee.org/document/7139618>paper</a></summary>
+<summary><strong><em>Zhang et al., "Bio-Inspired Predictive Orientation Decomposition Of Skeleton Trajectories For Real-Time Human Activity Prediction", ICRA, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7139618>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2232,7 +2232,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Hashimoto_2015_ICVES/>
 <details close>
-<summary><strong>Hashimoto et al., "Probability Estimation For Pedestrian Crossing Intention At Signalized Crosswalks", ICVES, 2015.</strong> <a href=https://ieeexplore.ieee.org/document/7396904>paper</a></summary>
+<summary><strong><em>Hashimoto et al., "Probability Estimation For Pedestrian Crossing Intention At Signalized Crosswalks", ICVES, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7396904>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2262,7 +2262,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Kohler_2015_ITSC/>
 <details close>
-<summary><strong>Kohler et al., "Stereo-Vision-Based Pedestrian'S Intention Detection In A Moving Vehicle", ITSC, 2015.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/7313466>paper</a></summary>
+<summary><strong><em>Kohler et al., "Stereo-Vision-Based Pedestrian'S Intention Detection In A Moving Vehicle", ITSC, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/7313466>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2292,7 +2292,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Volz_2015_ITSC/>
 <details close>
-<summary><strong>Volz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015.</strong> <a href=https://ieeexplore.ieee.org/document/7313236>paper</a></summary>
+<summary><strong><em>Volz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7313236>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2324,7 +2324,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Schulz_2015_IV/>
 <details close>
-<summary><strong>Schulz et al., "Pedestrian Intention Recognition Using Latent-Dynamic Conditional Random Fields", IV, 2015.</strong> <a href=https://ieeexplore.ieee.org/document/7225754>paper</a></summary>
+<summary><strong><em>Schulz et al., "Pedestrian Intention Recognition Using Latent-Dynamic Conditional Random Fields", IV, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7225754>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>

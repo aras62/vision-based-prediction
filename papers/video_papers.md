@@ -16,7 +16,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <h3>Papers</h3>
 <ul><a name=Kwon_2019_CVPR/>
 <details close>
-<summary><strong>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
+<summary><strong><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -51,7 +51,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Castrejon_2019_ICCV/>
 <details close>
-<summary><strong>Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.12165.pdf>arxiv</a></summary>
+<summary><strong><em>Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.12165.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -84,7 +84,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Gao_2019_ICCV/>
 <details close>
-<summary><strong>Gao et al., "Disentangling Propagation And Generation For Video Prediction", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Disentangling_Propagation_and_Generation_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a></summary>
+<summary><strong><em>Gao et al., "Disentangling Propagation And Generation For Video Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Disentangling_Propagation_and_Generation_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -115,7 +115,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Ho_2019_ICCV/>
 <details close>
-<summary><strong>Ho et al., "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
+<summary><strong><em>Ho et al., "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -148,7 +148,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Ye_2019_ICCV/>
 <details close>
-<summary><strong>Ye et al., "Compositional Video Prediction", ICCV, 2019.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.08522.pdf>arxiv</a></summary>
+<summary><strong><em>Ye et al., "Compositional Video Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.08522.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -178,7 +178,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Kim_2019_NeurIPS/>
 <details close>
-<summary><strong>Kim et al., "Unsupervised Keypoint Learning For Guiding Class-Conditional Video Prediction", NeurIPS, 2019.</strong> <a href=https://papers.nips.cc/paper/8637-unsupervised-keypoint-learning-for-guiding-class-conditional-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1910.02027.pdf>arxiv</a></summary>
+<summary><strong><em>Kim et al., "Unsupervised Keypoint Learning For Guiding Class-Conditional Video Prediction", NeurIPS, 2019.</em></strong> <a href=https://papers.nips.cc/paper/8637-unsupervised-keypoint-learning-for-guiding-class-conditional-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1910.02027.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -209,7 +209,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Lee_2019_BMVC/>
 <details close>
-<summary><strong>Lee et al., "Mutual Suppression Network For Video Prediction Using Disentangled Features", BMVC, 2019.</strong> <a href=https://bmvc2019.org/wp-content/uploads/papers/0336-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.04810.pdf>arxiv</a> <a href=https://github.com/aras62/SF-GRU>code</a></summary>
+<summary><strong><em>Lee et al., "Mutual Suppression Network For Video Prediction Using Disentangled Features", BMVC, 2019.</em></strong> <a href=https://bmvc2019.org/wp-content/uploads/papers/0336-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.04810.pdf>arxiv</a> <a href=https://github.com/aras62/SF-GRU>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -240,7 +240,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Wang_2019_BMVC/>
 <details close>
-<summary><strong>Wang et al., "Order Matters: Shuffling Sequence Generation For Video Prediction", BMVC, 2019.</strong> <a href=https://bmvc2019.org/wp-content/uploads/papers/1023-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1907.08845.pdf>arxiv</a> <a href=https://github.com/andrewjywang/SEENet>code</a></summary>
+<summary><strong><em>Wang et al., "Order Matters: Shuffling Sequence Generation For Video Prediction", BMVC, 2019.</em></strong> <a href=https://bmvc2019.org/wp-content/uploads/papers/1023-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1907.08845.pdf>arxiv</a> <a href=https://github.com/andrewjywang/SEENet>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -272,7 +272,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Gujjar_2019_ICRA/>
 <details close>
-<summary><strong>Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019.</strong> <a href=https://ieeexplore.ieee.org/abstract/document/8794278>paper</a></summary>
+<summary><strong><em>Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8794278>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -301,7 +301,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Jung_2019_IROS/>
 <details close>
-<summary><strong>Jung et al., "Goal-Directed Behavior Under Variational Predictive Coding: Dynamic Organization Of Visual Attention And Working Memory", IROS, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8968597>paper</a> <a href=https://arxiv.org/pdf/1903.04932.pdf>arxiv</a></summary>
+<summary><strong><em>Jung et al., "Goal-Directed Behavior Under Variational Predictive Coding: Dynamic Organization Of Visual Attention And Working Memory", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968597>paper</a> <a href=https://arxiv.org/pdf/1903.04932.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -331,7 +331,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Ho_2019_ICIP/>
 <details close>
-<summary><strong>Ho et al., "Deep Reinforcement Learning For Video Prediction", ICIP, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8803825>paper</a></summary>
+<summary><strong><em>Ho et al., "Deep Reinforcement Learning For Video Prediction", ICIP, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8803825>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -364,7 +364,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Tang_2019_ICIP/>
 <details close>
-<summary><strong>Tang et al., "Pose Guided Global And Local Gan For Appearance Preserving Human Video Prediction", ICIP, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8803792>paper</a></summary>
+<summary><strong><em>Tang et al., "Pose Guided Global And Local Gan For Appearance Preserving Human Video Prediction", ICIP, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8803792>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -395,7 +395,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Zhang_2019_ICIP/>
 <details close>
-<summary><strong>Zhang et al., "Looking-Ahead: Neural Future Video Frame Prediction", ICIP, 2019.</strong> <a href=https://ieeexplore.ieee.org/document/8803151>paper</a></summary>
+<summary><strong><em>Zhang et al., "Looking-Ahead: Neural Future Video Frame Prediction", ICIP, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8803151>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -425,7 +425,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Xu_2018_CVPR/>
 <details close>
-<summary><strong>Xu et al., "Structure Preserving Video Prediction", CVPR, 2018.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Xu_Structure_Preserving_Video_CVPR_2018_paper.pdf>paper</a></summary>
+<summary><strong><em>Xu et al., "Structure Preserving Video Prediction", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Xu_Structure_Preserving_Video_CVPR_2018_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -457,7 +457,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Byeon_2018_ECCV/>
 <details close>
-<summary><strong>Byeon et al., "Contextvp: Fully Context-Aware Video Prediction", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wonmin_Byeon_ContextVP_Fully_Context-Aware_ECCV_2018_paper.pdf>paper</a></summary>
+<summary><strong><em>Byeon et al., "Contextvp: Fully Context-Aware Video Prediction", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wonmin_Byeon_ContextVP_Fully_Context-Aware_ECCV_2018_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -490,7 +490,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Cai_2018_ECCV/>
 <details close>
-<summary><strong>Cai et al., "Deep Video Generation, Prediction And Completion Of Human Action Sequences", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Chunyan_Bai_Deep_Video_Generation_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1711.08682.pdf>arxiv</a></summary>
+<summary><strong><em>Cai et al., "Deep Video Generation, Prediction And Completion Of Human Action Sequences", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Chunyan_Bai_Deep_Video_Generation_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1711.08682.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -521,7 +521,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Li_2018_ECCV/>
 <details close>
-<summary><strong>Li et al., "Flow-Grounded Spatial-Temporal Video Prediction From Still Images", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00626.pdf>arxiv</a> <a href=https://github.com/Yijunmaverick/FlowGrounded-VideoPrediction>code</a></summary>
+<summary><strong><em>Li et al., "Flow-Grounded Spatial-Temporal Video Prediction From Still Images", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00626.pdf>arxiv</a> <a href=https://github.com/Yijunmaverick/FlowGrounded-VideoPrediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -552,7 +552,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Liu_2018_ECCV/>
 <details close>
-<summary><strong>Liu et al., "Dyan: A Dynamical Atoms-Based Network For Video Prediction", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf)>paper</a> <a href=https://github.com/liuem607/DYAN>code</a></summary>
+<summary><strong><em>Liu et al., "Dyan: A Dynamical Atoms-Based Network For Video Prediction", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf)>paper</a> <a href=https://github.com/liuem607/DYAN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -585,7 +585,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Oliu_2018_ECCV/>
 <details close>
-<summary><strong>Oliu et al., "Folded Recurrent Neural Networks For Future Video Prediction", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Marc_Oliu_Folded_Recurrent_Neural_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1712.00311.pdf>arxiv</a></summary>
+<summary><strong><em>Oliu et al., "Folded Recurrent Neural Networks For Future Video Prediction", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Marc_Oliu_Folded_Recurrent_Neural_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1712.00311.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -618,7 +618,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Reda_2018_ECCV/>
 <details close>
-<summary><strong>Reda et al., "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1811.00684.pdf>arxiv</a></summary>
+<summary><strong><em>Reda et al., "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1811.00684.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -651,7 +651,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Zhao_2018_ECCV/>
 <details close>
-<summary><strong>Zhao et al., "Learning To Forecast And Refine Residual Motion For Image-To-Video Generation", ECCV, 2018.</strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Long_Zhao_Learning_to_Forecast_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1807.09951.pdf>arxiv</a> <a href=https://github.com/garyzhao/FRGAN>code</a></summary>
+<summary><strong><em>Zhao et al., "Learning To Forecast And Refine Residual Motion For Image-To-Video Generation", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Long_Zhao_Learning_to_Forecast_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1807.09951.pdf>arxiv</a> <a href=https://github.com/garyzhao/FRGAN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -682,7 +682,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Hsieh_2018_NeurIPS/>
 <details close>
-<summary><strong>Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018.</strong> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.04166.pdf>arxiv</a> <a href=https://github.com/jthsieh/DDPAE-video-prediction>code</a></summary>
+<summary><strong><em>Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018.</em></strong> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.04166.pdf>arxiv</a> <a href=https://github.com/jthsieh/DDPAE-video-prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -713,7 +713,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Xu_2018_NeurIPS/>
 <details close>
-<summary><strong>Xu et al., "Video Prediction Via Selective Sampling", NeurIPS, 2018.</strong> <a href=https://papers.nips.cc/paper/7442-video-prediction-via-selective-sampling.pdf>paper</a> <a href=https://github.com/xjwxjw/VPSS>code</a></summary>
+<summary><strong><em>Xu et al., "Video Prediction Via Selective Sampling", NeurIPS, 2018.</em></strong> <a href=https://papers.nips.cc/paper/7442-video-prediction-via-selective-sampling.pdf>paper</a> <a href=https://github.com/xjwxjw/VPSS>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -745,7 +745,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Wichers_2018_ICML/>
 <details close>
-<summary><strong>Wichers et al., "Hierarchical Long-Term Video Prediction Without Supervision", ICML, 2018.</strong> <a href=http://proceedings.mlr.press/v80/wichers18a.html>paper</a> <a href=https://arxiv.org/pdf/1806.04768.pdf>arxiv</a> <a href=https://bit.ly/2HqiHqx>code</a></summary>
+<summary><strong><em>Wichers et al., "Hierarchical Long-Term Video Prediction Without Supervision", ICML, 2018.</em></strong> <a href=http://proceedings.mlr.press/v80/wichers18a.html>paper</a> <a href=https://arxiv.org/pdf/1806.04768.pdf>arxiv</a> <a href=https://bit.ly/2HqiHqx>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -774,7 +774,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Bhattacharjee_2018_ACCV/>
 <details close>
-<summary><strong>Bhattacharjee et al., "Predicting Video Frames Using Feature Based Locally Guided Objectives", ACCV, 2019.</strong> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20870-7_42>paper</a></summary>
+<summary><strong><em>Bhattacharjee et al., "Predicting Video Frames Using Feature Based Locally Guided Objectives", ACCV, 2019.</em></strong> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20870-7_42>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -807,7 +807,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Ying_2018_ACCV/>
 <details close>
-<summary><strong>Ying et al., "Better Guider Predicts Future Better: Difference Guided Generative Adversarial Networks", ACCV, 2018.</strong> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20876-9_18>paper</a> <a href=https://arxiv.org/pdf/1901.01649.pdf>arxiv</a></summary>
+<summary><strong><em>Ying et al., "Better Guider Predicts Future Better: Difference Guided Generative Adversarial Networks", ACCV, 2018.</em></strong> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20876-9_18>paper</a> <a href=https://arxiv.org/pdf/1901.01649.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -841,7 +841,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Jin_2018_IROS/>
 <details close>
-<summary><strong>Jin et al., "Varnet: Exploring Variations For Unsupervised Video Prediction", IROS, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8594264>paper</a> <a href=https://github.com/jinbeibei/VarNet>code</a></summary>
+<summary><strong><em>Jin et al., "Varnet: Exploring Variations For Unsupervised Video Prediction", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8594264>paper</a> <a href=https://github.com/jinbeibei/VarNet>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -872,7 +872,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Ji_2018_WACV/>
 <details close>
-<summary><strong>Ji et al., "Dynamic Visual Sequence Prediction With Motion Flow Networks", WACV, 2018.</strong> <a href=https://ieeexplore.ieee.org/document/8354223>paper</a></summary>
+<summary><strong><em>Ji et al., "Dynamic Visual Sequence Prediction With Motion Flow Networks", WACV, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8354223>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -901,7 +901,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Lu_2017_CVPR/>
 <details close>
-<summary><strong>Lu et al., "Flexible Spatio-Temporal Networks For Video Prediction", CVPR, 2017.</strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lu_Flexible_Spatio-Temporal_Networks_CVPR_2017_paper.pdf>paper</a></summary>
+<summary><strong><em>Lu et al., "Flexible Spatio-Temporal Networks For Video Prediction", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lu_Flexible_Spatio-Temporal_Networks_CVPR_2017_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -934,7 +934,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Liang_2017_ICCV/>
 <details close>
-<summary><strong>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a> <a href=https://github.com/gurkirt/realtime-action-detection>code</a></summary>
+<summary><strong><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a> <a href=https://github.com/gurkirt/realtime-action-detection>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -968,7 +968,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Walker_2017_ICCV/>
 <details close>
-<summary><strong>Walker et al., "The Pose Knows: Video Forecasting By Generating Pose Futures", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Walker_The_Pose_Knows_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.00053.pdf>arxiv</a></summary>
+<summary><strong><em>Walker et al., "The Pose Knows: Video Forecasting By Generating Pose Futures", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Walker_The_Pose_Knows_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.00053.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -999,7 +999,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Zeng_2017_ICCV/>
 <details close>
-<summary><strong>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/supplemental/Zeng_Visual_Forecasting_by_ICCV_2017_supplemental.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.05827.pdf>arxiv</a></summary>
+<summary><strong><em>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/supplemental/Zeng_Visual_Forecasting_by_ICCV_2017_supplemental.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.05827.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1028,7 +1028,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Bhattacharjee_2017_NeurIPS/>
 <details close>
-<summary><strong>Bhattacharjee et al., "Temporal Coherency Based Criteria For Predicting Video Frames Using Deep Multi-Stage Generative Adversarial Networks", NeurIPS, 2017.</strong> <a href=https://papers.nips.cc/paper/7014-temporal-coherency-based-criteria-for-predicting-video-frames-using-deep-multi-stage-generative-adversarial-networks.pdf>paper</a></summary>
+<summary><strong><em>Bhattacharjee et al., "Temporal Coherency Based Criteria For Predicting Video Frames Using Deep Multi-Stage Generative Adversarial Networks", NeurIPS, 2017.</em></strong> <a href=https://papers.nips.cc/paper/7014-temporal-coherency-based-criteria-for-predicting-video-frames-using-deep-multi-stage-generative-adversarial-networks.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1060,7 +1060,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Wang_2017_NeurIPS/>
 <details close>
-<summary><strong>Wang et al., "Predrnn: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal Lstms", NeurIPS, 2017.</strong> <a href=https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf>paper</a> <a href=https://github.com/ujjax/pred-rnn>code</a></summary>
+<summary><strong><em>Wang et al., "Predrnn: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal Lstms", NeurIPS, 2017.</em></strong> <a href=https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf>paper</a> <a href=https://github.com/ujjax/pred-rnn>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1092,7 +1092,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Villegas_2017_ICML/>
 <details close>
-<summary><strong>Villegas et al., "Learning To Generate Long-Term Future Via Hierarchical Prediction", ICML, 2017.</strong> <a href=http://proceedings.mlr.press/v70/villegas17a.html>paper</a> <a href=https://arxiv.org/pdf/1704.05831.pdf>arxiv</a> <a href=https://github.com/rubenvillegas/icml2017hierchvid>code</a></summary>
+<summary><strong><em>Villegas et al., "Learning To Generate Long-Term Future Via Hierarchical Prediction", ICML, 2017.</em></strong> <a href=http://proceedings.mlr.press/v70/villegas17a.html>paper</a> <a href=https://arxiv.org/pdf/1704.05831.pdf>arxiv</a> <a href=https://github.com/rubenvillegas/icml2017hierchvid>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1123,7 +1123,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Finn_2016_NeurIPS/>
 <details close>
-<summary><strong>Finn et al., "Unsupervised Learning For Physical Interaction Through Video Prediction", NeurIPS, 2016.</strong> <a href=https://papers.nips.cc/paper/6161-unsupervised-learning-for-physical-interaction-through-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1605.07157.pdf>arxiv</a> <a href=https://github.com/tensorflow/models/tree/master/research/video_prediction>code</a></summary>
+<summary><strong><em>Finn et al., "Unsupervised Learning For Physical Interaction Through Video Prediction", NeurIPS, 2016.</em></strong> <a href=https://papers.nips.cc/paper/6161-unsupervised-learning-for-physical-interaction-through-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1605.07157.pdf>arxiv</a> <a href=https://github.com/tensorflow/models/tree/master/research/video_prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1154,7 +1154,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <a name=Oh_2015_NeurIPS/>
 <details close>
-<summary><strong>Oh et al., "Action-Conditional Video Prediction Using Deep Networks In Atari Games", NeurIPS, 2015.</strong> <a href=https://papers.nips.cc/paper/5859-action-conditional-video-prediction-using-deep-networks-in-atari-games.pdf>paper</a> <a href=https://arxiv.org/pdf/1507.08750.pdf>arxiv</a> <a href=https://github.com/junhyukoh/nips2015-action-conditional-video-prediction>code</a></summary>
+<summary><strong><em>Oh et al., "Action-Conditional Video Prediction Using Deep Networks In Atari Games", NeurIPS, 2015.</em></strong> <a href=https://papers.nips.cc/paper/5859-action-conditional-video-prediction-using-deep-networks-in-atari-games.pdf>paper</a> <a href=https://arxiv.org/pdf/1507.08750.pdf>arxiv</a> <a href=https://github.com/junhyukoh/nips2015-action-conditional-video-prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
