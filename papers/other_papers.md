@@ -5,7 +5,7 @@
 [Video papers](video_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action papers](action_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Trajectory papers](trajectory_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion papers](motion_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other papers](other_papers.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---
 <a name=action></a>
-<h2> <l style="color:#2f38e8";> Action Prediction Papers</l> 
+<h2 style="color:#2f38e8";> Action Prediction Papers</h2> 
 <a name=Joo_2019_CVPR/>
 <details close>
 <summary><strong>Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019.</srtong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>paper</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>arxiv</a></summary>
