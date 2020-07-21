@@ -7,6 +7,7 @@ ___
 <a name=motion></a>
 <h2 style="color:#c12fdc";> Motion Prediction Papers</h2> 
 Below is the list of Motion prediction papers sorted chronologically and according to the venues (in order of relevance) they were published in. Each paper in the list has a associated link to the publication page, and arxiv preprint or code links if available. By **clicking on the papers** you can get the following information:
+
 * **Datasets** used in the paper
 * **Metrics** used in the paper
 * **Bibtext** of the publication
