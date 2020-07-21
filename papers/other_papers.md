@@ -20,15 +20,15 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_run_time">Run Time</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_tp">TP</a></li>
-<li><a href="metrics.md#metric_tn">TN</a></li>
+<li><a href="../metrics.md#run_time">Run Time</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#tp">TP</a></li>
+<li><a href="../metrics.md#tn">TN</a></li>
 </ul>
 
 <details close>
@@ -52,12 +52,12 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_f1">F1</a></li>
+<li><a href="../metrics.md#f1">F1</a></li>
 </ul>
 
 <details close>
@@ -87,9 +87,9 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_run_time">Run Time</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
+<li><a href="../metrics.md#run_time">Run Time</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -119,8 +119,8 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_roc">ROC</a></li>
-<li><a href="metrics.md#metric_f1">F1</a></li>
+<li><a href="../metrics.md#roc">ROC</a></li>
+<li><a href="../metrics.md#f1">F1</a></li>
 </ul>
 
 <details close>
@@ -150,7 +150,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_roc">ROC</a></li>
+<li><a href="../metrics.md#roc">ROC</a></li>
 </ul>
 
 <details close>
@@ -174,13 +174,13 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="../datasets/<class 'list'>#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psi">Psi</a></li>
-<li><a href="metrics.md#metric_ism">ISM</a></li>
+<li><a href="../metrics.md#psi">Psi</a></li>
+<li><a href="../metrics.md#ism">ISM</a></li>
 </ul>
 
 <details close>
@@ -204,15 +204,15 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#fcvl">FCVL</a></li>
+<li><a href="../datasets/<class 'list'>#fcvl">FCVL</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_run_time">Run Time</a></li>
-<li><a href="metrics.md#metric_recall">Recall</a></li>
-<li><a href="metrics.md#metric_precision">Precision</a></li>
-<li><a href="metrics.md#metric_auc">AUC</a></li>
+<li><a href="../metrics.md#run_time">Run Time</a></li>
+<li><a href="../metrics.md#recall">Recall</a></li>
+<li><a href="../metrics.md#precision">Precision</a></li>
+<li><a href="../metrics.md#auc">AUC</a></li>
 </ul>
 
 <details close>
@@ -242,7 +242,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ed">ED</a></li>
+<li><a href="../metrics.md#ed">ED</a></li>
 </ul>
 
 <details close>
@@ -272,7 +272,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ed">ED</a></li>
+<li><a href="../metrics.md#ed">ED</a></li>
 </ul>
 
 <details close>
@@ -302,8 +302,8 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_recall">Recall</a></li>
-<li><a href="metrics.md#metric_precision">Precision</a></li>
+<li><a href="../metrics.md#recall">Recall</a></li>
+<li><a href="../metrics.md#precision">Precision</a></li>
 </ul>
 
 <details close>
@@ -327,14 +327,14 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#arizona">Arizona</a></li>
-<li><a href="../datasets/year_datasets.md#tuscan">Tuscan</a></li>
-<li><a href="../datasets/year_datasets.md#golden_colorado">Golden Colorado</a></li>
+<li><a href="../datasets/<class 'list'>#arizona">Arizona</a></li>
+<li><a href="../datasets/<class 'list'>#tuscan">Tuscan</a></li>
+<li><a href="../datasets/<class 'list'>#golden_colorado">Golden Colorado</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_nmape">nMAPE</a></li>
+<li><a href="../metrics.md#nmape">nMAPE</a></li>
 </ul>
 
 <details close>
@@ -358,12 +358,12 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_iou">IoU</a></li>
+<li><a href="../metrics.md#iou">IoU</a></li>
 </ul>
 
 <details close>
@@ -387,15 +387,15 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_iou">IoU</a></li>
-<li><a href="metrics.md#metric_voi">VoI</a></li>
-<li><a href="metrics.md#metric_gce">GCE</a></li>
-<li><a href="metrics.md#metric_ri">RI</a></li>
+<li><a href="../metrics.md#iou">IoU</a></li>
+<li><a href="../metrics.md#voi">VoI</a></li>
+<li><a href="../metrics.md#gce">GCE</a></li>
+<li><a href="../metrics.md#ri">RI</a></li>
 </ul>
 
 <details close>
@@ -419,12 +419,12 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#amos">AMOS</a></li>
+<li><a href="../datasets/<class 'list'>#amos">AMOS</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_rmse">RMSE</a></li>
+<li><a href="../metrics.md#rmse">RMSE</a></li>
 </ul>
 
 <details close>
@@ -448,13 +448,13 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mbi-1m">MBI-1M</a></li>
+<li><a href="../datasets/<class 'list'>#mbi-1m">MBI-1M</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_mape">MAPE</a></li>
-<li><a href="metrics.md#metric_src">SRC</a></li>
+<li><a href="../metrics.md#mape">MAPE</a></li>
+<li><a href="../metrics.md#src">SRC</a></li>
 </ul>
 
 <details close>
@@ -478,12 +478,12 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#diplecs">DIPLECS</a></li>
+<li><a href="../datasets/<class 'list'>#diplecs">DIPLECS</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_mae">MAE</a></li>
+<li><a href="../metrics.md#mae">MAE</a></li>
 </ul>
 
 <details close>
@@ -507,13 +507,13 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#amazon">Amazon</a></li>
+<li><a href="../datasets/<class 'list'>#amazon">Amazon</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_mae">MAE</a></li>
-<li><a href="metrics.md#metric_mape">MAPE</a></li>
+<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics.md#mape">MAPE</a></li>
 </ul>
 
 <details close>
@@ -537,14 +537,14 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_iou">IoU</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
+<li><a href="../metrics.md#iou">IoU</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -568,12 +568,12 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#vist">VIST</a></li>
+<li><a href="../datasets/<class 'list'>#vist">VIST</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
 
 <details close>
@@ -597,14 +597,14 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
-<li><a href="metrics.md#metric_miou">MIoU</a></li>
-<li><a href="metrics.md#metric_epe">EPE</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics.md#miou">MIoU</a></li>
+<li><a href="../metrics.md#epe">EPE</a></li>
 </ul>
 
 <details close>
@@ -634,9 +634,9 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_recall">Recall</a></li>
-<li><a href="metrics.md#metric_precision">Precision</a></li>
-<li><a href="metrics.md#metric_mcc">MCC</a></li>
+<li><a href="../metrics.md#recall">Recall</a></li>
+<li><a href="../metrics.md#precision">Precision</a></li>
+<li><a href="../metrics.md#mcc">MCC</a></li>
 </ul>
 
 <details close>
@@ -660,12 +660,12 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#sun_rgb-d">SUN RGB-D</a></li>
+<li><a href="../datasets/<class 'list'>#sun_rgb-d">SUN RGB-D</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_pcp">PCP</a></li>
+<li><a href="../metrics.md#pcp">PCP</a></li>
 </ul>
 
 <details close>
@@ -690,12 +690,12 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mu">MU</a></li>
+<li><a href="../datasets/<class 'list'>#mu">MU</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
 
 <details close>
@@ -725,7 +725,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
 
 <details close>
@@ -755,7 +755,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_mae">MAE</a></li>
+<li><a href="../metrics.md#mae">MAE</a></li>
 </ul>
 
 <details close>

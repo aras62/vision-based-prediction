@@ -20,14 +20,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../datasets/year_datasets.md#traf">TRAF</a></li>
+<li><a href="../datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="../datasets/<class 'list'>#traf">TRAF</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -51,13 +51,13 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#argoverse">ARGOVerse</a></li>
+<li><a href="../datasets/<class 'list'>#argoverse">ARGOVerse</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_minade">minADE</a></li>
-<li><a href="metrics.md#metric_minfde">minFDE</a></li>
+<li><a href="../metrics.md#minade">minADE</a></li>
+<li><a href="../metrics.md#minfde">minFDE</a></li>
 </ul>
 
 <details close>
@@ -87,9 +87,9 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_hit_rate">Hit Rate</a></li>
-<li><a href="metrics.md#metric_mined">minED</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#hit_rate">Hit Rate</a></li>
+<li><a href="../metrics.md#mined">minED</a></li>
 </ul>
 
 <details close>
@@ -113,15 +113,15 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_minade">minADE</a></li>
-<li><a href="metrics.md#metric_minfde">minFDE</a></li>
+<li><a href="../metrics.md#minade">minADE</a></li>
+<li><a href="../metrics.md#minfde">minFDE</a></li>
 </ul>
 
 <details close>
@@ -145,15 +145,15 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#actev/virat">ActEV/VIRAT</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#actev/virat">ActEV/VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -177,14 +177,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -208,14 +208,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -239,17 +239,17 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="../datasets/<class 'list'>#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
-<li><a href="metrics.md#metric_rmse">RMSE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
+<li><a href="../metrics.md#rmse">RMSE</a></li>
 </ul>
 
 <details close>
@@ -273,14 +273,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../datasets/year_datasets.md#vpm">VPM</a></li>
+<li><a href="../datasets/<class 'list'>#ngsim">NGSIM</a></li>
+<li><a href="../datasets/<class 'list'>#vpm">VPM</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -304,15 +304,15 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -336,14 +336,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -367,12 +367,12 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#fm">FM</a></li>
+<li><a href="../datasets/<class 'list'>#fm">FM</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
 
 <details close>
@@ -396,14 +396,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
-<li><a href="../datasets/year_datasets.md#pie">PIE</a></li>
+<li><a href="../datasets/<class 'list'>#jaad">JAAD</a></li>
+<li><a href="../datasets/<class 'list'>#pie">PIE</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -427,14 +427,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#carla">CARLA</a></li>
-<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/<class 'list'>#carla">CARLA</a></li>
+<li><a href="../datasets/<class 'list'>#nuscenes">nuScenes</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_meanmsd">meanMSD</a></li>
-<li><a href="metrics.md#metric_minmsd">minMSD</a></li>
+<li><a href="../metrics.md#meanmsd">meanMSD</a></li>
+<li><a href="../metrics.md#minmsd">minMSD</a></li>
 </ul>
 
 <details close>
@@ -458,13 +458,13 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ll">LL</a></li>
+<li><a href="../metrics.md#ll">LL</a></li>
 </ul>
 
 <details close>
@@ -488,14 +488,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -525,8 +525,8 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -556,7 +556,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
 </ul>
 
 <details close>
@@ -580,12 +580,12 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/<class 'list'>#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
 </ul>
 
 <details close>
@@ -609,13 +609,13 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/<class 'list'>#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ll">LL</a></li>
-<li><a href="metrics.md#metric_kld">KLD</a></li>
+<li><a href="../metrics.md#ll">LL</a></li>
+<li><a href="../metrics.md#kld">KLD</a></li>
 </ul>
 
 <details close>
@@ -639,13 +639,13 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#carla">CARLA</a></li>
+<li><a href="../datasets/<class 'list'>#carla">CARLA</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_run_time">Run Time</a></li>
-<li><a href="metrics.md#metric_rmse">RMSE</a></li>
+<li><a href="../metrics.md#run_time">Run Time</a></li>
+<li><a href="../metrics.md#rmse">RMSE</a></li>
 </ul>
 
 <details close>
@@ -669,15 +669,15 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
-<li><a href="metrics.md#metric_minade">minADE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
+<li><a href="../metrics.md#minade">minADE</a></li>
 </ul>
 
 <details close>
@@ -701,12 +701,12 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#eifp">EIFP</a></li>
+<li><a href="../datasets/<class 'list'>#eifp">EIFP</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ed">ED</a></li>
+<li><a href="../metrics.md#ed">ED</a></li>
 </ul>
 
 <details close>
@@ -730,12 +730,12 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/<class 'list'>#ngsim">NGSIM</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
 </ul>
 
 <details close>
@@ -759,16 +759,16 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#sd">SD</a></li>
+<li><a href="../datasets/<class 'list'>#interaction">INTERACTION</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -792,14 +792,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="../datasets/year_datasets.md#oxford">Oxford</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/<class 'list'>#oxford">Oxford</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
 </ul>
 
 <details close>
@@ -829,7 +829,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
 </ul>
 
 <details close>
@@ -853,14 +853,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -890,10 +890,10 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
-<li><a href="metrics.md#metric_minade">minADE</a></li>
-<li><a href="metrics.md#metric_ll">LL</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
+<li><a href="../metrics.md#minade">minADE</a></li>
+<li><a href="../metrics.md#ll">LL</a></li>
 </ul>
 
 <details close>
@@ -923,10 +923,10 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
-<li><a href="metrics.md#metric_nll">NLL</a></li>
-<li><a href="metrics.md#metric_ece">ECE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
+<li><a href="../metrics.md#nll">NLL</a></li>
+<li><a href="../metrics.md#ece">ECE</a></li>
 </ul>
 
 <details close>
@@ -950,14 +950,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#eifp">EIFP</a></li>
-<li><a href="../datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="../datasets/<class 'list'>#eifp">EIFP</a></li>
+<li><a href="../datasets/<class 'list'>#lankershim_boulevard">Lankershim Boulevard</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -981,16 +981,16 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#pets2009">PETS2009</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#sd">SD</a></li>
+<li><a href="../datasets/<class 'list'>#pets2009">PETS2009</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -1014,12 +1014,12 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mot">MOT</a></li>
+<li><a href="../datasets/<class 'list'>#mot">MOT</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
 </ul>
 
 <details close>
@@ -1043,13 +1043,13 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cityperson">CityPerson</a></li>
+<li><a href="../datasets/<class 'list'>#cityperson">CityPerson</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_nll">NLL</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#nll">NLL</a></li>
 </ul>
 
 <details close>
@@ -1073,14 +1073,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -1104,14 +1104,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -1135,13 +1135,13 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#sbuki">SBUKI</a></li>
-<li><a href="../datasets/year_datasets.md#ca">CA</a></li>
+<li><a href="../datasets/<class 'list'>#sbuki">SBUKI</a></li>
+<li><a href="../datasets/<class 'list'>#ca">CA</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
 </ul>
 
 <details close>
@@ -1165,17 +1165,17 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#chuk">CHUK</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#gc">GC</a></li>
+<li><a href="../datasets/<class 'list'>#chuk">CHUK</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
-<li><a href="metrics.md#metric_ande">ANDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
+<li><a href="../metrics.md#ande">ANDE</a></li>
 </ul>
 
 <details close>
@@ -1205,9 +1205,9 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_miss_rate">Miss rate</a></li>
-<li><a href="metrics.md#metric_maxd">maxD</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#miss_rate">Miss rate</a></li>
+<li><a href="../metrics.md#maxd">maxD</a></li>
 </ul>
 
 <details close>
@@ -1231,14 +1231,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_meanmsd">meanMSD</a></li>
-<li><a href="metrics.md#metric_minmsd">minMSD</a></li>
-<li><a href="metrics.md#metric_ce">CE</a></li>
+<li><a href="../metrics.md#meanmsd">meanMSD</a></li>
+<li><a href="../metrics.md#minmsd">minMSD</a></li>
+<li><a href="../metrics.md#ce">CE</a></li>
 </ul>
 
 <details close>
@@ -1262,14 +1262,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -1300,7 +1300,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ed">ED</a></li>
+<li><a href="../metrics.md#ed">ED</a></li>
 </ul>
 
 <details close>
@@ -1330,7 +1330,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ed">ED</a></li>
+<li><a href="../metrics.md#ed">ED</a></li>
 </ul>
 
 <details close>
@@ -1354,12 +1354,12 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ed">ED</a></li>
+<li><a href="../metrics.md#ed">ED</a></li>
 </ul>
 
 <details close>
@@ -1389,7 +1389,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_app">APP</a></li>
+<li><a href="../metrics.md#app">APP</a></li>
 </ul>
 
 <details close>
@@ -1413,14 +1413,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#atc">ATC</a></li>
+<li><a href="../datasets/<class 'list'>#atc">ATC</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_run_time">Run Time</a></li>
-<li><a href="metrics.md#metric_mhd">MHD</a></li>
-<li><a href="metrics.md#metric_nlp">NLP</a></li>
+<li><a href="../metrics.md#run_time">Run Time</a></li>
+<li><a href="../metrics.md#mhd">MHD</a></li>
+<li><a href="../metrics.md#nlp">NLP</a></li>
 </ul>
 
 <details close>
@@ -1444,14 +1444,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#strands">STRANDS</a></li>
-<li><a href="../datasets/year_datasets.md#l-cas">L-CAS</a></li>
+<li><a href="../datasets/<class 'list'>#strands">STRANDS</a></li>
+<li><a href="../datasets/<class 'list'>#l-cas">L-CAS</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_aede">AEDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#aede">AEDE</a></li>
 </ul>
 
 <details close>
@@ -1475,14 +1475,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -1512,8 +1512,8 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_mhd">MHD</a></li>
-<li><a href="metrics.md#metric_nlp">NLP</a></li>
+<li><a href="../metrics.md#mhd">MHD</a></li>
+<li><a href="../metrics.md#nlp">NLP</a></li>
 </ul>
 
 <details close>
@@ -1543,8 +1543,8 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ll">LL</a></li>
-<li><a href="metrics.md#metric_wrmse">WRMSE</a></li>
+<li><a href="../metrics.md#ll">LL</a></li>
+<li><a href="../metrics.md#wrmse">WRMSE</a></li>
 </ul>
 
 <details close>
@@ -1574,8 +1574,8 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_run_time">Run Time</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#run_time">Run Time</a></li>
 </ul>
 
 <details close>
@@ -1605,8 +1605,8 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
-<li><a href="metrics.md#metric_l1">L1</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics.md#l1">L1</a></li>
 </ul>
 
 <details close>
@@ -1636,8 +1636,8 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_nll">NLL</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#nll">NLL</a></li>
 </ul>
 
 <details close>
@@ -1661,15 +1661,15 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
-<li><a href="metrics.md#metric_mane">MAnE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
+<li><a href="../metrics.md#mane">MAnE</a></li>
 </ul>
 
 <details close>
@@ -1693,14 +1693,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -1724,12 +1724,12 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
 </ul>
 
 <details close>
@@ -1753,16 +1753,16 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ed">ED</a></li>
-<li><a href="metrics.md#metric_mined">minED</a></li>
-<li><a href="metrics.md#metric_maxd">maxD</a></li>
-<li><a href="metrics.md#metric_miss_rate">Miss rate</a></li>
+<li><a href="../metrics.md#ed">ED</a></li>
+<li><a href="../metrics.md#mined">minED</a></li>
+<li><a href="../metrics.md#maxd">maxD</a></li>
+<li><a href="../metrics.md#miss_rate">Miss rate</a></li>
 </ul>
 
 <details close>
@@ -1786,14 +1786,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#town_center">Town Center</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_nll">NLL</a></li>
-<li><a href="metrics.md#metric_scr">SCR</a></li>
+<li><a href="../metrics.md#nll">NLL</a></li>
+<li><a href="../metrics.md#scr">SCR</a></li>
 </ul>
 
 <details close>
@@ -1823,9 +1823,9 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_kld">KLD</a></li>
-<li><a href="metrics.md#metric_accuracy">Accuracy</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#kld">KLD</a></li>
+<li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
 
 <details close>
@@ -1855,7 +1855,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_pd">PD</a></li>
+<li><a href="../metrics.md#pd">PD</a></li>
 </ul>
 
 <details close>
@@ -1879,15 +1879,15 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#eth">ETH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
-<li><a href="metrics.md#metric_ande">ANDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
+<li><a href="../metrics.md#ande">ANDE</a></li>
 </ul>
 
 <details close>
@@ -1911,14 +1911,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#qmul">QMUL</a></li>
+<li><a href="../datasets/<class 'list'>#gc">GC</a></li>
+<li><a href="../datasets/<class 'list'>#qmul">QMUL</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_precision">Precision</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#precision">Precision</a></li>
 </ul>
 
 <details close>
@@ -1942,13 +1942,13 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/<class 'list'>#ucy">UCY</a></li>
+<li><a href="../datasets/<class 'list'>#sd">SD</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
 </ul>
 
 <details close>
@@ -1973,13 +1973,13 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/<class 'list'>#gc">GC</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_fde">FDE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
 
 <details close>
@@ -2010,7 +2010,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_hit_rate">Hit Rate</a></li>
+<li><a href="../metrics.md#hit_rate">Hit Rate</a></li>
 </ul>
 
 <details close>
@@ -2040,7 +2040,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ed">ED</a></li>
+<li><a href="../metrics.md#ed">ED</a></li>
 </ul>
 
 <details close>
@@ -2064,14 +2064,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#virat">VIRAT</a></li>
+<li><a href="../datasets/<class 'list'>#virat">VIRAT</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_nll">NLL</a></li>
-<li><a href="metrics.md#metric_run_time">Run Time</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#nll">NLL</a></li>
+<li><a href="../metrics.md#run_time">Run Time</a></li>
 </ul>
 
 <details close>
@@ -2101,7 +2101,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
 </ul>
 
 <details close>
@@ -2131,7 +2131,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ed">ED</a></li>
+<li><a href="../metrics.md#ed">ED</a></li>
 </ul>
 
 <details close>
@@ -2155,16 +2155,16 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#osu">OSU</a></li>
+<li><a href="../datasets/<class 'list'>#osu">OSU</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_nll">NLL</a></li>
-<li><a href="metrics.md#metric_kld">KLD</a></li>
-<li><a href="metrics.md#metric_mhd">MHD</a></li>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
-<li><a href="metrics.md#metric_dtg">DtG</a></li>
+<li><a href="../metrics.md#nll">NLL</a></li>
+<li><a href="../metrics.md#kld">KLD</a></li>
+<li><a href="../metrics.md#mhd">MHD</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics.md#dtg">DtG</a></li>
 </ul>
 
 <details close>
@@ -2194,7 +2194,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_fnm">FNM</a></li>
+<li><a href="../metrics.md#fnm">FNM</a></li>
 </ul>
 
 <details close>
@@ -2218,12 +2218,12 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tum_kitchen">TUM Kitchen</a></li>
+<li><a href="../datasets/<class 'list'>#tum_kitchen">TUM Kitchen</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ed">ED</a></li>
+<li><a href="../metrics.md#ed">ED</a></li>
 </ul>
 
 <details close>
@@ -2247,14 +2247,14 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#mitt">MITT</a></li>
+<li><a href="../datasets/<class 'list'>#gc">GC</a></li>
+<li><a href="../datasets/<class 'list'>#mitt">MITT</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ed">ED</a></li>
-<li><a href="metrics.md#metric_run_time">Run Time</a></li>
+<li><a href="../metrics.md#ed">ED</a></li>
+<li><a href="../metrics.md#run_time">Run Time</a></li>
 </ul>
 
 <details close>
@@ -2278,13 +2278,13 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
+<li><a href="../datasets/<class 'list'>#daimler_path">Daimler Path</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ade">ADE</a></li>
-<li><a href="metrics.md#metric_ed">ED</a></li>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#ed">ED</a></li>
 </ul>
 
 <details close>
@@ -2314,7 +2314,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_none">None</a></li>
+<li><a href="../metrics.md#none">None</a></li>
 </ul>
 
 <details close>

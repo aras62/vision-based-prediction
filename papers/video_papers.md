@@ -20,18 +20,18 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="../datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/<class 'list'>#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="../datasets/<class 'list'>#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
 <details close>
@@ -55,16 +55,16 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/<class 'list'>#mmnist">MMNIST</a></li>
+<li><a href="../datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/<class 'list'>#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_lpips">LPIPS</a></li>
-<li><a href="metrics.md#metric_fvd">FVD</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#lpips">LPIPS</a></li>
+<li><a href="../metrics.md#fvd">FVD</a></li>
 </ul>
 
 <details close>
@@ -88,14 +88,14 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 
 <details close>
@@ -119,16 +119,16 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/<class 'list'>#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
 <details close>
@@ -152,13 +152,13 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#shapestack">ShapeStack</a></li>
+<li><a href="../datasets/<class 'list'>#penn_action">Penn Action</a></li>
+<li><a href="../datasets/<class 'list'>#shapestack">ShapeStack</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_lpips">LPIPS</a></li>
+<li><a href="../metrics.md#lpips">LPIPS</a></li>
 </ul>
 
 <details close>
@@ -182,14 +182,14 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
-<li><a href="../datasets/year_datasets.md#mgif">MGIF</a></li>
+<li><a href="../datasets/<class 'list'>#penn_action">Penn Action</a></li>
+<li><a href="../datasets/<class 'list'>#uva-nemo">UvA-NEMO</a></li>
+<li><a href="../datasets/<class 'list'>#mgif">MGIF</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_fvd">FVD</a></li>
+<li><a href="../metrics.md#fvd">FVD</a></li>
 </ul>
 
 <details close>
@@ -213,14 +213,14 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/<class 'list'>#mmnist">MMNIST</a></li>
+<li><a href="../datasets/<class 'list'>#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 
 <details close>
@@ -244,15 +244,15 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#msr">MSR</a></li>
+<li><a href="../datasets/<class 'list'>#mmnist">MMNIST</a></li>
+<li><a href="../datasets/<class 'list'>#kth">KTH</a></li>
+<li><a href="../datasets/<class 'list'>#msr">MSR</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 
 <details close>
@@ -276,12 +276,12 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="../datasets/<class 'list'>#jaad">JAAD</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_l1">L1</a></li>
+<li><a href="../metrics.md#l1">L1</a></li>
 </ul>
 
 <details close>
@@ -311,7 +311,7 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_lpips">LPIPS</a></li>
+<li><a href="../metrics.md#lpips">LPIPS</a></li>
 </ul>
 
 <details close>
@@ -335,16 +335,16 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/<class 'list'>#yuv">YUV</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
 <details close>
@@ -368,14 +368,14 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/<class 'list'>#penn_action">Penn Action</a></li>
+<li><a href="../datasets/<class 'list'>#jhmdb">JHMDB</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 
 <details close>
@@ -399,13 +399,13 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 
 <details close>
@@ -429,15 +429,15 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/<class 'list'>#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 
 <details close>
@@ -461,16 +461,16 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 
 <details close>
@@ -494,14 +494,14 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 
 <details close>
@@ -525,14 +525,14 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/<class 'list'>#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_human">Human</a></li>
-<li><a href="metrics.md#metric_lpips">LPIPS</a></li>
-<li><a href="metrics.md#metric_rmse">RMSE</a></li>
+<li><a href="../metrics.md#human">Human</a></li>
+<li><a href="../metrics.md#lpips">LPIPS</a></li>
+<li><a href="../metrics.md#rmse">RMSE</a></li>
 </ul>
 
 <details close>
@@ -556,16 +556,16 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
 <details close>
@@ -589,16 +589,16 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/<class 'list'>#mmnist">MMNIST</a></li>
+<li><a href="../datasets/<class 'list'>#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
 <details close>
@@ -622,16 +622,16 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#youtube-8m">Youtube-8M</a></li>
+<li><a href="../datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/<class 'list'>#youtube-8m">Youtube-8M</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
-<li><a href="metrics.md#metric_l1">L1</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics.md#l1">L1</a></li>
 </ul>
 
 <details close>
@@ -655,14 +655,14 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#mug">MUG</a></li>
+<li><a href="../datasets/<class 'list'>#penn_action">Penn Action</a></li>
+<li><a href="../datasets/<class 'list'>#mug">MUG</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
 <details close>
@@ -686,14 +686,14 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#bouncing_ball">Bouncing Ball</a></li>
+<li><a href="../datasets/<class 'list'>#mmnist">MMNIST</a></li>
+<li><a href="../datasets/<class 'list'>#bouncing_ball">Bouncing Ball</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
-<li><a href="metrics.md#metric_bce">BCE</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics.md#bce">BCE</a></li>
 </ul>
 
 <details close>
@@ -717,15 +717,15 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/<class 'list'>#mmnist">MMNIST</a></li>
+<li><a href="../datasets/<class 'list'>#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 
 <details close>
@@ -749,12 +749,12 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_human">Human</a></li>
+<li><a href="../metrics.md#human">Human</a></li>
 </ul>
 
 <details close>
@@ -778,15 +778,15 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 
 <details close>
@@ -811,16 +811,16 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
 <details close>
@@ -845,14 +845,14 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 
 <details close>
@@ -876,12 +876,12 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
 <details close>
@@ -905,16 +905,16 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
-<li><a href="../datasets/year_datasets.md#visor">ViSOR</a></li>
-<li><a href="../datasets/year_datasets.md#prost">PROST</a></li>
+<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/<class 'list'>#mmnist">MMNIST</a></li>
+<li><a href="../datasets/<class 'list'>#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/<class 'list'>#visor">ViSOR</a></li>
+<li><a href="../datasets/<class 'list'>#prost">PROST</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -938,17 +938,17 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/<class 'list'>#thumos">THUMOS</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
 <details close>
@@ -972,14 +972,14 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/<class 'list'>#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_is">IS</a></li>
-<li><a href="metrics.md#metric_mmd">MMD</a></li>
+<li><a href="../metrics.md#is">IS</a></li>
+<li><a href="../metrics.md#mmd">MMD</a></li>
 </ul>
 
 <details close>
@@ -1003,12 +1003,12 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/<class 'list'>#mmnist">MMNIST</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_human">Human</a></li>
+<li><a href="../metrics.md#human">Human</a></li>
 </ul>
 
 <details close>
@@ -1032,15 +1032,15 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/<class 'list'>#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/<class 'list'>#kitti">KITTI</a></li>
+<li><a href="../datasets/<class 'list'>#sports-1m">Sports-1M</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 
 <details close>
@@ -1064,15 +1064,15 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/<class 'list'>#mmnist">MMNIST</a></li>
+<li><a href="../datasets/<class 'list'>#kth">KTH</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
 <details close>
@@ -1096,14 +1096,14 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/<class 'list'>#penn_action">Penn Action</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_human">Human</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#human">Human</a></li>
 </ul>
 
 <details close>
@@ -1127,14 +1127,14 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/<class 'list'>#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/<class 'list'>#bair_push">BAIR Push</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_psnr">PSNR</a></li>
-<li><a href="metrics.md#metric_ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 
 <details close>
@@ -1158,12 +1158,12 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#atari">Atari</a></li>
+<li><a href="../datasets/<class 'list'>#atari">Atari</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="metrics.md#metric_mse">MSE</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
 <details close>
