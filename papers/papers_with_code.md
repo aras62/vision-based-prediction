@@ -1,6 +1,6 @@
 <a name=top></a>
 ---
-<a href=README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Papers</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=datasets/datasets.md#top><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href=../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Papers</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../datasets/datasets.md#top><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---
 [Home](papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Video](video_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](action_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Trajectory](trajectory_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](motion_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Papers with code&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
@@ -14,38 +14,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=video></a>
 <h3 style="color:#d52b0f";> Video Prediction Papers</h3> <a href=#top>&uarr; top</a>
-<ul><a name=Lee_2019_BMVC/>
-<details close>
-<summary><strong><em>Lee et al., "Mutual Suppression Network For Video Prediction Using Disentangled Features", BMVC, 2019.</em></strong> <a href=https://bmvc2019.org/wp-content/uploads/papers/0336-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.04810.pdf>arxiv</a> <a href=https://github.com/aras62/SF-GRU>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Lee_2019_BMVC,
-    author = "Lee, Jungbeom and Lee, Jangho and Lee, Sungmin and Yoon, Sungroh",
-    title = "Mutual Suppression Network For Video Prediction Using Disentangled Features",
-    year = "2019",
-    booktitle = "BMVC"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-
-<a name=Wang_2019_BMVC/>
+<ul><a name=Wang_2019_BMVC/>
 <details close>
 <summary><strong><em>Wang et al., "Order Matters: Shuffling Sequence Generation For Video Prediction", BMVC, 2019.</em></strong> <a href=https://bmvc2019.org/wp-content/uploads/papers/1023-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1907.08845.pdf>arxiv</a> <a href=https://github.com/andrewjywang/SEENet>code</a></summary>
 <ul>
@@ -79,7 +48,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Li_2018_ECCV/>
 <details close>
-<summary><strong><em>Li et al., "Flow-Grounded Spatial-Temporal Video Prediction From Still Images", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00626.pdf>arxiv</a> <a href=https://github.com/Yijunmaverick/FlowGrounded-VideoPrediction>code</a></summary>
+<summary><strong><em>Li et al., "Flow-Grounded Spatial-Temporal Video Prediction From Still Images", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yijun_Li_Flow-Grounded_Spatial-Temporal_Video_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1807.09755.pdf>arxiv</a> <a href=https://github.com/Yijunmaverick/FlowGrounded-VideoPrediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -110,7 +79,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Liu_2018_ECCV/>
 <details close>
-<summary><strong><em>Liu et al., "Dyan: A Dynamical Atoms-Based Network For Video Prediction", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf)>paper</a> <a href=https://github.com/liuem607/DYAN>code</a></summary>
+<summary><strong><em>Liu et al., "Dyan: A Dynamical Atoms-Based Network For Video Prediction", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf>paper</a> <a href=https://github.com/liuem607/DYAN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -288,40 +257,6 @@ Below is the list of papers that have published code sorted chronologically and 
     booktitle = "IROS",
     title = "Varnet: Exploring Variations For Unsupervised Video Prediction",
     year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-
-<a name=Liang_2017_ICCV/>
-<details close>
-<summary><strong><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a> <a href=https://github.com/gurkirt/realtime-action-detection>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
-</ul>
-
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#mse">MSE</a></li>
-</ul>
-
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Liang_2017_ICCV,
-    author = "Liang, Xiaodan and Lee, Lisa and Dai, Wei and Xing, Eric P.",
-    title = "Dual Motion Gan For Future-Flow Embedded Video Prediction",
-    booktitle = "ICCV",
-    year = "2017"
 }
 </pre>
 </details>
@@ -630,6 +565,38 @@ Below is the list of papers that have published code sorted chronologically and 
     title = "When Will You Do What? - Anticipating Temporal Occurrences Of Activities",
     booktitle = "CVPR",
     year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Singh_2017_ICCV/>
+<details close>
+<summary><strong><em>Singh et al., "Online Real-Time Multiple Spatiotemporal Action Localisation And Prediction", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Online_Real-Time_Multiple_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1611.08563.pdf>arxiv</a> <a href=https://github.com/gurkirt/realtime-action-detection>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics.md#map">mAP</a></li>
+<li><a href="../metrics.md#auc">AUC</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Singh_2017_ICCV,
+    author = "Singh, Gurkirt and Saha, Suman and Sapienza, Michael and Torr, Philip H. S. and Cuzzolin, Fabio",
+    title = "Online Real-Time Multiple Spatiotemporal Action Localisation And Prediction",
+    booktitle = "ICCV",
+    year = "2017"
 }
 </pre>
 </details>
@@ -1266,7 +1233,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Zhang_2019_ICCV/>
 <details close>
-<summary><strong><em>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.04781.pdf>arxiv</a> <a href={https://jasonyzhang.com/phd/>code</a></summary>
+<summary><strong><em>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.04781.pdf>arxiv</a> <a href=https://github.com/jasonyzhang/phd>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>

@@ -7,6 +7,13 @@
 ___
 <h2>Datasets by Year</h2> 
 Below is the list of datasets grouped according to their years.Within each group, the datasets are **sorted** based on their **popularity**, (i.e how often they are used in prediction papers).
+
+ Each dataset in the list has a associated link to the publication page and/or arxiv preprint if available. By **clicking on the dataset** you can get the following information:
+
+* **Applications** that use the dataset
+* **Task** of the dataset, e.g. driving, activity, etc* **Papers** that used the dataset in chronological order* **Data types**, i.e. anotations available in the dataset
+* **Bibtext** of the dataset
+
 <a name=datasets_2019></a>
 <h2>2019</h2> <a href=#top>&uarr; top</a>
 <ul><a name=pie></a>
@@ -278,7 +285,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 <a name=nuscenes></a>
 <details close>
-<summary><l style="font-size:20px"><strong>nuScenes</strong></l> <a href=https://www.nuscenes.org/>link</a> <a href=>paper</a> <a href=https://arxiv.org/pdf/1903.11027.pdf>arxiv</a></summary> 
+<summary><l style="font-size:20px"><strong>nuScenes</strong></l> <a href=https://www.nuscenes.org/>link</a> <a href=https://arxiv.org/pdf/1903.11027.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, LIDAR, 3D bounding box, vehicle sensors, map</li>
@@ -432,7 +439,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 <a name=interaction></a>
 <details close>
-<summary><l style="font-size:20px"><strong>INTERACTION</strong></l> <a href=https://interaction-dataset.com>link</a> <a href=>paper</a> <a href=https://arxiv.org/pdf/1910.03088.pdf>arxiv</a></summary> 
+<summary><l style="font-size:20px"><strong>INTERACTION</strong></l> <a href=https://interaction-dataset.com>link</a> <a href=https://arxiv.org/pdf/1910.03088.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> Map, trajectory</li>
@@ -494,7 +501,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.04781.pdf>arxiv</a> <a href={https://jasonyzhang.com/phd/>code</a></summary>
+<summary><em>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.04781.pdf>arxiv</a> <a href=https://github.com/jasonyzhang/phd>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1571,7 +1578,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 <a name=pku-mmd></a>
 <details close>
-<summary><l style="font-size:20px"><strong>PKU-MMD</strong></l> <a href=http://www.icst.pku.edu.cn/struct/Projects/PKUMMD.html>link</a> <a href=>paper</a> <a href=https://arxiv.org/pdf/1703.07475.pdf>arxiv</a></summary> 
+<summary><l style="font-size:20px"><strong>PKU-MMD</strong></l> <a href=http://www.icst.pku.edu.cn/struct/Projects/PKUMMD.html>link</a> <a href=https://arxiv.org/pdf/1703.07475.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, IR, 3D pose, multiview, temporal segment</li>
@@ -2690,7 +2697,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 <a name=youtube-8m></a>
 <details close>
-<summary><l style="font-size:20px"><strong>Youtube-8M</strong></l> <a href=https://research.google.com/youtube8m/>link</a> <a href=>paper</a> <a href=https://arxiv.org/pdf/1609.08675.pdf>arxiv</a></summary> 
+<summary><l style="font-size:20px"><strong>Youtube-8M</strong></l> <a href=https://research.google.com/youtube8m/>link</a> <a href=https://arxiv.org/pdf/1609.08675.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
@@ -3143,7 +3150,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul>
 </details>
 <details close>
-<summary><em>Lee et al., "Mutual Suppression Network For Video Prediction Using Disentangled Features", BMVC, 2019.</em> <a href=https://bmvc2019.org/wp-content/uploads/papers/0336-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.04810.pdf>arxiv</a> <a href=https://github.com/aras62/SF-GRU>code</a></summary>
+<summary><em>Lee et al., "Mutual Suppression Network For Video Prediction Using Disentangled Features", BMVC, 2019.</em> <a href=https://bmvc2019.org/wp-content/uploads/papers/0336-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.04810.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3323,7 +3330,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul>
 </details>
 <details close>
-<summary><em>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/supplemental/Zeng_Visual_Forecasting_by_ICCV_2017_supplemental.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.05827.pdf>arxiv</a></summary>
+<summary><em>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.05827.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3403,7 +3410,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a> <a href=https://github.com/gurkirt/realtime-action-detection>code</a></summary>
+<summary><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3836,7 +3843,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 <a name=sun_rgb-d></a>
 <details close>
-<summary><l style="font-size:20px"><strong>SUN RGB-D</strong></l> <a href=http://rgbd.cs.princeton.edu/>link</a> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf>paper</a></summary> 
+<summary><l style="font-size:20px"><strong>SUN RGB-D</strong></l> <a href=http://rgbd.cs.princeton.edu/>link</a> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_SUN_RGB-D_A_2015_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGBD, 3D bounding box, object class</li>
@@ -3887,7 +3894,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 <a name=mot></a>
 <details close>
-<summary><l style="font-size:20px"><strong>MOT</strong></l> <a href=https://motchallenge.net/>link</a> <a href=>paper</a> <a href=https://arxiv.org/pdf/1504.01942.pdf>arxiv</a></summary> 
+<summary><l style="font-size:20px"><strong>MOT</strong></l> <a href=https://motchallenge.net/>link</a> <a href=https://arxiv.org/pdf/1504.01942.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box</li>
@@ -4686,7 +4693,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul>
 </details>
 <details close>
-<summary><em>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.04781.pdf>arxiv</a> <a href={https://jasonyzhang.com/phd/>code</a></summary>
+<summary><em>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.04781.pdf>arxiv</a> <a href=https://github.com/jasonyzhang/phd>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5468,7 +5475,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul>
 </details>
 <details close>
-<summary><em>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.04781.pdf>arxiv</a> <a href={https://jasonyzhang.com/phd/>code</a></summary>
+<summary><em>Zhang et al., "Predicting 3D Human Dynamics From Video", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Predicting_3D_Human_Dynamics_From_Video_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.04781.pdf>arxiv</a> <a href=https://github.com/jasonyzhang/phd>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5724,7 +5731,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul>
 </details>
 <details close>
-<summary><em>Singh et al., "Online Real-Time Multiple Spatiotemporal Action Localisation And Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Online_Real-Time_Multiple_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1611.08563.pdf>arxiv</a></summary>
+<summary><em>Singh et al., "Online Real-Time Multiple Spatiotemporal Action Localisation And Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Online_Real-Time_Multiple_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1611.08563.pdf>arxiv</a> <a href=https://github.com/gurkirt/realtime-action-detection>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6277,7 +6284,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <h2>2012</h2> <a href=#top>&uarr; top</a>
 <ul><a name=ucf-101></a>
 <details close>
-<summary><l style="font-size:20px"><strong>UCF-101</strong></l> <a href=https://www.crcv.ucf.edu/data/UCF101.php>link</a> <a href=>paper</a> <a href=https://arxiv.org/pdf/1212.0402.pdf>arxiv</a></summary> 
+<summary><l style="font-size:20px"><strong>UCF-101</strong></l> <a href=https://www.crcv.ucf.edu/data/UCF101.php>link</a> <a href=https://arxiv.org/pdf/1212.0402.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, activity label</li>
@@ -6467,7 +6474,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul>
 </details>
 <details close>
-<summary><em>Liu et al., "Dyan: A Dynamical Atoms-Based Network For Video Prediction", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf)>paper</a> <a href=https://github.com/liuem607/DYAN>code</a></summary>
+<summary><em>Liu et al., "Dyan: A Dynamical Atoms-Based Network For Video Prediction", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf>paper</a> <a href=https://github.com/liuem607/DYAN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6623,7 +6630,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul>
 </details>
 <details close>
-<summary><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a> <a href=https://github.com/gurkirt/realtime-action-detection>code</a></summary>
+<summary><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6977,7 +6984,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul>
 </details>
 <details close>
-<summary><em>Singh et al., "Online Real-Time Multiple Spatiotemporal Action Localisation And Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Online_Real-Time_Multiple_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1611.08563.pdf>arxiv</a></summary>
+<summary><em>Singh et al., "Online Real-Time Multiple Spatiotemporal Action Localisation And Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Online_Real-Time_Multiple_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1611.08563.pdf>arxiv</a> <a href=https://github.com/gurkirt/realtime-action-detection>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7182,7 +7189,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul>
 </details>
 <details close>
-<summary><em>Liu et al., "Dyan: A Dynamical Atoms-Based Network For Video Prediction", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf)>paper</a> <a href=https://github.com/liuem607/DYAN>code</a></summary>
+<summary><em>Liu et al., "Dyan: A Dynamical Atoms-Based Network For Video Prediction", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf>paper</a> <a href=https://github.com/liuem607/DYAN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7305,7 +7312,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul>
 </details>
 <details close>
-<summary><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a> <a href=https://github.com/gurkirt/realtime-action-detection>code</a></summary>
+<summary><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -9029,7 +9036,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 <a name=visor></a>
 <details close>
-<summary><l style="font-size:20px"><strong>ViSOR</strong></l> <a href=imagelab.ing.unimore.it/visor>link</a> <a href=https://link.springer.com/Article/10.1007/s11042-009-0402-9>paper</a></summary> 
+<summary><l style="font-size:20px"><strong>ViSOR</strong></l> <a href=imagelab.ing.unimore.it/visor>link</a> <a href=https://link.springer.com/article/10.1007/s11042-009-0402-9>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, bounding box, pose, attribute</li>
@@ -9297,7 +9304,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <h2>2009</h2> <a href=#top>&uarr; top</a>
 <ul><a name=eth></a>
 <details close>
-<summary><l style="font-size:20px"><strong>ETH</strong></l> <a href=http://www.vision.ee.ethz.ch/en/datasets/>link</a> <a href=https://ieeexplore.ieee.org/document/5459260>paper</a></summary> 
+<summary><l style="font-size:20px"><strong>ETH</strong></l> <a href=https://icu.ee.ethz.ch/research/datsets.html>link</a> <a href=https://ieeexplore.ieee.org/document/5459260>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB, trajectory</li>
@@ -10048,7 +10055,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul>
 </details>
 <details close>
-<summary><em>Liu et al., "Dyan: A Dynamical Atoms-Based Network For Video Prediction", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf)>paper</a> <a href=https://github.com/liuem607/DYAN>code</a></summary>
+<summary><em>Liu et al., "Dyan: A Dynamical Atoms-Based Network For Video Prediction", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf>paper</a> <a href=https://github.com/liuem607/DYAN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -10110,7 +10117,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul>
 </details>
 <details close>
-<summary><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a> <a href=https://github.com/gurkirt/realtime-action-detection>code</a></summary>
+<summary><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -11991,7 +11998,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Lee et al., "Mutual Suppression Network For Video Prediction Using Disentangled Features", BMVC, 2019.</em> <a href=https://bmvc2019.org/wp-content/uploads/papers/0336-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.04810.pdf>arxiv</a> <a href=https://github.com/aras62/SF-GRU>code</a></summary>
+<summary><em>Lee et al., "Mutual Suppression Network For Video Prediction Using Disentangled Features", BMVC, 2019.</em> <a href=https://bmvc2019.org/wp-content/uploads/papers/0336-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.04810.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -12050,7 +12057,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul>
 </details>
 <details close>
-<summary><em>Li et al., "Flow-Grounded Spatial-Temporal Video Prediction From Still Images", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00626.pdf>arxiv</a> <a href=https://github.com/Yijunmaverick/FlowGrounded-VideoPrediction>code</a></summary>
+<summary><em>Li et al., "Flow-Grounded Spatial-Temporal Video Prediction From Still Images", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yijun_Li_Flow-Grounded_Spatial-Temporal_Video_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1807.09755.pdf>arxiv</a> <a href=https://github.com/Yijunmaverick/FlowGrounded-VideoPrediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -12218,7 +12225,7 @@ Below is the list of datasets grouped according to their years.Within each group
 <h2>1981</h2> <a href=#top>&uarr; top</a>
 <ul><a name=golden_colorado></a>
 <details close>
-<summary><l style="font-size:20px"><strong>Golden Colorado</strong></l> <a href=https://www.osti.gov/dataexplorer/biblio/dataset/1052221>link</a> <a href=>paper</a></summary> 
+<summary><l style="font-size:20px"><strong>Golden Colorado</strong></l> <a href=https://www.osti.gov/dataexplorer/biblio/dataset/1052221>link</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
 <li><em><strong>Data type:</strong></em> RGB</li>

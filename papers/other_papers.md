@@ -715,7 +715,7 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 
 <a name=Joo_2015_ICCV/>
 <details close>
-<summary><strong><em>Joo et al., "Automated Facial Trait Judgment And Election Outcome Prediction: Social Dimensions Of Face", ICCV, 2015.</em></strong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.03153.pdf>arxiv</a></summary>
+<summary><strong><em>Joo et al., "Automated Facial Trait Judgment And Election Outcome Prediction: Social Dimensions Of Face", ICCV, 2015.</em></strong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Joo_Automated_Facial_Trait_ICCV_2015_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>

@@ -1465,7 +1465,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Singh_2017_ICCV/>
 <details close>
-<summary><strong><em>Singh et al., "Online Real-Time Multiple Spatiotemporal Action Localisation And Prediction", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Online_Real-Time_Multiple_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1611.08563.pdf>arxiv</a></summary>
+<summary><strong><em>Singh et al., "Online Real-Time Multiple Spatiotemporal Action Localisation And Prediction", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Online_Real-Time_Multiple_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1611.08563.pdf>arxiv</a> <a href=https://github.com/gurkirt/realtime-action-detection>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1587,7 +1587,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 
 <a name=Kwak_2017_IPT/>
 <details close>
-<summary><strong><em>Kwak et al., "Pedestrian Intention Prediction Based On Dynamic Fuzzy Automata For Vehicle Driving At Nighttime", Infrared Physics \\& Technology, 2017.</em></strong> <a href=https://www.sciencedirect.com/science/article/abs/pii/S1350449516304935>paper</a></summary>
+<summary><strong><em>Kwak et al., "Pedestrian Intention Prediction Based On Dynamic Fuzzy Automata For Vehicle Driving At Nighttime", Infrared Physics & Technology, 2017.</em></strong> <a href=https://www.sciencedirect.com/science/article/abs/pii/S1350449516304935>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1607,7 +1607,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 @Article{Kwak_2017_IPT,
     author = "Kwak, Joon-Young and Ko, Byoung Chul and Nam, Jae-Yeal",
     title = "Pedestrian Intention Prediction Based On Dynamic Fuzzy Automata For Vehicle Driving At Nighttime",
-    journal = "Infrared Physics \\\& Technology",
+    journal = "Infrared Physics \& Technology",
     volume = "81",
     pages = "41--51",
     year = "2017"

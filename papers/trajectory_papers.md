@@ -2304,7 +2304,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Mogelmose_2015_IV/>
 <details close>
-<summary><strong><em>M\ogelmose et al., "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations", IV, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7225707>paper</a></summary>
+<summary><strong><em>Mogelmose et al., "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations", IV, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7225707>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2321,7 +2321,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Mogelmose_2015_IV,
-    author = "M\ogelmose, Andreas and Trivedi, Mohan M and Moeslund, Thomas B",
+    author = "Mogelmose, Andreas and Trivedi, Mohan M and Moeslund, Thomas B",
     title = "Trajectory Analysis And Prediction For Improved Pedestrian Safety: Integrated Framework And Evaluations",
     booktitle = "IV",
     year = "2015"
