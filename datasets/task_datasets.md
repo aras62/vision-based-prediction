@@ -8,10 +8,10 @@ ___
 <h2>Datasets by Task</h2> 
 Below is the list of datasets grouped according to their tasks.Within each group, the datasets are **sorted** based on their **popularity**, (i.e how often they are used in prediction papers).
 
- Each dataset in the list has a associated link to the publication page and/or arxiv preprint if available. By **clicking on the dataset** you can get the following information:
+ Each dataset in the list has an associated link to the publication page and/or arxiv preprint if available. By **clicking on the dataset** you can get the following information:
 
 * **Applications** that use the dataset
-* **Task** of the dataset, e.g. driving, activity, etc* **Papers** that used the dataset in chronological order* **Data types**, i.e. anotations available in the dataset
+* **Task** of the dataset, e.g. driving, activity, etc* **Papers** that used the dataset in chronological order* **Data type and annotations** available in the dataset
 * **Bibtext** of the dataset
 
 <a name=datasets_Activity></a>
@@ -21,7 +21,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>UCF-101</strong></l> <a href=https://www.crcv.ucf.edu/data/UCF101.php>link</a> <a href=https://arxiv.org/pdf/1212.0402.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -794,7 +794,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Human3.6M</strong></l> <a href=http://vision.imar.ro/human3.6m/description.php>link</a> <a href=https://ieeexplore.ieee.org/document/6682899>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, 3D pose, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, 3D pose, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -1509,7 +1509,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Penn Action</strong></l> <a href=http://dreamdragon.github.io/PennAction/>link</a> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Zhang_From_Actemes_to_2013_ICCV_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, pose, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, pose, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -1794,7 +1794,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>KTH</strong></l> <a href=http://www.nada.kth.se/cvap/actions/>link</a> <a href=https://ieeexplore.ieee.org/document/1334462>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Grayscale, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> Grayscale, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -2027,7 +2027,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Joint-Annotated Human Motion Data Base (JHMDB)</strong></l> <a href=http://jhmdb.is.tue.mpg.de/>link</a> <a href=https://openaccess.thecvf.com/content_iccv_2013/papers/Jhuang_Towards_Understanding_Action_2013_ICCV_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, mask, activity label, pose, optical flow</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, mask, activity label, pose, optical flow</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -2224,7 +2224,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>CAD-120</strong></l> <a href=http://pr.cs.cornell.edu/humanactivities/data.php>link</a> <a href=https://journals.sagepub.com/doi/abs/10.1177/0278364913478446>paper</a> <a href=https://arxiv.org/pdf/1210.1207.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, 3D pose, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -2400,7 +2400,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>THUMOS</strong></l> <a href=http://www.thumos.info/home.html>link</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -2541,7 +2541,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>VIRAT</strong></l> <a href=http://viratdata.org/>link</a> <a href=https://ieeexplore.ieee.org/document/5995586>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Surveillance, Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -2624,7 +2624,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>CMU Mocap</strong></l> <a href=http://mocap.cs.cmu.edu/>link</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> 3D pose, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> 3D pose, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -2705,7 +2705,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>MGIF</strong></l> <a href=https://github.com/AliaksandrSiarohin/monkey-net>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Siarohin_Animating_Arbitrary_Objects_via_Deep_Motion_Transfer_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.08861.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -2757,7 +2757,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Atomic Visual Actions (AVA)</strong></l> <a href=https://research.google.com/ava/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gu_AVA_A_Video_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.08421.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -2808,7 +2808,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>BU Action (BUA)</strong></l> <a href=http://cs-people.bu.edu/sbargal/BU-action/>link</a> <a href=https://www.sciencedirect.com/science/article/abs/pii/S0031320317300353>paper</a> <a href=https://arxiv.org/pdf/1512.07155.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB (image), activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB (image), activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -2865,7 +2865,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>PKU-MMD</strong></l> <a href=http://www.icst.pku.edu.cn/struct/Projects/PKUMMD.html>link</a> <a href=https://arxiv.org/pdf/1703.07475.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, IR, 3D pose, multiview, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, IR, 3D pose, multiview, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity, Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -2916,7 +2916,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>NTU RGB-D</strong></l> <a href=http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1604.02808.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, IR, 3D pose, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, IR, 3D pose, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -2968,7 +2968,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Ongoing Activity (OA)</strong></l> <a href=http://www.mpii.de/ongoing-activity>link</a> <a href=https://ieeexplore.ieee.org/document/7477586>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3018,7 +3018,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Online Action Detection (OAD)</strong></l> <a href=http://www.icst.pku.edu.cn/struct/Projects/OAD.html>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46478-7_13>paper</a> <a href=https://arxiv.org/pdf/1604.05633.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, 3D pose, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3069,7 +3069,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>TV Series</strong></l> <a href=https://github.com/zhenyangli/online_action>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46454-1_17>paper</a> <a href=https://arxiv.org/pdf/1604.06506.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3122,7 +3122,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Youtube-8M</strong></l> <a href=https://research.google.com/youtube8m/>link</a> <a href=https://arxiv.org/pdf/1609.08675.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3176,7 +3176,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Watch-n-Push (WnP)</strong></l> <a href=http://watchnpatch.cs.cornell.edu/>link</a> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wu_Watch-n-Patch_Unsupervised_Understanding_2015_CVPR_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1603.03541.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, 3D pose, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3227,7 +3227,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Stanford-40</strong></l> <a href=http://vision.stanford.edu/Datasets/40actions.html>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/6126386>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB (image), bounding box, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB (image), bounding box, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3282,7 +3282,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>WIDER</strong></l> <a href=http://yjxiong.me/event_recog/WIDER/>link</a> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xiong_Recognize_Complex_Events_2015_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB (image), activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB (image), activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3337,7 +3337,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>TUM Kitchen</strong></l> <a href=https://ias.in.tum.de/dokuwiki/software/kitchen-activity-data>link</a> <a href=https://ieeexplore.ieee.org/document/5457583>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, RFID, 3D pose, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, RFID, 3D pose, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3387,7 +3387,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>MPII Human Pose</strong></l> <a href=http://human-pose.mpi-inf.mpg.de/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2014/papers/Andriluka_2D_Human_Pose_2014_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, pose, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, pose, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3439,7 +3439,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Online RGBD Action Dataset (ORGBD)</strong></l> <a href=https://sites.google.com/site/skicyyu/orgbd>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-16814-2_4>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, bounding box, 3D pose, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, bounding box, 3D pose, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3492,7 +3492,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Willow Action</strong></l> <a href=https://www.di.ens.fr/willow/research/stillactions/>link</a> <a href=http://www.bmva.org/bmvc/2010/conference/paper97/paper97.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB (image), activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB (image), activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3547,7 +3547,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>MSR Daily Activity (MSRDA)</strong></l> <a href=https://documents.uow.edu.au/~wanqing/#MSRAction3DDatasets>link</a> <a href=https://ieeexplore.ieee.org/document/6247813>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Depth, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> Depth, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3597,7 +3597,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>MSR</strong></l> <a href=https://www.microsoft.com/en-us/download/details.aspx?id=52315>link</a> <a href=https://ieeexplore.ieee.org/document/5543273>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Depth, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> Depth, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3650,7 +3650,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>UTKinect-Action (UTKA)</strong></l> <a href=http://cvrc.ece.utexas.edu/KinectDatasets/HOJ3D.html>link</a> <a href=https://ieeexplore.ieee.org/document/6239233>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, 3D pose, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3701,7 +3701,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Human Motion Database (HMDB)</strong></l> <a href=http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/>link</a> <a href=https://ieeexplore.ieee.org/document/6126543>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, mask, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, mask, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3752,7 +3752,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>InstaVariety</strong></l> <a href=https://github.com/akanazawa/human_dynamics>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kanazawa_Learning_3D_Human_Dynamics_From_Video_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.01601.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, Bounding Box, Pose</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Bounding Box, Pose</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3808,7 +3808,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>First Person Personalized Activities (FPPA)</strong></l> <a href=http://bvision11.cs.unc.edu/bigpen/yipin/ICCV2015/prediction_webpage/Prediction.html>link</a> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhou_Temporal_Perception_and_ICCV_2015_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3860,7 +3860,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Mouse Fish</strong></l> <a href=https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/behaviorAnalysis/Lie-X/Lie-X.html>link</a> <a href=https://link.springer.com/article/10.1007/s11263-017-0998-6>paper</a> <a href=https://arxiv.org/pdf/1609.03773.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Depth, 3D pose</li>
+<li><em><strong>Data type and annotations:</strong></em> Depth, 3D pose</li>
 <li><em><strong>Task:</strong></em> Animal</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -3917,7 +3917,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>CHUK Avenue</strong></l> <a href=http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html>link</a> <a href=https://openaccess.thecvf.com/content_iccv_2013/papers/Lu_Abnormal_Event_Detection_2013_ICCV_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, anomaly, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, anomaly, temporal segment</li>
 <li><em><strong>Task:</strong></em> Surveillance, Anomaly</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -4005,7 +4005,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>QMUL</strong></l> <a href=http://personal.ie.cuhk.edu.hk/~ccloy/downloads_qmul_junction.html>link</a> <a href=http://www.bmva.org/bmvc/2009/Papers/Paper077/Paper077.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, trajectory</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, trajectory</li>
 <li><em><strong>Task:</strong></em> Driving, Anomaly</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -4057,7 +4057,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>ShanghaiTech Campus (STC)</strong></l> <a href=https://svip-lab.github.io/dataset/campus_dataset.html>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Future_Frame_Prediction_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1712.09867.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, anomaly</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, anomaly</li>
 <li><em><strong>Task:</strong></em> Surveillance, Anomaly</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -4115,7 +4115,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>MPII Cooking</strong></l> <a href=https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/human-activity-recognition/mpii-cooking-activities-dataset/>link</a> <a href=https://ieeexplore.ieee.org/document/6247801>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, 3D pose, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, 3D pose, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -4227,7 +4227,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Breakfast</strong></l> <a href=http://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -4337,7 +4337,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Recipe1M</strong></l> <a href=http://pic2recipe.csail.mit.edu/>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Cross-Modal_Embeddings_With_Adversarial_Networks_for_Cooking_Recipes_and_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.01273.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB (image), text</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB (image), text</li>
 <li><em><strong>Task:</strong></em> Cooking</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -4388,7 +4388,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>YouCook2</strong></l> <a href=http://youcook2.eecs.umich.edu/>link</a> <a href=https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17344/16367>paper</a> <a href=https://arxiv.org/pdf/1703.09788.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, audio, text, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, audio, text, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -4441,7 +4441,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>50Salads</strong></l> <a href=https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/>link</a> <a href=https://dl.acm.org/doi/abs/10.1145/2493432.2493482>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -4550,7 +4550,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Epic-Kitchens</strong></l> <a href=https://epic-kitchens.github.io/2019>link</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02748.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, audio, bounding box, object class, text, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, audio, bounding box, object class, text, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -4660,7 +4660,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Georgia Tech Egocentric Activity Gaze (GTEA Gaze)</strong></l> <a href=http://www.cbi.gatech.edu/fpv/>link</a> <a href=https://link.springer.com/content/pdf/10.1007%2F978-3-642-33718-5_23.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, gaze, mask, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, gaze, mask, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -4711,7 +4711,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Georgia Tech Egocentric Activity Gaze+ (GTEA Gaze+)</strong></l> <a href=http://www.cbi.gatech.edu/fpv/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2015/papers/Li_Delving_Into_Egocentric_2015_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, gaze, mask, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, gaze, mask, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -4762,7 +4762,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Extended Georgia Tech Egocentric Activity Gaze+ (EGTEA Gaze+)</strong></l> <a href=http://www.cbi.gatech.edu/fpv/>link</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00626.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, gaze, mask, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, gaze, mask, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -4816,7 +4816,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Moving MNIST (MMNIST)</strong></l> <a href=http://www.cs.toronto.edu/~nitish/unsupervised_video/>link</a> <a href=http://proceedings.mlr.press/v37/srivastava15.pdf>paper</a> <a href=https://arxiv.org/pdf/1502.04681.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Grayscale</li>
+<li><em><strong>Data type and annotations:</strong></em> Grayscale</li>
 <li><em><strong>Task:</strong></em> Digit</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -5109,7 +5109,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>KITTI</strong></l> <a href=http://www.cvlibs.net/datasets/kitti/>link</a> <a href=https://ieeexplore.ieee.org/document/6248074>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a>, <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Stereo RGB, LIDAR, bounding box, optical flow, vehicle sensors</li>
+<li><em><strong>Data type and annotations:</strong></em> Stereo RGB, LIDAR, bounding box, optical flow, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -5587,7 +5587,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Next Generation simulationulation (NGSIM)</strong></l> <a href=https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm>link</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Map, trajectory</li>
+<li><em><strong>Data type and annotations:</strong></em> Map, trajectory</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -5897,7 +5897,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Caltech Pedestrian</strong></l> <a href=http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>link</a> <a href=https://ieeexplore.ieee.org/document/5206631>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -6199,7 +6199,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Cityscapes</strong></l> <a href=https://www.cityscapes-dataset.com/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1604.01685.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a>, <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Stereo RGB, bounding box, semantic segment, vehicle sensors</li>
+<li><em><strong>Data type and annotations:</strong></em> Stereo RGB, bounding box, semantic segment, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -6427,7 +6427,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Joint Attention in Autonomous Driving (JAAD)</strong></l> <a href=http://data.nvision2.eecs.yorku.ca/JAAD_dataset/>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w3/Rasouli_Are_They_Going_ICCV_2017_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a>, <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, attribute, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, attribute, temporal segment</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -6618,7 +6618,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Brain4Cars</strong></l> <a href=https://github.com/asheshjain399/ICCV2015_Brain4Cars>link</a> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1504.02789.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, attribute, temporal segment, vehicle sensors</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, attribute, temporal segment, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -6731,7 +6731,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Pedestrian Intention Estimation (PIE)</strong></l> <a href=http://data.nvision2.eecs.yorku.ca/PIE_dataset/>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, object class, attribute, temporal segment, vehicle sensors</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, object class, attribute, temporal segment, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -6814,7 +6814,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Daimler Path</strong></l> <a href=http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/Pedestrian_Path_Predict_GCPR_1/pedestrian_path_predict_gcpr_1.html>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-642-40602-7_18>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Stereo grayscale, bounding box, temporal segment, vehicle sensors</li>
+<li><em><strong>Data type and annotations:</strong></em> Stereo grayscale, bounding box, temporal segment, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -6892,7 +6892,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Dashcam Accident Dataset (DAD)</strong></l> <a href=https://aliensunmin.github.io/project/dashcam/>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-54190-7_9>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, object class, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, object class, temporal segment</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -6977,7 +6977,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>QMUL</strong></l> <a href=http://personal.ie.cuhk.edu.hk/~ccloy/downloads_qmul_junction.html>link</a> <a href=http://www.bmva.org/bmvc/2009/Papers/Paper077/Paper077.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, trajectory</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, trajectory</li>
 <li><em><strong>Task:</strong></em> Driving, Anomaly</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7029,7 +7029,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>INTERACTION</strong></l> <a href=https://interaction-dataset.com>link</a> <a href=https://arxiv.org/pdf/1910.03088.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Map, trajectory</li>
+<li><em><strong>Data type and annotations:</strong></em> Map, trajectory</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7083,7 +7083,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>nuScenes</strong></l> <a href=https://www.nuscenes.org/>link</a> <a href=https://arxiv.org/pdf/1903.11027.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, LIDAR, 3D bounding box, vehicle sensors, map</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, LIDAR, 3D bounding box, vehicle sensors, map</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7135,7 +7135,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Vehicle-Pedestrian-Mixed (VPM)</strong></l> <a href=http://vr.ict.ac.cn/vp-lstm.>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Bi_Joint_Prediction_for_Kinematic_Trajectories_in_Vehicle-Pedestrian-Mixed_Scenes_ICCV_2019_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7187,7 +7187,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>TRAF</strong></l> <a href=https://drive.google.com/drive/folders/1LqzJuRkx5yhOcjWFORO5WZ97v6jg8RHN>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.04767.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, object class, time-of-day</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, object class, time-of-day</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7239,7 +7239,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>CityPersons</strong></l> <a href=https://bitbucket.org/shanshanzhang/citypersons/src/default/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_CityPersons_A_Diverse_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1702.05693.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Stereo RGB, bounding box, semantic segment</li>
+<li><em><strong>Data type and annotations:</strong></em> Stereo RGB, bounding box, semantic segment</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7290,7 +7290,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Oxford Robot Car (ORC)</strong></l> <a href=https://robotcar-dataset.robots.ox.ac.uk/>link</a> <a href=https://journals.sagepub.com/doi/abs/10.1177/0278364916679498>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Stereo RGB, LIDAR, vehicle sensors</li>
+<li><em><strong>Data type and annotations:</strong></em> Stereo RGB, LIDAR, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7345,7 +7345,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>L-CAS</strong></l> <a href=https://lcas.lincoln.ac.uk/wp/research/data-sets-software/l-cas-3d-point-cloud-people-dataset/>link</a> <a href=https://ieeexplore.ieee.org/document/8202247>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> LIDAR, 3D bounding box, attribute</li>
+<li><em><strong>Data type and annotations:</strong></em> LIDAR, 3D bounding box, attribute</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7397,7 +7397,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Daimler</strong></l> <a href=http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/Daimler_Mono_Ped__Detection_Be/daimler_mono_ped__detection_be.html>link</a> <a href=https://ieeexplore.ieee.org/document/4657363>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Grayscale, bounding box</li>
+<li><em><strong>Data type and annotations:</strong></em> Grayscale, bounding box</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7453,7 +7453,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>STRANDS</strong></l> <a href=https://strands.readthedocs.io/en/latest/datasets/>link</a> <a href=https://ieeexplore.ieee.org/document/7948740>paper</a> <a href=https://arxiv.org/pdf/1604.04384.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, 3D bounding box</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, 3D bounding box</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7508,7 +7508,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Lankershim Boulevard</strong></l> <a href=https://www.fhwa.dot.gov/publications/research/operations/07029/index.cfm>link</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, trajectory</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, trajectory</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7560,7 +7560,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>ETH Pedestrian</strong></l> <a href=https://data.vision.ee.ethz.ch/cvl/aess/>link</a> <a href=https://ieeexplore.ieee.org/document/4409092>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7613,7 +7613,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Ford Campus Vision LiDAR (FCVL)</strong></l> <a href=http://robots.engin.umich.edu/SoftwareData/Ford>link</a> <a href=https://journals.sagepub.com/doi/pdf/10.1177/0278364911400640>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, LIDAR, vehicle sensors</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, LIDAR, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7669,7 +7669,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>DIPLECS</strong></l> <a href=https://cvssp.org/data/diplecs/>link</a> <a href=https://link.springer.com/content/pdf/10.1007%2F978-3-642-15567-3_12.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, vehicle sensors</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7719,7 +7719,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>ARGOVerse</strong></l> <a href=https://www.argoverse.org/data.html>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.02620.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, LIDAR, 3D bounding box, Map</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, LIDAR, 3D bounding box, Map</li>
 <li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7772,7 +7772,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>CARLA</strong></l> <a href=https://sites.google.com/view/precog>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.01296.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Driving (simulation)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7852,7 +7852,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>VIENA</strong></l> <a href=https://sites.google.com/view/viena2-project/home>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_28>paper</a> <a href=https://arxiv.org/pdf/1810.09044.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, activity label, vehicle sensors</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label, vehicle sensors</li>
 <li><em><strong>Task:</strong></em> Driving (simulation)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7907,7 +7907,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>MUG</strong></l> <a href=https://mug.ee.auth.gr/fed/>link</a> <a href=https://ieeexplore.ieee.org/document/5617662>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, keypoints, motion label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, keypoints, motion label</li>
 <li><em><strong>Task:</strong></em> Face (expression)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -7961,7 +7961,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>UvA-NEMO</strong></l> <a href=https://www.uva-nemo.org/>link</a> <a href=https://link.springer.com/content/pdf/10.1007%2F978-3-642-33712-3_38.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Face (smile)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -8016,7 +8016,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Amazon</strong></l> <a href=http://jmcauley.ucsd.edu/data/amazon/index_2014.html>link</a> <a href=https://dl.acm.org/doi/abs/10.1145/2766462.2767755>paper</a> <a href=https://arxiv.org/pdf/1506.04757.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Features, attribute, text</li>
+<li><em><strong>Data type and annotations:</strong></em> Features, attribute, text</li>
 <li><em><strong>Task:</strong></em> Fashion</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -8069,7 +8069,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Atari</strong></l> <a href=https://github.com/junhyukoh/nips2015-action-conditional-video-prediction>link</a> <a href=https://papers.nips.cc/paper/5859-action-conditional-video-prediction-using-deep-networks-in-atari-games.pdf>paper</a> <a href=https://arxiv.org/pdf/1507.08750.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Game</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -8121,7 +8121,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>UT Interaction (UTI)</strong></l> <a href=http://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html>link</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -8344,7 +8344,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>TV Human Interaction (THI)</strong></l> <a href=http://www.robots.ox.ac.uk/~alonso/tv_human_interactions.html>link</a> <a href=http://www.bmva.org/bmvc/2010/conference/paper50/abstract50.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, head pose, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, head pose, activity label</li>
 <li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -8509,7 +8509,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>BIT</strong></l> <a href=https://sites.google.com/site/alexkongy/software>link</a> <a href=https://link.springer.com/content/pdf/10.1007%2F978-3-642-33718-5_22.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label</li>
 <li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -8647,7 +8647,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Collective Activity (CA)</strong></l> <a href=http://www-personal.umich.edu/~wgchoi/eccv12/wongun_eccv12.html>link</a> <a href=https://ieeexplore.ieee.org/document/5457461>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, attribute, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, attribute, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -8698,7 +8698,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>SBU Kinetic Interction (SBUKI)</strong></l> <a href=https://www3.cs.stonybrook.edu/~kyun/research/kinect_interaction/index.html>link</a> <a href=https://ieeexplore.ieee.org/document/6239234>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, 3D pose, activity label</li>
 <li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -8749,7 +8749,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>CMU Panoptic</strong></l> <a href=http://domedb.perception.cs.cmu.edu/dataset.html>link</a> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Joo_Panoptic_Studio_A_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.03153.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, multiview, 3D pose, 3D facial landmark</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, multiview, 3D pose, 3D facial landmark</li>
 <li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -8799,7 +8799,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>PKU-MMD</strong></l> <a href=http://www.icst.pku.edu.cn/struct/Projects/PKUMMD.html>link</a> <a href=https://arxiv.org/pdf/1703.07475.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, IR, 3D pose, multiview, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, IR, 3D pose, multiview, temporal segment</li>
 <li><em><strong>Task:</strong></em> Activity, Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -8850,7 +8850,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>ACTICIPATE</strong></l> <a href=http://vislab.isr.tecnico.ulisboa.pt/datasets/>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/8460924/>paper</a> <a href=https://arxiv.org/pdf/1802.10503.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, gaze, pose</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, gaze, pose</li>
 <li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -8904,7 +8904,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Miss Universe (MU)</strong></l> <a href=http://staff.itee.uq.edu.au/lovell/MissUniverse/>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/7899781>paper</a> <a href=https://arxiv.org/pdf/1604.07547.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, scores</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, scores</li>
 <li><em><strong>Task:</strong></em> Miss universe</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -8956,7 +8956,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Future Motion (FM)</strong></l> <a href=https://mcl.korea.ac.kr/~krkim/iccv2019/index.html>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Instance-Level_Future_Motion_Estimation_in_a_Single_Image_Based_on_ICCV_2019_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, attribute</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, attribute</li>
 <li><em><strong>Task:</strong></em> Mix</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9008,7 +9008,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>YUV Videos</strong></l> <a href=http://trace.kom.aau.dk/yuv/index.html>link</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Mix videos</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9095,7 +9095,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>PROST</strong></l> <a href=www.gpu4vision.com>link</a> <a href=https://ieeexplore.ieee.org/document/5540145>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Object</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9151,7 +9151,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Bouncing Ball (BB)</strong></l> <a href=https://github.com/mbchang/dynamics>link</a> <a href=https://openreview.net/pdf?id=Bkab5dqxe>paper</a> <a href=https://arxiv.org/pdf/1612.00341.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Object (simulation)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9203,7 +9203,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>ShapeStack</strong></l> <a href=https://shapestacks.robots.ox.ac.uk/>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.08522.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, mask, stability</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, mask, stability</li>
 <li><em><strong>Task:</strong></em> Object (simulation)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9256,7 +9256,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>SYSU 3DHOI</strong></l> <a href=http://www.isee-ai.cn/~hujianfang/ProjectJOULE.html>link</a> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hu_Jointly_Learning_Heterogeneous_2015_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, 3D pose, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, 3D pose, activity label</li>
 <li><em><strong>Task:</strong></em> Object interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9337,7 +9337,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>MANIAC</strong></l> <a href=https://alexandria.physik3.uni-goettingen.de/cns-group/datasets/maniac/>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/6163000>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, semantic segment, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, semantic segment, activity label</li>
 <li><em><strong>Task:</strong></em> Object interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9389,7 +9389,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>3D POSES IN THE WILD (3DPW)</strong></l> <a href=https://virtualhumans.mpi-inf.mpg.de/3DPW/>link</a> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Timo_von_Marcard_Recovering_Accurate_3D_ECCV_2018_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, 2D/3D pose, models</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, 2D/3D pose, models</li>
 <li><em><strong>Task:</strong></em> Outdoor</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9444,7 +9444,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>SUN RGB-D</strong></l> <a href=http://rgbd.cs.princeton.edu/>link</a> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_SUN_RGB-D_A_2015_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGBD, 3D bounding box, object class</li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, 3D bounding box, object class</li>
 <li><em><strong>Task:</strong></em> Place</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9497,7 +9497,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>EgoPose</strong></l> <a href=https://github.com/Khrylx/EgoPose>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Ego-Pose_Estimation_and_Forecasting_As_Real-Time_PD_Control_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.03173.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, 3D pose</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, 3D pose</li>
 <li><em><strong>Task:</strong></em> Pose (egocentric)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9549,7 +9549,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Epic-Fail</strong></l> <a href=http://aliensunmin.github.io/project/video-Forecasting/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06560.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, trajectory, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, trajectory, temporal segment</li>
 <li><em><strong>Task:</strong></em> Risk assessment</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9603,7 +9603,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Luggage</strong></l> <a href=https://aashi7.github.io/NearCollision.html>link</a> <a href=https://ieeexplore.ieee.org/document/8967730>paper</a> <a href=https://arxiv.org/pdf/1903.09102.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> Stereo RGB, bounding box</li>
+<li><em><strong>Data type and annotations:</strong></em> Stereo RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Robot</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9655,7 +9655,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>BAIR Push</strong></l> <a href=https://sites.google.com/site/brainrobotdata/home/push-dataset>link</a> <a href=https://papers.nips.cc/paper/6161-unsupervised-learning-for-physical-interaction-through-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1605.07157.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Robot object manipulation</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9770,7 +9770,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Sports-1M</strong></l> <a href=https://cs.stanford.edu/people/karpathy/deepvideo/>link</a> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, activity label</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label</li>
 <li><em><strong>Task:</strong></em> Sport</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9883,7 +9883,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>OSU</strong></l> <a href=http://eecs.oregonstate.edu/football/tracking/dataset>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/5206801>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, attribute</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, attribute</li>
 <li><em><strong>Task:</strong></em> Sport</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -9939,7 +9939,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>UCY</strong></l> <a href=https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data>link</a> <a href=https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2007.01089.x>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, trajectory, gaze</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, trajectory, gaze</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -10675,7 +10675,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>ETH</strong></l> <a href=https://icu.ee.ethz.ch/research/datsets.html>link</a> <a href=https://ieeexplore.ieee.org/document/5459260>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, trajectory</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, trajectory</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -11263,7 +11263,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Stanford Drone (SD)</strong></l> <a href=http://cvgl.stanford.edu/projects/uav_data/>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46484-8_33>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, object class</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, object class</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -11500,7 +11500,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>New York Grand Central (GC)</strong></l> <a href=http://www.ee.cuhk.edu.hk/~xgwang/grandcentral.html>link</a> <a href=https://ieeexplore.ieee.org/document/6248013>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, trajectory</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, trajectory</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -11642,7 +11642,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Town Center</strong></l> <a href=http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/project.html#datasets>link</a> <a href=https://ieeexplore.ieee.org/document/5995667>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -11753,7 +11753,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Edinburgh Informatics Forum Pedestrian (EIFP)</strong></l> <a href=http://homepages.inf.ed.ac.uk/rbf/FORUMTRACKING/>link</a> <a href=https://homepages.inf.ed.ac.uk/rbf/FORUMTRACKING/IM090734.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -11832,7 +11832,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>VIRAT</strong></l> <a href=http://viratdata.org/>link</a> <a href=https://ieeexplore.ieee.org/document/5995586>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Surveillance, Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -11915,7 +11915,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>CHUK Avenue</strong></l> <a href=http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html>link</a> <a href=https://openaccess.thecvf.com/content_iccv_2013/papers/Lu_Abnormal_Event_Detection_2013_ICCV_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, anomaly, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, anomaly, temporal segment</li>
 <li><em><strong>Task:</strong></em> Surveillance, Anomaly</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -12003,7 +12003,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>MIT Trajectory (MITT)</strong></l> <a href=http://www.ee.cuhk.edu.hk/~xgwang/MITtrajsingle.html>link</a> <a href=https://ieeexplore.ieee.org/document/4587718>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, trajectory</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, trajectory</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -12055,7 +12055,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>PETS2009</strong></l> <a href=http://www.cvg.reading.ac.uk/PETS2009/a.html>link</a> <a href=https://ieeexplore.ieee.org/document/5399556>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -12109,7 +12109,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>ViSOR</strong></l> <a href=imagelab.ing.unimore.it/visor>link</a> <a href=https://link.springer.com/article/10.1007/s11042-009-0402-9>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, pose, attribute</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, pose, attribute</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -12166,7 +12166,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>ATC</strong></l> <a href=https://irc.atr.jp/crest2010_HRI/ATC_dataset/>link</a> <a href=https://ieeexplore.ieee.org/document/6636027>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, trajectory, attribute</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, trajectory, attribute</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -12221,7 +12221,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>MOT</strong></l> <a href=https://motchallenge.net/>link</a> <a href=https://arxiv.org/pdf/1504.01942.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -12271,7 +12271,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>ShanghaiTech Campus (STC)</strong></l> <a href=https://svip-lab.github.io/dataset/campus_dataset.html>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Future_Frame_Prediction_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1712.09867.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, anomaly</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, anomaly</li>
 <li><em><strong>Task:</strong></em> Surveillance, Anomaly</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -12327,7 +12327,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>ActEV/VIRAT</strong></l> <a href=https://actev.nist.gov/trecvid19>link</a> <a href=https://www-nlpir.nist.gov/projects/tvpubs/tv18.papers/tv18overview.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, bounding box, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, activity label, temporal segment</li>
 <li><em><strong>Task:</strong></em> Surveillance</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -12379,7 +12379,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>MicroBlog-Images (MBI-1M)</strong></l> <a href=http://academic.mywebsiteontheinternet.com/data/>link</a> <a href=https://dl.acm.org/doi/abs/10.1145/2671188.2749405>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB (image), attribute, text</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB (image), attribute, text</li>
 <li><em><strong>Task:</strong></em> Tweet</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -12432,7 +12432,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Visual Storytelling (VIST)</strong></l> <a href=http://visionandlanguage.net/VIST/>link</a> <a href=https://www.aclweb.org/anthology/N16-1147.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, text</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, text</li>
 <li><em><strong>Task:</strong></em> Visual story</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -12484,7 +12484,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Golden Colorado</strong></l> <a href=https://www.osti.gov/dataexplorer/biblio/dataset/1052221>link</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Weather</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -12536,7 +12536,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>Tuscan, Arizona</strong></l> <a href=http://www.mmto.org/>link</a> <a href=https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6267/62671A/The-MMT-all-sky-camera/10.1117/12.672508.short?SSO=1>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB</li>
 <li><em><strong>Task:</strong></em> Weather</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
@@ -12590,7 +12590,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 <summary><l style="font-size:20px"><strong>AMOS</strong></l> <a href=http://amos.cse.wustl.edu/>link</a> <a href=https://ieeexplore.ieee.org/document/4270283>paper</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type:</strong></em> RGB, temperature, time</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, temperature, time</li>
 <li><em><strong>Task:</strong></em> Weather</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
