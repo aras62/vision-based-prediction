@@ -7261,7 +7261,7 @@ Below is the list of datasets grouped according to their tasks.Within each group
 </ul></details>
 <a name=nuscenes></a>
 <details close>
-<summary><l style="font-size:20px"><strong>nuScenes</strong></l> <a href=https://www.nuscenes.org/>link</a> <a href=https://arxiv.org/pdf/1903.11027.pdf>arxiv</a></summary> 
+<summary><l style="font-size:20px"><strong>nuScenes</strong></l> <a href=https://www.nuscenes.org/>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1903.11027.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type and annotations:</strong></em> RGB, LIDAR, 3D bounding box, vehicle sensors, map</li>
