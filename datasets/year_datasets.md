@@ -331,7 +331,7 @@ Below is the list of datasets grouped according to their years.Within each group
 </ul></details>
 <a name=lyft></a>
 <details close>
-<summary><l style="font-size:20px"><strong>Lyft</strong></l> <a href=https://self-driving.lyft.com/level5/data/>link</a> <a href=https://openreview.net/pdf?id=By4HsfWAZ>paper</a></summary> 
+<summary><l style="font-size:20px"><strong>Lyft</strong></l> <a href=https://self-driving.lyft.com/level5/data/>link</a></summary> 
 <ul><li>
 <em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
 <li><em><strong>Data type and annotations:</strong></em> RGB, LIDAR, 3D Bounding Box, Object Class, Attribute, Map</li>

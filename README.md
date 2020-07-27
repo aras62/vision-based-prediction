@@ -1,6 +1,6 @@
 <a name=top></a>
 # Deep Learning for Vision-based Prediction
-This repository serves as a reference database for the paper [Deep Learning for Vision-based Prediction: A Survey](https://arxiv.org/pdf/2007.00095.pdf). Here you can find the list of **vison-based prediction** papers that use **deep learning** and are published since *2015*. The goal is to maintain this repository by adding papers published as they become available online.
+This repository serves as a reference database for the paper [Deep Learning for Vision-based Prediction: A Survey](https://arxiv.org/pdf/2007.00095.pdf). Here you can find the list of **vison-based prediction** papers that use **deep learning** and are published since **2015**. The goal is to maintain this repository by adding papers published as they become available online.
 
 All the papers contain the following information: **datasets** and **metrics** they use as well as corresponding **bibtex** and **links** to all published papers. The bibtex of all papers can also be found in `prediction_refs.bib`.
 
