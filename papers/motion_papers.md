@@ -14,7 +14,131 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 * **Bibtext** of the publication
 
 <h3>Papers</h3>
-<ul><a name=Gopalakrishnan_2019_CVPR/>
+<ul><a name=Aliakbarian_2020_CVPR/>
+<details close>
+<summary><strong><em>Aliakbarian et al., "A Stochastic Conditioning Scheme for Diverse Human Motion Prediction", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Aliakbarian_A_Stochastic_Conditioning_Scheme_for_Diverse_Human_Motion_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://github.com/mix-and-match/mix-and-match-tutorial>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#kld">KLD</a></li>
+<li><a href="../metrics.md#si">SI</a></li>
+<li><a href="../metrics.md#kl">KL</a></li>
+<li><a href="../metrics.md#s-mse">S-MSE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Aliakbarian_2020_CVPR,
+    author = "Aliakbarian, Sadegh and Saleh, Fatemeh Sadat and Salzmann, Mathieu and Petersson, Lars and Gould, Stephen",
+    title = "A Stochastic Conditioning Scheme for Diverse Human Motion Prediction",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Corona_2020_CVPR/>
+<details close>
+<summary><strong><em>Corona et al., "Context-Aware Human Motion Prediction", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Corona_Context-Aware_Human_Motion_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.03419.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#wbhm">WBHM</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#mane">MAnE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Corona_2020_CVPR,
+    author = "Corona, Enric and Pumarola, Albert and Alenya, Guillem and Moreno-Noguer, Francesc",
+    title = "Context-Aware Human Motion Prediction",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Cui_2020_CVPR/>
+<details close>
+<summary><strong><em>Cui et al., "Learning Dynamic Relationships for 3D Human Motion Prediction", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Cui_Learning_Dynamic_Relationships_for_3D_Human_Motion_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://github.com/cuiqiongjie/LDRGCN>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Cui_2020_CVPR,
+    author = "Cui, Qiongjie and Sun, Huaijiang and Yang, Fei",
+    title = "Learning Dynamic Relationships for 3D Human Motion Prediction",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Li_2020_CVPR/>
+<details close>
+<summary><strong><em>Li et al., "Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Dynamic_Multiscale_Graph_Neural_Networks_for_3D_Skeleton_Based_Human_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08802.pdf>arxiv</a> <a href=https://github.com/limaosen0/DMGNN>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#mane">MAnE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Li_2020_CVPR,
+    author = "Li, Maosen and Chen, Siheng and Zhao, Yangheng and Zhang, Ya and Wang, Yanfeng and Tian, Qi",
+    title = "Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Gopalakrishnan_2019_CVPR/>
 <details close>
 <summary><strong><em>Gopalakrishnan et al., "A Neural Temporal Model For Human Motion Prediction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1809.03036.pdf>arxiv</a> <a href=https://github.com/cr7anand/neural_temporal_models>code</a></summary>
 <ul>

@@ -14,7 +14,65 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 * **Bibtext** of the publication
 
 <h3>Papers</h3>
-<ul><a name=Joo_2019_CVPR/>
+<ul><a name=Epstein_2020_CVPR/>
+<details close>
+<summary><strong><em>Epstein et al., "Oops! Predicting Unintentional Action in Video", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Epstein_Oops_Predicting_Unintentional_Action_in_Video_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.11206.pdf>arxiv</a> <a href=https://github.com/cvlab-columbia/oops>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#oops!">Oops!</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Epstein_2020_CVPR,
+    author = "Epstein, Dave and Chen, Boyuan and Vondrick, Carl",
+    title = "Oops! Predicting Unintentional Action in Video",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Chaabane_2020_WACV/>
+<details close>
+<summary><strong><em>Chaabane et al., "Looking Ahead: Anticipating Pedestrians Crossing with Future Frames Prediction", WACV, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_WACV_2020/papers/Chaabane_Looking_Ahead_Anticipating_Pedestrians_Crossing_with_Future_Frames_Prediction_WACV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1910.09077.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#ap">AP</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Chaabane_2020_WACV,
+    author = "Chaabane, Mohamed and Trabelsi, Ameni and Blanchard, Nathaniel and Beveridge, Ross",
+    title = "Looking Ahead: Anticipating Pedestrians Crossing with Future Frames Prediction",
+    booktitle = "WACV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Joo_2019_CVPR/>
 <details close>
 <summary><strong><em>Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.04158.pdf>arxiv</a></summary>
 <ul>
@@ -81,7 +139,7 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#actev/virat">ActEV/VIRAT</a></li>
+<li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
 </ul>
 
 <em>Metrics</em>

@@ -14,7 +14,168 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 * **Bibtext** of the publication
 
 <h3>Papers</h3>
-<ul><a name=Kwon_2019_CVPR/>
+<ul><a name=Guen_2020_CVPR/>
+<details close>
+<summary><strong><em>Le et al., "Disentangling Physical Dynamics From Unknown Factors for Unsupervised Video Prediction", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Guen_Disentangling_Physical_Dynamics_From_Unknown_Factors_for_Unsupervised_Video_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.01460.pdf>arxiv</a> <a href=https://github.com/vincent-leguen/PhyDNet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#sst">SST</a></li>
+<li><a href="../datasets/year_datasets.md#taxi_bj">Taxi BJ</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics.md#mae">MAE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Guen_2020_CVPR,
+    author = "Le Guen, Vincent and Thome, Nicolas",
+    title = "Disentangling Physical Dynamics From Unknown Factors for Unsupervised Video Prediction",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Jin_2020_CVPR/>
+<details close>
+<summary><strong><em>Jin et al., "Exploring Spatial-Temporal Multi-Frequency Analysis for High-Fidelity and Temporal-Consistency Video Prediction", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Jin_Exploring_Spatial-Temporal_Multi-Frequency_Analysis_for_High-Fidelity_and_Temporal-Consistency_Video_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09905.pdf>arxiv</a> <a href=https://github.com/Bei-Jin/STMFANet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/year_datasets.md#bair">BAIR</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#lpips">LPIPS</a></li>
+<li><a href="../metrics.md#fvd">FVD</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Jin_2020_CVPR,
+    author = "Jin, Beibei and Hu, Yu and Tang, Qiankun and Niu, Jingyu and Shi, Zhiping and Han, Yinhe and Li, Xiaowei",
+    title = "Exploring Spatial-Temporal Multi-Frequency Analysis for High-Fidelity and Temporal-Consistency Video Prediction",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Wang_2020_CVPR/>
+<details close>
+<summary><strong><em>Wang et al., "Probabilistic Video Prediction From Noisy Data With a Posterior Confidence", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Probabilistic_Video_Prediction_From_Noisy_Data_With_a_Posterior_Confidence_CVPR_2020_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wang_2020_CVPR,
+    author = "Wang, Yunbo and Wu, Jiajun and Long, Mingsheng and Tenenbaum, Joshua B.",
+    title = "Probabilistic Video Prediction From Noisy Data With a Posterior Confidence",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Wu_2020_CVPR/>
+<details close>
+<summary><strong><em>Wu et al., "Future Video Synthesis With Object Motion Prediction", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Future_Video_Synthesis_With_Object_Motion_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2004.00542.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#lpips">LPIPS</a></li>
+<li><a href="../metrics.md#ms-ssim">MS-SSIM</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wu_2020_CVPR,
+    author = "Wu, Yue and Gao, Rongrong and Park, Jaesik and Chen, Qifeng",
+    title = "Future Video Synthesis With Object Motion Prediction",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Chaabane_2020_WACV/>
+<details close>
+<summary><strong><em>Chaabane et al., "Looking Ahead: Anticipating Pedestrians Crossing with Future Frames Prediction", WACV, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_WACV_2020/papers/Chaabane_Looking_Ahead_Anticipating_Pedestrians_Crossing_with_Future_Frames_Prediction_WACV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1910.09077.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
+</ul>
+
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#l1">L1</a></li>
+</ul>
+
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Chaabane_2020_WACV,
+    author = "Chaabane, Mohamed and Trabelsi, Ameni and Blanchard, Nathaniel and Beveridge, Ross",
+    title = "Looking Ahead: Anticipating Pedestrians Crossing with Future Frames Prediction",
+    booktitle = "WACV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Kwon_2019_CVPR/>
 <details close>
 <summary><strong><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
@@ -29,8 +190,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
@@ -94,8 +255,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -126,8 +287,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
@@ -219,8 +380,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -251,8 +412,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -342,8 +503,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
@@ -374,8 +535,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -404,8 +565,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -429,15 +590,15 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 <li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -461,16 +622,16 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 <li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
 <li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -494,14 +655,14 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -530,8 +691,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#human">Human</a></li>
 <li><a href="../metrics.md#lpips">LPIPS</a></li>
+<li><a href="../metrics.md#human">Human</a></li>
 <li><a href="../metrics.md#rmse">RMSE</a></li>
 </ul>
 
@@ -563,8 +724,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
@@ -596,8 +757,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
@@ -628,8 +789,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 <li><a href="../metrics.md#l1">L1</a></li>
 </ul>
@@ -724,8 +885,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -785,8 +946,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -811,15 +972,15 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 <li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
@@ -851,8 +1012,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -946,8 +1107,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
@@ -1039,8 +1200,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
@@ -1070,8 +1231,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 
@@ -1133,8 +1294,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
 
 <details close>
