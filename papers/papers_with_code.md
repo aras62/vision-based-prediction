@@ -25,14 +25,12 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#sst">SST</a></li>
 <li><a href="../datasets/year_datasets.md#taxi_bj">Taxi BJ</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 <li><a href="../metrics.md#mae">MAE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -59,7 +57,6 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 <li><a href="../datasets/year_datasets.md#bair">BAIR</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
@@ -67,7 +64,6 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../metrics.md#lpips">LPIPS</a></li>
 <li><a href="../metrics.md#fvd">FVD</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -93,13 +89,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 <li><a href="../datasets/year_datasets.md#msr">MSR</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -123,14 +117,12 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#lpips">LPIPS</a></li>
 <li><a href="../metrics.md#human">Human</a></li>
 <li><a href="../metrics.md#rmse">RMSE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -156,14 +148,12 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
 <li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -188,13 +178,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 <li><a href="../datasets/year_datasets.md#mug">MUG</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -219,13 +207,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
 <li><a href="../datasets/year_datasets.md#bouncing_ball">Bouncing Ball</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mse">MSE</a></li>
 <li><a href="../metrics.md#bce">BCE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -251,13 +237,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
 <li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -281,12 +265,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#human">Human</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -311,13 +293,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
 <li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -342,14 +322,12 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
 <li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -374,13 +352,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 <li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
 <li><a href="../metrics.md#human">Human</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -405,13 +381,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 <li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -433,14 +407,13 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#atari">Atari</a></li>
-</ul>
+<li>Custom</li>
 
+</ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -466,12 +439,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#oops!">Oops!</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -495,12 +466,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#map">mAP</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -525,13 +494,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 <li><a href="../datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#recall">Recall</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -557,12 +524,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 <li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -586,7 +551,6 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
@@ -595,7 +559,6 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../metrics.md#f1">F1</a></li>
 <li><a href="../metrics.md#auc">AUC</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -619,12 +582,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#luggage">Luggage</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mae">MAE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -649,12 +610,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
 <li><a href="../datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -679,14 +638,12 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 <li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#map">mAP</a></li>
 <li><a href="../metrics.md#auc">AUC</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -710,14 +667,12 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#recall">Recall</a></li>
 <li><a href="../metrics.md#precision">Precision</a></li>
 <li><a href="../metrics.md#ttm">TTM</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -741,12 +696,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#fppa">FPPA</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -773,13 +726,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
 <li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
 <li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -806,14 +757,12 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#fit">FIT</a></li>
 <li><a href="../datasets/year_datasets.md#mapillary_vistas">Mapillary Vistas</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#fde">FDE</a></li>
 <li><a href="../metrics.md#nll">NLL</a></li>
 <li><a href="../metrics.md#iou">IoU</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -837,13 +786,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#waymo">Waymo</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
 <li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -868,7 +815,6 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
 <li><a href="../datasets/year_datasets.md#multiverse">Multiverse</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
@@ -876,7 +822,6 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../metrics.md#minade">minADE</a></li>
 <li><a href="../metrics.md#minfde">minFDE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -900,12 +845,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -929,13 +872,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#citywalks">Citywalks</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
 <li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -960,13 +901,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
 <li><a href="../datasets/year_datasets.md#traf">TRAF</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
 <li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -992,13 +931,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 <li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
 <li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1023,13 +960,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
 <li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
 <li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1054,13 +989,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
 <li><a href="../datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
 <li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1085,13 +1018,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
 <li><a href="../datasets/year_datasets.md#carla">CARLA</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#meanmsd">meanMSD</a></li>
 <li><a href="../metrics.md#minmsd">minMSD</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1117,12 +1048,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 <li><a href="../datasets/year_datasets.md#oxford">Oxford</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1147,13 +1076,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#eifp">EIFP</a></li>
 <li><a href="../datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
 <li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1177,13 +1104,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#cityperson">CityPerson</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
 <li><a href="../metrics.md#nll">NLL</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1208,13 +1133,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
 <li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
 <li><a href="../metrics.md#fde">FDE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1241,14 +1164,12 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#gc">GC</a></li>
 <li><a href="../datasets/year_datasets.md#chuk">CHUK</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
 <li><a href="../metrics.md#fde">FDE</a></li>
 <li><a href="../metrics.md#ande">ANDE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1273,13 +1194,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
 <li><a href="../metrics.md#nll">NLL</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1304,7 +1223,6 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
 <li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ed">ED</a></li>
@@ -1312,7 +1230,6 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../metrics.md#maxd">maxD</a></li>
 <li><a href="../metrics.md#miss_rate">Miss rate</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1337,14 +1254,12 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
 <li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ade">ADE</a></li>
 <li><a href="../metrics.md#fde">FDE</a></li>
 <li><a href="../metrics.md#ande">ANDE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1371,7 +1286,6 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 <li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#kld">KLD</a></li>
@@ -1379,7 +1293,6 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../metrics.md#kl">KL</a></li>
 <li><a href="../metrics.md#s-mse">S-MSE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1405,13 +1318,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
 <li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 <li><a href="../metrics.md#mpjpe">MPJPE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1436,12 +1347,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 <li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1465,13 +1374,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 <li><a href="../metrics.md#npss">NPSS</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1496,13 +1403,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 <li><a href="../datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mje">MJE</a></li>
 <li><a href="../metrics.md#run_time">Run Time</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1526,7 +1431,6 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
@@ -1534,7 +1438,6 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../metrics.md#pskl">PSKL</a></li>
 <li><a href="../metrics.md#psent">PSEnt</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1560,13 +1463,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
 <li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 <li><a href="../metrics.md#mpjpe">MPJPE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1590,12 +1491,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#egopose">EgoPose</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mje">MJE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1621,14 +1520,12 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 <li><a href="../datasets/year_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#pck">PCK</a></li>
 <li><a href="../metrics.md#mpjpe">MPJPE</a></li>
 <li><a href="../metrics.md#re">RE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1653,13 +1550,11 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 <li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mje">MJE</a></li>
 <li><a href="../metrics.md#pck">PCK</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1685,12 +1580,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 <li><a href="../datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#pck">PCK</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1714,12 +1607,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1745,12 +1636,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#facescape">FaceScape</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#me">ME</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1774,12 +1663,10 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#f1">F1</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1803,14 +1690,12 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#iou">IoU</a></li>
 <li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>

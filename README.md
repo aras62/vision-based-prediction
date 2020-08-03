@@ -40,5 +40,7 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
-* Added CVPR and WACV 2020 papers
-* 16 new datasets are added
+* 03/08/2020: Added summary information to datasets
+* 03/08/2020: Updated the information for some of the datasets
+* 27/07/2020: Added CVPR and WACV 2020 papers
+* 27/07/2020: 16 new datasets are added

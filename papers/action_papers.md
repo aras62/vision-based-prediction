@@ -22,12 +22,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#oops!">Oops!</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -51,12 +49,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ap">AP</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -80,12 +76,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -110,14 +104,12 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 <li><a href="../datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#recall">Recall</a></li>
 <li><a href="../metrics.md#precision">Precision</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -141,12 +133,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#map">mAP</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -171,12 +161,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 <li><a href="../datasets/year_datasets.md#ava">AVA</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ap">AP</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -202,12 +190,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
 <li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -232,13 +218,11 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 <li><a href="../datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#recall">Recall</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -264,12 +248,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
 <li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -294,12 +276,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#youcook2">YouCook2</a></li>
 <li><a href="../datasets/year_datasets.md#recipe1m">Recipe1M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#recall">Recall</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -325,12 +305,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 <li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -355,12 +333,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
 <li><a href="../datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -384,7 +360,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#pie">PIE</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
@@ -393,7 +368,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../metrics.md#f1">F1</a></li>
 <li><a href="../metrics.md#auc">AUC</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -417,14 +391,12 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#recall">Recall</a></li>
 <li><a href="../metrics.md#precision">Precision</a></li>
 <li><a href="../metrics.md#f1">F1</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -448,7 +420,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
@@ -458,7 +429,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../metrics.md#ap">AP</a></li>
 <li><a href="../metrics.md#run_time">Run Time</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -482,13 +452,11 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ap">AP</a></li>
 <li><a href="../metrics.md#run_time">Run Time</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -512,7 +480,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
@@ -520,7 +487,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../metrics.md#precision">Precision</a></li>
 <li><a href="../metrics.md#ttm">TTM</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -545,12 +511,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -574,12 +538,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#luggage">Luggage</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mae">MAE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -604,13 +566,11 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#ttm">TTM</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -638,13 +598,11 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
 <li><a href="../datasets/year_datasets.md#bu_action">BU Action</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#map">mAP</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -670,14 +628,12 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
 <li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#recall">Recall</a></li>
 <li><a href="../metrics.md#precision">Precision</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -701,13 +657,11 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#recall">Recall</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -732,7 +686,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#recall">Recall</a></li>
@@ -740,7 +693,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../metrics.md#ap">AP</a></li>
 <li><a href="../metrics.md#tta">TTA</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -765,12 +717,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
 <li><a href="../datasets/year_datasets.md#50salad">50Salad</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -794,7 +744,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#dad">DAD</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
@@ -804,7 +753,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../metrics.md#map">mAP</a></li>
 <li><a href="../metrics.md#attc">ATTC</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -829,12 +777,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#sbuki">SBUKI</a></li>
 <li><a href="../datasets/year_datasets.md#ca">CA</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -859,12 +805,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#pku-mmd">PKU-MMD</a></li>
 <li><a href="../datasets/year_datasets.md#oad">OAD</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -890,12 +834,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
 <li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -920,12 +862,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
 <li><a href="../datasets/year_datasets.md#gtea_gaze">GTEA Gaze</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -951,12 +891,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
 <li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -981,12 +919,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
 <li><a href="../datasets/year_datasets.md#viena">VIENA</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1012,12 +948,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1041,12 +975,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1071,13 +1003,11 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#mcc">MCC</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1102,13 +1032,11 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
 <li><a href="../datasets/year_datasets.md#acticipate">ACTICIPATE</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#f1">F1</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1132,12 +1060,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#maniac">MANIAC</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#pp">PP</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1162,12 +1088,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 <li><a href="../datasets/year_datasets.md#hmdb">HMDB</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1192,13 +1116,11 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#recall">Recall</a></li>
 <li><a href="../metrics.md#map">mAP</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1223,12 +1145,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 <li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1253,12 +1173,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 <li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1284,12 +1202,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
 <li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1314,12 +1230,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1344,13 +1258,11 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#dad">DAD</a></li>
 <li><a href="../datasets/year_datasets.md#epic-fail">Epic-Fail</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#map">mAP</a></li>
 <li><a href="../metrics.md#tta">TTA</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1376,12 +1288,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
 <li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1406,12 +1316,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1436,7 +1344,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
 <li><a href="../datasets/year_datasets.md#virat">VIRAT</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
@@ -1444,7 +1351,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../metrics.md#precision">Precision</a></li>
 <li><a href="../metrics.md#rmse">RMSE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1468,14 +1374,12 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#recall">Recall</a></li>
 <li><a href="../metrics.md#precision">Precision</a></li>
 <li><a href="../metrics.md#f1">F1</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1500,12 +1404,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1530,14 +1432,12 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 <li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#map">mAP</a></li>
 <li><a href="../metrics.md#auc">AUC</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1561,12 +1461,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1590,12 +1488,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#map">mAP</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1621,13 +1517,11 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
 <li><a href="../datasets/year_datasets.md#tv_series">TV Series</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#map">mAP</a></li>
 <li><a href="../metrics.md#cap">cAP</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1652,13 +1546,11 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#recall">Recall</a></li>
 <li><a href="../metrics.md#precision">Precision</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1685,7 +1577,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
 <li><a href="../datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#recall">Recall</a></li>
@@ -1693,7 +1584,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../metrics.md#f1">F1</a></li>
 <li><a href="../metrics.md#ttm">TTM</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1718,12 +1608,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 <li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1748,12 +1636,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
 <li><a href="../datasets/year_datasets.md#orgbd">ORGBD</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1779,12 +1665,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#wnp">WnP</a></li>
 <li><a href="../datasets/year_datasets.md#utka">UTKA</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1809,12 +1693,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ap">AP</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1839,14 +1721,12 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#recall">Recall</a></li>
 <li><a href="../metrics.md#precision">Precision</a></li>
 <li><a href="../metrics.md#ttm">TTM</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1870,7 +1750,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
@@ -1878,7 +1757,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../metrics.md#precision">Precision</a></li>
 <li><a href="../metrics.md#f1">F1</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1903,12 +1781,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1933,7 +1809,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
@@ -1941,7 +1816,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../metrics.md#precision">Precision</a></li>
 <li><a href="../metrics.md#f1">F1</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1965,12 +1839,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#oa">OA</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -1994,12 +1866,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#rmse">RMSE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -2024,12 +1894,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 <li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -2054,12 +1922,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
 <li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -2085,13 +1951,11 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
 <li><a href="../datasets/year_datasets.md#daimler">Daimler</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#auc">AUC</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -2116,13 +1980,11 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#rmse">RMSE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -2146,7 +2008,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#recall">Recall</a></li>
@@ -2154,7 +2015,6 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li><a href="../metrics.md#ttm">TTM</a></li>
 <li><a href="../metrics.md#fp">FP</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -2178,13 +2038,11 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#mrr">MRR</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -2208,12 +2066,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#fppa">FPPA</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -2238,12 +2094,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -2267,12 +2121,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#msrda">MSRDA</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -2297,12 +2149,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -2327,12 +2177,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -2357,14 +2205,12 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#tnr">TNR</a></li>
 <li><a href="../metrics.md#tpr">TPR</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -2388,12 +2234,10 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>

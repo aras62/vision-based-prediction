@@ -23,7 +23,6 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 <li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#kld">KLD</a></li>
@@ -31,7 +30,6 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li><a href="../metrics.md#kl">KL</a></li>
 <li><a href="../metrics.md#s-mse">S-MSE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -55,12 +53,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#wbhm">WBHM</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -86,13 +82,11 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
 <li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 <li><a href="../metrics.md#mpjpe">MPJPE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -117,12 +111,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 <li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -146,13 +138,11 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 <li><a href="../metrics.md#npss">NPSS</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -176,13 +166,11 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mje">MJE</a></li>
 <li><a href="../metrics.md#lo">LO</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -207,13 +195,11 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 <li><a href="../datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mje">MJE</a></li>
 <li><a href="../metrics.md#run_time">Run Time</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -237,7 +223,6 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
@@ -245,7 +230,6 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li><a href="../metrics.md#pskl">PSKL</a></li>
 <li><a href="../metrics.md#psent">PSEnt</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -271,13 +255,11 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
 <li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 <li><a href="../metrics.md#mpjpe">MPJPE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -301,12 +283,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -330,12 +310,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#egopose">EgoPose</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mje">MJE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -361,14 +339,12 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 <li><a href="../datasets/year_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#pck">PCK</a></li>
 <li><a href="../metrics.md#mpjpe">MPJPE</a></li>
 <li><a href="../metrics.md#re">RE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -393,12 +369,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -423,12 +397,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mje">MJE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -453,13 +425,11 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 <li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mje">MJE</a></li>
 <li><a href="../metrics.md#pck">PCK</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -484,14 +454,12 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mje">MJE</a></li>
 <li><a href="../metrics.md#pck">PCK</a></li>
 <li><a href="../metrics.md#run_time">Run Time</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -516,12 +484,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#sbuki">SBUKI</a></li>
 <li><a href="../datasets/year_datasets.md#ca">CA</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mje">MJE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -545,12 +511,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -574,13 +538,11 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 <li><a href="../metrics.md#human">Human</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -605,12 +567,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mje">MJE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -634,12 +594,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -663,12 +621,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mje">MJE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -694,12 +650,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 <li><a href="../datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#pck">PCK</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -723,12 +677,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -753,12 +705,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
 <li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mje">MJE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -782,12 +732,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -811,13 +759,11 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <ul>
 <li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mane">MAnE</a></li>
 <li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
@@ -842,12 +788,10 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 <li>Custom</li>
 
 </ul>
-
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#mje">MJE</a></li>
 </ul>
-
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
