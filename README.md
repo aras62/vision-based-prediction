@@ -13,7 +13,7 @@ To search for papers, you can use one of the following options:
 * [Papers](papers/papers.md#top)
   * [Video prediction](papers/video_papers.md#top)
   * [Action prediction](papers/action_papers.md#top)
-  * [Trajectory prediction](papers/rajectory_papers.md#top)
+  * [Trajectory prediction](papers/trajectory_papers.md#top)
   * [Motion prediction](papers/motion_papers.md#top)
   * [Other prediction](papers/other_papers.md#top)
   * [Papers with code](papers/papers_with_code.md#top)
