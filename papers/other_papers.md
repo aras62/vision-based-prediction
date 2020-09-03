@@ -788,6 +788,34 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 </ul>
 </details>
 
+<a name=Cunningham_2017_RSS/>
+<details close>
+<summary><strong><em>Cunningham et al., "Improving slip prediction on mars using thermal inertia measurements", RSS, 2017.</em></strong> <a href=http://www.roboticsproceedings.org/rss13/p38.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#rmse">RMSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Cunningham_2017_RSS,
+    author = "Cunningham, Christopher and Nesnas, Issa A and Whittaker, William L",
+    title = "Improving slip prediction on mars using thermal inertia measurements",
+    booktitle = "RSS",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Mottaghi_2016_ECCV/>
 <details close>
 <summary><strong><em>Mottaghi et al., "What Happens If... Learning To Predict The Effect Of Forces In Images", ECCV, 2016.</em></strong> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46493-0_17>paper</a> <a href=https://arxiv.org/pdf/1603.05600.pdf>arxiv</a></summary>
@@ -835,6 +863,36 @@ Below is the list of Other prediction papers sorted chronologically and accordin
     author = "Carvajal, J. and Wiliem, A. and Sanderson, C. and Lovell, B.",
     booktitle = "ICPR",
     title = "Towards Miss Universe Automatic Prediction: The Evening Gown Competition",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Cai_2016_RSS/>
+<details close>
+<summary><strong><em>Cai et al., "Asking for Help with the Right Question by Predicting Human Visual Performance", RSS, 2016.</em></strong> <a href=http://www.roboticsproceedings.org/rss12/p38.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics.md#nmse">NMSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Cai_2016_RSS,
+    author = "Cai, Hong and Mostofi, Yasamin",
+    title = "Asking for Help with the Right Question by Predicting Human Visual Performance",
+    booktitle = "RSS",
     year = "2016"
 }
 </pre>

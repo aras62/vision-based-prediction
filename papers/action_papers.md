@@ -218,6 +218,34 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 </ul>
 </details>
 
+<a name=Driess_2020_RSS/>
+<details close>
+<summary><strong><em>Driess et al., "Deep Visual Reasoning: Learning to Predict Action Sequences for Task and Motion Planning from an Initial Scene Image", RSS, 2020.</em></strong> <a href=http://www.roboticsproceedings.org/rss16/p003.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.05398.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#run_time">Run Time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Driess_2020_RSS,
+    author = "Driess, Danny and Ha, Jung-Su and Toussaint, Marc",
+    title = "Deep Visual Reasoning: Learning to Predict Action Sequences for Task and Motion Planning from an Initial Scene Image",
+    booktitle = "RSS",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Joo_2019_CVPR/>
 <details close>
 <summary><strong><em>Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.04158.pdf>arxiv</a></summary>
@@ -2282,6 +2310,35 @@ Below is the list of Action prediction papers sorted chronologically and accordi
     author = "Zhang, H. and Parker, L. E.",
     booktitle = "ICRA",
     title = "Bio-Inspired Predictive Orientation Decomposition Of Skeleton Trajectories For Real-Time Human Activity Prediction",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Galceran_2015_RSS/>
+<details close>
+<summary><strong><em>Galceran et al., "Multipolicy Decision-Making for Autonomous Driving via Changepoint-based Behavior Prediction", RSS, 2015.</em></strong> <a href=http://www.roboticsproceedings.org/rss11/p43.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Galceran_2015_RSS,
+    author = "Galceran, Enric and Cunningham, Alexander G and Eustice, Ryan M and Olson, Edwin",
+    title = "Multipolicy Decision-Making for Autonomous Driving via Changepoint-based Behavior Prediction",
+    booktitle = "RSS",
     year = "2015"
 }
 </pre>

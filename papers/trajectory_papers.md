@@ -2510,6 +2510,34 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 </ul>
 </details>
 
+<a name=Fisac_2018_RSS/>
+<details close>
+<summary><strong><em>Fisac et al., "Probabilistically safe robot planning with confidence-based human predictions", RSS, 2018.</em></strong> <a href=http://www.roboticsproceedings.org/rss14/p69.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.00109.pdf%3E>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#ct">CT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Fisac_2018_RSS,
+    author = "Fisac, Jaime F and Bajcsy, Andrea and Herbert, Sylvia L and Fridovich-Keil, David and Wang, Steven and Tomlin, Claire J and Dragan, Anca D",
+    title = "Probabilistically safe robot planning with confidence-based human predictions",
+    booktitle = "RSS",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Casas_2018_CORL/>
 <details close>
 <summary><strong><em>Casas et al., "Intentnet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018.</em></strong> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>
@@ -2764,6 +2792,35 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
     author = "Shkurti, F. and Dudek, G.",
     booktitle = "IROS",
     title = "Topologically Distinct Trajectory Predictions For Probabilistic Pursuit",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Park_2017_RSS/>
+<details close>
+<summary><strong><em>Park et al., "Intention-Aware Motion Planning Using Learning Based Human Motion Prediction", RSS, 2017.</em></strong> <a href=http://www.roboticsproceedings.org/rss13/p45.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#run_time">Run Time</a></li>
+<li><a href="../metrics.md#mhd">MHD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Park_2017_RSS,
+    author = "Park, Jae Sung and Park, Chonhyon and Manocha, Dinesh",
+    title = "Intention-Aware Motion Planning Using Learning Based Human Motion Prediction",
+    booktitle = "RSS",
     year = "2017"
 }
 </pre>
@@ -3041,8 +3098,8 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#nll">NLL</a></li>
-<li><a href="../metrics.md#kld">KLD</a></li>
 <li><a href="../metrics.md#mhd">MHD</a></li>
+<li><a href="../metrics.md#kld">KLD</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 <li><a href="../metrics.md#dtg">DtG</a></li>
 </ul>

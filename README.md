@@ -40,7 +40,8 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
-* 03/27/2020: ECCV2020 papers added (30 papers, 15 datasets)
+* 03/09/2020: RSS 2015-2020 papers added (7 papers, 1 datasets)
+* 27/08/2020: ECCV2020 papers added (30 papers, 15 datasets)
 * 03/08/2020: Added summary information to datasets
 * 03/08/2020: Updated the information for some of the datasets
 * 27/07/2020: Added CVPR and WACV 2020 papers
