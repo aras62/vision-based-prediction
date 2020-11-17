@@ -40,6 +40,8 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 16/11/2020: ICRA and RAL 2020 papers are added (25 papers, 1 Dataset)
+* 16/11/2020: 3 new papers and 2 datasets added (CVPR18, ICRA19, IROS19)
 * 03/09/2020: RSS 2015-2020 papers added (7 papers, 1 datasets)
 * 27/08/2020: ECCV2020 papers added (30 papers, 15 datasets)
 * 03/08/2020: Added summary information to datasets
