@@ -712,6 +712,38 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 </ul>
 </details>
 
+<a name=Doellinger_2018_RAL/>
+<details close>
+<summary><strong><em>Doellinger et al., "Predicting Occupancy Distributions of Walking Humans With Convolutional Neural Networks", RAL, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8278198>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#rt">RT</a></li>
+<li><a href="../metrics.md#kld">KLD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Doellinger_2018_RAL,
+    author = "Doellinger, J. and Spies, M. and Burgard, W.",
+    journal = "RAL",
+    title = "Predicting Occupancy Distributions of Walking Humans With Convolutional Neural Networks",
+    year = "2018",
+    volume = "3",
+    number = "3",
+    pages = "1522-1528"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=He_2018_ICPR/>
 <details close>
 <summary><strong><em>He et al., "Aggregated Sparse Attention For Steering Angle Prediction", ICPR, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8546051>paper</a> <a href=https://arxiv.org/pdf/1803.05785.pdf>arxiv</a></summary>

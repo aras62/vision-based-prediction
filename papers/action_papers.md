@@ -1464,6 +1464,37 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 </ul>
 </details>
 
+<a name=Zyner_2018_RAL/>
+<details close>
+<summary><strong><em>Zyner et al., "A Recurrent Neural Network Solution for Predicting Driver Intention at Unsignalized Intersections", RAL, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8290702>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Zyner_2018_RAL,
+    author = "Zyner, A. and Worrall, S. and Nebot, E.",
+    journal = "RAL",
+    title = "A Recurrent Neural Network Solution for Predicting Driver Intention at Unsignalized Intersections",
+    year = "2018",
+    volume = "3",
+    number = "3",
+    pages = "1759-1764"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Casas_2018_CORL/>
 <details close>
 <summary><strong><em>Casas et al., "Intentnet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018.</em></strong> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>

@@ -59,8 +59,8 @@ Below is the list of papers that have published code sorted chronologically and 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#lpips">LPIPS</a></li>
 <li><a href="../metrics.md#fvd">FVD</a></li>
 </ul>
@@ -91,8 +91,8 @@ Below is the list of papers that have published code sorted chronologically and 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1628,9 +1628,9 @@ Below is the list of papers that have published code sorted chronologically and 
 </ul>
 <em>Metrics</em>
 <ul>
+<li><a href="../metrics.md#apd">APD</a></li>
 <li><a href="../metrics.md#mmfde">MMFDE</a></li>
 <li><a href="../metrics.md#mmade">MMADE</a></li>
-<li><a href="../metrics.md#apd">APD</a></li>
 <li><a href="../metrics.md#fde">FDE</a></li>
 <li><a href="../metrics.md#ade">ADE</a></li>
 </ul>

@@ -2460,6 +2460,68 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 </ul>
 </details>
 
+<a name=Banzhaf_2019_RAL/>
+<details close>
+<summary><strong><em>Banzhaf et al., "Learning to Predict Ego-Vehicle Poses for Sampling-Based Nonholonomic Motion Planning", RAL, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8618353>paper</a> <a href=https://arxiv.org/pdf/1812.01127.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#mpg">MPG</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Banzhaf_2019_RAL,
+    author = "Banzhaf, H. and Sanzenbacher, P. and Baumann, U. and Zöllner, J. M.",
+    journal = "RAL",
+    title = "Learning to Predict Ego-Vehicle Poses for Sampling-Based Nonholonomic Motion Planning",
+    year = "2019",
+    volume = "4",
+    number = "2",
+    pages = "1053-1060"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Grigorescu_2019_RAL/>
+<details close>
+<summary><strong><em>Grigorescu et al., "NeuroTrajectory: A Neuroevolutionary Approach to Local State Trajectory Learning for Autonomous Vehicles", RAL, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8752412>paper</a> <a href=https://arxiv.org/pdf/1906.10971.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#rmse">RMSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Grigorescu_2019_RAL,
+    author = "Grigorescu, S. M. and Trasnea, B. and Marina, L. and Vasilcoi, A. and Cocias, T.",
+    journal = "RAL",
+    title = "NeuroTrajectory: A Neuroevolutionary Approach to Local State Trajectory Learning for Autonomous Vehicles",
+    year = "2019",
+    volume = "4",
+    number = "4",
+    pages = "3441-3448"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Sanchez_2019_ICIP/>
 <details close>
 <summary><strong><em>Sanchez-Matilla et al., "A Predictor Of Moving Objects For First-Person Vision", ICIP, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8803140>paper</a></summary>

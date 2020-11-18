@@ -59,8 +59,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#lpips">LPIPS</a></li>
 <li><a href="../metrics.md#fvd">FVD</a></li>
 </ul>
@@ -271,8 +271,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -388,8 +388,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -418,8 +418,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -503,8 +503,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
@@ -533,8 +533,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -561,8 +561,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -591,8 +591,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -622,8 +622,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -651,8 +651,8 @@ Below is the list of Video prediction papers sorted chronologically and accordin
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
 <li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics.md#ssim">SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1018,6 +1018,37 @@ Below is the list of Video prediction papers sorted chronologically and accordin
     booktitle = "WACV",
     title = "Dynamic Visual Sequence Prediction With Motion Flow Networks",
     year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Rothfuss_2018_RAL/>
+<details close>
+<summary><strong><em>Rothfuss et al., "Deep Episodic Memory: Encoding, Recalling, and Predicting Episodic Experiences for Robot Action Execution", RAL, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8421022>paper</a> <a href=https://arxiv.org/pdf/1801.04134.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#20bn">20BN</a></li>
+<li><a href="../datasets/year_datasets.md#activitynet">ActivityNet</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#psnr">PSNR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Rothfuss_2018_RAL,
+    author = "Rothfuss, J. and Ferreira, F. and Aksoy, E. E. and Zhou, Y. and Asfour, T.",
+    journal = "RAL",
+    title = "Deep Episodic Memory: Encoding, Recalling, and Predicting Episodic Experiences for Robot Action Execution",
+    year = "2018",
+    volume = "3",
+    number = "4",
+    pages = "4007-4014"
 }
 </pre>
 </details>

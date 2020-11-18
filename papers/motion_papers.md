@@ -255,9 +255,9 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 </ul>
 <em>Metrics</em>
 <ul>
+<li><a href="../metrics.md#apd">APD</a></li>
 <li><a href="../metrics.md#mmfde">MMFDE</a></li>
 <li><a href="../metrics.md#mmade">MMADE</a></li>
-<li><a href="../metrics.md#apd">APD</a></li>
 <li><a href="../metrics.md#fde">FDE</a></li>
 <li><a href="../metrics.md#ade">ADE</a></li>
 </ul>
@@ -678,6 +678,68 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 </ul>
 </details>
 
+<a name=Banzhaf_2019_RAL/>
+<details close>
+<summary><strong><em>Banzhaf et al., "Learning to Predict Ego-Vehicle Poses for Sampling-Based Nonholonomic Motion Planning", RAL, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8618353>paper</a> <a href=https://arxiv.org/pdf/1812.01127.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#apd">APD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Banzhaf_2019_RAL,
+    author = "Banzhaf, H. and Sanzenbacher, P. and Baumann, U. and Zöllner, J. M.",
+    journal = "RAL",
+    title = "Learning to Predict Ego-Vehicle Poses for Sampling-Based Nonholonomic Motion Planning",
+    year = "2019",
+    volume = "4",
+    number = "2",
+    pages = "1053-1060"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Du_2019_RAL/>
+<details close>
+<summary><strong><em>Du et al., "Bio-LSTM: A Biomechanically Inspired Recurrent Neural Network for 3-D Pedestrian Pose and Gait Prediction", RAL, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8626436>paper</a> <a href=https://arxiv.org/pdf/1809.03705.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#pedx">PedX</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics.md#rmse">RMSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Du_2019_RAL,
+    author = "Du, X. and Vasudevan, R. and Johnson-Roberson, M.",
+    journal = "RAL",
+    title = "Bio-LSTM: A Biomechanically Inspired Recurrent Neural Network for 3-D Pedestrian Pose and Gait Prediction",
+    year = "2019",
+    volume = "4",
+    number = "2",
+    pages = "1501-1508"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Yao_2018_CVPR/>
 <details close>
 <summary><strong><em>Yao et al., "Multiple Granularity Group Interaction Prediction", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0721.pdf>paper</a></summary>
@@ -809,6 +871,37 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
     booktitle = "IROS",
     title = "Teaching Robots To Predict Human Motion",
     year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Aykut_2018_RAL/>
+<details close>
+<summary><strong><em>Aykut et al., "Delay Compensation for a Telepresence System With 3D 360 Degree Vision Based on Deep Head Motion Prediction and Dynamic FoV Adaptation", RAL, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8429079>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#rmse">RMSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Aykut_2018_RAL,
+    author = "Aykut, T. and Karimi, M. and Burgmair, C. and Finkenzeller, A. and Bachhuber, C. and Steinbach, E.",
+    journal = "RAL",
+    title = "Delay Compensation for a Telepresence System With 3D 360 Degree Vision Based on Deep Head Motion Prediction and Dynamic FoV Adaptation",
+    year = "2018",
+    volume = "3",
+    number = "4",
+    pages = "4343-4350"
 }
 </pre>
 </details>
