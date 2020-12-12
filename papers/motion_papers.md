@@ -278,7 +278,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Chao_2020_ACCV/>
 <details close>
-<summary><strong><em>Chao et al., "Adversarial Refinement Network for Human Motion Prediction", Proceedings of the Asian Conference on Computer Vision (ACCV), 2020.</em></strong> <a href=https://openaccess.thecvf.com/content/ACCV2020/papers/Chao_Adversarial_Refinement_Network_for_Human_Motion_Prediction_ACCV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2011.11221.pdf>arxiv</a> <a href=https://github.com/Xianjin111/ARNet-for-human-motion-prediction>code</a></summary>
+<summary><strong><em>Chao et al., "Adversarial Refinement Network for Human Motion Prediction", ACCV, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content/ACCV2020/papers/Chao_Adversarial_Refinement_Network_for_Human_Motion_Prediction_ACCV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2011.11221.pdf>arxiv</a> <a href=https://github.com/Xianjin111/ARNet-for-human-motion-prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -296,8 +296,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 @InProceedings{Chao_2020_ACCV,
     author = "Chao, Xianjin and Bin, Yanrui and Chu, Wenqing and Cao, Xuan and Ge, Yanhao and Wang, Chengjie and Li, Jilin and Huang, Feiyue and Leung, Howard",
     title = "Adversarial Refinement Network for Human Motion Prediction",
-    booktitle = "Proceedings of the Asian Conference on Computer Vision (ACCV)",
-    month = "November",
+    booktitle = "ACCV",
     year = "2020"
 }
 </pre>
@@ -308,7 +307,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 
 <a name=Lebailly_2020_ACCV/>
 <details close>
-<summary><strong><em>Lebailly et al., "Motion Prediction Using Temporal Inception Module", Proceedings of the Asian Conference on Computer Vision (ACCV), 2020.</em></strong> <a href=https://openaccess.thecvf.com/content/ACCV2020/papers/Lebailly_Motion_Prediction_Using_Temporal_Inception_Module_ACCV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2010.03006.pdf>arxiv</a> <a href=https://github.com/tileb1/motion-prediction-tim>code</a></summary>
+<summary><strong><em>Lebailly et al., "Motion Prediction Using Temporal Inception Module", ACCV, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content/ACCV2020/papers/Lebailly_Motion_Prediction_Using_Temporal_Inception_Module_ACCV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2010.03006.pdf>arxiv</a> <a href=https://github.com/tileb1/motion-prediction-tim>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -326,8 +325,7 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 @InProceedings{Lebailly_2020_ACCV,
     author = "Lebailly, Tim and Kiciroglu, Sena and Salzmann, Mathieu and Fua, Pascal and Wang, Wei",
     title = "Motion Prediction Using Temporal Inception Module",
-    booktitle = "Proceedings of the Asian Conference on Computer Vision (ACCV)",
-    month = "November",
+    booktitle = "ACCV",
     year = "2020"
 }
 </pre>
