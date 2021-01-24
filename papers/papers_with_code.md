@@ -431,7 +431,37 @@ Below is the list of papers that have published code sorted chronologically and 
 
 </ul><a name=action></a>
 <h3 style="color:#2f38e8";> Action Prediction Papers</h3> <a href=#top>&uarr; top</a>
-<ul><a name=Epstein_2020_CVPR/>
+<ul><a name=Kotseruba_2021_WACV/>
+<details close>
+<summary><strong><em>Kotseruba et al., "Benchmark for Evaluating Pedestrian Action Prediction", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Kotseruba_Benchmark_for_Evaluating_Pedestrian_Action_Prediction_WACV_2021_paper.pdf>paper</a> <a href=https://github.com/ykotseruba/PedestrianActionBenchmark>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="../datasets/year_datasets.md#pie">PIE</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics.md#f1">F1</a></li>
+<li><a href="../metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kotseruba_2021_WACV,
+    author = "Kotseruba, Iuliia and Rasouli, Amir and Tsotsos, John K.",
+    title = "Benchmark for Evaluating Pedestrian Action Prediction",
+    booktitle = "WACV",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Epstein_2020_CVPR/>
 <details close>
 <summary><strong><em>Epstein et al., "Oops! Predicting Unintentional Action in Video", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Epstein_Oops_Predicting_Unintentional_Action_in_Video_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.11206.pdf>arxiv</a> <a href=https://github.com/cvlab-columbia/oops>code</a></summary>
 <ul>
@@ -818,7 +848,8 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#waymo">Waymo</a></li>
+<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
