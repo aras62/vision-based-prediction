@@ -40,6 +40,7 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 16/02/2021: NeurIPS 2020, IROS 2020, RAL 2020 (25 papers, 10 datasets, 3 metrics)
 * 24/01/2021: WACV 2021 added (8 papers, 1 dataset, 4 metrics)
 * 24/01/2021: Fixed some bugs and added 1 paper and 1 dataset
 * 12/12/2020: ACCV 2020 added (3 papers, 2 metrics)

@@ -172,9 +172,9 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 </ul>
 <em>Metrics</em>
 <ul>
+<li><a href="../metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../metrics.md#iou">IoU</a></li>
 <li><a href="../metrics.md#f1">F1</a></li>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -428,6 +428,90 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 </ul>
 </details>
 
+<a name=Graves_2019_IROS/>
+<details close>
+<summary><strong><em>Graves et al., "Perception As Prediction Using General Value Functions In Autonomous Driving Applications", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968293>paper</a> <a href=https://arxiv.org/pdf/2001.09113.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#ed">ED</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Graves_2019_IROS,
+    author = "Graves, Daniel and Rezaee, Kasra and Scheideman, Sean",
+    booktitle = "IROS",
+    title = "Perception As Prediction Using General Value Functions In Autonomous Driving Applications",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Song_2019_IROS/>
+<details close>
+<summary><strong><em>Song et al., "Long-Term Visual Inertial Slam Based On Time Series Map Prediction", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968017>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Song_2019_IROS,
+    author = "Song, Bowen and Chen, Weidong and Wang, Jingchuan and Wang, Hesheng",
+    booktitle = "IROS",
+    title = "Long-Term Visual Inertial Slam Based On Time Series Map Prediction",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Zapf_2019_IROS/>
+<details close>
+<summary><strong><em>Zapf et al., "Pedestrian Density Prediction For Efficient Mobile Robot Exploration", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8967763>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#ed">ED</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zapf_2019_IROS,
+    author = "Zapf, Marc Patrick and Kawanabe, Motoaki and Morales Saiki, Luis Yoichi",
+    booktitle = "IROS",
+    title = "Pedestrian Density Prediction For Efficient Mobile Robot Exploration",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Hoermann_2018_ICRA/>
 <details close>
 <summary><strong><em>Hoermann et al., "Dynamic Occupancy Grid Prediction For Urban Autonomous Driving: A Deep Learning Approach With Fully Automatic Labeling", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8460874>paper</a> <a href=https://arxiv.org/pdf/1705.08781.pdf>arxiv</a></summary>
@@ -507,62 +591,6 @@ Below is the list of Other prediction papers sorted chronologically and accordin
     booktitle = "IROS",
     title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
     year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-
-<a name=Graves_2019_IROS/>
-<details close>
-<summary><strong><em>Graves et al., "Perception As Prediction Using General Value Functions In Autonomous Driving Applications", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968293>paper</a> <a href=https://arxiv.org/pdf/2001.09113.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics.md#ed">ED</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Graves_2019_IROS,
-    author = "Graves, Daniel and Rezaee, Kasra and Scheideman, Sean",
-    booktitle = "IROS",
-    title = "Perception As Prediction Using General Value Functions In Autonomous Driving Applications",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-
-<a name=Zapf_2019_IROS/>
-<details close>
-<summary><strong><em>Zapf et al., "Pedestrian Density Prediction For Efficient Mobile Robot Exploration", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8967763>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics.md#ed">ED</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zapf_2019_IROS,
-    author = "Zapf, Marc Patrick and Kawanabe, Motoaki and Morales Saiki, Luis Yoichi",
-    booktitle = "IROS",
-    title = "Pedestrian Density Prediction For Efficient Mobile Robot Exploration",
-    year = "2019"
 }
 </pre>
 </details>
