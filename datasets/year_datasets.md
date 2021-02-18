@@ -19,94 +19,7 @@ Below is the list of datasets grouped according to their years.Within each group
 
 <a name=datasets_2020></a>
 <h2>2020</h2> <a href=#top>&uarr; top</a>
-<ul><a name=forking_paths></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Forking Paths</strong></l> <a href=https://github.com/JunweiLiang/Multiverse>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_The_Garden_of_Forking_Paths_Towards_Multi-Future_Trajectory_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1912.06445.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 3K simulated videos of pedestrian trajectory samples from 4 different camera views. Each sample comes with multiple human-annotated possible trajectories.
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, Bounding Box, Semantic Segment, Tracking ID</li>
-<li><em><strong>Task:</strong></em> Surveillance (simulation)</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Liang et al., "The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction", CVPR, 2020.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_The_Garden_of_Forking_Paths_Towards_Multi-Future_Trajectory_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1912.06445.pdf>arxiv</a> <a href=https://github.com/JunweiLiang/Multiverse>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="../datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics.md#ade">ADE</a></li>
-<li><a href="../metrics.md#fde">FDE</a></li>
-<li><a href="../metrics.md#minade">minADE</a></li>
-<li><a href="../metrics.md#minfde">minFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Liang_2020_CVPR_2,
-    author = "Liang, Junwei and Jiang, Lu and Murphy, Kevin and Yu, Ting and Hauptmann, Alexander",
-    title = "The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction",
-    booktitle = "CVPR",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Liang et al., "SimAug: Learning Robust Representations from Simulation for Trajectory Prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580273.pdf>paper</a> <a href=https://arxiv.org/pdf/2004.02022.pdf>arxiv</a> <a href=https://github.com/JunweiLiang/Multiverse/tree/master/SimAug>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="../datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics.md#minade">minADE</a></li>
-<li><a href="../metrics.md#minfde">minFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Liang_2020_ECCV,
-    author = "Liang, Junwei and Jiang, Lu and Hauptmann, Alexander",
-    title = "SimAug: Learning Robust Representations from Simulation for Trajectory Prediction",
-    booktitle = "ECCV",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Liang_2020_CVPR_2,
-    author = "Liang, Junwei and Jiang, Lu and Murphy, Kevin and Yu, Ting and Hauptmann, Alexander",
-    title = "The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction",
-    booktitle = "CVPR",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=citywalks></a>
+<ul><a name=citywalks></a>
 <details close>
 <summary><l style="font-size:20px"><strong>CityWalks</strong></l> <a href=https://github.com/olly-styles/Multiple-Object-Forecasting>link</a> <a href=https://openaccess.thecvf.com/content_WACV_2020/papers/Styles_Multiple_Object_Forecasting_Predicting_Future_Object_Locations_in_Diverse_Environments_WACV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1909.11944.pdf>arxiv</a></summary> 
 <ul><li>
@@ -381,6 +294,62 @@ A dataset of 700 front-view video clips of driving for pedestrian action and tra
 @InProceedings{Malla_2020_CVPR,
     author = "Malla, Srikanth and Dariush, Behzad and Choi, Chiho",
     title = "TITAN: Future Forecast Using Action Priors",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=forking_paths></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Forking Paths</strong></l> <a href=https://github.com/JunweiLiang/Multiverse>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_The_Garden_of_Forking_Paths_Towards_Multi-Future_Trajectory_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1912.06445.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 3K simulated videos of pedestrian trajectory samples from 4 different camera views. Each sample comes with multiple human-annotated possible trajectories.
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Bounding Box, Semantic Segment, Tracking ID</li>
+<li><em><strong>Task:</strong></em> Surveillance (simulation)</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Liang et al., "The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction", CVPR, 2020.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_The_Garden_of_Forking_Paths_Towards_Multi-Future_Trajectory_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1912.06445.pdf>arxiv</a> <a href=https://github.com/JunweiLiang/Multiverse>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
+<li><a href="../datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
+<li><a href="../metrics.md#minade">minADE</a></li>
+<li><a href="../metrics.md#minfde">minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Liang_2020_CVPR_2,
+    author = "Liang, Junwei and Jiang, Lu and Murphy, Kevin and Yu, Ting and Hauptmann, Alexander",
+    title = "The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Liang_2020_CVPR_2,
+    author = "Liang, Junwei and Jiang, Lu and Murphy, Kevin and Yu, Ting and Hauptmann, Alexander",
+    title = "The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -1305,12 +1274,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 <li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 <li><a href="../datasets/year_datasets.md#argoverse">Argoverse</a></li>
 <li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="../datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3619,12 +3585,9 @@ A dataset of multiview surveillance sequences for trajectory  prediction and act
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 <li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 <li><a href="../datasets/year_datasets.md#argoverse">Argoverse</a></li>
 <li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="../datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5797,12 +5760,9 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 <li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 <li><a href="../datasets/year_datasets.md#argoverse">Argoverse</a></li>
 <li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="../datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -15390,37 +15350,6 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
-<summary><em>Liang et al., "SimAug: Learning Robust Representations from Simulation for Trajectory Prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580273.pdf>paper</a> <a href=https://arxiv.org/pdf/2004.02022.pdf>arxiv</a> <a href=https://github.com/JunweiLiang/Multiverse/tree/master/SimAug>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="../datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics.md#minade">minADE</a></li>
-<li><a href="../metrics.md#minfde">minFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Liang_2020_ECCV,
-    author = "Liang, Junwei and Jiang, Lu and Hauptmann, Alexander",
-    title = "SimAug: Learning Robust Representations from Simulation for Trajectory Prediction",
-    booktitle = "ECCV",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
 <summary><em>Ma et al., "AutoTrajectory: Label-free Trajectory Extraction and Prediction from Videos using Dynamic Points", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580630.pdf>paper</a> <a href=https://arxiv.org/pdf/2007.05719.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
@@ -17552,37 +17481,6 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @InProceedings{Bi_2020_ECCV,
     author = "Bi, Huikun and Zhang, Ruisi and Mao, Tianlu and Deng, Zhigang and Wang, Zhaoqi",
     title = "How Can I See My Future? FvTraj: Using First-person View for Pedestrian Trajectory Prediction",
-    booktitle = "ECCV",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Liang et al., "SimAug: Learning Robust Representations from Simulation for Trajectory Prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580273.pdf>paper</a> <a href=https://arxiv.org/pdf/2004.02022.pdf>arxiv</a> <a href=https://github.com/JunweiLiang/Multiverse/tree/master/SimAug>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="../datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics.md#minade">minADE</a></li>
-<li><a href="../metrics.md#minfde">minFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Liang_2020_ECCV,
-    author = "Liang, Junwei and Jiang, Lu and Hauptmann, Alexander",
-    title = "SimAug: Learning Robust Representations from Simulation for Trajectory Prediction",
     booktitle = "ECCV",
     year = "2020"
 }

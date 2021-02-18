@@ -1031,12 +1031,9 @@ Below is the list of papers that have published code sorted chronologically and 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
 <li><a href="../datasets/year_datasets.md#sd">SD</a></li>
 <li><a href="../datasets/year_datasets.md#argoverse">Argoverse</a></li>
 <li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="../datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
