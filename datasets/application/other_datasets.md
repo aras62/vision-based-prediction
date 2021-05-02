@@ -435,6 +435,33 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 </details>
 <details close>
+<summary><em>Weng et al., "Inverting the Pose Forecasting Pipeline with SPF2: Sequential Pointcloud Forecasting for Sequential Pose Forecasting", CoRL, 2020.</em> <a href=https://drive.google.com/file/d/1G-9Pjp4K_RVDKL7OdoX7_fCphGGHapB2/view>paper</a> <a href=https://arxiv.org/pdf/2003.08376.pdf>arxiv</a> <a href=https://github.com/xinshuoweng/SPF2>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Weng_2020_CORL,
+    author = "Weng, Xinshuo and Wang, Jianren and Levine, Sergey and Kitani, Kris and Rhinehart, Nick",
+    title = "Inverting the Pose Forecasting Pipeline with SPF2: Sequential Pointcloud Forecasting for Sequential Pose Forecasting",
+    booktitle = "CoRL",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Srikanth et al., "Infer: Intermediate Representations For Future Prediction", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8968553>paper</a> <a href=https://arxiv.org/pdf/1903.10641.pdf>arxiv</a> <a href=https://rebrand.ly/INFER-results>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -470,8 +497,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#meanmsd">meanMSD</a></li>
 <li><a href="../metrics.md#minmsd">minMSD</a></li>
+<li><a href="../metrics.md#meanmsd">meanMSD</a></li>
 <li><a href="../metrics.md#ce">CE</a></li>
 </ul>
 <details close>
@@ -499,9 +526,9 @@ A large-scale driving dataset recorded with different modalities including stere
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics.md#ed">ED</a></li>
+<li><a href="../metrics.md#miss_rate">Miss rate</a></li>
 <li><a href="../metrics.md#mined">minED</a></li>
 <li><a href="../metrics.md#maxd">maxD</a></li>
-<li><a href="../metrics.md#miss_rate">Miss rate</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>

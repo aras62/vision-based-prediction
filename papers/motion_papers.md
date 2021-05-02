@@ -276,6 +276,34 @@ Below is the list of Motion prediction papers sorted chronologically and accordi
 </ul>
 </details>
 
+<a name=Honda_2020_BMVC/>
+<details close>
+<summary><strong><em>Honda et al., "RNN-based Motion Prediction in Competitive Fencing Considering Interaction between Players", BMVC, 2020.</em></strong> <a href=https://www.bmvc2020-conference.com/assets/papers/0618.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#pck">PCK</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Honda_2020_BMVC,
+    author = "Honda, Yutaro and Kawakami, Rei and Naemura, Takeshi",
+    title = "RNN-based Motion Prediction in Competitive Fencing Considering Interaction between Players",
+    booktitle = "BMVC",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Chao_2020_ACCV/>
 <details close>
 <summary><strong><em>Chao et al., "Adversarial Refinement Network for Human Motion Prediction", ACCV, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content/ACCV2020/papers/Chao_Adversarial_Refinement_Network_for_Human_Motion_Prediction_ACCV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2011.11221.pdf>arxiv</a> <a href=https://github.com/Xianjin111/ARNet-for-human-motion-prediction>code</a></summary>

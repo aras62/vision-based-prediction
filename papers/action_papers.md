@@ -283,6 +283,34 @@ Below is the list of Action prediction papers sorted chronologically and accordi
 </ul>
 </details>
 
+<a name=Morais_2020_BMVC/>
+<details close>
+<summary><strong><em>Morais et al., "Learning to abstract and predict human actions", BMVC, 2020.</em></strong> <a href=https://www.bmvc2020-conference.com/assets/papers/0979.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.09234.pdf>arxiv</a> <a href=https://github.com/RomeroBarata/hierarchical_action_prediction>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#mof">MoF</a></li>
+<li><a href="../metrics.md#moc">MoC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Morais_2020_BMVC,
+    author = "Morais, Romero and Le, Vuong and Tran, Truyen and Venkatesh, Svetha",
+    title = "Learning to abstract and predict human actions",
+    booktitle = "BMVC",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Chaabane_2020_WACV/>
 <details close>
 <summary><strong><em>Chaabane et al., "Looking Ahead: Anticipating Pedestrians Crossing with Future Frames Prediction", WACV, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_WACV_2020/papers/Chaabane_Looking_Ahead_Anticipating_Pedestrians_Crossing_with_Future_Frames_Prediction_WACV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1910.09077.pdf>arxiv</a></summary>

@@ -40,6 +40,8 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 02/05/2021: Note: Starting 2021, ICIP and ICPR papers  no longer will be added
+* 02/05/2021: CoRL, BMVC, and ICIP 2020 (18 papers, 2 datasets, 3 metrics)
 * 17/02/2021: ICML 2020 (3 papers, 1 dataset)
 * 16/02/2021: NeurIPS 2020, IROS 2020, RAL 2020 (25 papers, 10 datasets, 3 metrics)
 * 24/01/2021: WACV 2021 added (8 papers, 1 dataset, 4 metrics)
