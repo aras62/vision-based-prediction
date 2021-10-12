@@ -40,6 +40,8 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 12/10/2021: Added a CVPR2021 paper + 1 dataset
+* 12/10/2021: ICCV 2021 added(31 papers, 4 datasets, 9 metrics)
 * 31/07/2021: CVPR 2021 added(25 papers, 5 datasets, 7 metrics)
 * 02/05/2021: Note: Starting 2021, ICIP and ICPR papers  no longer will be added
 * 02/05/2021: CoRL, BMVC, and ICIP 2020 (18 papers, 2 datasets, 3 metrics)
