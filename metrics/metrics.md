@@ -3,7 +3,7 @@
 ---
 <a name=top></a>
 # Metrics for vision-based prediction
- <img src="./images/video_metrics.png" alt="video metrics" width="250"/><img src="./images/action_metrics.png" alt="action metrics" width="250"/><img src="./images/trajectory_metrics.png" alt="trajectory metrics" width="280"/><img src="./images/motion_metrics.png" alt="motion metrics" width="210"/><br/>
+ <img src="../images/video_metrics.png" alt="video metrics" width="250"/><img src="../images/action_metrics.png" alt="action metrics" width="250"/><img src="../images/trajectory_metrics.png" alt="trajectory metrics" width="280"/><img src="../images/motion_metrics.png" alt="motion metrics" width="210"/><br/>
 In this page you can find the *metrics* used in vision-based prediction applications.The metrics are **sorted** based on **popularity**, (i.e how often used in prediction papers)and categorized into 5 groups:
 * <a href=video_metrics.md#top>Video</a>
 * <a href=action_metrics.md#top>Action</a>
