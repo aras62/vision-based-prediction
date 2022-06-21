@@ -19,7 +19,7 @@ To search for papers, you can use one of the following options:
   * [Papers with code](papers/papers_with_code.md#top)
 * [Datasets](datasets/datasets.md#top)
   * [Year](datasets/year_datasets.md#top)
-  * [Application](datasets/application_datasets.md#top)
+  * [Application](datasets/application/application_datasets.md#top)
   * [Task](datasets/task_datasets.md#top)
   * [Annotation](datasets/annotation_datasets.md#top)
 * [Metrics](metrics.md#top)
