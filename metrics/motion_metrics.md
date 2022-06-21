@@ -6,14 +6,6 @@
 ___
 <a name=motion></a>
 <h2 style="color:#c12fdc"> Motion Prediction Metrics</h2> 
-
-Below is the list of Motion prediction papers sorted chronologically and according to the venues (in order of relevance) they were published in. Each paper in the list has an associated link to the publication page, and arxiv preprint or code links if available. By **clicking on the papers** you can get the following information:
-
-* **Datasets** used in the paper
-* **Metrics** used in the paper
-* **Bibtext** of the publication
-
-<h3>Metrics</h3>
 <ul><a name=mpjpe></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Mean Per Joint Prediction Error (MPJPE)</strong></l>
