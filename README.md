@@ -22,7 +22,7 @@ To search for papers, you can use one of the following options:
   * [Application](datasets/application/application_datasets.md#top)
   * [Task](datasets/task_datasets.md#top)
   * [Annotation](datasets/annotation_datasets.md#top)
-* [Metrics](metrics.md#top)
+* [Metrics](metrics/metrics.md#top)
 
 
 ### Contribute to this project
