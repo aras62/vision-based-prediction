@@ -1,14 +1,14 @@
 <a name=top></a>
 <a name=top></a>
 ---
-<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../papers/papers.md#top><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Datasets</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../papers/papers.md#top><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Datasets</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics/metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---
-[Home](../datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Year](../year_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Application](../application/application_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Task](../task_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Annotation](../annotation_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Home](../datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Year](../year_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Application](../application/application_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Task](../task/task_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Annotation](../annotation_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 [Video](video_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](action_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Trajectory](trajectory_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Motion&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 <h2>Motion</h2> 
-Below is the list of datasets grouped according to their others.Within each group, the datasets are **sorted** based on their **popularity**, (i.e how often they are used in prediction papers).
+Within each group, the datasets are **sorted** based on their **popularity**, (i.e how often they are used in prediction papers).
 
  Each dataset in the list has an associated link to the publication page and/or arxiv preprint if available. By **clicking on the dataset** you can get the following information:
 
@@ -44,8 +44,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#lpips">LPIPS</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -74,10 +74,10 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#mse">MSE</a></li>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -104,10 +104,10 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#mse">MSE</a></li>
-<li><a href="../metrics.md#lpips">LPIPS</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -134,11 +134,11 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#lpips">LPIPS</a></li>
-<li><a href="../metrics.md#fvd">FVD</a></li>
-<li><a href="../metrics.md#human">Human</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../metrics/video_metrics.md#fvd">FVD</a></li>
+<li><a href="../metrics/video_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -165,12 +165,12 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#mse">MSE</a></li>
-<li><a href="../metrics.md#fvd">FVD</a></li>
-<li><a href="../metrics.md#mae">MAE</a></li>
-<li><a href="../metrics.md#csi">CSI</a></li>
-<li><a href="../metrics.md#gdl">GDL</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#fvd">FVD</a></li>
+<li><a href="../metrics/video_metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/video_metrics.md#csi">CSI</a></li>
+<li><a href="../metrics/video_metrics.md#gdl">GDL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -197,10 +197,10 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#lpips">LPIPS</a></li>
-<li><a href="../metrics.md#fvd">FVD</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../metrics/video_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -228,9 +228,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#mse">MSE</a></li>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -258,10 +258,10 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#lpips">LPIPS</a></li>
-<li><a href="../metrics.md#fvd">FVD</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../metrics/video_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -289,8 +289,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -317,8 +317,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -346,8 +346,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -373,8 +373,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -401,8 +401,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -427,7 +427,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#human">Human</a></li>
+<li><a href="../metrics/video_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -454,9 +454,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -482,7 +482,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -508,8 +508,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#human">Human</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -535,8 +535,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -562,7 +562,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -588,9 +588,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#minade">minADE</a></li>
-<li><a href="../metrics.md#minfde">minFDE</a></li>
-<li><a href="../metrics.md#mr">MR</a></li>
+<li><a href="../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -616,9 +616,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#apd">APD</a></li>
-<li><a href="../metrics.md#ade">ADE</a></li>
-<li><a href="../metrics.md#fde">FDE</a></li>
+<li><a href="../metrics/motion_metrics.md#apd">APD</a></li>
+<li><a href="../metrics/motion_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/motion_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -644,8 +644,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#is">IS</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#is">IS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -672,8 +672,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -699,11 +699,11 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#apd">APD</a></li>
-<li><a href="../metrics.md#ade">ADE</a></li>
-<li><a href="../metrics.md#fde">FDE</a></li>
-<li><a href="../metrics.md#nll">NLL</a></li>
-<li><a href="../metrics.md#kde">KDE</a></li>
+<li><a href="../metrics/motion_metrics.md#apd">APD</a></li>
+<li><a href="../metrics/motion_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/motion_metrics.md#fde">FDE</a></li>
+<li><a href="../metrics/motion_metrics.md#nll">NLL</a></li>
+<li><a href="../metrics/motion_metrics.md#kde">KDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -730,8 +730,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -757,8 +757,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#pck">PCK</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -785,7 +785,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -812,7 +812,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#kld">KLD</a></li>
+<li><a href="../metrics/motion_metrics.md#kld">KLD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -838,7 +838,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -865,7 +865,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -891,9 +891,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#apd">APD</a></li>
-<li><a href="../metrics.md#ade">ADE</a></li>
-<li><a href="../metrics.md#fde">FDE</a></li>
+<li><a href="../metrics/motion_metrics.md#apd">APD</a></li>
+<li><a href="../metrics/motion_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/motion_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -920,8 +920,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -947,7 +947,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -972,7 +972,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -999,7 +999,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1025,10 +1025,10 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#kld">KLD</a></li>
-<li><a href="../metrics.md#si">SI</a></li>
-<li><a href="../metrics.md#kl">KL</a></li>
-<li><a href="../metrics.md#s-mse">S-MSE</a></li>
+<li><a href="../metrics/motion_metrics.md#kld">KLD</a></li>
+<li><a href="../metrics/motion_metrics.md#si">SI</a></li>
+<li><a href="../metrics/motion_metrics.md#kl">KL</a></li>
+<li><a href="../metrics/motion_metrics.md#s-mse">S-MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1055,8 +1055,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1082,7 +1082,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1108,8 +1108,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1136,8 +1136,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1162,7 +1162,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1188,11 +1188,11 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#apd">APD</a></li>
-<li><a href="../metrics.md#ade">ADE</a></li>
-<li><a href="../metrics.md#fde">FDE</a></li>
-<li><a href="../metrics.md#mmfde">MMFDE</a></li>
-<li><a href="../metrics.md#mmade">MMADE</a></li>
+<li><a href="../metrics/motion_metrics.md#apd">APD</a></li>
+<li><a href="../metrics/motion_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/motion_metrics.md#fde">FDE</a></li>
+<li><a href="../metrics/motion_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="../metrics/motion_metrics.md#mmade">MMADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1219,7 +1219,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1246,7 +1246,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1271,8 +1271,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mane">MAnE</a></li>
-<li><a href="../metrics.md#npss">NPSS</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#npss">NPSS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1298,8 +1298,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mje">MJE</a></li>
-<li><a href="../metrics.md#run_time">Run Time</a></li>
+<li><a href="../metrics/motion_metrics.md#mje">MJE</a></li>
+<li><a href="../metrics/motion_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1324,10 +1324,10 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mane">MAnE</a></li>
-<li><a href="../metrics.md#human">Human</a></li>
-<li><a href="../metrics.md#pskl">PSKL</a></li>
-<li><a href="../metrics.md#psent">PSEnt</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#human">Human</a></li>
+<li><a href="../metrics/motion_metrics.md#pskl">PSKL</a></li>
+<li><a href="../metrics/motion_metrics.md#psent">PSEnt</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1354,8 +1354,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1380,7 +1380,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1407,9 +1407,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#pck">PCK</a></li>
-<li><a href="../metrics.md#re">RE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#pck">PCK</a></li>
+<li><a href="../metrics/motion_metrics.md#re">RE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1435,8 +1435,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mje">MJE</a></li>
-<li><a href="../metrics.md#pck">PCK</a></li>
+<li><a href="../metrics/motion_metrics.md#mje">MJE</a></li>
+<li><a href="../metrics/motion_metrics.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1461,7 +1461,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1486,8 +1486,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mane">MAnE</a></li>
-<li><a href="../metrics.md#human">Human</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1512,7 +1512,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1539,7 +1539,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#pck">PCK</a></li>
+<li><a href="../metrics/motion_metrics.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1564,7 +1564,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1589,7 +1589,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1614,8 +1614,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mane">MAnE</a></li>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1671,8 +1671,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1701,9 +1701,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1730,9 +1730,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1757,8 +1757,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1785,8 +1785,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1814,8 +1814,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1841,8 +1841,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1869,9 +1869,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1898,9 +1898,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1927,8 +1927,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1956,9 +1956,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1988,7 +1988,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2016,9 +2016,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2044,8 +2044,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#is">IS</a></li>
-<li><a href="../metrics.md#mmd">MMD</a></li>
+<li><a href="../metrics/video_metrics.md#is">IS</a></li>
+<li><a href="../metrics/video_metrics.md#mmd">MMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2072,8 +2072,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2099,7 +2099,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2126,7 +2126,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2153,7 +2153,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2180,7 +2180,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2209,8 +2209,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../metrics.md#map">mAP</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2237,7 +2237,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2264,7 +2264,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2290,7 +2290,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2317,7 +2317,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2344,7 +2344,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2370,9 +2370,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../metrics.md#map">mAP</a></li>
-<li><a href="../metrics.md#auc">AUC</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#map">mAP</a></li>
+<li><a href="../metrics/action_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2398,7 +2398,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2425,7 +2425,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/other_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2478,7 +2478,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2505,8 +2505,8 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2534,7 +2534,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2561,7 +2561,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2588,7 +2588,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#kld">KLD</a></li>
+<li><a href="../metrics/motion_metrics.md#kld">KLD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2614,7 +2614,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2641,7 +2641,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2667,7 +2667,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2694,7 +2694,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2720,10 +2720,10 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#kld">KLD</a></li>
-<li><a href="../metrics.md#si">SI</a></li>
-<li><a href="../metrics.md#kl">KL</a></li>
-<li><a href="../metrics.md#s-mse">S-MSE</a></li>
+<li><a href="../metrics/motion_metrics.md#kld">KLD</a></li>
+<li><a href="../metrics/motion_metrics.md#si">SI</a></li>
+<li><a href="../metrics/motion_metrics.md#kl">KL</a></li>
+<li><a href="../metrics/motion_metrics.md#s-mse">S-MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2750,8 +2750,8 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2777,7 +2777,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2803,8 +2803,8 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2831,7 +2831,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2858,7 +2858,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2885,8 +2885,8 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2940,9 +2940,9 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#fvd">FVD</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2968,7 +2968,7 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#lpips">LPIPS</a></li>
+<li><a href="../metrics/video_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2995,7 +2995,7 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#fvd">FVD</a></li>
+<li><a href="../metrics/video_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3021,8 +3021,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3048,8 +3048,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3075,8 +3075,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#is">IS</a></li>
-<li><a href="../metrics.md#mmd">MMD</a></li>
+<li><a href="../metrics/video_metrics.md#is">IS</a></li>
+<li><a href="../metrics/video_metrics.md#mmd">MMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3102,8 +3102,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics.md#human">Human</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3129,8 +3129,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#pck">PCK</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3157,7 +3157,7 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#kld">KLD</a></li>
+<li><a href="../metrics/motion_metrics.md#kld">KLD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3184,9 +3184,9 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#pck">PCK</a></li>
-<li><a href="../metrics.md#re">RE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#pck">PCK</a></li>
+<li><a href="../metrics/motion_metrics.md#re">RE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3212,8 +3212,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mje">MJE</a></li>
-<li><a href="../metrics.md#pck">PCK</a></li>
+<li><a href="../metrics/motion_metrics.md#mje">MJE</a></li>
+<li><a href="../metrics/motion_metrics.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3240,7 +3240,7 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#pck">PCK</a></li>
+<li><a href="../metrics/motion_metrics.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3293,9 +3293,9 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#iou">IoU</a></li>
-<li><a href="../metrics.md#vam">VAM</a></li>
-<li><a href="../metrics.md#vim">VIM</a></li>
+<li><a href="../metrics/trajectory_metrics.md#iou">IoU</a></li>
+<li><a href="../metrics/trajectory_metrics.md#vam">VAM</a></li>
+<li><a href="../metrics/trajectory_metrics.md#vim">VIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3322,8 +3322,8 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3350,8 +3350,8 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3379,7 +3379,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3406,7 +3406,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3433,8 +3433,8 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3461,8 +3461,8 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3489,8 +3489,8 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3517,7 +3517,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3544,7 +3544,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3571,8 +3571,8 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3625,11 +3625,11 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#apd">APD</a></li>
-<li><a href="../metrics.md#ade">ADE</a></li>
-<li><a href="../metrics.md#fde">FDE</a></li>
-<li><a href="../metrics.md#nll">NLL</a></li>
-<li><a href="../metrics.md#kde">KDE</a></li>
+<li><a href="../metrics/motion_metrics.md#apd">APD</a></li>
+<li><a href="../metrics/motion_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/motion_metrics.md#fde">FDE</a></li>
+<li><a href="../metrics/motion_metrics.md#nll">NLL</a></li>
+<li><a href="../metrics/motion_metrics.md#kde">KDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3656,8 +3656,8 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3682,11 +3682,11 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#apd">APD</a></li>
-<li><a href="../metrics.md#ade">ADE</a></li>
-<li><a href="../metrics.md#fde">FDE</a></li>
-<li><a href="../metrics.md#mmfde">MMFDE</a></li>
-<li><a href="../metrics.md#mmade">MMADE</a></li>
+<li><a href="../metrics/motion_metrics.md#apd">APD</a></li>
+<li><a href="../metrics/motion_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/motion_metrics.md#fde">FDE</a></li>
+<li><a href="../metrics/motion_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="../metrics/motion_metrics.md#mmade">MMADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3713,8 +3713,8 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mae">MAE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3741,8 +3741,8 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3794,7 +3794,7 @@ A multiview group activity dataset recorded with 10 RGB-D sensors and 30+ HD vie
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3822,7 +3822,7 @@ A multiview group activity dataset recorded with 10 RGB-D sensors and 30+ HD vie
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3850,7 +3850,7 @@ A multiview group activity dataset recorded with 10 RGB-D sensors and 30+ HD vie
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/motion_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3906,9 +3906,9 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#apd">APD</a></li>
-<li><a href="../metrics.md#ade">ADE</a></li>
-<li><a href="../metrics.md#fde">FDE</a></li>
+<li><a href="../metrics/motion_metrics.md#apd">APD</a></li>
+<li><a href="../metrics/motion_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/motion_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3934,9 +3934,9 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#apd">APD</a></li>
-<li><a href="../metrics.md#ade">ADE</a></li>
-<li><a href="../metrics.md#fde">FDE</a></li>
+<li><a href="../metrics/motion_metrics.md#apd">APD</a></li>
+<li><a href="../metrics/motion_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/motion_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3962,11 +3962,11 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#apd">APD</a></li>
-<li><a href="../metrics.md#ade">ADE</a></li>
-<li><a href="../metrics.md#fde">FDE</a></li>
-<li><a href="../metrics.md#mmfde">MMFDE</a></li>
-<li><a href="../metrics.md#mmade">MMADE</a></li>
+<li><a href="../metrics/motion_metrics.md#apd">APD</a></li>
+<li><a href="../metrics/motion_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/motion_metrics.md#fde">FDE</a></li>
+<li><a href="../metrics/motion_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="../metrics/motion_metrics.md#mmade">MMADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4022,7 +4022,7 @@ A dataset of 10K images of pedestrians at traffic intersections with 2D and 3D p
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#rmse">RMSE</a></li>
+<li><a href="../metrics/motion_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4050,8 +4050,8 @@ A dataset of 10K images of pedestrians at traffic intersections with 2D and 3D p
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#rmse">RMSE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4110,9 +4110,9 @@ A dataset of 1356 video sequences of sports scenes with corresponding poses.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#iou">IoU</a></li>
-<li><a href="../metrics.md#vam">VAM</a></li>
-<li><a href="../metrics.md#vim">VIM</a></li>
+<li><a href="../metrics/trajectory_metrics.md#iou">IoU</a></li>
+<li><a href="../metrics/trajectory_metrics.md#vam">VAM</a></li>
+<li><a href="../metrics/trajectory_metrics.md#vim">VIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4138,7 +4138,7 @@ A dataset of 1356 video sequences of sports scenes with corresponding poses.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/motion_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4195,7 +4195,7 @@ A dataset of fishes and mice in a lab environment with corresponding 2D poses
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4221,8 +4221,8 @@ A dataset of fishes and mice in a lab environment with corresponding 2D poses
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mje">MJE</a></li>
-<li><a href="../metrics.md#run_time">Run Time</a></li>
+<li><a href="../metrics/motion_metrics.md#mje">MJE</a></li>
+<li><a href="../metrics/motion_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4278,8 +4278,8 @@ A dataset of whole-body grasps, containing full 3D shape and pose sequences of 1
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#is">IS</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#is">IS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4306,9 +4306,9 @@ A dataset of whole-body grasps, containing full 3D shape and pose sequences of 1
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ade">ADE</a></li>
-<li><a href="../metrics.md#div">Div</a></li>
-<li><a href="../metrics.md#fid">FID</a></li>
+<li><a href="../metrics/motion_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/motion_metrics.md#div">Div</a></li>
+<li><a href="../metrics/motion_metrics.md#fid">FID</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4361,7 +4361,7 @@ A dataset of 40+ video clips showing collective activities including  crossing, 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4387,7 +4387,7 @@ A dataset of 40+ video clips showing collective activities including  crossing, 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4440,7 +4440,7 @@ A dataset of 10 indoor scenes recorded from GTA game with 21 joint pose annotati
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4494,9 +4494,9 @@ A dataset of photo realistic 3D indoor environments
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#f1">F1</a></li>
-<li><a href="../metrics.md#iou">IoU</a></li>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/other_metrics.md#f1">F1</a></li>
+<li><a href="../metrics/other_metrics.md#iou">IoU</a></li>
+<li><a href="../metrics/other_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4551,7 +4551,7 @@ A dataset of human-human and human-robot collaboration involving 4 basic actions
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/motion_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4609,7 +4609,7 @@ A dataset of 180 RGBD images of 1 person and 1 scene with ground truth and 100k 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4661,7 +4661,7 @@ A dataset of walking human video clips from the front and egocentric views with 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mje">MJE</a></li>
+<li><a href="../metrics/motion_metrics.md#mje">MJE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4715,9 +4715,9 @@ A dataset with language labels describing the actions being performed in mocap s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#ade">ADE</a></li>
-<li><a href="../metrics.md#div">Div</a></li>
-<li><a href="../metrics.md#fid">FID</a></li>
+<li><a href="../metrics/motion_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/motion_metrics.md#div">Div</a></li>
+<li><a href="../metrics/motion_metrics.md#fid">FID</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4771,9 +4771,9 @@ A dataset with 28 hours of video footage and corresponding auto-generated 2D pos
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#pck">PCK</a></li>
-<li><a href="../metrics.md#re">RE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#pck">PCK</a></li>
+<li><a href="../metrics/motion_metrics.md#re">RE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4827,7 +4827,7 @@ A datasets of 71 meshes of a person in different poses
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#cma">CMA</a></li>
+<li><a href="../metrics/motion_metrics.md#cma">CMA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4882,7 +4882,7 @@ A dataset of various human actions and interactions with associated 3D poses.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4936,7 +4936,7 @@ A dataset of 3D poses recorded over time (3D) at 60 fps
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#cma">CMA</a></li>
+<li><a href="../metrics/motion_metrics.md#cma">CMA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4988,7 +4988,7 @@ A motion capture dataset that contains 70+ motion classes in 10 to 50 realizatio
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mje">MJE</a></li>
+<li><a href="../metrics/motion_metrics.md#mje">MJE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5046,7 +5046,7 @@ A dataset of 27 actions performed by 8 subjects collected using Kinect sensor.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/motion_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5103,7 +5103,7 @@ The dataset of 12 RGB-D video sequences of a person moving in front of a Kinect 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mje">MJE</a></li>
+<li><a href="../metrics/motion_metrics.md#mje">MJE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5155,7 +5155,7 @@ A human motion dataset consists of 2.4K+ experiments using 224 subjects and 135 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mane">MAnE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5209,7 +5209,7 @@ A pose detection dataset with 25K images containing 40K subjects performing 410 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#pck">PCK</a></li>
+<li><a href="../metrics/motion_metrics.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5262,7 +5262,7 @@ A dataset of 8 dyadic human interactions, e.g. approaching, departing, pushing, 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5316,7 +5316,7 @@ A dataset of 80 synthetic objects (animals and humans) with corresponding poses
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#cma">CMA</a></li>
+<li><a href="../metrics/motion_metrics.md#cma">CMA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5368,8 +5368,8 @@ A dataset containing 2 couples of dancers performing 16 extreme actions, obtaini
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics.md#ame">AME</a></li>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#ame">AME</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
