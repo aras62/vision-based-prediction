@@ -38,9 +38,9 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -67,8 +67,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#shapestack">ShapeStack</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#shapestack">ShapeStack</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -93,9 +93,9 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
-<li><a href="../datasets/year_datasets.md#mgif">MGIF</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uva-nemo">UvA-NEMO</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mgif">MGIF</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -120,8 +120,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -147,8 +147,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#mug">MUG</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mug">MUG</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -174,8 +174,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -201,8 +201,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -228,8 +228,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -255,9 +255,9 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -282,9 +282,9 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#instavariety">InstaVariety</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -311,8 +311,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -338,9 +338,9 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -392,8 +392,8 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -419,8 +419,8 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -445,8 +445,8 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
-<li><a href="../datasets/year_datasets.md#ava">AVA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#ava">AVA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -471,9 +471,9 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
-<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bit">BIT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -498,9 +498,9 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -525,9 +525,9 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -552,8 +552,8 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -607,8 +607,8 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -636,9 +636,8 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
-<li><a href="../datasets/year_datasets.md#charades">Charades</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#charades">Charades</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -664,9 +663,9 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -691,8 +690,8 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -719,8 +718,7 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -745,8 +743,7 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -798,9 +795,9 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
-<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_cooking">MPII Cooking</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -827,8 +824,8 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="../datasets/year_datasets.md#acticipate">ACTICIPATE</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#acticipate">ACTICIPATE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -854,7 +851,7 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -881,8 +878,8 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="../datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -910,7 +907,7 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -968,7 +965,7 @@ A dataset of 68 pedestrian sequences recorded using a dashboard camera inside a 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#daimler_path">Daimler Path</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -993,7 +990,7 @@ A dataset of 68 pedestrian sequences recorded using a dashboard camera inside a 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#daimler_path">Daimler Path</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1046,11 +1043,11 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="../datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1077,10 +1074,10 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#chuk">CHUK</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#chuk">CHUK</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1134,7 +1131,7 @@ A dataset of human tracks recorded in a shopping mall for a period of 92 days us
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#atc">ATC</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#atc">ATC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1191,8 +1188,8 @@ A dataset of annotated poses and stereo pairs.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cityscape">Cityscape</a></li>
-<li><a href="../datasets/year_datasets.md#3d_movie">3D Movie</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cityscape">Cityscape</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1244,9 +1241,9 @@ A dataset containing 15 new 4K resolution ultra-high definition (UHD) video sequ
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#sjtu4k">SJTU4K</a></li>
-<li><a href="../datasets/year_datasets.md#ucf_sports">UCF Sports</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sjtu4k">SJTU4K</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf_sports">UCF Sports</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1300,9 +1297,9 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1328,8 +1325,8 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1355,11 +1352,11 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
-<li><a href="../datasets/year_datasets.md#smtsmt">SmtSmt</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#smtsmt">SmtSmt</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1388,9 +1385,9 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="../datasets/year_datasets.md#dancing">Dancing</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#dancing">Dancing</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1417,8 +1414,8 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1445,9 +1442,9 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#robonet">RoboNet</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#robonet">RoboNet</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1476,7 +1473,7 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1502,10 +1499,10 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#bair">BAIR</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bair">BAIR</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1533,8 +1530,8 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1560,11 +1557,11 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="../datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1591,8 +1588,8 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1618,9 +1615,9 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#yuv">YUV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1647,10 +1644,10 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1676,9 +1673,9 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1705,9 +1702,9 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1734,9 +1731,9 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1764,8 +1761,8 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1791,10 +1788,10 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1821,9 +1818,9 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1849,8 +1846,8 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#carla">CARLA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#carla">CARLA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1875,8 +1872,8 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1902,8 +1899,8 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#h3d">H3D</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#h3d">H3D</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1929,9 +1926,9 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="../datasets/year_datasets.md#orc">ORC</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#orc">ORC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1957,8 +1954,8 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1984,9 +1981,9 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="../datasets/year_datasets.md#oxford">Oxford</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#oxford">Oxford</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2011,7 +2008,7 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2038,8 +2035,8 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2067,7 +2064,7 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2095,7 +2092,7 @@ A large-scale driving dataset recorded with different modalities including stere
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2147,8 +2144,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#yuv">YUV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2174,11 +2171,11 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="../datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2205,9 +2202,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#yuv">YUV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2234,7 +2231,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2260,9 +2257,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2288,10 +2285,10 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2317,8 +2314,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2344,9 +2341,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2373,9 +2370,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2402,9 +2399,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2431,9 +2428,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2461,11 +2458,11 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
-<li><a href="../datasets/year_datasets.md#visor">ViSOR</a></li>
-<li><a href="../datasets/year_datasets.md#prost">PROST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#visor">ViSOR</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#prost">PROST</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2490,10 +2487,10 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2520,8 +2517,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2547,9 +2544,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2575,8 +2572,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2601,9 +2598,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2628,9 +2625,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2655,9 +2652,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
-<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bit">BIT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2682,11 +2679,11 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#willow_action">Willow Action</a></li>
-<li><a href="../datasets/year_datasets.md#wider">WIDER</a></li>
-<li><a href="../datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
-<li><a href="../datasets/year_datasets.md#bu_action">BU Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wider">WIDER</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bu_action">BU Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2712,9 +2709,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bit">BIT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2739,9 +2736,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2766,8 +2763,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#hmdb">HMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#hmdb">HMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2792,9 +2789,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
-<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2819,9 +2816,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2846,8 +2843,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2874,8 +2871,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2900,9 +2897,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kinetics-400">Kinetics-400</a></li>
-<li><a href="../datasets/year_datasets.md#hmdb">HMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kinetics-400">Kinetics-400</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#hmdb">HMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2954,10 +2951,10 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#chuk">CHUK</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#chuk">CHUK</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2984,8 +2981,8 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#qmul">QMUL</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#qmul">QMUL</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3011,7 +3008,7 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gc">GC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3038,8 +3035,8 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#mitt">MITT</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mitt">MITT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3065,8 +3062,8 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#ltcf">LTCF</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ltcf">LTCF</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3119,9 +3116,9 @@ A dataset of human interactions with 400 video clips capturing 8 different inter
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
-<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bit">BIT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3146,9 +3143,9 @@ A dataset of human interactions with 400 video clips capturing 8 different inter
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bit">BIT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3173,9 +3170,9 @@ A dataset of human interactions with 400 video clips capturing 8 different inter
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
-<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3200,8 +3197,8 @@ A dataset of human interactions with 400 video clips capturing 8 different inter
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bit">BIT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3253,9 +3250,9 @@ A dataset of 65 cooking activities with 5.5K+ video clips recorded from 12 subje
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
-<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_cooking">MPII Cooking</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3282,8 +3279,8 @@ A dataset of 65 cooking activities with 5.5K+ video clips recorded from 12 subje
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
-<li><a href="../datasets/year_datasets.md#virat">VIRAT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3311,7 +3308,7 @@ A dataset of 65 cooking activities with 5.5K+ video clips recorded from 12 subje
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_cooking">MPII Cooking</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3363,8 +3360,8 @@ A dataset of 10 basic actions, e.g. throwing, pushing, pulling, each performed b
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#wnp">WnP</a></li>
-<li><a href="../datasets/year_datasets.md#utka">UTKA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wnp">WnP</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#utka">UTKA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3389,9 +3386,9 @@ A dataset of 10 basic actions, e.g. throwing, pushing, pulling, each performed b
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#wnp">WnP</a></li>
-<li><a href="../datasets/year_datasets.md#utka">UTKA</a></li>
-<li><a href="../datasets/year_datasets.md#occlusion_mocap">Occlusion MoCap</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wnp">WnP</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#utka">UTKA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#occlusion_mocap">Occlusion MoCap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3443,9 +3440,9 @@ A large-scale dataset of smiles with 1240 video clips with both spontaneous and 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
-<li><a href="../datasets/year_datasets.md#mgif">MGIF</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uva-nemo">UvA-NEMO</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mgif">MGIF</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3498,8 +3495,8 @@ A dataset of 8 dyadic human interactions, e.g. approaching, departing, pushing, 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ca">CA</a></li>
-<li><a href="../datasets/year_datasets.md#sbuki">SBUKI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#ca">CA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sbuki">SBUKI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3551,7 +3548,7 @@ A dataset of 16 activities, such as writing on a paper, using a laptop, using a 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#msrda">MSRDA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#msrda">MSRDA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3603,7 +3600,7 @@ An object manipulation action dataset with 8 different manipulation actions perf
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#maniac">MANIAC</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#maniac">MANIAC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3655,8 +3652,8 @@ An egocentric dataset of 17 cooking activity videos performed by 14 subjects
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
-<li><a href="../datasets/year_datasets.md#gtea_gaze">GTEA Gaze</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gtea_gaze">GTEA Gaze</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3709,11 +3706,11 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
-<li><a href="../datasets/year_datasets.md#smtsmt">SmtSmt</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#smtsmt">SmtSmt</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3742,8 +3739,8 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3769,8 +3766,8 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3797,8 +3794,8 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3851,8 +3848,8 @@ A multiview dataset of 12 events, such as a person loading an object to a vehicl
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
-<li><a href="../datasets/year_datasets.md#virat">VIRAT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3880,7 +3877,7 @@ A multiview dataset of 12 events, such as a person loading an object to a vehicl
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#virat">VIRAT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3934,8 +3931,8 @@ A dataset of 6.8K+ video clips of 51 actions corresponding to general facial act
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#hmdb">HMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#hmdb">HMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3960,9 +3957,9 @@ A dataset of 6.8K+ video clips of 51 actions corresponding to general facial act
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kinetics-400">Kinetics-400</a></li>
-<li><a href="../datasets/year_datasets.md#hmdb">HMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kinetics-400">Kinetics-400</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#hmdb">HMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4014,11 +4011,11 @@ A dataset of 40 actions with 9.5K+ RGB images and the corresponding bounding box
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#willow_action">Willow Action</a></li>
-<li><a href="../datasets/year_datasets.md#wider">WIDER</a></li>
-<li><a href="../datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
-<li><a href="../datasets/year_datasets.md#bu_action">BU Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wider">WIDER</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bu_action">BU Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4071,7 +4068,7 @@ A dataset of LIDAR scans and IMU readings with the corresponding images collecte
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#fcvl">FCVL</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#fcvl">FCVL</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4130,9 +4127,9 @@ A dataset of 6 human-human interactions, such as shaking hands, hugging, with 20
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4157,9 +4154,9 @@ A dataset of 6 human-human interactions, such as shaking hands, hugging, with 20
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bit">BIT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4184,9 +4181,9 @@ A dataset of 6 human-human interactions, such as shaking hands, hugging, with 20
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4211,9 +4208,9 @@ A dataset of 6 human-human interactions, such as shaking hands, hugging, with 20
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4238,8 +4235,8 @@ A dataset of 6 human-human interactions, such as shaking hands, hugging, with 20
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4264,8 +4261,8 @@ A dataset of 6 human-human interactions, such as shaking hands, hugging, with 20
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bit">BIT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4290,7 +4287,7 @@ A dataset of 6 human-human interactions, such as shaking hands, hugging, with 20
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4343,9 +4340,9 @@ A dataset of 300 video clips collected from 20+ different TV shows containing 4 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4370,8 +4367,8 @@ A dataset of 300 video clips collected from 20+ different TV shows containing 4 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4396,7 +4393,7 @@ A dataset of 300 video clips collected from 20+ different TV shows containing 4 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4421,9 +4418,9 @@ A dataset of 300 video clips collected from 20+ different TV shows containing 4 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
-<li><a href="../datasets/year_datasets.md#tv_series">TV Series</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_series">TV Series</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4449,8 +4446,8 @@ A dataset of 300 video clips collected from 20+ different TV shows containing 4 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4502,8 +4499,8 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#humaneva-l">HumanEva-l</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#humaneva-l">HumanEva-l</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4530,8 +4527,8 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#humaneva-l">HumanEva-l</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#humaneva-l">HumanEva-l</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4558,8 +4555,8 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#humaneva-l">HumanEva-l</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#humaneva-l">HumanEva-l</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4618,11 +4615,11 @@ A dataset of GPS data collected from 10K+ taxis in Beijing with a sampling rate 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#taxi_bj">Taxi BJ</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#taxi_bj">Taxi BJ</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4650,10 +4647,10 @@ A dataset of GPS data collected from 10K+ taxis in Beijing with a sampling rate 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#taxi_bj">Taxi BJ</a></li>
-<li><a href="../datasets/year_datasets.md#sst">SST</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#taxi_bj">Taxi BJ</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sst">SST</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4708,11 +4705,11 @@ A dataset of 7 actions, e.g. riding a bike, riding a horse, running, depicted in
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#willow_action">Willow Action</a></li>
-<li><a href="../datasets/year_datasets.md#wider">WIDER</a></li>
-<li><a href="../datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
-<li><a href="../datasets/year_datasets.md#bu_action">BU Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wider">WIDER</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bu_action">BU Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4765,11 +4762,11 @@ A repository of various surveillance footage of pedestrians in indoor and outdoo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
-<li><a href="../datasets/year_datasets.md#visor">ViSOR</a></li>
-<li><a href="../datasets/year_datasets.md#prost">PROST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#visor">ViSOR</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#prost">PROST</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4824,11 +4821,11 @@ A dataset of 4K+ frames for tracking objects in the presences of camera motion
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
-<li><a href="../datasets/year_datasets.md#visor">ViSOR</a></li>
-<li><a href="../datasets/year_datasets.md#prost">PROST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#visor">ViSOR</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#prost">PROST</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4880,8 +4877,8 @@ A dataset of 86 human subjects performing 6 types of basic expressions including
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#mug">MUG</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mug">MUG</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4934,9 +4931,9 @@ A dataset 20 actions, such as high arm wave, horizontal arm wave, hammer, forwar
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#msr">MSR</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#msr">MSR</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4989,7 +4986,7 @@ A dataset of 3.5 hours of driving with the corresponding steering angle computed
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#diplecs">DIPLECS</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#diplecs">DIPLECS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5042,9 +5039,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5071,9 +5068,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5099,9 +5096,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5127,8 +5124,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5154,10 +5151,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#lyft">Lyft</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5183,10 +5180,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#nba">NBA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nba">NBA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5212,9 +5209,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5240,9 +5237,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#nba">NBA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nba">NBA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5268,8 +5265,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5295,9 +5292,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5323,8 +5320,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5350,8 +5347,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5377,8 +5374,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5404,8 +5401,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5431,8 +5428,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5458,8 +5455,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5485,8 +5482,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5512,8 +5509,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5539,8 +5536,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5566,8 +5563,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5593,9 +5590,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5621,8 +5618,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5648,8 +5645,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5675,8 +5672,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5704,8 +5701,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5731,10 +5728,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
-<li><a href="../datasets/year_datasets.md#pie">PIE</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jaad">JAAD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#pie">PIE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5763,9 +5760,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#usyd">USyd</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#usyd">USyd</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5793,8 +5790,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5820,8 +5817,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5847,7 +5844,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5874,8 +5871,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5901,8 +5898,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5928,8 +5925,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5955,8 +5952,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5982,10 +5979,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../datasets/year_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6016,9 +6013,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6044,8 +6041,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6071,8 +6068,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6098,8 +6095,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6125,8 +6122,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6152,8 +6149,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6179,9 +6176,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6207,9 +6204,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6238,9 +6235,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6267,8 +6264,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6294,11 +6291,11 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../datasets/year_datasets.md#nba">NBA</a></li>
-<li><a href="../datasets/year_datasets.md#charges">Charges</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nba">NBA</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#charges">Charges</a></li>
 <li>Custom</li>
 
 </ul>
@@ -6326,8 +6323,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6353,9 +6350,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6384,9 +6381,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6412,8 +6409,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6439,9 +6436,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6467,10 +6464,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#usyd">USyd</a></li>
-<li><a href="../datasets/year_datasets.md#vci">VCI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#usyd">USyd</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#vci">VCI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6500,8 +6497,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6530,8 +6527,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6560,8 +6557,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6587,9 +6584,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6615,9 +6612,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#virat/actev">VIRAT/ActEV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6643,8 +6640,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6670,8 +6667,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6697,10 +6694,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6727,9 +6724,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6755,8 +6752,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6782,8 +6779,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6809,8 +6806,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6837,10 +6834,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6866,8 +6863,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6893,10 +6890,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#pets2009">PETS2009</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6922,8 +6919,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6949,10 +6946,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#chuk">CHUK</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#chuk">CHUK</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6979,8 +6976,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7007,7 +7004,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7032,8 +7029,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7059,8 +7056,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7086,8 +7083,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7114,8 +7111,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7172,11 +7169,11 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#taxi_bj">Taxi BJ</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#taxi_bj">Taxi BJ</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7204,9 +7201,9 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7232,11 +7229,11 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
-<li><a href="../datasets/year_datasets.md#smtsmt">SmtSmt</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#smtsmt">SmtSmt</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7265,10 +7262,10 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#bair">BAIR</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bair">BAIR</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7296,11 +7293,11 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="../datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7327,8 +7324,8 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7354,9 +7351,9 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#yuv">YUV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7383,9 +7380,9 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#yuv">YUV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7412,10 +7409,10 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7441,9 +7438,9 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7470,8 +7467,8 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#youtube-8m">Youtube-8M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#youtube-8m">Youtube-8M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7499,10 +7496,10 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7529,9 +7526,9 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#daimler">Daimler</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#daimler">Daimler</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7584,8 +7581,8 @@ A collection of color video clips with different subjects and resolutions
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#yuv">YUV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7611,9 +7608,9 @@ A collection of color video clips with different subjects and resolutions
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#yuv">YUV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7640,9 +7637,9 @@ A collection of color video clips with different subjects and resolutions
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#yuv">YUV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7696,7 +7693,7 @@ A dataset of 92K+ trajectories recorded with a top-down view camera capturing pe
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#eifp">EIFP</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eifp">EIFP</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7721,8 +7718,8 @@ A dataset of 92K+ trajectories recorded with a top-down view camera capturing pe
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
-<li><a href="../datasets/year_datasets.md#eifp">EIFP</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eifp">EIFP</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7775,8 +7772,8 @@ A dataset of 40+ video clips showing collective activities including  crossing, 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ca">CA</a></li>
-<li><a href="../datasets/year_datasets.md#volleyball">Volleyball</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#ca">CA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#volleyball">Volleyball</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7801,8 +7798,8 @@ A dataset of 40+ video clips showing collective activities including  crossing, 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ca">CA</a></li>
-<li><a href="../datasets/year_datasets.md#sbuki">SBUKI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#ca">CA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sbuki">SBUKI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7854,7 +7851,7 @@ A dataset of multiview video and multimodal sensor recordings of common activiti
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tum_kitchen">TUM Kitchen</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tum_kitchen">TUM Kitchen</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7906,8 +7903,8 @@ A dataset of surveillance footage of road traffic  with 90K+ frames recorded at 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#qmul">QMUL</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#qmul">QMUL</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7960,10 +7957,10 @@ A dataset of crowd activities, e.g. walking, running, evacuation (rapid dispersi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#pets2009">PETS2009</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8016,7 +8013,7 @@ A dataset of 20 videos, each with approx. 400 frames, of different football matc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#osu">OSU</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#osu">OSU</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8073,9 +8070,9 @@ A dataset 150 sequences with the resolution of 720 x 480 depicting 10 sport acti
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#sjtu4k">SJTU4K</a></li>
-<li><a href="../datasets/year_datasets.md#ucf_sports">UCF Sports</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sjtu4k">SJTU4K</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf_sports">UCF Sports</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8128,8 +8125,8 @@ A dataset of 40K+ trajectories recorded from a parking lot for five days
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#mitt">MITT</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mitt">MITT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8182,9 +8179,9 @@ A grayscale dataset of 70K+ pedestrian samples recorded during the course of 27 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#daimler">Daimler</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#daimler">Daimler</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8240,9 +8237,9 @@ A dataset of 80 synthetic objects (animals and humans) with corresponding poses
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tosca">TOSCA</a></li>
-<li><a href="../datasets/year_datasets.md#scape">SCAPE</a></li>
-<li><a href="../datasets/year_datasets.md#dfaust">DFAUST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tosca">TOSCA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#scape">SCAPE</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#dfaust">DFAUST</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8295,9 +8292,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8324,9 +8321,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8352,9 +8349,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8380,8 +8377,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8407,10 +8404,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#lyft">Lyft</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8436,10 +8433,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#nba">NBA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nba">NBA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8465,9 +8462,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8493,9 +8490,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#nba">NBA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nba">NBA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8521,8 +8518,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8548,9 +8545,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8576,8 +8573,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8603,8 +8600,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8630,8 +8627,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8657,8 +8654,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8684,8 +8681,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8711,8 +8708,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8738,8 +8735,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8765,8 +8762,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8792,8 +8789,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8819,8 +8816,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8846,9 +8843,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8874,8 +8871,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8901,8 +8898,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8928,8 +8925,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8957,8 +8954,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8984,10 +8981,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#jaad">JAAD</a></li>
-<li><a href="../datasets/year_datasets.md#pie">PIE</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jaad">JAAD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#pie">PIE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9016,9 +9013,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#usyd">USyd</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#usyd">USyd</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9046,8 +9043,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9073,8 +9070,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9100,8 +9097,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9127,8 +9124,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9154,8 +9151,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9181,8 +9178,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9208,10 +9205,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../datasets/year_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9242,9 +9239,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9270,8 +9267,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9297,8 +9294,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9324,8 +9321,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9351,8 +9348,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9378,8 +9375,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9405,9 +9402,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9433,9 +9430,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9464,9 +9461,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9493,8 +9490,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9520,11 +9517,11 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../datasets/year_datasets.md#nba">NBA</a></li>
-<li><a href="../datasets/year_datasets.md#charges">Charges</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nba">NBA</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#charges">Charges</a></li>
 <li>Custom</li>
 
 </ul>
@@ -9552,8 +9549,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9579,9 +9576,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9610,9 +9607,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9638,8 +9635,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9665,9 +9662,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9693,10 +9690,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#usyd">USyd</a></li>
-<li><a href="../datasets/year_datasets.md#vci">VCI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#usyd">USyd</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#vci">VCI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9726,8 +9723,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9756,8 +9753,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9786,8 +9783,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9813,9 +9810,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9841,9 +9838,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#virat/actev">VIRAT/ActEV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9869,8 +9866,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9896,8 +9893,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9923,10 +9920,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9953,9 +9950,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -9981,8 +9978,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10008,8 +10005,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10034,8 +10031,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10061,8 +10058,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10089,10 +10086,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10118,8 +10115,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10145,10 +10142,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#pets2009">PETS2009</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10174,8 +10171,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10201,8 +10198,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10228,10 +10225,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#chuk">CHUK</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#chuk">CHUK</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10258,8 +10255,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10286,8 +10283,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10313,8 +10310,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10341,8 +10338,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10368,7 +10365,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10393,8 +10390,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10420,8 +10417,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10448,8 +10445,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10475,8 +10472,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10536,7 +10533,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10566,7 +10563,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10593,7 +10590,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10621,7 +10618,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10646,9 +10643,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../datasets/year_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10674,8 +10671,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10702,7 +10699,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 <li>Custom</li>
 
 </ul>
@@ -10730,8 +10727,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../datasets/year_datasets.md#highd">HighD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#highd">HighD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10761,8 +10758,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../datasets/year_datasets.md#highd">HighD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#highd">HighD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10787,8 +10784,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../datasets/year_datasets.md#highd">HighD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#highd">HighD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10814,11 +10811,11 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../datasets/year_datasets.md#nba">NBA</a></li>
-<li><a href="../datasets/year_datasets.md#charges">Charges</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nba">NBA</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#charges">Charges</a></li>
 <li>Custom</li>
 
 </ul>
@@ -10846,7 +10843,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10874,8 +10871,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../datasets/year_datasets.md#highd">HighD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#highd">HighD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10900,9 +10897,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../datasets/year_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10929,7 +10926,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10954,7 +10951,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -10983,10 +10980,10 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../datasets/year_datasets.md#apolloscape">ApolloScape</a></li>
-<li><a href="../datasets/year_datasets.md#lyft">Lyft</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11015,7 +11012,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11041,8 +11038,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../datasets/year_datasets.md#traf">TRAF</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#traf">TRAF</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11068,10 +11065,10 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11098,7 +11095,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 <li>Custom</li>
 
 </ul>
@@ -11126,8 +11123,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11152,7 +11149,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11177,7 +11174,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11203,7 +11200,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11256,8 +11253,8 @@ A dataset of vehicle trajectories containing 30 minutes of data recorded at Lank
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
-<li><a href="../datasets/year_datasets.md#thor">THOR</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thor">THOR</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11284,8 +11281,8 @@ A dataset of vehicle trajectories containing 30 minutes of data recorded at Lank
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
-<li><a href="../datasets/year_datasets.md#eifp">EIFP</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eifp">EIFP</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11338,9 +11335,9 @@ A dataset of pedestrians recorded using a mobile platform with 5K+ frames span o
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#daimler">Daimler</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#daimler">Daimler</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11366,7 +11363,7 @@ A dataset of pedestrians recorded using a mobile platform with 5K+ frames span o
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11419,7 +11416,7 @@ A dataset of 17M+ images captured every half hour during a period of 6 months fr
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#amos">AMOS</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#amos">AMOS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11471,7 +11468,7 @@ A motion capture dataset that contains 70+ motion classes in 10 to 50 realizatio
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#hdm05">HDM05</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#hdm05">HDM05</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11527,9 +11524,9 @@ A dataset of wide-angle images of the sky with the corresponding temperature rec
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#arizona">Arizona</a></li>
-<li><a href="../datasets/year_datasets.md#tuscan">Tuscan</a></li>
-<li><a href="../datasets/year_datasets.md#golden_colorado">Golden Colorado</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#arizona">Arizona</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tuscan">Tuscan</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#golden_colorado">Golden Colorado</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11584,9 +11581,9 @@ A datasets of 71 meshes of a person in different poses
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tosca">TOSCA</a></li>
-<li><a href="../datasets/year_datasets.md#scape">SCAPE</a></li>
-<li><a href="../datasets/year_datasets.md#dfaust">DFAUST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tosca">TOSCA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#scape">SCAPE</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#dfaust">DFAUST</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11638,10 +11635,10 @@ A dataset of actions in RGB video sequence with corresponding binary masks and a
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#weizmann">Weizmann</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#weizmann">Weizmann</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11695,11 +11692,11 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#taxi_bj">Taxi BJ</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#taxi_bj">Taxi BJ</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11727,9 +11724,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11757,9 +11754,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11786,9 +11783,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#jigsaws">JIGSAWS</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jigsaws">JIGSAWS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11816,10 +11813,10 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#bair">BAIR</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bair">BAIR</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11847,8 +11844,8 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11874,10 +11871,10 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11905,10 +11902,10 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#weizmann">Weizmann</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#weizmann">Weizmann</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11934,8 +11931,8 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11961,9 +11958,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#msr">MSR</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#msr">MSR</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -11989,7 +11986,7 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -12016,9 +12013,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -12045,9 +12042,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -12074,8 +12071,8 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -12101,8 +12098,8 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -12158,9 +12155,9 @@ A dataset of wide-angle images of the sky with the corresponding temperature rec
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#arizona">Arizona</a></li>
-<li><a href="../datasets/year_datasets.md#tuscan">Tuscan</a></li>
-<li><a href="../datasets/year_datasets.md#golden_colorado">Golden Colorado</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#arizona">Arizona</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tuscan">Tuscan</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#golden_colorado">Golden Colorado</a></li>
 </ul>
 <em>Metrics</em>
 <ul>

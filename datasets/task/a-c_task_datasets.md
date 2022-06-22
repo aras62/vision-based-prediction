@@ -38,8 +38,8 @@ A dataset of whole-body grasps, containing full 3D shape and pose sequences of 1
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#grab">GRAB</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#grab">GRAB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -65,9 +65,9 @@ A dataset of whole-body grasps, containing full 3D shape and pose sequences of 1
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../datasets/year_datasets.md#grab">GRAB</a></li>
-<li><a href="../datasets/year_datasets.md#babel">BABEL</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#grab">GRAB</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#babel">BABEL</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -121,7 +121,7 @@ A motion capture dataset that contains 70+ motion classes in 10 to 50 realizatio
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#hdm05">HDM05</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#hdm05">HDM05</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -176,9 +176,9 @@ A dataset 150 sequences with the resolution of 720 x 480 depicting 10 sport acti
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#sjtu4k">SJTU4K</a></li>
-<li><a href="../datasets/year_datasets.md#ucf_sports">UCF Sports</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sjtu4k">SJTU4K</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf_sports">UCF Sports</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -231,9 +231,9 @@ A dataset containing 15 new 4K resolution ultra-high definition (UHD) video sequ
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#sjtu4k">SJTU4K</a></li>
-<li><a href="../datasets/year_datasets.md#ucf_sports">UCF Sports</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sjtu4k">SJTU4K</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf_sports">UCF Sports</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -286,9 +286,9 @@ A dataset with language labels describing the actions being performed in mocap s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../datasets/year_datasets.md#grab">GRAB</a></li>
-<li><a href="../datasets/year_datasets.md#babel">BABEL</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#grab">GRAB</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#babel">BABEL</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -342,7 +342,7 @@ A dataset of 15 household scenes with 150 recordings with different object confi
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#egopat3d">EgoPAT3D</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#egopat3d">EgoPAT3D</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -394,7 +394,7 @@ A dataset containing 2 couples of dancers performing 16 extreme actions, obtaini
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#expi">ExPI</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#expi">ExPI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -448,9 +448,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#sjtu4k">SJTU4K</a></li>
-<li><a href="../datasets/year_datasets.md#ucf_sports">UCF Sports</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sjtu4k">SJTU4K</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf_sports">UCF Sports</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -476,11 +476,11 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#taxi_bj">Taxi BJ</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#taxi_bj">Taxi BJ</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -508,9 +508,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -538,9 +538,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#robonet">RoboNet</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#robonet">RoboNet</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -569,7 +569,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
 <li>Custom</li>
 
 </ul>
@@ -601,9 +601,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#jigsaws">JIGSAWS</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jigsaws">JIGSAWS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -631,10 +631,10 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#taxi_bj">Taxi BJ</a></li>
-<li><a href="../datasets/year_datasets.md#sst">SST</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#taxi_bj">Taxi BJ</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sst">SST</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -661,10 +661,10 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -692,10 +692,10 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#weizmann">Weizmann</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#weizmann">Weizmann</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -721,9 +721,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -749,10 +749,10 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -778,8 +778,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -805,9 +805,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -833,7 +833,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -858,9 +858,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -888,7 +888,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -913,8 +913,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -940,8 +940,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -967,8 +967,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -993,8 +993,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1021,8 +1021,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#humaneva-l">HumanEva-l</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#humaneva-l">HumanEva-l</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1049,8 +1049,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#grab">GRAB</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#grab">GRAB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1076,9 +1076,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1104,8 +1104,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#amass">AMASS</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#amass">AMASS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1134,9 +1134,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
-<li><a href="../datasets/year_datasets.md#amass">AMASS</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#amass">AMASS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1162,8 +1162,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1189,9 +1189,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1216,9 +1216,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1243,8 +1243,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1269,9 +1269,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mouse_fish">Mouse Fish</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1296,8 +1296,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#humaneva-l">HumanEva-l</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#humaneva-l">HumanEva-l</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1324,9 +1324,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
-<li><a href="../datasets/year_datasets.md#amass">AMASS</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#amass">AMASS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1352,8 +1352,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1378,7 +1378,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1403,9 +1403,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1430,8 +1430,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1459,9 +1459,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1487,8 +1487,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1513,8 +1513,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1540,9 +1540,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
-<li><a href="../datasets/year_datasets.md#amass">AMASS</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#amass">AMASS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1568,7 +1568,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1593,8 +1593,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#humaneva-l">HumanEva-l</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#humaneva-l">HumanEva-l</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1623,9 +1623,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1650,9 +1650,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1677,7 +1677,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1703,8 +1703,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mouse_fish">Mouse Fish</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1730,7 +1730,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1758,9 +1758,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1786,7 +1786,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1811,9 +1811,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#instavariety">InstaVariety</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1840,8 +1840,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1867,7 +1867,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1892,7 +1892,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1918,7 +1918,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1943,9 +1943,9 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1970,7 +1970,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1995,7 +1995,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2020,7 +2020,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2076,8 +2076,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#yuv">YUV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2103,11 +2103,11 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="../datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2134,9 +2134,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#yuv">YUV</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#yuv">YUV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2163,7 +2163,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2189,9 +2189,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2217,10 +2217,10 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2246,8 +2246,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2273,9 +2273,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2302,9 +2302,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2331,9 +2331,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2360,9 +2360,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2390,11 +2390,11 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
-<li><a href="../datasets/year_datasets.md#visor">ViSOR</a></li>
-<li><a href="../datasets/year_datasets.md#prost">PROST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#visor">ViSOR</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#prost">PROST</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2419,10 +2419,10 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2449,8 +2449,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2476,9 +2476,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2504,8 +2504,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2530,9 +2530,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2557,9 +2557,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2584,9 +2584,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
-<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bit">BIT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2611,11 +2611,11 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#willow_action">Willow Action</a></li>
-<li><a href="../datasets/year_datasets.md#wider">WIDER</a></li>
-<li><a href="../datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
-<li><a href="../datasets/year_datasets.md#bu_action">BU Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wider">WIDER</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bu_action">BU Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2641,9 +2641,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bit">BIT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2668,9 +2668,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2695,8 +2695,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#hmdb">HMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#hmdb">HMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2721,9 +2721,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
-<li><a href="../datasets/year_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sports-1m">Sports-1M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2748,9 +2748,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2775,8 +2775,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2803,8 +2803,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2829,9 +2829,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kinetics-400">Kinetics-400</a></li>
-<li><a href="../datasets/year_datasets.md#hmdb">HMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kinetics-400">Kinetics-400</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#hmdb">HMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2883,8 +2883,8 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2909,9 +2909,9 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2937,10 +2937,10 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
-<li><a href="../datasets/year_datasets.md#mupots-3d">MuPoTS-3D</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mupots-3d">MuPoTS-3D</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2965,9 +2965,9 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2992,9 +2992,9 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3019,8 +3019,8 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3045,9 +3045,9 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mouse_fish">Mouse Fish</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3072,8 +3072,8 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3098,9 +3098,9 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3125,8 +3125,8 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3154,9 +3154,9 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3182,8 +3182,8 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3208,8 +3208,8 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3235,9 +3235,9 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3262,9 +3262,9 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3289,9 +3289,9 @@ A motion dataset consists of various activities including human interaction, int
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3344,11 +3344,11 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#taxi_bj">Taxi BJ</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#taxi_bj">Taxi BJ</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3376,9 +3376,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3406,9 +3406,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3435,9 +3435,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#jigsaws">JIGSAWS</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jigsaws">JIGSAWS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3465,10 +3465,10 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#bair">BAIR</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bair">BAIR</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3496,8 +3496,8 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3523,10 +3523,10 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3554,10 +3554,10 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#weizmann">Weizmann</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#weizmann">Weizmann</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3583,8 +3583,8 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3610,9 +3610,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#msr">MSR</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#msr">MSR</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3638,7 +3638,7 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3665,9 +3665,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3694,9 +3694,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3723,8 +3723,8 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3750,8 +3750,8 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3806,9 +3806,9 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3835,8 +3835,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#shapestack">ShapeStack</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#shapestack">ShapeStack</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3861,9 +3861,9 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
-<li><a href="../datasets/year_datasets.md#mgif">MGIF</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uva-nemo">UvA-NEMO</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mgif">MGIF</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3888,8 +3888,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3915,8 +3915,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#mug">MUG</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mug">MUG</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3942,8 +3942,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3969,8 +3969,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3996,8 +3996,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4023,9 +4023,9 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4050,9 +4050,9 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#instavariety">InstaVariety</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4079,8 +4079,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4106,9 +4106,9 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4160,8 +4160,8 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4187,8 +4187,8 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4213,8 +4213,8 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
-<li><a href="../datasets/year_datasets.md#ava">AVA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#ava">AVA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4239,9 +4239,9 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
-<li><a href="../datasets/year_datasets.md#bit">BIT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bit">BIT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4266,9 +4266,9 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4293,9 +4293,9 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#uti">UTI</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uti">UTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4320,8 +4320,8 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4375,8 +4375,8 @@ An action dataset of 60 daily activities in 56K+ video samples
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../datasets/year_datasets.md#fpha">FPHA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#fpha">FPHA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4402,9 +4402,9 @@ An action dataset of 60 daily activities in 56K+ video samples
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4429,9 +4429,9 @@ An action dataset of 60 daily activities in 56K+ video samples
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../datasets/year_datasets.md#grab">GRAB</a></li>
-<li><a href="../datasets/year_datasets.md#babel">BABEL</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#grab">GRAB</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#babel">BABEL</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4458,9 +4458,9 @@ An action dataset of 60 daily activities in 56K+ video samples
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4485,10 +4485,10 @@ An action dataset of 60 daily activities in 56K+ video samples
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
-<li><a href="../datasets/year_datasets.md#kth-hrc">KTH-HRC</a></li>
-<li><a href="../datasets/year_datasets.md#utd-mhad">UTD-MHAD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth-hrc">KTH-HRC</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#utd-mhad">UTD-MHAD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4516,8 +4516,8 @@ An action dataset of 60 daily activities in 56K+ video samples
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../datasets/year_datasets.md#posetrack">PoseTrack</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#posetrack">PoseTrack</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4572,8 +4572,8 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#amass">AMASS</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#amass">AMASS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4602,9 +4602,9 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
-<li><a href="../datasets/year_datasets.md#amass">AMASS</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#amass">AMASS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4630,7 +4630,7 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#amass">AMASS</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#amass">AMASS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4659,9 +4659,9 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
-<li><a href="../datasets/year_datasets.md#amass">AMASS</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#amass">AMASS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4687,9 +4687,9 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
-<li><a href="../datasets/year_datasets.md#amass">AMASS</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#amass">AMASS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4742,9 +4742,9 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
-<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_cooking">MPII Cooking</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4771,8 +4771,8 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="../datasets/year_datasets.md#acticipate">ACTICIPATE</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#acticipate">ACTICIPATE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4798,7 +4798,7 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4825,8 +4825,8 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="../datasets/year_datasets.md#brain4cars">Brain4Cars</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#brain4cars">Brain4Cars</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4854,7 +4854,7 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cad-120">CAD-120</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4912,10 +4912,10 @@ A dataset of 20K+ videos of 101 diverse action classes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4942,9 +4942,8 @@ A dataset of 20K+ videos of 101 diverse action classes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
-<li><a href="../datasets/year_datasets.md#charades">Charades</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#charades">Charades</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4970,8 +4969,8 @@ A dataset of 20K+ videos of 101 diverse action classes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4996,9 +4995,9 @@ A dataset of 20K+ videos of 101 diverse action classes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
-<li><a href="../datasets/year_datasets.md#tv_series">TV Series</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_series">TV Series</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5024,8 +5023,8 @@ A dataset of 20K+ videos of 101 diverse action classes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5077,8 +5076,8 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#humaneva-l">HumanEva-l</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#humaneva-l">HumanEva-l</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5105,8 +5104,8 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#humaneva-l">HumanEva-l</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#humaneva-l">HumanEva-l</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5133,8 +5132,8 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#humaneva-l">HumanEva-l</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#humaneva-l">HumanEva-l</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5193,8 +5192,8 @@ A dataset of 6.8K+ video clips of 51 actions corresponding to general facial act
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#hmdb">HMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#hmdb">HMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5219,9 +5218,9 @@ A dataset of 6.8K+ video clips of 51 actions corresponding to general facial act
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kinetics-400">Kinetics-400</a></li>
-<li><a href="../datasets/year_datasets.md#hmdb">HMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kinetics-400">Kinetics-400</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#hmdb">HMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5273,8 +5272,8 @@ A dataset of 10 basic actions, e.g. throwing, pushing, pulling, each performed b
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#wnp">WnP</a></li>
-<li><a href="../datasets/year_datasets.md#utka">UTKA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wnp">WnP</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#utka">UTKA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5299,9 +5298,9 @@ A dataset of 10 basic actions, e.g. throwing, pushing, pulling, each performed b
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#wnp">WnP</a></li>
-<li><a href="../datasets/year_datasets.md#utka">UTKA</a></li>
-<li><a href="../datasets/year_datasets.md#occlusion_mocap">Occlusion MoCap</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wnp">WnP</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#utka">UTKA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#occlusion_mocap">Occlusion MoCap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5353,8 +5352,8 @@ A large-scale dataset 300K+ video clips of 400 human action classes, e.g. drawin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kinetics-400">Kinetics-400</a></li>
-<li><a href="../datasets/year_datasets.md#finegym">FineGym</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kinetics-400">Kinetics-400</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#finegym">FineGym</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5379,9 +5378,9 @@ A large-scale dataset 300K+ video clips of 400 human action classes, e.g. drawin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#kinetics-400">Kinetics-400</a></li>
-<li><a href="../datasets/year_datasets.md#hmdb">HMDB</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kinetics-400">Kinetics-400</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#hmdb">HMDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5433,8 +5432,8 @@ A dataset of 458 videos of 21 daily actions in office and kitchen environments r
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#wnp">WnP</a></li>
-<li><a href="../datasets/year_datasets.md#utka">UTKA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wnp">WnP</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#utka">UTKA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5459,9 +5458,9 @@ A dataset of 458 videos of 21 daily actions in office and kitchen environments r
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#wnp">WnP</a></li>
-<li><a href="../datasets/year_datasets.md#utka">UTKA</a></li>
-<li><a href="../datasets/year_datasets.md#occlusion_mocap">Occlusion MoCap</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wnp">WnP</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#utka">UTKA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#occlusion_mocap">Occlusion MoCap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5513,8 +5512,8 @@ A dataset of 648 hours of video with 100 videos per 200 different activity class
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#activitynet">ActivityNet</a></li>
-<li><a href="../datasets/year_datasets.md#20bn">20BN</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#activitynet">ActivityNet</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5542,8 +5541,8 @@ A dataset of 648 hours of video with 100 videos per 200 different activity class
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#activitynet">ActivityNet</a></li>
-<li><a href="../datasets/year_datasets.md#swag">SWAG</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#activitynet">ActivityNet</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#swag">SWAG</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5598,8 +5597,8 @@ A multiview dataset of 12 events, such as a person loading an object to a vehicl
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
-<li><a href="../datasets/year_datasets.md#virat">VIRAT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5627,7 +5626,7 @@ A multiview dataset of 12 events, such as a person loading an object to a vehicl
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#virat">VIRAT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5681,9 +5680,9 @@ A dataset with 28 hours of video footage and corresponding auto-generated 2D pos
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#instavariety">InstaVariety</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#instavariety">InstaVariety</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5737,9 +5736,9 @@ A dataset of cartoon animal animations for future video prediction
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#uva-nemo">UvA-NEMO</a></li>
-<li><a href="../datasets/year_datasets.md#mgif">MGIF</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#uva-nemo">UvA-NEMO</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mgif">MGIF</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5791,9 +5790,9 @@ A dataset of body poses of single dancers
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="../datasets/year_datasets.md#dancing">Dancing</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#dancing">Dancing</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5847,10 +5846,10 @@ A dataset of various human actions and interactions with associated 3D poses.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#3dpw">3DPW</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
-<li><a href="../datasets/year_datasets.md#mupots-3d">MuPoTS-3D</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mupots-3d">MuPoTS-3D</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5902,9 +5901,9 @@ A dataset of 80 synthetic objects (animals and humans) with corresponding poses
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tosca">TOSCA</a></li>
-<li><a href="../datasets/year_datasets.md#scape">SCAPE</a></li>
-<li><a href="../datasets/year_datasets.md#dfaust">DFAUST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tosca">TOSCA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#scape">SCAPE</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#dfaust">DFAUST</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5956,8 +5955,8 @@ The dataset consists of 113k multiple choice video questions about grounded situ
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#activitynet">ActivityNet</a></li>
-<li><a href="../datasets/year_datasets.md#swag">SWAG</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#activitynet">ActivityNet</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#swag">SWAG</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6012,8 +6011,8 @@ An action dataset of 80 atomic visual actions in 430 videos with 1.62M correspon
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#jhmdb">JHMDB</a></li>
-<li><a href="../datasets/year_datasets.md#ava">AVA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#jhmdb">JHMDB</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#ava">AVA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6065,9 +6064,9 @@ A dataset of 3D poses recorded over time (3D) at 60 fps
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tosca">TOSCA</a></li>
-<li><a href="../datasets/year_datasets.md#scape">SCAPE</a></li>
-<li><a href="../datasets/year_datasets.md#dfaust">DFAUST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tosca">TOSCA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#scape">SCAPE</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#dfaust">DFAUST</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6119,8 +6118,8 @@ A dataset of 220K+ videos of 174 different activities
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#activitynet">ActivityNet</a></li>
-<li><a href="../datasets/year_datasets.md#20bn">20BN</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#activitynet">ActivityNet</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6175,8 +6174,8 @@ A dataset of 180 RGBD images of 1 person and 1 scene with ground truth and 100k 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#prox">PROX</a></li>
-<li><a href="../datasets/year_datasets.md#gta-im">GTA-IM</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#prox">PROX</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gta-im">GTA-IM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6228,11 +6227,11 @@ A dataset of action images with 23K+ images and 101 activity classes collected f
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#willow_action">Willow Action</a></li>
-<li><a href="../datasets/year_datasets.md#wider">WIDER</a></li>
-<li><a href="../datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
-<li><a href="../datasets/year_datasets.md#bu_action">BU Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wider">WIDER</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bu_action">BU Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6287,10 +6286,10 @@ A dataset of actions in RGB video sequence with corresponding binary masks and a
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#weizmann">Weizmann</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#weizmann">Weizmann</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6343,8 +6342,8 @@ A multimodal dataset of 41 daily activities and 10 interaction actions recorded 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#pku-mmd">PKU-MMD</a></li>
-<li><a href="../datasets/year_datasets.md#oad">OAD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#pku-mmd">PKU-MMD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#oad">OAD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6396,9 +6395,8 @@ A dataset of ~10K indoor videos with 157 action  and 46 object classes
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
-<li><a href="../datasets/year_datasets.md#charades">Charades</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#charades">Charades</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6451,8 +6449,8 @@ A dataset of 10 indoor activities in 59 sequences collected using a Kinect V2 se
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#pku-mmd">PKU-MMD</a></li>
-<li><a href="../datasets/year_datasets.md#oad">OAD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#pku-mmd">PKU-MMD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#oad">OAD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6504,7 +6502,7 @@ A dataset of multiview video and multimodal sensor recordings of common activiti
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tum_kitchen">TUM Kitchen</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tum_kitchen">TUM Kitchen</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6556,7 +6554,7 @@ A dataset of 450+ activities, such as cooking, house chores, etc.,  videos colle
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#oa">OA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#oa">OA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6608,9 +6606,9 @@ A collection of sequences collected from TV series for the purpose of action det
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
-<li><a href="../datasets/year_datasets.md#tv_series">TV Series</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tv_series">TV Series</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6663,8 +6661,8 @@ A large-scale dataset of videos collected from YouTube with corresponding machin
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#youtube-8m">Youtube-8M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#youtube-8m">Youtube-8M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6719,10 +6717,10 @@ A dataset of 27 actions performed by 8 subjects collected using Kinect sensor.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
-<li><a href="../datasets/year_datasets.md#kth-hrc">KTH-HRC</a></li>
-<li><a href="../datasets/year_datasets.md#utd-mhad">UTD-MHAD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth-hrc">KTH-HRC</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#utd-mhad">UTD-MHAD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6777,9 +6775,9 @@ The dataset of 12 RGB-D video sequences of a person moving in front of a Kinect 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#wnp">WnP</a></li>
-<li><a href="../datasets/year_datasets.md#utka">UTKA</a></li>
-<li><a href="../datasets/year_datasets.md#occlusion_mocap">Occlusion MoCap</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wnp">WnP</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#utka">UTKA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#occlusion_mocap">Occlusion MoCap</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6831,9 +6829,9 @@ A datasets of 71 meshes of a person in different poses
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#tosca">TOSCA</a></li>
-<li><a href="../datasets/year_datasets.md#scape">SCAPE</a></li>
-<li><a href="../datasets/year_datasets.md#dfaust">DFAUST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#tosca">TOSCA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#scape">SCAPE</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#dfaust">DFAUST</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6885,11 +6883,11 @@ A complex event dataset of 61 event categories in 50K+ images
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#willow_action">Willow Action</a></li>
-<li><a href="../datasets/year_datasets.md#wider">WIDER</a></li>
-<li><a href="../datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
-<li><a href="../datasets/year_datasets.md#bu_action">BU Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wider">WIDER</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bu_action">BU Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6942,11 +6940,11 @@ A dataset of 7 actions, e.g. riding a bike, riding a horse, running, depicted in
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#willow_action">Willow Action</a></li>
-<li><a href="../datasets/year_datasets.md#wider">WIDER</a></li>
-<li><a href="../datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
-<li><a href="../datasets/year_datasets.md#bu_action">BU Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wider">WIDER</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bu_action">BU Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6999,9 +6997,9 @@ A pose detection dataset with 25K images containing 40K subjects performing 410 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../datasets/year_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_human_pose">MPII Human Pose</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7053,8 +7051,8 @@ A dataset of RGBD sequences capturing 7  human-object interaction activities inc
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
-<li><a href="../datasets/year_datasets.md#orgbd">ORGBD</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#orgbd">ORGBD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7108,9 +7106,9 @@ A dataset 20 actions, such as high arm wave, horizontal arm wave, hammer, forwar
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/year_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/year_datasets.md#msr">MSR</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#msr">MSR</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7163,7 +7161,7 @@ A dataset of 16 activities, such as writing on a paper, using a laptop, using a 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#msrda">MSRDA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#msrda">MSRDA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7215,11 +7213,11 @@ A dataset of 40 actions with 9.5K+ RGB images and the corresponding bounding box
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#willow_action">Willow Action</a></li>
-<li><a href="../datasets/year_datasets.md#wider">WIDER</a></li>
-<li><a href="../datasets/year_datasets.md#stanford-40">Stanford-40</a></li>
-<li><a href="../datasets/year_datasets.md#bu_action">BU Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#wider">WIDER</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#bu_action">BU Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7272,7 +7270,7 @@ A dataset of 20K+ video clips of failed actions including physical and social er
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#oops!">Oops!</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#oops!">Oops!</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7325,7 +7323,7 @@ An egocentric dataset of 5 daily activities, such as drinking water, using a fri
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#fppa">FPPA</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#fppa">FPPA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7377,8 +7375,8 @@ A dataset of 100K frames of 45 dailt activities involving 26 different objects w
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../datasets/year_datasets.md#fpha">FPHA</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#fpha">FPHA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7432,9 +7430,9 @@ A dataset of fishes and mice in a lab environment with corresponding 2D poses
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mouse_fish">Mouse Fish</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7459,8 +7457,8 @@ A dataset of fishes and mice in a lab environment with corresponding 2D poses
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/year_datasets.md#mouse_fish">Mouse Fish</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mouse_fish">Mouse Fish</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7517,11 +7515,11 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="../datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7548,10 +7546,10 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="../datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#chuk">CHUK</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#chuk">CHUK</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7605,8 +7603,8 @@ A dataset of surveillance footage of road traffic  with 90K+ frames recorded at 
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#qmul">QMUL</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#qmul">QMUL</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7659,11 +7657,11 @@ An anomaly detection dataset with 300K+ frames surveillance footage with 130 abn
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/year_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/year_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/year_datasets.md#chuk_avenue">CHUK Avenue</a></li>
-<li><a href="../datasets/year_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#chuk_avenue">CHUK Avenue</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7718,9 +7716,9 @@ A dataset of 77 hours of a video recording showing 10 breakfast preparation acti
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7745,7 +7743,7 @@ A dataset of 77 hours of a video recording showing 10 breakfast preparation acti
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7771,8 +7769,7 @@ A dataset of 77 hours of a video recording showing 10 breakfast preparation acti
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7797,9 +7794,9 @@ A dataset of 77 hours of a video recording showing 10 breakfast preparation acti
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
-<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_cooking">MPII Cooking</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7826,8 +7823,7 @@ A dataset of 77 hours of a video recording showing 10 breakfast preparation acti
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7879,9 +7875,9 @@ A dataset of 65 cooking activities with 5.5K+ video clips recorded from 12 subje
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#cad-120">CAD-120</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
-<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#cad-120">CAD-120</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_cooking">MPII Cooking</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7908,8 +7904,8 @@ A dataset of 65 cooking activities with 5.5K+ video clips recorded from 12 subje
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
-<li><a href="../datasets/year_datasets.md#virat">VIRAT</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7937,7 +7933,7 @@ A dataset of 65 cooking activities with 5.5K+ video clips recorded from 12 subje
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#mpii_cooking">MPII Cooking</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7989,8 +7985,8 @@ A dataset of 1M+ cooking recipes with 13M food images
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#youcook2">YouCook2</a></li>
-<li><a href="../datasets/year_datasets.md#recipe1m">Recipe1M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#youcook2">YouCook2</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#recipe1m">Recipe1M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8042,8 +8038,8 @@ A dataset consists of 2K videos of cooking 89 recipes with corresponding English
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#youcook2">YouCook2</a></li>
-<li><a href="../datasets/year_datasets.md#recipe1m">Recipe1M</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#youcook2">YouCook2</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#recipe1m">Recipe1M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8096,8 +8092,8 @@ An egocentric cooking action dataset with 55 hours of recording at 60fps with co
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8122,8 +8118,8 @@ An egocentric cooking action dataset with 55 hours of recording at 60fps with co
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8151,8 +8147,8 @@ An egocentric cooking action dataset with 55 hours of recording at 60fps with co
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8183,9 +8179,9 @@ An egocentric cooking action dataset with 55 hours of recording at 60fps with co
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8210,8 +8206,8 @@ An egocentric cooking action dataset with 55 hours of recording at 60fps with co
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8238,8 +8234,8 @@ An egocentric cooking action dataset with 55 hours of recording at 60fps with co
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8265,7 +8261,7 @@ An egocentric cooking action dataset with 55 hours of recording at 60fps with co
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8291,8 +8287,8 @@ An egocentric cooking action dataset with 55 hours of recording at 60fps with co
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8348,8 +8344,8 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8377,9 +8373,8 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
-<li><a href="../datasets/year_datasets.md#thumos">THUMOS</a></li>
-<li><a href="../datasets/year_datasets.md#charades">Charades</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#charades">Charades</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8405,9 +8400,9 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8432,8 +8427,8 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8460,8 +8455,7 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8486,8 +8480,7 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#50salads">50Salads</a></li>
-<li><a href="../datasets/year_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabet/a-d_alphabet_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8539,8 +8532,8 @@ An egocentric cooking action dataset with 28 hours of recording with 86 unique s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8565,8 +8558,8 @@ An egocentric cooking action dataset with 28 hours of recording with 86 unique s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8597,8 +8590,8 @@ An egocentric cooking action dataset with 28 hours of recording with 86 unique s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8624,8 +8617,8 @@ An egocentric cooking action dataset with 28 hours of recording with 86 unique s
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../datasets/year_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8681,8 +8674,8 @@ An egocentric dataset of 17 cooking activity videos performed by 14 subjects
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
-<li><a href="../datasets/year_datasets.md#gtea_gaze">GTEA Gaze</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gtea_gaze">GTEA Gaze</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8734,8 +8727,8 @@ An egocentric dataset of 37 videos of 7 cooking activities recorded from 26 subj
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
-<li><a href="../datasets/year_datasets.md#gtea_gaze">GTEA Gaze</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gtea_gaze">GTEA Gaze</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8788,8 +8781,8 @@ A dataset of simulated crow flow with 87K+ samples
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="../datasets/year_datasets.md#ltcf">LTCF</a></li>
+<li><a href="../datasets/alphabet/e-i_alphabet_datasets.md#gc">GC</a></li>
+<li><a href="../datasets/alphabet/j-z_alphabet_datasets.md#ltcf">LTCF</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
