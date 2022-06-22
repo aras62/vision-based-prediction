@@ -18,6 +18,7 @@ To search for papers, you can use one of the following options:
   * [Other prediction](papers/other_papers.md#top)
   * [Papers with code](papers/papers_with_code.md#top)
 * [Datasets](datasets/datasets.md#top)
+  * [Alphabetical](datasets/alphabet/alphabet_datasets.md#top)
   * [Year](datasets/year/year_datasets.md#top)
   * [Application](datasets/application/application_datasets.md#top)
   * [Task](datasets/task/task_datasets.md#top)
