@@ -2729,7 +2729,7 @@ A dataset of pedestrians recorded using a mobile platform with 5K+ frames span o
 </ul><h2>Euro-PVI</h2>
 <ul><a name=euro-pvi></a>
 <details close>
-<summary><l style="font-size:20px"><strong>Euro-PVI</strong></l> <a href=www.europvi.mpi-inf.mpg.de>link</a> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Bhattacharyya_Euro-PVI_Pedestrian_Vehicle_Interactions_in_Dense_Urban_Centers_CVPR_2021_paper.pdf>paper</a></summary> 
+<summary><l style="font-size:20px"><strong>Euro-PVI</strong></l> <a href=https://www.europvi.mpi-inf.mpg.de>link</a> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Bhattacharyya_Euro-PVI_Pedestrian_Vehicle_Interactions_in_Dense_Urban_Centers_CVPR_2021_paper.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Summary:</strong></em> 
 A dataset of driving fousing on traffic interactions.
