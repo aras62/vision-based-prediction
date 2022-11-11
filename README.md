@@ -41,6 +41,8 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 11/11/2022: Fixed some bugs with reference links
+* 11/11/2022: Added ECCV 2022 (28 papers, 86 datasets, 6 metrics)
 * 21/06/2022: Added CVPR 2022 (38 papers, 8 datasets, 6 metrics)
 * 10/05/2022: Added ICRA,IROS, NeurIPS, ICLR 2021 (74 papers, 8 datasets, 17 metrics)
 * 12/10/2021: Added a CVPR2021 paper + 1 dataset
