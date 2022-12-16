@@ -374,6 +374,249 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </details>
 
 </ul></details>
+<a name=50salads></a>
+<details close>
+<summary><l style="font-size:20px"><strong>50Salads</strong></l> <a href=https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/>link</a> <a href=https://dl.acm.org/doi/abs/10.1145/2493432.2493482>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotated accelerometer and RGB-D video data recorded 50hz and 30hz respectively
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, activity label, temporal segment, accelerometer</li>
+<li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Nawhal et al., "Rethinking Learning Approaches for Long-Term Action Anticipation", ECCV, 2022.</em> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940547.pdf>paper</a> <a href=https://arxiv.org/pdf/2210.11566.pdf>arxiv</a> <a href=https://github.com/Nmegha2601/anticipatr>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#map">mAP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Nawhal_2022_ECCV,
+    author = "Nawhal, Megha and Jyothi, Akash Abdu and Mori, Greg",
+    title = "Rethinking Learning Approaches for Long-Term Action Anticipation",
+    booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Roy et al., "Action Anticipation Using Latent Goal Learning", WACV, 2022.</em> <a href=https://openaccess.thecvf.com/content/WACV2022/papers/Roy_Action_Anticipation_Using_Latent_Goal_Learning_WACV_2022_paper.pdf>paper</a> <a href=https://github.com/debadityaroy/LatentGoal>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Roy_2022_WACV,
+    author = "Roy, Debaditya and Fernando, Basura",
+    title = "Action Anticipation Using Latent Goal Learning",
+    booktitle = "WACV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Ke et al., "Future Moment Assessment for Action Query", WACV, 2021.</em> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Ke_Future_Moment_Assessment_for_Action_Query_WACV_2021_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#auc">AUC</a></li>
+<li><a href="../metrics/action_metrics.md#rmse">RMSE</a></li>
+<li><a href="../metrics/action_metrics.md#nll">NLL</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ke_2021_WACV,
+    author = "Ke, Qiuhong and Fritz, Mario and Schiele, Bernt",
+    title = "Future Moment Assessment for Action Query",
+    booktitle = "WACV",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Piergiovanni et al., "Adversarial Generative Grammars for Human Activity Prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470494.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.04888.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#charades">Charades</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#map">mAP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Piergiovanni_2020_ECCV,
+    author = "Piergiovanni, AJ and Angelova, Anelia and Toshev, Alexander and Ryoo, Michael S",
+    title = "Adversarial Generative Grammars for Human Activity Prediction",
+    booktitle = "ECCV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Zhao et al., "On Diverse Asynchronous Activity Anticipation", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740766.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhao_2020_ECCV,
+    author = "Zhao, He and Wildes, Richard P.",
+    title = "On Diverse Asynchronous Activity Anticipation",
+    booktitle = "ECCV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Ke et al., "Time-Conditioned Action Anticipation In One Shot", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Ke_Time-Conditioned_Action_Anticipation_in_One_Shot_CVPR_2019_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#recall">Recall</a></li>
+<li><a href="../metrics/action_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ke_2019_CVPR,
+    author = "Ke, Qiuhong and Fritz, Mario and Schiele, Bernt",
+    title = "Time-Conditioned Action Anticipation In One Shot",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Gammulle et al., "Forecasting Future Action Sequences With Neural Memory Networks", BMVC, 2019.</em> <a href=https://bmvc2019.org/wp-content/uploads/papers/0585-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1909.09278.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Gammulle_2019_BMVC,
+    author = "Gammulle, Harshala and Denman, Simon and Sridharan, Sridha and Fookes, Clinton",
+    title = "Forecasting Future Action Sequences With Neural Memory Networks",
+    year = "2019",
+    booktitle = "BMVC"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Abu et al., "When Will You Do What? - Anticipating Temporal Occurrences Of Activities", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Abu_Farha_When_Will_You_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.00892.pdf>arxiv</a> <a href=https://github.com/yabufarha/anticipating-activities>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Farha_2018_CVPR,
+    author = "Abu Farha, Yazan and Richard, Alexander and Gall, Juergen",
+    title = "When Will You Do What? - Anticipating Temporal Occurrences Of Activities",
+    booktitle = "CVPR",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Stein_2013_IJCPUC,
+    author = "Stein, Sebastian and McKenna, Stephen J",
+    title = "Combining Embedded Accelerometers With Computer Vision For Recognizing Food Preparation Activities",
+    booktitle = "UbiComp",
+    year = "2013"
+}
+</pre>
+</details>
+
+</ul></details>
 <a name=jhmdb></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Joint-Annotated Human Motion Data Base (JHMDB)</strong></l> <a href=http://jhmdb.is.tue.mpg.de/>link</a> <a href=https://openaccess.thecvf.com/content_iccv_2013/papers/Jhuang_Towards_Understanding_Action_2013_ICCV_paper.pdf>paper</a></summary> 
@@ -583,222 +826,6 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
     author = "Jhuang, H. and Gall, J. and Zuffi, S. and Schmid, C. and Black, M. J.",
     title = "Towards Understanding Action Recognition",
     booktitle = "ICCV",
-    year = "2013"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=50salads></a>
-<details close>
-<summary><l style="font-size:20px"><strong>50Salads</strong></l> <a href=https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/>link</a> <a href=https://dl.acm.org/doi/abs/10.1145/2493432.2493482>paper</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotated accelerometer and RGB-D video data recorded 50hz and 30hz respectively
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGBD, activity label, temporal segment, accelerometer</li>
-<li><em><strong>Task:</strong></em> Cooking (egocentric)</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Nawhal et al., "Rethinking Learning Approaches for Long-Term Action Anticipation", ECCV, 2022.</em> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940547.pdf>paper</a> <a href=https://arxiv.org/pdf/2210.11566.pdf>arxiv</a> <a href=https://github.com/Nmegha2601/anticipatr>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#map">mAP</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Nawhal_2022_ECCV,
-    author = "Nawhal, Megha and Jyothi, Akash Abdu and Mori, Greg",
-    title = "Rethinking Learning Approaches for Long-Term Action Anticipation",
-    booktitle = "ECCV",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Ke et al., "Future Moment Assessment for Action Query", WACV, 2021.</em> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Ke_Future_Moment_Assessment_for_Action_Query_WACV_2021_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../metrics/action_metrics.md#auc">AUC</a></li>
-<li><a href="../metrics/action_metrics.md#rmse">RMSE</a></li>
-<li><a href="../metrics/action_metrics.md#nll">NLL</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ke_2021_WACV,
-    author = "Ke, Qiuhong and Fritz, Mario and Schiele, Bernt",
-    title = "Future Moment Assessment for Action Query",
-    booktitle = "WACV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Piergiovanni et al., "Adversarial Generative Grammars for Human Activity Prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470494.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.04888.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#thumos">THUMOS</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#charades">Charades</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../metrics/action_metrics.md#map">mAP</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Piergiovanni_2020_ECCV,
-    author = "Piergiovanni, AJ and Angelova, Anelia and Toshev, Alexander and Ryoo, Michael S",
-    title = "Adversarial Generative Grammars for Human Activity Prediction",
-    booktitle = "ECCV",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Zhao et al., "On Diverse Asynchronous Activity Anticipation", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740766.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zhao_2020_ECCV,
-    author = "Zhao, He and Wildes, Richard P.",
-    title = "On Diverse Asynchronous Activity Anticipation",
-    booktitle = "ECCV",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Ke et al., "Time-Conditioned Action Anticipation In One Shot", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Ke_Time-Conditioned_Action_Anticipation_in_One_Shot_CVPR_2019_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../metrics/action_metrics.md#recall">Recall</a></li>
-<li><a href="../metrics/action_metrics.md#precision">Precision</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ke_2019_CVPR,
-    author = "Ke, Qiuhong and Fritz, Mario and Schiele, Bernt",
-    title = "Time-Conditioned Action Anticipation In One Shot",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Gammulle et al., "Forecasting Future Action Sequences With Neural Memory Networks", BMVC, 2019.</em> <a href=https://bmvc2019.org/wp-content/uploads/papers/0585-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1909.09278.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Gammulle_2019_BMVC,
-    author = "Gammulle, Harshala and Denman, Simon and Sridharan, Sridha and Fookes, Clinton",
-    title = "Forecasting Future Action Sequences With Neural Memory Networks",
-    year = "2019",
-    booktitle = "BMVC"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Abu et al., "When Will You Do What? - Anticipating Temporal Occurrences Of Activities", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Abu_Farha_When_Will_You_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.00892.pdf>arxiv</a> <a href=https://github.com/yabufarha/anticipating-activities>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Farha_2018_CVPR,
-    author = "Abu Farha, Yazan and Richard, Alexander and Gall, Juergen",
-    title = "When Will You Do What? - Anticipating Temporal Occurrences Of Activities",
-    booktitle = "CVPR",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Stein_2013_IJCPUC,
-    author = "Stein, Sebastian and McKenna, Stephen J",
-    title = "Combining Embedded Accelerometers With Computer Vision For Recognizing Food Preparation Activities",
-    booktitle = "UbiComp",
     year = "2013"
 }
 </pre>
@@ -4563,6 +4590,156 @@ A dataset of 300 video clips collected from 20+ different TV shows containing 4 
 </details>
 
 </ul></details>
+<a name=taxi_bj></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Taxi BJ</strong></l> <a href=https://github.com/roryhr/taxi-trajectories>link</a> <a href=https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14501/13964>paper</a> <a href=https://arxiv.org/pdf/1610.00081.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of GPS data collected from 10K+ taxis in Beijing with a sampling rate of every 117 seconds
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> GPS</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Gao et al., "SimVP: Simpler Yet Better Video Prediction", CVPR, 2022.</em> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_SimVP_Simpler_Yet_Better_Video_Prediction_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2206.05099.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#taxi_bj">Taxi BJ</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#mae">MAE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Gao_2022_CVPR,
+    author = "Gao, Zhangyang and Tan, Cheng and Wu, Lirong and Li, Stan Z.",
+    title = "SimVP: Simpler Yet Better Video Prediction",
+    booktitle = "CVPR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Pourheydari et al., "TaylorSwiftNet: Taylor Driven Temporal Modeling for Swift Future Frame Prediction", BMVC, 2022.</em> <a href=https://bmvc2022.mpi-inf.mpg.de/0389.pdf>paper</a> <a href=https://arxiv.org/pdf/2110.14392.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#taxi_bj">Taxi BJ</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#sst">SST</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#mae">MAE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Pourheydari_2022_BMVC,
+    author = "Pourheydari, Mohammad Saber and Bahrami, Emad and Fayyaz, Mohsen and Francesca, Gianpiero and Noroozi, Mehdi and Gall, Jürgen",
+    title = "TaylorSwiftNet: Taylor Driven Temporal Modeling for Swift Future Frame Prediction",
+    booktitle = "BMVC",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Wang et al., "Towards Unified Multi-Excitation for Unsupervised Video Prediction", BMVC, 2022.</em> <a href=https://bmvc2022.mpi-inf.mpg.de/0587.pdf>paper</a> <a href=https://github.com/captaincj/UMENet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#taxi_bj">Taxi BJ</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#sst">SST</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wang_2022_BMVC,
+    author = "Wang, Junyan and Likun, Qin and Zhang, Peng and Long, Yang and Hu, Bingzhang and Pagnucco, Maurice and Wang, Shizheng and Song, Yang",
+    title = "Towards Unified Multi-Excitation for Unsupervised Video Prediction",
+    booktitle = "BMVC",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Le et al., "Disentangling Physical Dynamics From Unknown Factors for Unsupervised Video Prediction", CVPR, 2020.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Guen_Disentangling_Physical_Dynamics_From_Unknown_Factors_for_Unsupervised_Video_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.01460.pdf>arxiv</a> <a href=https://github.com/vincent-leguen/PhyDNet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#taxi_bj">Taxi BJ</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#sst">SST</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#mae">MAE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Guen_2020_CVPR,
+    author = "Le Guen, Vincent and Thome, Nicolas",
+    title = "Disentangling Physical Dynamics From Unknown Factors for Unsupervised Video Prediction",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@inproceedings{Yuan_2010_ICAGIS,
+    author = "Yuan, Jing and Zheng, Yu and Zhang, Chengyang and Xie, Wenlei and Xie, Xing and Sun, Guangzhong and Huang, Yan",
+    title = "T-Drive: Driving Directions Based on Taxi Trajectories",
+    booktitle = "International Conference on Advances in Geographic Information Systems",
+    pages = "99--108",
+    year = "2010"
+}
+</pre>
+</details>
+
+</ul></details>
 <a name=humaneva-l></a>
 <details close>
 <summary><l style="font-size:20px"><strong>HumanEva-l</strong></l> <a href=http://humaneva.is.tue.mpg.de/>link</a> <a href=https://link.springer.com/content/pdf/10.1007/s11263-009-0273-6.pdf>paper</a></summary> 
@@ -4703,96 +4880,6 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
     volume = "87",
     number = "1-2",
     pages = "4",
-    year = "2010"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=taxi_bj></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Taxi BJ</strong></l> <a href=https://github.com/roryhr/taxi-trajectories>link</a> <a href=https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14501/13964>paper</a> <a href=https://arxiv.org/pdf/1610.00081.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of GPS data collected from 10K+ taxis in Beijing with a sampling rate of every 117 seconds
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> GPS</li>
-<li><em><strong>Task:</strong></em> Driving</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Gao et al., "SimVP: Simpler Yet Better Video Prediction", CVPR, 2022.</em> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_SimVP_Simpler_Yet_Better_Video_Prediction_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2206.05099.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#taxi_bj">Taxi BJ</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../metrics/video_metrics.md#mae">MAE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Gao_2022_CVPR,
-    author = "Gao, Zhangyang and Tan, Cheng and Wu, Lirong and Li, Stan Z.",
-    title = "SimVP: Simpler Yet Better Video Prediction",
-    booktitle = "CVPR",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Le et al., "Disentangling Physical Dynamics From Unknown Factors for Unsupervised Video Prediction", CVPR, 2020.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Guen_Disentangling_Physical_Dynamics_From_Unknown_Factors_for_Unsupervised_Video_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.01460.pdf>arxiv</a> <a href=https://github.com/vincent-leguen/PhyDNet>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#taxi_bj">Taxi BJ</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#sst">SST</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../metrics/video_metrics.md#mae">MAE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Guen_2020_CVPR,
-    author = "Le Guen, Vincent and Thome, Nicolas",
-    title = "Disentangling Physical Dynamics From Unknown Factors for Unsupervised Video Prediction",
-    booktitle = "CVPR",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@inproceedings{Yuan_2010_ICAGIS,
-    author = "Yuan, Jing and Zheng, Yu and Zhang, Chengyang and Xie, Wenlei and Xie, Xing and Sun, Guangzhong and Huang, Yan",
-    title = "T-Drive: Driving Directions Based on Taxi Trajectories",
-    booktitle = "International Conference on Advances in Geographic Information Systems",
-    pages = "99--108",
     year = "2010"
 }
 </pre>
@@ -5597,6 +5684,93 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
     author = "Yue, Jiangbei and Manocha, Dinesh and Wang, He",
     title = "Human Trajectory Prediction via Neural Social Physics",
     booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Meng et al., "Forecasting Human Trajectory from Scene History", NerurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=RW-OOBU11xl>paper</a> <a href=https://arxiv.org/pdf/2210.08732.pdf>arxiv</a> <a href=https://github.com/MaKaRuiNah/SHENet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mot">MOT</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Meng_2022_NeurIPS,
+    author = "Meng, Mancheng and Wu, Ziyan and Chen, Terrence and Cai, Xiran and Zhou, Xiang Sean and Yang, Fan and Shen, Dinggang",
+    title = "Forecasting Human Trajectory from Scene History",
+    booktitle = "NerurIPS",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Makansi et al., "You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction", ICLR, 2022.</em> <a href=https://openreview.net/pdf?id=POxF-LEqnF>paper</a> <a href=https://arxiv.org/pdf/2110.05304.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#nll">NLL</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Makansi_2022_ICLR,
+    author = "Makansi, Osama and Kugelgen, Julius Von and Locatello, Francesco and Gehler, Peter Vincent and Janzing, Dominik and Brox, Thomas and Scholkopf, Bernhard",
+    title = "You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction",
+    booktitle = "ICLR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Xie et al., "Synchronous Bi-Directional Pedestrian Trajectory Prediction with Error Compensation", ACCV, 2022.</em> <a href=https://openaccess.thecvf.com/content/ACCV2022/papers/Xie_Synchronous_Bi-Directional_Pedestrian_Trajectory_Prediction_with_Error_Compensation_ACCV_2022_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Xie_2022_ACCV,
+    author = "Xie, Ce and Li, Yuanman and Liang, Rongqin and Dong, Li and Li, Xia",
+    title = "Synchronous Bi-Directional Pedestrian Trajectory Prediction with Error Compensation",
+    booktitle = "ACCV",
     year = "2022"
 }
 </pre>
@@ -9063,6 +9237,93 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
+<summary><em>Meng et al., "Forecasting Human Trajectory from Scene History", NerurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=RW-OOBU11xl>paper</a> <a href=https://arxiv.org/pdf/2210.08732.pdf>arxiv</a> <a href=https://github.com/MaKaRuiNah/SHENet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mot">MOT</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Meng_2022_NeurIPS,
+    author = "Meng, Mancheng and Wu, Ziyan and Chen, Terrence and Cai, Xiran and Zhou, Xiang Sean and Yang, Fan and Shen, Dinggang",
+    title = "Forecasting Human Trajectory from Scene History",
+    booktitle = "NerurIPS",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Makansi et al., "You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction", ICLR, 2022.</em> <a href=https://openreview.net/pdf?id=POxF-LEqnF>paper</a> <a href=https://arxiv.org/pdf/2110.05304.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#nll">NLL</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Makansi_2022_ICLR,
+    author = "Makansi, Osama and Kugelgen, Julius Von and Locatello, Francesco and Gehler, Peter Vincent and Janzing, Dominik and Brox, Thomas and Scholkopf, Bernhard",
+    title = "You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction",
+    booktitle = "ICLR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Xie et al., "Synchronous Bi-Directional Pedestrian Trajectory Prediction with Error Compensation", ACCV, 2022.</em> <a href=https://openaccess.thecvf.com/content/ACCV2022/papers/Xie_Synchronous_Bi-Directional_Pedestrian_Trajectory_Prediction_with_Error_Compensation_ACCV_2022_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Xie_2022_ACCV,
+    author = "Xie, Ce and Li, Yuanman and Liang, Rongqin and Dong, Li and Li, Xia",
+    title = "Synchronous Bi-Directional Pedestrian Trajectory Prediction with Error Compensation",
+    booktitle = "ACCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Zhu et al., "HalentNet: Multimodal Trajectory Forecasting with Hallucinative Intents", ICLR, 2021.</em> <a href=https://openreview.net/pdf?id=9GBZBPn0Jx>paper</a> <a href=https://github.com/Vision-CAIR/HalentNet>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -11311,8 +11572,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
 <li><a href="../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11370,8 +11631,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 <em>Metrics</em>
 <ul>
 <li><a href="../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
 <li><a href="../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
 <li><a href="../metrics/trajectory_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
@@ -12234,6 +12495,37 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
     author = "Gao, Zhangyang and Tan, Cheng and Wu, Lirong and Li, Stan Z.",
     title = "SimVP: Simpler Yet Better Video Prediction",
     booktitle = "CVPR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Villar-Corrales et al., "MSPred: Video Prediction at Multiple Spatio-Temporal Scales with Hierarchical Recurrent Networks", BMVC, 2022.</em> <a href=https://bmvc2022.mpi-inf.mpg.de/0034.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.09303.pdf>arxiv</a> <a href=https://github.com/AIS-Bonn/MSPred>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#lpips">LPIPS</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Villar-Corrales_2022_BMVC,
+    author = "Villar-Corrales, Angel and Karapetyan, Ani and Boltres, Andreas and Behnke, Sven",
+    title = "MSPred: Video Prediction at Multiple Spatio-Temporal Scales with Hierarchical Recurrent Networks",
+    booktitle = "BMVC",
     year = "2022"
 }
 </pre>

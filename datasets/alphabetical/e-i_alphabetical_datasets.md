@@ -307,8 +307,8 @@ An egocentric cooking action dataset with 55 hours of recording at 60fps with co
 <ul>
 <li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 <li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -321,6 +321,33 @@ An egocentric cooking action dataset with 55 hours of recording at 60fps with co
     author = "Nawhal, Megha and Jyothi, Akash Abdu and Mori, Greg",
     title = "Rethinking Learning Approaches for Long-Term Action Anticipation",
     booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Roy et al., "Action Anticipation Using Latent Goal Learning", WACV, 2022.</em> <a href=https://openaccess.thecvf.com/content/WACV2022/papers/Roy_Action_Anticipation_Using_Latent_Goal_Learning_WACV_2022_paper.pdf>paper</a> <a href=https://github.com/debadityaroy/LatentGoal>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Roy_2022_WACV,
+    author = "Roy, Debaditya and Fernando, Basura",
+    title = "Action Anticipation Using Latent Goal Learning",
+    booktitle = "WACV",
     year = "2022"
 }
 </pre>
@@ -1034,6 +1061,93 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
     author = "Yue, Jiangbei and Manocha, Dinesh and Wang, He",
     title = "Human Trajectory Prediction via Neural Social Physics",
     booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Meng et al., "Forecasting Human Trajectory from Scene History", NerurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=RW-OOBU11xl>paper</a> <a href=https://arxiv.org/pdf/2210.08732.pdf>arxiv</a> <a href=https://github.com/MaKaRuiNah/SHENet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mot">MOT</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Meng_2022_NeurIPS,
+    author = "Meng, Mancheng and Wu, Ziyan and Chen, Terrence and Cai, Xiran and Zhou, Xiang Sean and Yang, Fan and Shen, Dinggang",
+    title = "Forecasting Human Trajectory from Scene History",
+    booktitle = "NerurIPS",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Makansi et al., "You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction", ICLR, 2022.</em> <a href=https://openreview.net/pdf?id=POxF-LEqnF>paper</a> <a href=https://arxiv.org/pdf/2110.05304.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#nll">NLL</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Makansi_2022_ICLR,
+    author = "Makansi, Osama and Kugelgen, Julius Von and Locatello, Francesco and Gehler, Peter Vincent and Janzing, Dominik and Brox, Thomas and Scholkopf, Bernhard",
+    title = "You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction",
+    booktitle = "ICLR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Xie et al., "Synchronous Bi-Directional Pedestrian Trajectory Prediction with Error Compensation", ACCV, 2022.</em> <a href=https://openaccess.thecvf.com/content/ACCV2022/papers/Xie_Synchronous_Bi-Directional_Pedestrian_Trajectory_Prediction_with_Error_Compensation_ACCV_2022_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Xie_2022_ACCV,
+    author = "Xie, Ce and Li, Yuanman and Liang, Rongqin and Dong, Li and Li, Xia",
+    title = "Synchronous Bi-Directional Pedestrian Trajectory Prediction with Error Compensation",
+    booktitle = "ACCV",
     year = "2022"
 }
 </pre>
@@ -3143,8 +3257,8 @@ An egocentric cooking action dataset with 28 hours of recording with 86 unique s
 <ul>
 <li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 <li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4244,6 +4358,32 @@ A dataset of 10 indoor scenes recorded from GTA game with 21 joint pose annotati
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
+<summary><em>Mao et al., "Contact-aware Human Motion Forecasting", NerurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=LIKlL1Br9AT>paper</a> <a href=https://arxiv.org/pdf/2210.03954.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/ContAwareMotionPred>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#gta-im">GTA-IM</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#prox">PROX</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mao_2022_NeurIPS,
+    author = "Mao, Wei and miaomiao Liu and Hartley, Richard and Salzmann, Mathieu",
+    title = "Contact-aware Human Motion Forecasting",
+    booktitle = "NerurIPS",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Cao et al., "Long-term Human Motion Prediction with Scene Context", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460375.pdf>paper</a> <a href=https://arxiv.org/pdf/2007.03672.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
@@ -4504,8 +4644,8 @@ A dataset of 147 hours of 110K+ cars driving on German highways recorded from to
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
 <li><a href="../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4964,6 +5104,66 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
     author = "Gao, Zhangyang and Tan, Cheng and Wu, Lirong and Li, Stan Z.",
     title = "SimVP: Simpler Yet Better Video Prediction",
     booktitle = "CVPR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Pourheydari et al., "TaylorSwiftNet: Taylor Driven Temporal Modeling for Swift Future Frame Prediction", BMVC, 2022.</em> <a href=https://bmvc2022.mpi-inf.mpg.de/0389.pdf>paper</a> <a href=https://arxiv.org/pdf/2110.14392.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#taxi_bj">Taxi BJ</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#sst">SST</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#mae">MAE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Pourheydari_2022_BMVC,
+    author = "Pourheydari, Mohammad Saber and Bahrami, Emad and Fayyaz, Mohsen and Francesca, Gianpiero and Noroozi, Mehdi and Gall, Jürgen",
+    title = "TaylorSwiftNet: Taylor Driven Temporal Modeling for Swift Future Frame Prediction",
+    booktitle = "BMVC",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Wang et al., "Towards Unified Multi-Excitation for Unsupervised Video Prediction", BMVC, 2022.</em> <a href=https://bmvc2022.mpi-inf.mpg.de/0587.pdf>paper</a> <a href=https://github.com/captaincj/UMENet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#taxi_bj">Taxi BJ</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#sst">SST</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wang_2022_BMVC,
+    author = "Wang, Junyan and Likun, Qin and Zhang, Peng and Long, Yang and Hu, Bingzhang and Pagnucco, Maurice and Wang, Shizheng and Song, Yang",
+    title = "Towards Unified Multi-Excitation for Unsupervised Video Prediction",
+    booktitle = "BMVC",
     year = "2022"
 }
 </pre>

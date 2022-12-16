@@ -41,6 +41,7 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 16/12/2022: Added NeurIPS,ICLR,BMVC,WACV,ACCV 2022 (17 papers, 1 dataset, 3 metrics)
 * 11/11/2022: Fixed some bugs with reference links
 * 11/11/2022: Added ECCV 2022 (28 papers, 86 datasets, 6 metrics)
 * 21/06/2022: Added CVPR 2022 (38 papers, 8 datasets, 6 metrics)

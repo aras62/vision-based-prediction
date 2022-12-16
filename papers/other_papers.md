@@ -158,6 +158,66 @@ Below is the list of Other prediction papers sorted chronologically and accordin
 </ul>
 </details>
 
+<a name=Fobi_2022_WACV/>
+<details close>
+<summary><strong><em>Fobi et al., "Predicting Levels of Household Electricity Consumption in Low-Access Settings", WACV, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2022/papers/Fobi_Predicting_Levels_of_Household_Electricity_Consumption_in_Low-Access_Settings_WACV_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2112.08497.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/other_metrics.md#f1">F1</a></li>
+<li><a href="../metrics/other_metrics.md#auc">AUC</a></li>
+<li><a href="../metrics/other_metrics.md#tp">TP</a></li>
+<li><a href="../metrics/other_metrics.md#tn">TN</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Fobi_2022_WACV,
+    author = "Fobi, Simone and Mugyenyi, Joel and Williams, Nathaniel J. and Modi, Vijay and Taneja, Jay",
+    title = "Predicting Levels of Household Electricity Consumption in Low-Access Settings",
+    booktitle = "WACV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Kaneda_2022_ACCV/>
+<details close>
+<summary><strong><em>Kaneda et al., "Flare Transformer: Solar Flare Prediction using Magnetograms and Sunspot Physical Features", ACCV, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/ACCV2022/papers/Kaneda_Flare_Transformer_Solar_Flare_Prediction_using_Magnetograms_and_Sunspot_Physical_ACCV_2022_paper.pdf>paper</a> <a href=https://github.com/keio-smilab21/flare_transformer>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#sdo">SDO</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/other_metrics.md#bss">BSS</a></li>
+<li><a href="../metrics/other_metrics.md#tss">TSS</a></li>
+<li><a href="../metrics/other_metrics.md#gmgs">GMGS</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kaneda_2022_ACCV,
+    author = "Kaneda, Kanta and Wada, Yuiga and Iida, Tsumugi and Nishizuka, Naoto and Kubo, Y\^uki and Sugiura, Komei",
+    title = "Flare Transformer: Solar Flare Prediction using Magnetograms and Sunspot Physical Features",
+    booktitle = "ACCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Graber_2021_CVPR/>
 <details close>
 <summary><strong><em>Graber et al., "Panoptic Segmentation Forecasting", CVPR, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Graber_Panoptic_Segmentation_Forecasting_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2104.03962.pdf>arxiv</a> <a href=https://github.com/nianticlabs/ panoptic-forecasting>code</a></summary>
