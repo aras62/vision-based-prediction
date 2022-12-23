@@ -1149,7 +1149,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Park et al., "HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning", RSS, 2020.</em></strong> <a href=http://www.roboticsproceedings.org/rss16/p051.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00424.pdf>arxiv</a></summary>
+<summary><strong><em>Park et al., "{HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning}", RSS, 2020.</em></strong> <a href=http://www.roboticsproceedings.org/rss16/p051.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00424.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1165,10 +1165,10 @@ ___
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Park_2020_RSS,
-    author = "Park, Jae Sung and Manocha, Dinesh",
-    title = "HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning",
-    booktitle = "RSS",
-    year = "2020"
+    AUTHOR = "Park, Jaesung and Manocha, Dinesh",
+    TITLE = "HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning}",
+    BOOKTITLE = "RSS",
+    YEAR = "2020"
 }
 </pre>
 </details>

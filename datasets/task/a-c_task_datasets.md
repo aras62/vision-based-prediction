@@ -5855,7 +5855,7 @@ A dataset of 10 basic actions, e.g. throwing, pushing, pulling, each performed b
 </ul>
 </details>
 <details close>
-<summary><em>Park et al., "HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning", RSS, 2020.</em> <a href=http://www.roboticsproceedings.org/rss16/p051.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00424.pdf>arxiv</a></summary>
+<summary><em>Park et al., "{HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning}", RSS, 2020.</em> <a href=http://www.roboticsproceedings.org/rss16/p051.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00424.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5871,10 +5871,10 @@ A dataset of 10 basic actions, e.g. throwing, pushing, pulling, each performed b
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Park_2020_RSS,
-    author = "Park, Jae Sung and Manocha, Dinesh",
-    title = "HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning",
-    booktitle = "RSS",
-    year = "2020"
+    AUTHOR = "Park, Jaesung and Manocha, Dinesh",
+    TITLE = "HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning}",
+    BOOKTITLE = "RSS",
+    YEAR = "2020"
 }
 </pre>
 </details>
@@ -6098,7 +6098,7 @@ A dataset of 458 videos of 21 daily actions in office and kitchen environments r
 </ul>
 </details>
 <details close>
-<summary><em>Park et al., "HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning", RSS, 2020.</em> <a href=http://www.roboticsproceedings.org/rss16/p051.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00424.pdf>arxiv</a></summary>
+<summary><em>Park et al., "{HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning}", RSS, 2020.</em> <a href=http://www.roboticsproceedings.org/rss16/p051.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00424.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6114,10 +6114,10 @@ A dataset of 458 videos of 21 daily actions in office and kitchen environments r
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Park_2020_RSS,
-    author = "Park, Jae Sung and Manocha, Dinesh",
-    title = "HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning",
-    booktitle = "RSS",
-    year = "2020"
+    AUTHOR = "Park, Jaesung and Manocha, Dinesh",
+    TITLE = "HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning}",
+    BOOKTITLE = "RSS",
+    YEAR = "2020"
 }
 </pre>
 </details>
@@ -6864,7 +6864,7 @@ The dataset of 12 RGB-D video sequences of a person moving in front of a Kinect 
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Park et al., "HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning", RSS, 2020.</em> <a href=http://www.roboticsproceedings.org/rss16/p051.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00424.pdf>arxiv</a></summary>
+<summary><em>Park et al., "{HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning}", RSS, 2020.</em> <a href=http://www.roboticsproceedings.org/rss16/p051.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.00424.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6880,10 +6880,10 @@ The dataset of 12 RGB-D video sequences of a person moving in front of a Kinect 
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Park_2020_RSS,
-    author = "Park, Jae Sung and Manocha, Dinesh",
-    title = "HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning",
-    booktitle = "RSS",
-    year = "2020"
+    AUTHOR = "Park, Jaesung and Manocha, Dinesh",
+    TITLE = "HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning}",
+    BOOKTITLE = "RSS",
+    YEAR = "2020"
 }
 </pre>
 </details>
