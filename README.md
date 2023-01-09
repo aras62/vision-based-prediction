@@ -41,6 +41,7 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 9/1/2023: Added ICRA 22 (21 papers, 2 metrics, 2 datasets)
 * 23/12/2022: Added CoRL 21-22,RSS 20-21 (15 papers, 4 metrics)
 * 16/12/2022: Added NeurIPS,ICLR,BMVC,WACV,ACCV 2022 (17 papers, 1 dataset, 3 metrics)
 * 11/11/2022: Fixed some bugs with reference links

@@ -621,8 +621,8 @@ ___
 <ul>
 <li><a href="other_metrics.md#precision">Precision</a></li>
 <li><a href="other_metrics.md#recall">Recall</a></li>
-<li><a href="other_metrics.md#run_time">Run Time</a></li>
 <li><a href="other_metrics.md#auc">AUC</a></li>
+<li><a href="other_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -665,6 +665,33 @@ ___
     author = "Graber, Colin and Jazra, Cyril and Luo, Wenjie and Gui, Liangyan and Schwing, Alexander G.",
     title = "Joint Forecasting of Panoptic Segmentations With Difference Attention",
     booktitle = "CVPR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Kim et al., "StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving", ICRA, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9811830>paper</a> <a href=https://arxiv.org/pdf/2206.00991.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="other_metrics.md#iou">IoU</a></li>
+<li><a href="other_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kim_2022_ICRA,
+    author = "Kim, Jinkyu and Mahjourian, Reza and Ettinger, Scott and Bansal, Mayank and White, Brandyn and Sapp, Ben and Anguelov, Dragomir",
+    booktitle = "ICRA",
+    title = "StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving",
     year = "2022"
 }
 </pre>
@@ -1083,8 +1110,8 @@ ___
 <ul>
 <li><a href="other_metrics.md#precision">Precision</a></li>
 <li><a href="other_metrics.md#recall">Recall</a></li>
-<li><a href="other_metrics.md#run_time">Run Time</a></li>
 <li><a href="other_metrics.md#auc">AUC</a></li>
+<li><a href="other_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1750,6 +1777,125 @@ ___
 </ul>
 </details>
 
+<a name=auc></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Kim et al., "StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving", ICRA, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9811830>paper</a> <a href=https://arxiv.org/pdf/2206.00991.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="other_metrics.md#iou">IoU</a></li>
+<li><a href="other_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kim_2022_ICRA,
+    author = "Kim, Jinkyu and Mahjourian, Reza and Ettinger, Scott and Bansal, Mayank and White, Brandyn and Sapp, Ben and Anguelov, Dragomir",
+    booktitle = "ICRA",
+    title = "StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Fobi et al., "Predicting Levels of Household Electricity Consumption in Low-Access Settings", WACV, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2022/papers/Fobi_Predicting_Levels_of_Household_Electricity_Consumption_in_Low-Access_Settings_WACV_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2112.08497.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="other_metrics.md#f1">F1</a></li>
+<li><a href="other_metrics.md#auc">AUC</a></li>
+<li><a href="other_metrics.md#tp">TP</a></li>
+<li><a href="other_metrics.md#tn">TN</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Fobi_2022_WACV,
+    author = "Fobi, Simone and Mugyenyi, Joel and Williams, Nathaniel J. and Modi, Vijay and Taneja, Jay",
+    title = "Predicting Levels of Household Electricity Consumption in Low-Access Settings",
+    booktitle = "WACV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Li et al., "Causal Hidden Markov Model for Time Series Disease Forecasting", CVPR, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Causal_Hidden_Markov_Model_for_Time_Series_Disease_Forecasting_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2103.16391.pdf>arxiv</a> <a href=https://github.com/LilJing/causal_hmm>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="other_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="other_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Li_2021_CVPR,
+    author = "Li, Jing and Wu, Botong and Sun, Xinwei and Wang, Yizhou",
+    title = "Causal Hidden Markov Model for Time Series Disease Forecasting",
+    booktitle = "CVPR",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#fcvl">FCVL</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="other_metrics.md#precision">Precision</a></li>
+<li><a href="other_metrics.md#recall">Recall</a></li>
+<li><a href="other_metrics.md#auc">AUC</a></li>
+<li><a href="other_metrics.md#run_time">Run Time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Choi_2016_IROS,
+    author = "Choi, S. and Lee, K. and Oh, S.",
+    booktitle = "IROS",
+    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=ap></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong></l>
@@ -1831,98 +1977,6 @@ ___
     title = "Predictive Feature Learning for Future Segmentation Prediction",
     booktitle = "ICCV",
     year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=auc></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Fobi et al., "Predicting Levels of Household Electricity Consumption in Low-Access Settings", WACV, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2022/papers/Fobi_Predicting_Levels_of_Household_Electricity_Consumption_in_Low-Access_Settings_WACV_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2112.08497.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="other_metrics.md#f1">F1</a></li>
-<li><a href="other_metrics.md#auc">AUC</a></li>
-<li><a href="other_metrics.md#tp">TP</a></li>
-<li><a href="other_metrics.md#tn">TN</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Fobi_2022_WACV,
-    author = "Fobi, Simone and Mugyenyi, Joel and Williams, Nathaniel J. and Modi, Vijay and Taneja, Jay",
-    title = "Predicting Levels of Household Electricity Consumption in Low-Access Settings",
-    booktitle = "WACV",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Li et al., "Causal Hidden Markov Model for Time Series Disease Forecasting", CVPR, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Causal_Hidden_Markov_Model_for_Time_Series_Disease_Forecasting_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2103.16391.pdf>arxiv</a> <a href=https://github.com/LilJing/causal_hmm>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="other_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="other_metrics.md#auc">AUC</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Li_2021_CVPR,
-    author = "Li, Jing and Wu, Botong and Sun, Xinwei and Wang, Yizhou",
-    title = "Causal Hidden Markov Model for Time Series Disease Forecasting",
-    booktitle = "CVPR",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#fcvl">FCVL</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="other_metrics.md#precision">Precision</a></li>
-<li><a href="other_metrics.md#recall">Recall</a></li>
-<li><a href="other_metrics.md#run_time">Run Time</a></li>
-<li><a href="other_metrics.md#auc">AUC</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Choi_2016_IROS,
-    author = "Choi, S. and Lee, K. and Oh, S.",
-    booktitle = "IROS",
-    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
-    year = "2016"
 }
 </pre>
 </details>
@@ -2095,8 +2149,8 @@ ___
 <ul>
 <li><a href="other_metrics.md#precision">Precision</a></li>
 <li><a href="other_metrics.md#recall">Recall</a></li>
-<li><a href="other_metrics.md#run_time">Run Time</a></li>
 <li><a href="other_metrics.md#auc">AUC</a></li>
+<li><a href="other_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2106,6 +2160,71 @@ ___
     booktitle = "IROS",
     title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
     year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=tp></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>True Positive (TP)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Fobi et al., "Predicting Levels of Household Electricity Consumption in Low-Access Settings", WACV, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2022/papers/Fobi_Predicting_Levels_of_Household_Electricity_Consumption_in_Low-Access_Settings_WACV_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2112.08497.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="other_metrics.md#f1">F1</a></li>
+<li><a href="other_metrics.md#auc">AUC</a></li>
+<li><a href="other_metrics.md#tp">TP</a></li>
+<li><a href="other_metrics.md#tn">TN</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Fobi_2022_WACV,
+    author = "Fobi, Simone and Mugyenyi, Joel and Williams, Nathaniel J. and Modi, Vijay and Taneja, Jay",
+    title = "Predicting Levels of Household Electricity Consumption in Low-Access Settings",
+    booktitle = "WACV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.09395.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="other_metrics.md#run_time">Run Time</a></li>
+<li><a href="other_metrics.md#ssim">SSIM</a></li>
+<li><a href="other_metrics.md#tp">TP</a></li>
+<li><a href="other_metrics.md#tn">TN</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mohajerin_2019_CVPR,
+    author = "Mohajerin, Nima and Rohani, Mohsen",
+    title = "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks",
+    booktitle = "CVPR",
+    year = "2019"
 }
 </pre>
 </details>
@@ -2230,71 +2349,6 @@ ___
     booktitle = "ICRA",
     title = "Dynamic Occupancy Grid Prediction For Urban Autonomous Driving: A Deep Learning Approach With Fully Automatic Labeling",
     year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=tp></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>True Positive (TP)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Fobi et al., "Predicting Levels of Household Electricity Consumption in Low-Access Settings", WACV, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2022/papers/Fobi_Predicting_Levels_of_Household_Electricity_Consumption_in_Low-Access_Settings_WACV_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2112.08497.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="other_metrics.md#f1">F1</a></li>
-<li><a href="other_metrics.md#auc">AUC</a></li>
-<li><a href="other_metrics.md#tp">TP</a></li>
-<li><a href="other_metrics.md#tn">TN</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Fobi_2022_WACV,
-    author = "Fobi, Simone and Mugyenyi, Joel and Williams, Nathaniel J. and Modi, Vijay and Taneja, Jay",
-    title = "Predicting Levels of Household Electricity Consumption in Low-Access Settings",
-    booktitle = "WACV",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.09395.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="other_metrics.md#run_time">Run Time</a></li>
-<li><a href="other_metrics.md#ssim">SSIM</a></li>
-<li><a href="other_metrics.md#tp">TP</a></li>
-<li><a href="other_metrics.md#tn">TN</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mohajerin_2019_CVPR,
-    author = "Mohajerin, Nima and Rohani, Mohsen",
-    title = "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks",
-    booktitle = "CVPR",
-    year = "2019"
 }
 </pre>
 </details>
@@ -2834,32 +2888,33 @@ ___
 </ul>
 </details>
 
-<a name=tss></a>
+<a name=mce></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Skill Statistics (TSS)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Maximum Calibration Error (MCE)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Kaneda et al., "Flare Transformer: Solar Flare Prediction using Magnetograms and Sunspot Physical Features", ACCV, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/ACCV2022/papers/Kaneda_Flare_Transformer_Solar_Flare_Prediction_using_Magnetograms_and_Sunspot_Physical_ACCV_2022_paper.pdf>paper</a> <a href=https://github.com/keio-smilab21/flare_transformer>code</a></summary>
+<summary><strong><em>Luo et al., "Safety-Oriented Pedestrian Occupancy Forecasting", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/document/9636691>paper</a> <a href=https://arxiv.org/pdf/2101.02385.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sdo">SDO</a></li>
+<li>Custom</li>
+
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_metrics.md#bss">BSS</a></li>
-<li><a href="other_metrics.md#tss">TSS</a></li>
-<li><a href="other_metrics.md#gmgs">GMGS</a></li>
+<li><a href="other_metrics.md#mce">MCE</a></li>
+<li><a href="other_metrics.md#ace">ACE</a></li>
+<li><a href="other_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Kaneda_2022_ACCV,
-    author = "Kaneda, Kanta and Wada, Yuiga and Iida, Tsumugi and Nishizuka, Naoto and Kubo, Y\^uki and Sugiura, Komei",
-    title = "Flare Transformer: Solar Flare Prediction using Magnetograms and Sunspot Physical Features",
-    booktitle = "ACCV",
-    year = "2022"
+@InProceedings{Luo_2021_IROS,
+    author = "Luo, Katie and Casas, Sergio and Liao, Renjie and Yan, Xinchen and Xiong, Yuwen and Zeng, Wenyuan and Urtasun, Raquel",
+    booktitle = "IROS",
+    title = "Safety-Oriented Pedestrian Occupancy Forecasting",
+    year = "2021"
 }
 </pre>
 </details>
@@ -2941,33 +2996,65 @@ ___
 </ul>
 </details>
 
-<a name=mce></a>
+<a name=tss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Maximum Calibration Error (MCE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>True Skill Statistics (TSS)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Luo et al., "Safety-Oriented Pedestrian Occupancy Forecasting", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/document/9636691>paper</a> <a href=https://arxiv.org/pdf/2101.02385.pdf>arxiv</a></summary>
+<summary><strong><em>Kaneda et al., "Flare Transformer: Solar Flare Prediction using Magnetograms and Sunspot Physical Features", ACCV, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/ACCV2022/papers/Kaneda_Flare_Transformer_Solar_Flare_Prediction_using_Magnetograms_and_Sunspot_Physical_ACCV_2022_paper.pdf>paper</a> <a href=https://github.com/keio-smilab21/flare_transformer>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li>Custom</li>
-
+<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sdo">SDO</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_metrics.md#mce">MCE</a></li>
-<li><a href="other_metrics.md#ace">ACE</a></li>
-<li><a href="other_metrics.md#map">mAP</a></li>
+<li><a href="other_metrics.md#bss">BSS</a></li>
+<li><a href="other_metrics.md#tss">TSS</a></li>
+<li><a href="other_metrics.md#gmgs">GMGS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Luo_2021_IROS,
-    author = "Luo, Katie and Casas, Sergio and Liao, Renjie and Yan, Xinchen and Xiong, Yuwen and Zeng, Wenyuan and Urtasun, Raquel",
-    booktitle = "IROS",
-    title = "Safety-Oriented Pedestrian Occupancy Forecasting",
-    year = "2021"
+@InProceedings{Kaneda_2022_ACCV,
+    author = "Kaneda, Kanta and Wada, Yuiga and Iida, Tsumugi and Nishizuka, Naoto and Kubo, Y\^uki and Sugiura, Komei",
+    title = "Flare Transformer: Solar Flare Prediction using Magnetograms and Sunspot Physical Features",
+    booktitle = "ACCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=l2></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>L2</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Razali et al., "Using Eye Gaze to Forecast Human Pose in Everyday Pick and Place Actions", ICRA, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9812079>paper</a> <a href=https://github.com/HaziqRazali/Using-Eye-Gaze-to-Forecast-Human-Pose-in-Everyday-Pick-and-Place-Actions>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#mogaze">MoGaze</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="other_metrics.md#l2">L2</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Razali_2022_ICRA,
+    author = "Razali, Haziq and Demiris, Yiannis",
+    booktitle = "ICRA",
+    title = "Using Eye Gaze to Forecast Human Pose in Everyday Pick and Place Actions",
+    year = "2022"
 }
 </pre>
 </details>
