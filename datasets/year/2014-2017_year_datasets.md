@@ -2045,7 +2045,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 </details>
 <details close>
-<summary><em>Meng et al., "Forecasting Human Trajectory from Scene History", NerurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=RW-OOBU11xl>paper</a> <a href=https://arxiv.org/pdf/2210.08732.pdf>arxiv</a> <a href=https://github.com/MaKaRuiNah/SHENet>code</a></summary>
+<summary><em>Meng et al., "Forecasting Human Trajectory from Scene History", NeurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=RW-OOBU11xl>paper</a> <a href=https://arxiv.org/pdf/2210.08732.pdf>arxiv</a> <a href=https://github.com/MaKaRuiNah/SHENet>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2065,7 +2065,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 @InProceedings{Meng_2022_NeurIPS,
     author = "Meng, Mancheng and Wu, Ziyan and Chen, Terrence and Cai, Xiran and Zhou, Xiang Sean and Yang, Fan and Shen, Dinggang",
     title = "Forecasting Human Trajectory from Scene History",
-    booktitle = "NerurIPS",
+    booktitle = "NeurIPS",
     year = "2022"
 }
 </pre>
@@ -3886,7 +3886,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 </details>
 <details close>
-<summary><em>Fassmeyer et al., "Semi-Supervised Generative Models for Multiagent Trajectories", NerurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=KpuObEWvvOX>paper</a> <a href=https://github.com/fassmeyer/MAT_NeurIPS22>code</a></summary>
+<summary><em>Fassmeyer et al., "Semi-Supervised Generative Models for Multiagent Trajectories", NeurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=KpuObEWvvOX>paper</a> <a href=https://github.com/fassmeyer/MAT_NeurIPS22>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3905,7 +3905,7 @@ A motion dataset consists of various activities including human interaction, int
 @InProceedings{Fassmeyer_2022_NeurIPS,
     author = "Fassmeyer, Dennis and Fassmeyer, Pascal and Brefeld, Ulf",
     title = "Semi-Supervised Generative Models for Multiagent Trajectories",
-    booktitle = "NerurIPS",
+    booktitle = "NeurIPS",
     year = "2022"
 }
 </pre>
@@ -6103,7 +6103,7 @@ A collection of videos from existing datasets for the purpose of object tracking
 </ul>
 </details>
 <details close>
-<summary><em>Dendorfer et al., "Quo Vadis: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?", NerurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=3r0yLLCo4fF>paper</a> <a href=https://arxiv.org/pdf/2210.07681.pdf>arxiv</a> <a href=https://github.com/dendorferpatrick/QuoVadis>code</a></summary>
+<summary><em>Dendorfer et al., "Quo Vadis: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?", NeurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=3r0yLLCo4fF>paper</a> <a href=https://arxiv.org/pdf/2210.07681.pdf>arxiv</a> <a href=https://github.com/dendorferpatrick/QuoVadis>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6119,7 +6119,7 @@ A collection of videos from existing datasets for the purpose of object tracking
 @InProceedings{Dendorfer_2022_NeurIPS,
     author = "Dendorfer, Patrick and Yugay, Vladimir and Osep, Aljosa and Leal-Taix{\'e, Laura",
     title = "Quo Vadis: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?",
-    booktitle = "NerurIPS",
+    booktitle = "NeurIPS",
     year = "2022"
 }
 </pre>
@@ -6128,7 +6128,7 @@ A collection of videos from existing datasets for the purpose of object tracking
 </ul>
 </details>
 <details close>
-<summary><em>Meng et al., "Forecasting Human Trajectory from Scene History", NerurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=RW-OOBU11xl>paper</a> <a href=https://arxiv.org/pdf/2210.08732.pdf>arxiv</a> <a href=https://github.com/MaKaRuiNah/SHENet>code</a></summary>
+<summary><em>Meng et al., "Forecasting Human Trajectory from Scene History", NeurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=RW-OOBU11xl>paper</a> <a href=https://arxiv.org/pdf/2210.08732.pdf>arxiv</a> <a href=https://github.com/MaKaRuiNah/SHENet>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6148,7 +6148,7 @@ A collection of videos from existing datasets for the purpose of object tracking
 @InProceedings{Meng_2022_NeurIPS,
     author = "Meng, Mancheng and Wu, Ziyan and Chen, Terrence and Cai, Xiran and Zhou, Xiang Sean and Yang, Fan and Shen, Dinggang",
     title = "Forecasting Human Trajectory from Scene History",
-    booktitle = "NerurIPS",
+    booktitle = "NeurIPS",
     year = "2022"
 }
 </pre>

@@ -1069,7 +1069,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
-<summary><em>Meng et al., "Forecasting Human Trajectory from Scene History", NerurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=RW-OOBU11xl>paper</a> <a href=https://arxiv.org/pdf/2210.08732.pdf>arxiv</a> <a href=https://github.com/MaKaRuiNah/SHENet>code</a></summary>
+<summary><em>Meng et al., "Forecasting Human Trajectory from Scene History", NeurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=RW-OOBU11xl>paper</a> <a href=https://arxiv.org/pdf/2210.08732.pdf>arxiv</a> <a href=https://github.com/MaKaRuiNah/SHENet>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1089,7 +1089,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 @InProceedings{Meng_2022_NeurIPS,
     author = "Meng, Mancheng and Wu, Ziyan and Chen, Terrence and Cai, Xiran and Zhou, Xiang Sean and Yang, Fan and Shen, Dinggang",
     title = "Forecasting Human Trajectory from Scene History",
-    booktitle = "NerurIPS",
+    booktitle = "NeurIPS",
     year = "2022"
 }
 </pre>
@@ -4468,7 +4468,7 @@ A dataset of 10 indoor scenes recorded from GTA game with 21 joint pose annotati
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Mao et al., "Contact-aware Human Motion Forecasting", NerurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=LIKlL1Br9AT>paper</a> <a href=https://arxiv.org/pdf/2210.03954.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/ContAwareMotionPred>code</a></summary>
+<summary><em>Mao et al., "Contact-aware Human Motion Forecasting", NeurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=LIKlL1Br9AT>paper</a> <a href=https://arxiv.org/pdf/2210.03954.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/ContAwareMotionPred>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4485,7 +4485,7 @@ A dataset of 10 indoor scenes recorded from GTA game with 21 joint pose annotati
 @InProceedings{Mao_2022_NeurIPS,
     author = "Mao, Wei and miaomiao Liu and Hartley, Richard and Salzmann, Mathieu",
     title = "Contact-aware Human Motion Forecasting",
-    booktitle = "NerurIPS",
+    booktitle = "NeurIPS",
     year = "2022"
 }
 </pre>

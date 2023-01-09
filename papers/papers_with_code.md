@@ -2215,7 +2215,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Dendorfer_2022_NeurIPS/>
 <details close>
-<summary><strong><em>Dendorfer et al., "Quo Vadis: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?", NerurIPS, 2022.</em></strong> <a href=https://openreview.net/pdf?id=3r0yLLCo4fF>paper</a> <a href=https://arxiv.org/pdf/2210.07681.pdf>arxiv</a> <a href=https://github.com/dendorferpatrick/QuoVadis>code</a></summary>
+<summary><strong><em>Dendorfer et al., "Quo Vadis: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?", NeurIPS, 2022.</em></strong> <a href=https://openreview.net/pdf?id=3r0yLLCo4fF>paper</a> <a href=https://arxiv.org/pdf/2210.07681.pdf>arxiv</a> <a href=https://github.com/dendorferpatrick/QuoVadis>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2231,7 +2231,7 @@ Below is the list of papers that have published code sorted chronologically and 
 @InProceedings{Dendorfer_2022_NeurIPS,
     author = "Dendorfer, Patrick and Yugay, Vladimir and Osep, Aljosa and Leal-Taix{\'e, Laura",
     title = "Quo Vadis: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?",
-    booktitle = "NerurIPS",
+    booktitle = "NeurIPS",
     year = "2022"
 }
 </pre>
@@ -2242,7 +2242,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Fassmeyer_2022_NeurIPS/>
 <details close>
-<summary><strong><em>Fassmeyer et al., "Semi-Supervised Generative Models for Multiagent Trajectories", NerurIPS, 2022.</em></strong> <a href=https://openreview.net/pdf?id=KpuObEWvvOX>paper</a> <a href=https://github.com/fassmeyer/MAT_NeurIPS22>code</a></summary>
+<summary><strong><em>Fassmeyer et al., "Semi-Supervised Generative Models for Multiagent Trajectories", NeurIPS, 2022.</em></strong> <a href=https://openreview.net/pdf?id=KpuObEWvvOX>paper</a> <a href=https://github.com/fassmeyer/MAT_NeurIPS22>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2261,7 +2261,7 @@ Below is the list of papers that have published code sorted chronologically and 
 @InProceedings{Fassmeyer_2022_NeurIPS,
     author = "Fassmeyer, Dennis and Fassmeyer, Pascal and Brefeld, Ulf",
     title = "Semi-Supervised Generative Models for Multiagent Trajectories",
-    booktitle = "NerurIPS",
+    booktitle = "NeurIPS",
     year = "2022"
 }
 </pre>
@@ -2272,7 +2272,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Meng_2022_NeurIPS/>
 <details close>
-<summary><strong><em>Meng et al., "Forecasting Human Trajectory from Scene History", NerurIPS, 2022.</em></strong> <a href=https://openreview.net/pdf?id=RW-OOBU11xl>paper</a> <a href=https://arxiv.org/pdf/2210.08732.pdf>arxiv</a> <a href=https://github.com/MaKaRuiNah/SHENet>code</a></summary>
+<summary><strong><em>Meng et al., "Forecasting Human Trajectory from Scene History", NeurIPS, 2022.</em></strong> <a href=https://openreview.net/pdf?id=RW-OOBU11xl>paper</a> <a href=https://arxiv.org/pdf/2210.08732.pdf>arxiv</a> <a href=https://github.com/MaKaRuiNah/SHENet>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2292,7 +2292,7 @@ Below is the list of papers that have published code sorted chronologically and 
 @InProceedings{Meng_2022_NeurIPS,
     author = "Meng, Mancheng and Wu, Ziyan and Chen, Terrence and Cai, Xiran and Zhou, Xiang Sean and Yang, Fan and Shen, Dinggang",
     title = "Forecasting Human Trajectory from Scene History",
-    booktitle = "NerurIPS",
+    booktitle = "NeurIPS",
     year = "2022"
 }
 </pre>
@@ -4448,7 +4448,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Mao_2022_NeurIPS/>
 <details close>
-<summary><strong><em>Mao et al., "Contact-aware Human Motion Forecasting", NerurIPS, 2022.</em></strong> <a href=https://openreview.net/pdf?id=LIKlL1Br9AT>paper</a> <a href=https://arxiv.org/pdf/2210.03954.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/ContAwareMotionPred>code</a></summary>
+<summary><strong><em>Mao et al., "Contact-aware Human Motion Forecasting", NeurIPS, 2022.</em></strong> <a href=https://openreview.net/pdf?id=LIKlL1Br9AT>paper</a> <a href=https://arxiv.org/pdf/2210.03954.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/ContAwareMotionPred>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4465,7 +4465,7 @@ Below is the list of papers that have published code sorted chronologically and 
 @InProceedings{Mao_2022_NeurIPS,
     author = "Mao, Wei and miaomiao Liu and Hartley, Richard and Salzmann, Mathieu",
     title = "Contact-aware Human Motion Forecasting",
-    booktitle = "NerurIPS",
+    booktitle = "NeurIPS",
     year = "2022"
 }
 </pre>

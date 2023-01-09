@@ -1426,7 +1426,7 @@ A dataset of 10 indoor scenes recorded from GTA game with 21 joint pose annotati
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Mao et al., "Contact-aware Human Motion Forecasting", NerurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=LIKlL1Br9AT>paper</a> <a href=https://arxiv.org/pdf/2210.03954.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/ContAwareMotionPred>code</a></summary>
+<summary><em>Mao et al., "Contact-aware Human Motion Forecasting", NeurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=LIKlL1Br9AT>paper</a> <a href=https://arxiv.org/pdf/2210.03954.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/ContAwareMotionPred>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1443,7 +1443,7 @@ A dataset of 10 indoor scenes recorded from GTA game with 21 joint pose annotati
 @InProceedings{Mao_2022_NeurIPS,
     author = "Mao, Wei and miaomiao Liu and Hartley, Richard and Salzmann, Mathieu",
     title = "Contact-aware Human Motion Forecasting",
-    booktitle = "NerurIPS",
+    booktitle = "NeurIPS",
     year = "2022"
 }
 </pre>
@@ -7139,7 +7139,7 @@ A dataset of 180 RGBD images of 1 person and 1 scene with ground truth and 100k 
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Mao et al., "Contact-aware Human Motion Forecasting", NerurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=LIKlL1Br9AT>paper</a> <a href=https://arxiv.org/pdf/2210.03954.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/ContAwareMotionPred>code</a></summary>
+<summary><em>Mao et al., "Contact-aware Human Motion Forecasting", NeurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=LIKlL1Br9AT>paper</a> <a href=https://arxiv.org/pdf/2210.03954.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/ContAwareMotionPred>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7156,7 +7156,7 @@ A dataset of 180 RGBD images of 1 person and 1 scene with ground truth and 100k 
 @InProceedings{Mao_2022_NeurIPS,
     author = "Mao, Wei and miaomiao Liu and Hartley, Richard and Salzmann, Mathieu",
     title = "Contact-aware Human Motion Forecasting",
-    booktitle = "NerurIPS",
+    booktitle = "NeurIPS",
     year = "2022"
 }
 </pre>
