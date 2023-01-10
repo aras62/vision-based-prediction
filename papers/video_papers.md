@@ -6,14 +6,6 @@
 ___
 <a name=video></a>
 <h2 style="color:#d52b0f";> Video Prediction Papers</h2> 
-
-Below is the list of Video prediction papers sorted chronologically and according to the venues (in order of relevance) they were published in. Each paper in the list has an associated link to the publication page, and arxiv preprint or code links if available. By **clicking on the papers** you can get the following information:
-
-* **Datasets** used in the paper
-* **Metrics** used in the paper
-* **Bibtext** of the publication
-
-<h3>Papers</h3>
 <ul><a name=Chang_2022_CVPR/>
 <details close>
 <summary><strong><em>Chang et al., "STRPM: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_STRPM_A_Spatiotemporal_Residual_Predictive_Model_for_High-Resolution_Video_Prediction_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.16084.pdf>arxiv</a></summary>

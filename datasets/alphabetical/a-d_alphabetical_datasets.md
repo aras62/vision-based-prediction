@@ -8,18 +8,6 @@ ___
 A-D&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[E-I](e-i_alphabetical_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[J-Z](j-z_alphabetical_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 <h2>A-D</h2> 
-
-Within each group, the datasets are **sorted** based on their **popularity**, (i.e how often they are used in prediction papers).
-
- Each dataset in the list has an associated link to the publication page and/or arxiv preprint if available. By **clicking on the dataset** you can get the following information:
-
-* **Summary** of the dataset's characteristics, e.g. quantity, number of objects or classes, etc.
-* **Applications** that use the dataset
-* **Data type and annotations** available in the dataset
-* **Task** of the dataset, e.g. driving, activity, etc
-* **Papers** that used the dataset in chronological order
-* **Bibtext** of the dataset
-
 <ul><a name=20bn></a>
 <details close>
 <summary><l style="font-size:20px"><strong>20BN</strong></l> <a href=https://20bn.com/datasets/something-something/v2>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Goyal_The_Something_Something_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1706.04261.pdf>arxiv</a></summary> 

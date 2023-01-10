@@ -7,20 +7,7 @@
 ___
 [Video](video_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Action&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Trajectory](trajectory_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](motion_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
-<h2>Action</h2> 
-
-Within each group, the datasets are **sorted** based on their **popularity**, (i.e how often they are used in prediction papers).
-
- Each dataset in the list has an associated link to the publication page and/or arxiv preprint if available. By **clicking on the dataset** you can get the following information:
-
-* **Summary** of the dataset's characteristics, e.g. quantity, number of objects or classes, etc.
-* **Applications** that use the dataset
-* **Data type and annotations** available in the dataset
-* **Task** of the dataset, e.g. driving, activity, etc
-* **Papers** that used the dataset in chronological order
-* **Bibtext** of the dataset
-
-<h2>Datasets</h2>
+<h2>Action Datasets</h2> 
 <ul><a name=human3.6m></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Human3.6M</strong></l> <a href=http://vision.imar.ro/human3.6m/description.php>link</a> <a href=https://ieeexplore.ieee.org/document/6682899>paper</a></summary> 

@@ -6,7 +6,6 @@
 [Home](datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Alphabetical](alphabetical/alphabetical_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Year](year/year_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Application](application/application_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Task](task/task_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Annotation&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 <h2>Datasets by Annotation</h2> 
-Below is the list of datasets grouped according to their annotations.Within each group, the datasets are **sorted** based on their **popularity**, (i.e how often they are used in prediction papers).
 <a name=datasets_2D Bounding Box></a>
 <h2>2D Bounding Box</h2> <a href=#top>&uarr; top</a>
 <ul><a href="year/2018-Present_year_datasets.md#vdd-c"><strong>VDD-C</strong></a></ul><a name=datasets_2D/3D Pose></a>

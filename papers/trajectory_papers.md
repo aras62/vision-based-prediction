@@ -6,14 +6,6 @@
 ___
 <a name=trajectory></a>
 <h2 style="color:#30bd19";> Trajectory Prediction Papers</h2> 
-
-Below is the list of Trajectory prediction papers sorted chronologically and according to the venues (in order of relevance) they were published in. Each paper in the list has an associated link to the publication page, and arxiv preprint or code links if available. By **clicking on the papers** you can get the following information:
-
-* **Datasets** used in the paper
-* **Metrics** used in the paper
-* **Bibtext** of the publication
-
-<h3>Papers</h3>
 <ul><a name=Bae_2022_CVPR/>
 <details close>
 <summary><strong><em>Bae et al., "Non-Probability Sampling Network for Stochastic Human Trajectory Prediction", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Non-Probability_Sampling_Network_for_Stochastic_Human_Trajectory_Prediction_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.13471.pdf>arxiv</a> <a href=https://github.com/inhwanbae/NPSN>code</a></summary>

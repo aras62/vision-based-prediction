@@ -7,20 +7,7 @@
 ___
 [Video](video_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](action_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Trajectory&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](motion_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
-<h2>Trajectory</h2> 
-
-Within each group, the datasets are **sorted** based on their **popularity**, (i.e how often they are used in prediction papers).
-
- Each dataset in the list has an associated link to the publication page and/or arxiv preprint if available. By **clicking on the dataset** you can get the following information:
-
-* **Summary** of the dataset's characteristics, e.g. quantity, number of objects or classes, etc.
-* **Applications** that use the dataset
-* **Data type and annotations** available in the dataset
-* **Task** of the dataset, e.g. driving, activity, etc
-* **Papers** that used the dataset in chronological order
-* **Bibtext** of the dataset
-
-<h2>Datasets</h2>
+<h2>Trajectory Datasets</h2> 
 <ul><a name=ucy></a>
 <details close>
 <summary><l style="font-size:20px"><strong>UCY</strong></l> <a href=https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data>link</a> <a href=https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2007.01089.x>paper</a></summary> 

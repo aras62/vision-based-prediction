@@ -6,14 +6,6 @@
 ___
 <a name=motion></a>
 <h2 style="color:#c12fdc";> Motion Prediction Papers</h2> 
-
-Below is the list of Motion prediction papers sorted chronologically and according to the venues (in order of relevance) they were published in. Each paper in the list has an associated link to the publication page, and arxiv preprint or code links if available. By **clicking on the papers** you can get the following information:
-
-* **Datasets** used in the paper
-* **Metrics** used in the paper
-* **Bibtext** of the publication
-
-<h3>Papers</h3>
 <ul><a name=Guo_2022_CVPR_2/>
 <details close>
 <summary><strong><em>Guo et al., "Multi-Person Extreme Motion Prediction", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Multi-Person_Extreme_Motion_Prediction_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2105.08825.pdf>arxiv</a> <a href=https://github.com/GUO-W/MultiMotion>code</a></summary>

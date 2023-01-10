@@ -8,18 +8,6 @@ ___
 [2018-present](2018-Present_year_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[2014-2017](2014-2017_year_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Before-2013&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 <h2>Before-2013</h2> 
-
-Within each group, the datasets are **sorted** based on their **popularity**, (i.e how often they are used in prediction papers).
-
- Each dataset in the list has an associated link to the publication page and/or arxiv preprint if available. By **clicking on the dataset** you can get the following information:
-
-* **Summary** of the dataset's characteristics, e.g. quantity, number of objects or classes, etc.
-* **Applications** that use the dataset
-* **Data type and annotations** available in the dataset
-* **Task** of the dataset, e.g. driving, activity, etc
-* **Papers** that used the dataset in chronological order
-* **Bibtext** of the dataset
-
 <h2>2013</h2>
 <ul><a name=penn_action></a>
 <details close>

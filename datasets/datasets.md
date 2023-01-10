@@ -11,5 +11,17 @@
 * <a href=annotation_datasets.md#top>Annotation</a> available in the dataset and data type. This may include RGB images, bounding boxes, activity labels, etc.
 
 Note that the datasets are often used in different applications and contain different annotations. As a result, some datasets might appear in multiple groups in different categorizations.
+ 
+ Datasets in each category are **sorted** based on their **popularity**, (i.e how often they are used in the prediction papers).
+Each dataset has an associated link to the publication page and/or arxiv preprint if available. By **clicking on the dataset** you can get the following information:
 
-<p align="center"><img src="../images/dataset_paper.png" alt="datasets_papers" width="600"/></p>
+* **Summary** of the dataset's characteristics, e.g. quantity, number of objects or classes, etc.
+* **Applications** that use the dataset
+* **Data type and annotations** available in the dataset
+* **Task** of the dataset, e.g. driving, activity, etc.
+* **Papers** that used the dataset in chronological order
+* **Bibtext** of the dataset
+
+ 
+
+<p align="center"><img src="../images/dataset_paper.png" alt="datasets_papers" width="600"/></p> 

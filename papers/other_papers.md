@@ -6,14 +6,6 @@
 ___
 <a name=other></a>
 <h2 style="color:#bd831f";> Other Prediction Papers</h2> 
-
-Below is the list of Other prediction papers sorted chronologically and according to the venues (in order of relevance) they were published in. Each paper in the list has an associated link to the publication page, and arxiv preprint or code links if available. By **clicking on the papers** you can get the following information:
-
-* **Datasets** used in the paper
-* **Metrics** used in the paper
-* **Bibtext** of the publication
-
-<h3>Papers</h3>
 <ul><a name=Graber_2022_CVPR/>
 <details close>
 <summary><strong><em>Graber et al., "Joint Forecasting of Panoptic Segmentations With Difference Attention", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Graber_Joint_Forecasting_of_Panoptic_Segmentations_With_Difference_Attention_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2204.07157.pdf>arxiv</a> <a href=https://github.com/cgraber/psf-diffattn>code</a></summary>
