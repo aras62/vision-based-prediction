@@ -53,7 +53,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Chang_2022_CVPR,
     author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Gao, Wen",
-    title = "STRPM: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction",
+    title = "{STRPM}: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -85,7 +85,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Gao_2022_CVPR,
     author = "Gao, Zhangyang and Tan, Cheng and Wu, Lirong and Li, Stan Z.",
-    title = "SimVP: Simpler Yet Better Video Prediction",
+    title = "{SimVP}: Simpler Yet Better Video Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -115,7 +115,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Pourheydari_2022_BMVC,
     author = "Pourheydari, Mohammad Saber and Bahrami, Emad and Fayyaz, Mohsen and Francesca, Gianpiero and Noroozi, Mehdi and Gall, Jürgen",
-    title = "TaylorSwiftNet: Taylor Driven Temporal Modeling for Swift Future Frame Prediction",
+    title = "{TaylorSwiftNet}: Taylor Driven Temporal Modeling for Swift Future Frame Prediction",
     booktitle = "BMVC",
     year = "2022"
 }
@@ -238,7 +238,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Wu_2021_CVPR_2,
     author = "Wu, Haixu and Yao, Zhiyu and Wang, Jianmin and Long, Mingsheng",
-    title = "MotionRNN: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
+    title = "{MotionRNN}: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -308,7 +308,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 </details>
 <details close>
-<summary><em>Franceschi et al., "Stochastic latent residual video prediction", ICML, 2020.</em> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
+<summary><em>Franceschi et al., "Stochastic Latent Residual Video Prediction", ICML, 2020.</em> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -328,8 +328,8 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Franceschi_2020_ICML,
-    author = Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick,
-    title = "Stochastic latent residual video prediction",
+    author = {Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick},
+    title = "Stochastic Latent Residual Video Prediction",
     booktitle = "ICML",
     year = "2020"
 }
@@ -658,7 +658,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Li_2021_ICCV_2,
     author = "Li, Jiachen and Yang, Fan and Ma, Hengbo and Malla, Srikanth and Tomizuka, Masayoshi and Choi, Chiho",
-    title = "RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting",
+    title = "{RAIN}: Reinforced Hybrid Attention Inference Network for Motion Forecasting",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -713,7 +713,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Diller_2022_CVPR,
     author = "Diller, Christian and Funkhouser, Thomas and Dai, Angela",
-    title = "Forecasting Characteristic 3D Poses of Human Actions",
+    title = "Forecasting Characteristic {3D} Poses of Human Actions",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -799,7 +799,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Zhong_2022_CVPR,
     author = "Zhong, Chongyang and Hu, Lei and Zhang, Zihao and Ye, Yongjing and Xia, Shihong",
-    title = "Spatio-Temporal Gating-Adjacency GCN for Human Motion Prediction",
+    title = "Spatio-Temporal Gating-Adjacency {GCN} for Human Motion Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -827,7 +827,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Li_2022_ECCV,
     author = "Li, Maosen and Chen, Siheng and Zhang, Zijing and Xie, Lingxi and Tian, Qi and Zhang, Ya",
-    title = "Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction",
+    title = "Skeleton-Parted Graph Scattering Networks for {3D} Human Motion Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -939,7 +939,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 @InProceedings{Sun_2021_NeurIPS,
     author = "Sun, Jiangxin and Lin, Zihang and Han, Xintong and Hu, Jian-Fang and Xu, Jia and Zheng, Wei-Shi",
     booktitle = "NeurIPS",
-    title = "Action-guided 3D Human Motion Prediction",
+    title = "Action-guided {3D} Human Motion Prediction",
     year = "2021"
 }
 </pre>
@@ -965,7 +965,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Cui_2021_CVPR,
     author = "Cui, Qiongjie and Sun, Huaijiang",
-    title = "Towards Accurate 3D Human Motion Prediction From Incomplete Observations",
+    title = "Towards Accurate {3D} Human Motion Prediction From Incomplete Observations",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -992,7 +992,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Aliakbarian_2021_ICCV,
     author = "Aliakbarian, Sadegh and Saleh, Fatemeh and Petersson, Lars and Gould, Stephen and Salzmann, Mathieu",
-    title = "Contextually Plausible and Diverse 3D Human Motion Prediction",
+    title = "Contextually Plausible and Diverse {3D} Human Motion Prediction",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -1018,7 +1018,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Dang_2021_ICCV,
     author = "Dang, Lingwei and Nie, Yongwei and Long, Chengjiang and Zhang, Qing and Li, Guiqing",
-    title = "MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction",
+    title = "{MSR-GCN}: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -1162,7 +1162,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 </details>
 <details close>
-<summary><em>Zhang et al., "Non-local Graph Convolutional Network for joint Activity Recognition and Motion Prediction", IROS, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9636107>paper</a> <a href=https://arxiv.org/pdf/2108.01518.pdf>arxiv</a></summary>
+<summary><em>Zhang et al., "Non-local Graph Convolutional Network for Joint Activity Recognition and Motion Prediction", IROS, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9636107>paper</a> <a href=https://arxiv.org/pdf/2108.01518.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1180,7 +1180,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 @InProceedings{Zhang_2021_IROS,
     author = "Zhang, Dianhao and Vien, Ngo Anh and Van, Mien and McLoone, Seán",
     booktitle = "IROS",
-    title = "Non-local Graph Convolutional Network for joint Activity Recognition and Motion Prediction",
+    title = "Non-local Graph Convolutional Network for Joint Activity Recognition and Motion Prediction",
     year = "2021"
 }
 </pre>
@@ -1262,7 +1262,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Li_2020_CVPR,
     author = "Li, Maosen and Chen, Siheng and Zhao, Yangheng and Zhang, Ya and Wang, Yanfeng and Tian, Qi",
-    title = "Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction",
+    title = "Dynamic Multiscale Graph Neural Networks for {3D} Skeleton Based Human Motion Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -1272,7 +1272,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 </details>
 <details close>
-<summary><em>Cai et al., "Learning progressive joint propagation for human motion prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520222.pdf>paper</a></summary>
+<summary><em>Cai et al., "Learning Progressive Joint Propagation for Human Motion Prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520222.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1289,7 +1289,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Cai_2020_ECCV,
     author = "Cai, Yujun and Huang, Lin and Wang, Yiwei and Cham, Tat-Jen and Cai, Jianfei and Yuan, Junsong and Liu, Jun and Yang, Xu and Zhu, Yiheng and Shen, Xiaohui and Liu, Ding and Liu, Jing and Thalmann, Nadia M",
-    title = "Learning progressive joint propagation for human motion prediction",
+    title = "Learning Progressive Joint Propagation for Human Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -1352,7 +1352,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 </details>
 <details close>
-<summary><em>Yuan et al., "Dlow: Diversifying latent flows for diverse human motion prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
+<summary><em>Yuan et al., "DLow: Diversifying Latent Flows for Diverse Human Motion Prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1372,7 +1372,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Yuan_2020_ECCV,
     author = "Yuan, Ye and Kitani, Kris",
-    title = "Dlow: Diversifying latent flows for diverse human motion prediction",
+    title = "{DLow}: Diversifying Latent Flows for Diverse Human Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -1589,7 +1589,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Zhang_2019_ICCV,
     author = "Zhang, Jason Y. and Felsen, Panna and Kanazawa, Angjoo and Malik, Jitendra",
-    title = "Predicting 3D Human Dynamics From Video",
+    title = "Predicting {3D} Human Dynamics From Video",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -1754,7 +1754,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul>
 </details>
 <details close>
-<summary><em>Jain et al., "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1511.05298.pdf>arxiv</a></summary>
+<summary><em>Jain et al., "Structural-RNN: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1511.05298.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1769,7 +1769,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @InProceedings{Jain_2016_CVPR,
     author = "Jain, Ashesh and Zamir, Amir R. and Savarese, Silvio and Saxena, Ashutosh",
-    title = "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs",
+    title = "{Structural-RNN}: Deep Learning On Spatio-Temporal Graphs",
     booktitle = "CVPR",
     year = "2016"
 }
@@ -1810,7 +1810,7 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 <pre>
 @Article{Ionescu_2014_PAMI,
     author = "Ionescu, Catalin and Papava, Dragos and Olaru, Vlad and Sminchisescu, Cristian",
-    title = "Human3.6M: Large Scale Datasets And Predictive Methods For 3D Human Sensing In Natural Environments",
+    title = "{Human3.6M}: Large Scale Datasets And Predictive Methods For {3D} Human Sensing In Natural Environments",
     journal = "PAMI",
     volume = "36",
     number = "7",
@@ -1862,7 +1862,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 </details>
 <details close>
-<summary><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
+<summary><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle GAN", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1883,7 +1883,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <pre>
 @InProceedings{Kwon_2019_CVPR,
     author = "Kwon, Yong-Hoon and Park, Min-Gyu",
-    title = "Predicting Future Frames Using Retrospective Cycle Gan",
+    title = "Predicting Future Frames Using Retrospective Cycle {GAN}",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -1893,7 +1893,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 </details>
 <details close>
-<summary><em>Ho et al., "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
+<summary><em>Ho et al., "SME-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1912,7 +1912,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <pre>
 @InProceedings{Ho_2019_ICCV,
     author = "Ho, Yung-Han and Cho, Chuan-Yuan and Peng, Wen-Hsiao and Jin, Guo-Lun",
-    title = "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning",
+    title = "{SME-Net}: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -2178,7 +2178,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 </details>
 <details close>
-<summary><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a></summary>
+<summary><em>Liang et al., "Dual Motion GAN For Future-Flow Embedded Video Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2198,7 +2198,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <pre>
 @InProceedings{Liang_2017_ICCV,
     author = "Liang, Xiaodan and Lee, Lisa and Dai, Wei and Xing, Eric P.",
-    title = "Dual Motion Gan For Future-Flow Embedded Video Prediction",
+    title = "Dual Motion {GAN} For Future-Flow Embedded Video Prediction",
     booktitle = "ICCV",
     year = "2017"
 }
@@ -2280,7 +2280,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <pre>
 @InProceedings{Foo_2022_ECCV,
     author = "Foo, Lin Geng and Li, Tianjiao and Rahmani, Hossein and Ke, Qiuhong and Liu, Jun",
-    title = "ERA: Expert Retrieval and Assembly for Early Action Prediction",
+    title = "{ERA}: Expert Retrieval and Assembly for Early Action Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -2454,7 +2454,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 </details>
 <details close>
-<summary><em>Shi et al., "Action Anticipation With Rbf Kernelized Feature Mapping Rnn", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuge_Shi_Action_Anticipation_with_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.07806.pdf>arxiv</a></summary>
+<summary><em>Shi et al., "Action Anticipation With RBF Kernelized Feature Mapping RNN", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuge_Shi_Action_Anticipation_with_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.07806.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2471,7 +2471,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <pre>
 @InProceedings{Shi_2018_ECCV,
     author = "Shi, Yuge and Fernando, Basura and Hartley, Richard",
-    title = "Action Anticipation With Rbf Kernelized Feature Mapping Rnn",
+    title = "Action Anticipation With {RBF} Kernelized Feature Mapping {RNN}",
     booktitle = "ECCV",
     year = "2018"
 }
@@ -2534,7 +2534,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 </details>
 <details close>
-<summary><em>Sadegh et al., "Encouraging Lstms To Anticipate Actions Very Early", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Aliakbarian_Encouraging_LSTMs_to_ICCV_2017_paper.pdf>paper</a></summary>
+<summary><em>Sadegh et al., "Encouraging LSTMs To Anticipate Actions Very Early", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Aliakbarian_Encouraging_LSTMs_to_ICCV_2017_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2551,7 +2551,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <pre>
 @InProceedings{Aliakbarian_2017_ICCV,
     author = "Sadegh Aliakbarian, Mohammad and Sadat Saleh, Fatemeh and Salzmann, Mathieu and Fernando, Basura and Petersson, Lars and Andersson, Lars",
-    title = "Encouraging Lstms To Anticipate Actions Very Early",
+    title = "Encouraging {LSTM}s To Anticipate Actions Very Early",
     booktitle = "ICCV",
     year = "2017"
 }
@@ -2647,7 +2647,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <pre>
 @Article{Soomro_2012_arxiv,
     author = "Soomro, Khurram and Zamir, Amir Roshan and Shah, Mubarak",
-    title = "Ucf101: A Dataset Of 101 Human Actions Classes From Videos In The Wild",
+    title = "{UCF101}: A Dataset Of 101 Human Actions Classes From Videos In The Wild",
     journal = "arXiv:1212.0402",
     year = "2012"
 }
@@ -2741,7 +2741,7 @@ A motion dataset consists of various activities including human interaction, int
 <pre>
 @InProceedings{Li_2022_ECCV,
     author = "Li, Maosen and Chen, Siheng and Zhang, Zijing and Xie, Lingxi and Tian, Qi and Zhang, Ya",
-    title = "Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction",
+    title = "Skeleton-Parted Graph Scattering Networks for {3D} Human Motion Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -2798,7 +2798,7 @@ A motion dataset consists of various activities including human interaction, int
 @InProceedings{Wang_2021_NeurIPS,
     author = "Wang, Jiashun and Xu, Huazhe and Narasimhan, Medhini and Wang, Xiaolong",
     booktitle = "NeurIPS",
-    title = "Multi-Person 3D Motion Prediction with Multi-Range Transformers",
+    title = "Multi-Person {3D} Motion Prediction with Multi-Range Transformers",
     year = "2021"
 }
 </pre>
@@ -2824,7 +2824,7 @@ A motion dataset consists of various activities including human interaction, int
 <pre>
 @InProceedings{Cui_2021_CVPR,
     author = "Cui, Qiongjie and Sun, Huaijiang",
-    title = "Towards Accurate 3D Human Motion Prediction From Incomplete Observations",
+    title = "Towards Accurate {3D} Human Motion Prediction From Incomplete Observations",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -2851,7 +2851,7 @@ A motion dataset consists of various activities including human interaction, int
 <pre>
 @InProceedings{Aliakbarian_2021_ICCV,
     author = "Aliakbarian, Sadegh and Saleh, Fatemeh and Petersson, Lars and Gould, Stephen and Salzmann, Mathieu",
-    title = "Contextually Plausible and Diverse 3D Human Motion Prediction",
+    title = "Contextually Plausible and Diverse {3D} Human Motion Prediction",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -2877,7 +2877,7 @@ A motion dataset consists of various activities including human interaction, int
 <pre>
 @InProceedings{Dang_2021_ICCV,
     author = "Dang, Lingwei and Nie, Yongwei and Long, Chengjiang and Zhang, Qing and Li, Guiqing",
-    title = "MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction",
+    title = "{MSR-GCN}: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -2940,7 +2940,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 </details>
 <details close>
-<summary><em>Zhang et al., "Non-local Graph Convolutional Network for joint Activity Recognition and Motion Prediction", IROS, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9636107>paper</a> <a href=https://arxiv.org/pdf/2108.01518.pdf>arxiv</a></summary>
+<summary><em>Zhang et al., "Non-local Graph Convolutional Network for Joint Activity Recognition and Motion Prediction", IROS, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9636107>paper</a> <a href=https://arxiv.org/pdf/2108.01518.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2958,7 +2958,7 @@ A motion dataset consists of various activities including human interaction, int
 @InProceedings{Zhang_2021_IROS,
     author = "Zhang, Dianhao and Vien, Ngo Anh and Van, Mien and McLoone, Seán",
     booktitle = "IROS",
-    title = "Non-local Graph Convolutional Network for joint Activity Recognition and Motion Prediction",
+    title = "Non-local Graph Convolutional Network for Joint Activity Recognition and Motion Prediction",
     year = "2021"
 }
 </pre>
@@ -3040,7 +3040,7 @@ A motion dataset consists of various activities including human interaction, int
 <pre>
 @InProceedings{Li_2020_CVPR,
     author = "Li, Maosen and Chen, Siheng and Zhao, Yangheng and Zhang, Ya and Wang, Yanfeng and Tian, Qi",
-    title = "Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction",
+    title = "Dynamic Multiscale Graph Neural Networks for {3D} Skeleton Based Human Motion Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -3050,7 +3050,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 </details>
 <details close>
-<summary><em>Cai et al., "Learning progressive joint propagation for human motion prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520222.pdf>paper</a></summary>
+<summary><em>Cai et al., "Learning Progressive Joint Propagation for Human Motion Prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520222.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3067,7 +3067,7 @@ A motion dataset consists of various activities including human interaction, int
 <pre>
 @InProceedings{Cai_2020_ECCV,
     author = "Cai, Yujun and Huang, Lin and Wang, Yiwei and Cham, Tat-Jen and Cai, Jianfei and Yuan, Junsong and Liu, Jun and Yang, Xu and Zhu, Yiheng and Shen, Xiaohui and Liu, Ding and Liu, Jing and Thalmann, Nadia M",
-    title = "Learning progressive joint propagation for human motion prediction",
+    title = "Learning Progressive Joint Propagation for Human Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -3164,7 +3164,7 @@ A motion dataset consists of various activities including human interaction, int
 <pre>
 @Misc{CMU_Mocap_2016,
     author = "CMU",
-    title = "Cmu Graphics Lab Motion Capture Database",
+    title = "{CMU} Graphics Lab Motion Capture Database",
     howpublished = "http://mocap.cs.cmu.edu/",
     year = "2016"
 }
@@ -3203,7 +3203,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{Adeli_2021_ICCV,
     author = "Adeli, Vida and Ehsanpour, Mahsa and Reid, Ian and Niebles, Juan Carlos and Savarese, Silvio and Adeli, Ehsan and Rezatofighi, Hamid",
-    title = "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild",
+    title = "{TRiPOD}: Human Trajectory and Pose Dynamics Forecasting in the Wild",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -3259,7 +3259,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{Zhong_2022_CVPR,
     author = "Zhong, Chongyang and Hu, Lei and Zhang, Zihao and Ye, Yongjing and Xia, Shihong",
-    title = "Spatio-Temporal Gating-Adjacency GCN for Human Motion Prediction",
+    title = "Spatio-Temporal Gating-Adjacency {GCN} for Human Motion Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -3287,7 +3287,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{Li_2022_ECCV,
     author = "Li, Maosen and Chen, Siheng and Zhang, Zijing and Xie, Lingxi and Tian, Qi and Zhang, Ya",
-    title = "Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction",
+    title = "Skeleton-Parted Graph Scattering Networks for {3D} Human Motion Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -3344,7 +3344,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 @InProceedings{Wang_2021_NeurIPS,
     author = "Wang, Jiashun and Xu, Huazhe and Narasimhan, Medhini and Wang, Xiaolong",
     booktitle = "NeurIPS",
-    title = "Multi-Person 3D Motion Prediction with Multi-Range Transformers",
+    title = "Multi-Person {3D} Motion Prediction with Multi-Range Transformers",
     year = "2021"
 }
 </pre>
@@ -3370,7 +3370,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{Cui_2021_CVPR,
     author = "Cui, Qiongjie and Sun, Huaijiang",
-    title = "Towards Accurate 3D Human Motion Prediction From Incomplete Observations",
+    title = "Towards Accurate {3D} Human Motion Prediction From Incomplete Observations",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -3551,7 +3551,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{vonMarcard_2018_ECCV,
     author = "von Marcard, Timo and Henschel, Roberto and Black, Michael and Rosenhahn, Bodo and Pons-Moll, Gerard",
-    title = "Recovering Accurate 3D Human Pose In The Wild Using Imus And A Moving Camera",
+    title = "Recovering Accurate {3D} Human Pose In The Wild Using {IMUs} And A Moving Camera",
     booktitle = "ECCV",
     year = "2018"
 }
@@ -3781,7 +3781,7 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 @InProceedings{Sun_2021_NeurIPS,
     author = "Sun, Jiangxin and Lin, Zihang and Han, Xintong and Hu, Jian-Fang and Xu, Jia and Zheng, Wei-Shi",
     booktitle = "NeurIPS",
-    title = "Action-guided 3D Human Motion Prediction",
+    title = "Action-guided {3D} Human Motion Prediction",
     year = "2021"
 }
 </pre>
@@ -3807,7 +3807,7 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <pre>
 @InProceedings{Aliakbarian_2021_ICCV,
     author = "Aliakbarian, Sadegh and Saleh, Fatemeh and Petersson, Lars and Gould, Stephen and Salzmann, Mathieu",
-    title = "Contextually Plausible and Diverse 3D Human Motion Prediction",
+    title = "Contextually Plausible and Diverse {3D} Human Motion Prediction",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -3836,7 +3836,7 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 <pre>
 @InProceedings{Zhang_2019_ICCV,
     author = "Zhang, Jason Y. and Felsen, Panna and Kanazawa, Angjoo and Malik, Jitendra",
-    title = "Predicting 3D Human Dynamics From Video",
+    title = "Predicting {3D} Human Dynamics From Video",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -3975,7 +3975,7 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 <pre>
 @InProceedings{Zhong_2022_CVPR,
     author = "Zhong, Chongyang and Hu, Lei and Zhang, Zihao and Ye, Yongjing and Xia, Shihong",
-    title = "Spatio-Temporal Gating-Adjacency GCN for Human Motion Prediction",
+    title = "Spatio-Temporal Gating-Adjacency {GCN} for Human Motion Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -4004,7 +4004,7 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 <pre>
 @InProceedings{Zhang_2021_CVPR,
     author = "Zhang, Yan and Black, Michael J. and Tang, Siyu",
-    title = "We Are More Than Our Joints: Predicting How 3D Bodies Move",
+    title = "We Are More Than Our Joints: Predicting How {3D} Bodies Move",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -4075,7 +4075,7 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 <pre>
 @InProceedings{Mahmood_2019_ICCV,
     author = "Mahmood, Naureen and Ghorbani, Nima and Troje, Nikolaus F. and Pons-Moll, Gerard and Black, Michael J.",
-    title = "AMASS}: Archive of Motion Capture as Surface Shapes",
+    title = "{AMASS}: Archive of Motion Capture as Surface Shapes",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -4183,7 +4183,7 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 </ul>
 </details>
 <details close>
-<summary><em>Yuan et al., "Dlow: Diversifying latent flows for diverse human motion prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
+<summary><em>Yuan et al., "DLow: Diversifying Latent Flows for Diverse Human Motion Prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4203,7 +4203,7 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 <pre>
 @InProceedings{Yuan_2020_ECCV,
     author = "Yuan, Ye and Kitani, Kris",
-    title = "Dlow: Diversifying latent flows for diverse human motion prediction",
+    title = "{DLow}: Diversifying Latent Flows for Diverse Human Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -4218,7 +4218,7 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 <pre>
 @Article{Sigal_2010_IJCV,
     author = "Sigal, Leonid and Balan, Alexandru O and Black, Michael J",
-    title = "Humaneva: Synchronized video and motion capture dataset and baseline algorithm for evaluation of articulated human motion",
+    title = "{HumanEva}: Synchronized Video and Motion Capture Dataset and Baseline Algorithm for Evaluation of Articulated Human Motion",
     journal = "IJCV",
     volume = "87",
     number = "1-2",
@@ -4260,7 +4260,7 @@ A dataset of whole-body grasps, containing full 3D shape and pose sequences of 1
 <pre>
 @InProceedings{Diller_2022_CVPR,
     author = "Diller, Christian and Funkhouser, Thomas and Dai, Angela",
-    title = "Forecasting Characteristic 3D Poses of Human Actions",
+    title = "Forecasting Characteristic {3D} Poses of Human Actions",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -4331,7 +4331,7 @@ A dataset of whole-body grasps, containing full 3D shape and pose sequences of 1
 <pre>
 @InProceedings{Taheri_ECCV_2020,
     author = "Taheri, Omid and Ghorbani, Nima and Black, Michael J. and Tzionas, Dimitrios",
-    title = "GRAB}: A Dataset of Whole-Body Human Grasping of Objects",
+    title = "{GRAB}: A Dataset of Whole-Body Human Grasping of Objects",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -4397,7 +4397,7 @@ A multiview group activity dataset recorded with 10 RGB-D sensors and 30+ HD vie
 @InProceedings{Wang_2021_NeurIPS,
     author = "Wang, Jiashun and Xu, Huazhe and Narasimhan, Medhini and Wang, Xiaolong",
     booktitle = "NeurIPS",
-    title = "Multi-Person 3D Motion Prediction with Multi-Range Transformers",
+    title = "Multi-Person {3D} Motion Prediction with Multi-Range Transformers",
     year = "2021"
 }
 </pre>
@@ -4589,7 +4589,7 @@ A dataset of 10K images of pedestrians at traffic intersections with 2D and 3D p
 @Article{Du_2019_RAL,
     author = "Du, X. and Vasudevan, R. and Johnson-Roberson, M.",
     journal = "RAL",
-    title = "Bio-LSTM: A Biomechanically Inspired Recurrent Neural Network for 3-D Pedestrian Pose and Gait Prediction",
+    title = "{Bio-LSTM}: A Biomechanically Inspired Recurrent Neural Network for 3-D Pedestrian Pose and Gait Prediction",
     year = "2019",
     volume = "4",
     number = "2",
@@ -4607,7 +4607,7 @@ A dataset of 10K images of pedestrians at traffic intersections with 2D and 3D p
 @Article{Kim_2019_RAL,
     author = "Kim, W. and Ramanagopal, M. S. and Barto, C. and Yu, M. and Rosaen, K. and Goumas, N. and Vasudevan, R. and Johnson-Roberson, M.",
     journal = "RAL",
-    title = "PedX: Benchmark Dataset for Metric 3-D Pose Estimation of Pedestrians in Complex Urban Intersections",
+    title = "{PedX}: Benchmark Dataset for Metric {3-D} Pose Estimation of Pedestrians in Complex Urban Intersections",
     year = "2019",
     volume = "4",
     number = "2",
@@ -4648,7 +4648,7 @@ A dataset of 1356 video sequences of sports scenes with corresponding poses.
 <pre>
 @InProceedings{Adeli_2021_ICCV,
     author = "Adeli, Vida and Ehsanpour, Mahsa and Reid, Ian and Niebles, Juan Carlos and Savarese, Silvio and Adeli, Ehsan and Rezatofighi, Hamid",
-    title = "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild",
+    title = "{TRiPOD}: Human Trajectory and Pose Dynamics Forecasting in the Wild",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -4692,7 +4692,7 @@ A dataset of 1356 video sequences of sports scenes with corresponding poses.
 <pre>
 @inproceedings{Andriluka_CVPR_2018,
     Author = "Andriluka, M. and Iqbal, U. and Ensafutdinov, E. and Pishchulin, L. and Milan, A. and Gall, J. and B., Schiele",
-    Title = "PoseTrack: A Benchmark for Human Pose Estimation and Tracking",
+    Title = "{PoseTrack}: A Benchmark for Human Pose Estimation and Tracking",
     booktitle = "CVPR",
     Year = "2018"
 }
@@ -4773,7 +4773,7 @@ A dataset of fishes and mice in a lab environment with corresponding 2D poses
 <pre>
 @Article{Xu_2017_IJCV,
     author = "Xu, Chi and Govindarajan, Lakshmi Narasimhan and Zhang, Yu and Cheng, Li",
-    title = "Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, And Action Recognition On Lie Groups",
+    title = "{Lie-X}: Depth Image Based Articulated Object Pose Estimation, Tracking, And Action Recognition On Lie Groups",
     journal = "IJCV",
     volume = "123",
     number = "3",
@@ -4855,7 +4855,7 @@ A dataset of 180 RGBD images of 1 person and 1 scene with ground truth and 100k 
 <pre>
 @InProceedings{Hassan_2019_ICCV,
     author = "Hassan, Mohamed and Choutas, Vasileios and Tzionas, Dimitrios and Black, Michael J.",
-    title = "Resolving 3D} Human Pose Ambiguities with 3D} Scene Constraints",
+    title = "Resolving {3D} Human Pose Ambiguities with {3D} Scene Constraints",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -4938,7 +4938,7 @@ A dataset with language labels describing the actions being performed in mocap s
 <pre>
 @InProceedings{Punnakkal_2021_CVPR,
     author = "Punnakkal, Abhinanda R. and Chandrasekaran, Arjun and Athanasiou, Nikos and Quiros-Ramirez, Alejandra and Black, Michael J.",
-    title = "BABEL: Bodies, Action and Behavior With English Labels",
+    title = "{BABEL}: Bodies, Action and Behavior With English Labels",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -5017,7 +5017,7 @@ A dataset of 40+ video clips showing collective activities including  crossing, 
 <pre>
 @InProceedings{Choi_2009_ICCVW,
     author = "Choi, Wongun and Shahid, Khuram and Savarese, Silvio",
-    title = "What Are They Doing? : Collective Activity Classification Using Spatio-Temporal Relationship Among People",
+    title = "What Are They Doing?: Collective Activity Classification Using Spatio-Temporal Relationship Among People",
     booktitle = "ICCVW",
     year = "2009"
 }
@@ -5185,7 +5185,7 @@ A dataset of photo realistic 3D indoor environments
 <pre>
 @InProceedings{Savva_2019_ICCV,
     author = "Savva, Manolis and Kadian, Abhishek and Maksymets, Oleksandr and Zhao, Yili and Wijmans, Erik and Jain, Bhavana and Straub, Julian and Liu, Jia and Koltun, Vladlen and Malik, Jitendra and Parikh, Devi and Batra, Dhruv",
-    title = "Habitat: A Platform for Embodied AI Research",
+    title = "Habitat: A Platform for Embodied {AI} Research",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -5331,7 +5331,7 @@ A datasets of 71 meshes of a person in different poses
 @InProceedings{Yuan_2020_IROS,
     author = "Yuan, S. and Li, X. and Tzes, A. and Fang, Y.",
     booktitle = "IROS",
-    title = "3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction",
+    title = "{3DMotion-Net}: Learning Continuous Flow Function for {3D} Motion Prediction",
     year = "2020"
 }
 </pre>
@@ -5345,7 +5345,7 @@ A datasets of 71 meshes of a person in different poses
 <pre>
 @InProceedings{Anguelov_2005_SIGGRAPH,
     author = "Anguelov, Dragomir and Srinivasan, Praveen and Koller, Daphne and Thrun, Sebastian and Rodgers, Jim and Davis, James",
-    title = "Scape: shape completion and animation of people",
+    title = "{SCAPE}: Shape Completion and Animation of People",
     booktitle = "SIGGRAPH",
     year = "2005"
 }
@@ -5385,7 +5385,7 @@ A dataset of 3D poses recorded over time (3D) at 60 fps
 @InProceedings{Yuan_2020_IROS,
     author = "Yuan, S. and Li, X. and Tzes, A. and Fang, Y.",
     booktitle = "IROS",
-    title = "3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction",
+    title = "{3DMotion-Net}: Learning Continuous Flow Function for {3D} Motion Prediction",
     year = "2020"
 }
 </pre>
@@ -5399,7 +5399,7 @@ A dataset of 3D poses recorded over time (3D) at 60 fps
 <pre>
 @InProceedings{Bogo_2017_CVPR,
     author = "Bogo, Federica and Romero, Javier and Pons-Moll, Gerard and Black, Michael J.",
-    title = "Dynamic FAUST}: R}egistering Human Bodies in Motion",
+    title = "Dynamic {FAUST}: Registering Human Bodies in Motion",
     booktitle = "CVPR",
     year = "2017"
 }
@@ -5440,7 +5440,7 @@ A dataset with 28 hours of video footage and corresponding auto-generated 2D pos
 <pre>
 @InProceedings{Zhang_2019_ICCV,
     author = "Zhang, Jason Y. and Felsen, Panna and Kanazawa, Angjoo and Malik, Jitendra",
-    title = "Predicting 3D Human Dynamics From Video",
+    title = "Predicting {3D} Human Dynamics From Video",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -5455,7 +5455,7 @@ A dataset with 28 hours of video footage and corresponding auto-generated 2D pos
 <pre>
 @InProceedings{Kanazawa_2019_CVPR,
     author = "Kanazawa, Angjoo and Zhang, Jason Y. and Felsen, Panna and Malik, Jitendra",
-    title = "Learning 3D Human Dynamics From Video",
+    title = "Learning {3D} Human Dynamics From Video",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -5496,7 +5496,7 @@ A dataset of various human actions and interactions with associated 3D poses.
 @InProceedings{Wang_2021_NeurIPS,
     author = "Wang, Jiashun and Xu, Huazhe and Narasimhan, Medhini and Wang, Xiaolong",
     booktitle = "NeurIPS",
-    title = "Multi-Person 3D Motion Prediction with Multi-Range Transformers",
+    title = "Multi-Person {3D} Motion Prediction with Multi-Range Transformers",
     year = "2021"
 }
 </pre>
@@ -5510,8 +5510,8 @@ A dataset of various human actions and interactions with associated 3D poses.
 <pre>
 @InProceedings{Mehta_2018_3DV,
     author = "Mehta, Dushyant and Sotnychenko, Oleksandr and Mueller, Franziska and Xu, Weipeng and Sridhar, Srinath and Pons-Moll, Gerard and Theobalt, Christian",
-    booktitle = "3D Vision (3DV)",
-    title = "Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB",
+    booktitle = "3D Vision",
+    title = "Single-Shot Multi-Person {3D} Pose Estimation From Monocular {RGB}",
     year = "2018"
 }
 </pre>
@@ -5547,7 +5547,7 @@ A motion capture dataset that contains 70+ motion classes in 10 to 50 realizatio
 <pre>
 @InProceedings{Maeda_2022_CVPR,
     author = "Maeda, Takahiro and Ukita, Norimichi",
-    title = "MotionAug: Augmentation With Physical Correction for Human Motion Prediction",
+    title = "{MotionAug}: Augmentation With Physical Correction for Human Motion Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -5562,7 +5562,7 @@ A motion capture dataset that contains 70+ motion classes in 10 to 50 realizatio
 <pre>
 @Techreport{Muller_2007_tech,
     author = "Muller, M. and Roder, T. and Clausen, M. and Eberhardt, B. and Kruger, B. and Weber, A.",
-    title = "Documentation Mocap Database HDM05",
+    title = "Documentation Mocap Database {HDM05}",
     number = "CG-2007-2",
     year = "2007",
     month = "June",
@@ -5624,7 +5624,7 @@ A dataset of 27 actions performed by 8 subjects collected using Kinect sensor.
 @InProceedings{Chen_2015_ICIP,
     author = "Chen, Chen and Jafari, Roozbeh and Kehtarnavaz, Nasser",
     booktitle = "ICIP",
-    title = "UTD-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and a wearable inertial sensor",
+    title = "{UTD-MHAD}: A Multimodal Dataset for Human Action Recognition Utilizing a Depth Camera and a Wearable Inertial Sensor",
     year = "2015"
 }
 </pre>
@@ -5662,7 +5662,7 @@ The dataset of 12 RGB-D video sequences of a person moving in front of a Kinect 
 <pre>
 @InProceedings{Park_2020_RSS,
     AUTHOR = "Park, Jaesung and Manocha, Dinesh",
-    TITLE = "HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning}",
+    TITLE = "{HMPO}: Human Motion Prediction in Occluded Environments for Safe Motion Planning",
     BOOKTITLE = "RSS",
     YEAR = "2020"
 }
@@ -5677,7 +5677,7 @@ The dataset of 12 RGB-D video sequences of a person moving in front of a Kinect 
 <pre>
 @InProceedings{Dib_IROS_2015,
     author = "Dib, Abdallah and Charpillet, François",
-    title = "Pose Estimation For A Partially Observable Human Body From RGB-D Camera",
+    title = "Pose Estimation For A Partially Observable Human Body From {RGB-D} Camera",
     booktitle = "IROS",
     year = "2015"
 }
@@ -5729,7 +5729,7 @@ A human motion dataset consists of 2.4K+ experiments using 224 subjects and 135 
 <pre>
 @inproceedings{Mandery_2015_ICAR,
     author = "Mandery, Christian and Terlemez, Omer and Do, Martin and Vahrenkamp, Nikolaus and Asfour, Tamim",
-    title = "The KIT whole-body human motion database",
+    title = "The {KIT} whole-body human motion database",
     booktitle = "ICAR",
     year = "2015"
 }
@@ -5783,7 +5783,7 @@ A pose detection dataset with 25K images containing 40K subjects performing 410 
 <pre>
 @InProceedings{Andriluka_2014_CVPR,
     author = "Andriluka, Mykhaylo and Pishchulin, Leonid and Gehler, Peter and Schiele, Bernt",
-    title = "2D Human Pose Estimation: New Benchmark And State Of The Art Analysis",
+    title = "{2D} Human Pose Estimation: New Benchmark And State Of The Art Analysis",
     booktitle = "CVPR",
     year = "2014"
 }
@@ -5876,7 +5876,7 @@ A dataset of 80 synthetic objects (animals and humans) with corresponding poses
 @InProceedings{Yuan_2020_IROS,
     author = "Yuan, S. and Li, X. and Tzes, A. and Fang, Y.",
     booktitle = "IROS",
-    title = "3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction",
+    title = "{3DMotion-Net}: Learning Continuous Flow Function for {3D} Motion Prediction",
     year = "2020"
 }
 </pre>
@@ -5890,7 +5890,7 @@ A dataset of 80 synthetic objects (animals and humans) with corresponding poses
 <pre>
 @Book{Bronstein_2008_book,
     author = "Bronstein, Alexander M and Bronstein, Michael M and Kimmel, Ron",
-    title = "Numerical geometry of non-rigid shapes",
+    title = "Numerical Geometry of Non-rigid Shapes",
     year = "2008",
     publisher = "Springer Science \\& Business Media"
 }
@@ -5927,7 +5927,7 @@ A dataset of 129K frames capturing human 3D poses in an environment recorded usi
 <pre>
 @InProceedings{Zhang_2022_ECCV_2,
     author = "Zheng, Yang and Yang, Yanchao and Mo, Kaichun and Li, Jiaman and Yu, Tao and Liu, Yebin and Liu, Karen and Guibas, Leonidas J.",
-    title = "GIMO: Gaze-Informed Human Motion Prediction in Context",
+    title = "{GIMO}: Gaze-Informed Human Motion Prediction in Context",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -5942,7 +5942,7 @@ A dataset of 129K frames capturing human 3D poses in an environment recorded usi
 <pre>
 @InProceedings{Zhang_2022_ECCV_2,
     author = "Zheng, Yang and Yang, Yanchao and Mo, Kaichun and Li, Jiaman and Yu, Tao and Liu, Yebin and Liu, Karen and Guibas, Leonidas J.",
-    title = "GIMO: Gaze-Informed Human Motion Prediction in Context",
+    title = "{GIMO}: Gaze-Informed Human Motion Prediction in Context",
     booktitle = "ECCV",
     year = "2022"
 }

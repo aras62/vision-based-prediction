@@ -93,7 +93,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Chen_2022_CVPR,
     author = "Chen, Yuxiao and Ivanovic, Boris and Pavone, Marco",
-    title = "ScePT: Scene-Consistent, Policy-Based Trajectory Predictions for Planning",
+    title = "{ScePT}: Scene-Consistent, Policy-Based Trajectory Predictions for Planning",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -187,7 +187,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Lee_2022_CVPR,
     author = "Lee, Mihee and Sohn, Samuel S. and Moon, Seonghyeon and Yoon, Sejong and Kapadia, Mubbasir and Pavlovic, Vladimir",
-    title = "MUSE-VAE: Multi-Scale VAE for Environment-Aware Long Term Trajectory Prediction",
+    title = "{MUSE-VAE}: Multi-Scale {VAE} for Environment-Aware Long Term Trajectory Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -305,7 +305,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Peri_2022_CVPR,
     author = "Peri, Neehar and Luiten, Jonathon and Li, Mengtian and O\v{s}ep, Aljo\v{s}a and Leal-Taix\'e, Laura and Ramanan, Deva",
-    title = "Forecasting From LiDAR via Future Object Detection",
+    title = "Forecasting From {LiDAR} via Future Object Detection",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -333,7 +333,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Sun_2022_CVPR,
     author = "Sun, Qiao and Huang, Xin and Gu, Junru and Williams, Brian C. and Zhao, Hang",
-    title = "M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction",
+    title = "{M2I}: From Factored Marginal Trajectory Prediction to Interactive Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -452,7 +452,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Zhou_2022_CVPR,
     author = "Zhou, Zikang and Ye, Luyao and Wang, Jianping and Wu, Kui and Lu, Kejie",
-    title = "HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction",
+    title = "{HiVT}: Hierarchical Vector Transformer for Multi-Agent Motion Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -509,7 +509,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Wang_2022_CVPR_2,
     author = "Wang, Yunlong and Pan, Hongyu and Zhu, Jun and Wu, Yu-Huan and Zhan, Xin and Jiang, Kun and Yang, Diange",
-    title = "BE-STI: Spatial-Temporal Integrated Network for Class-Agnostic Motion Prediction With Bidirectional Enhancement",
+    title = "{BE-STI}: Spatial-Temporal Integrated Network for Class-Agnostic Motion Prediction With Bidirectional Enhancement",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -539,7 +539,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Xu_2022_CVPR_2,
     author = "Xu, Chenxin and Li, Maosen and Ni, Zhenyang and Zhang, Ya and Chen, Siheng",
-    title = "GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction With Relational Reasoning",
+    title = "{GroupNet}: Multiscale Hypergraph Neural Networks for Trajectory Prediction With Relational Reasoning",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -569,7 +569,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Wang_2022_CVPR_3,
     author = "Wang, Jingke and Ye, Tengju and Gu, Ziqing and Chen, Junbo",
-    title = "LTP: Lane-Based Trajectory Prediction for Autonomous Driving",
+    title = "{LTP}: Lane-Based Trajectory Prediction for Autonomous Driving",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -598,7 +598,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Xu_2022_CVPR_3,
     author = "Xu, Yi and Wang, Lichen and Wang, Yizhou and Fu, Yun",
-    title = "Adaptive Trajectory Prediction via Transferable GNN",
+    title = "Adaptive Trajectory Prediction via Transferable {GNN}",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -626,7 +626,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Akan_2022_ECCV,
     author = "Akan, Adil Kaan and Guney, Fatma",
-    title = "StretchBEV: Stretching Future Instance Prediction Spatially and Temporally",
+    title = "{StretchBEV}: Stretching Future Instance Prediction Spatially and Temporally",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -688,7 +688,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Cao_2022_ECCV,
     author = "Cao, Yulong and Xiao, Chaowei and Anandkumar, Anima and Xu, Danfei and Pavone, Marco",
-    title = "AdvDO: Realistic Adversarial Attacks for Trajectory Prediction",
+    title = "{AdvDO}: Realistic Adversarial Attacks for Trajectory Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -718,7 +718,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Chen_2022_ECCV,
     author = "Chen, Yu-Wen and Yang, Hsuan-Kung and Chiu, Chu-Chi and Lee, Chun-Yi",
-    title = "S2F2: Single-Stage Flow Forecasting for Future Multiple Trajectories Prediction",
+    title = "{S2F2}: Single-Stage Flow Forecasting for Future Multiple Trajectories Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -842,7 +842,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Mohamed_2022_ECCV,
     author = "Mohamed, Abduallah and Zhu, Deyao and Vu, Warren and Elhoseiny, Mohamed and Claudel, Christian",
-    title = "Social-Implicit: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation",
+    title = "{Social-Implicit}: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -899,7 +899,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Tsao_2022_ECCV,
     author = "Tsao, Li-Wu and Wang, Yan-Kai and Lin, Hao-Siang and Shuai, Hong-Han and Wong, Lai-Kuan and Cheng, Wen-Huang",
-    title = "Social-SSL: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-agent Trajectory Prediction",
+    title = "{Social-SSL}: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-agent Trajectory Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -928,7 +928,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Wen_2022_ECCV,
     author = "Wen, Song and Wang, Hao and Metaxas, Dimitris N.",
-    title = "Social ODE: Multi-agent Trajectory Forecasting with Neural Ordinary Differential Equations",
+    title = "{Social ODE}: Multi-agent Trajectory Forecasting with Neural Ordinary Differential Equations",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -990,7 +990,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Xu_2022_ECCV,
     author = "Xu, Pei and Hayet, Jean-Bernard and Karamouzas, Ioannis",
-    title = "SocialVAE: Human Trajectory Prediction Using Timewise Latents",
+    title = "{SocialVAE}: Human Trajectory Prediction Using Timewise Latents",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -1052,7 +1052,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Zhang_2022_ECCV,
     author = "Zhang, Yuzhen and Wang, Wentong and Guo, Weizhi and Lv, Pei and Xu, Mingliang and Chen, Wei and Manocha, Dinesh",
-    title = "D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights",
+    title = "{D2-TPred}: Discontinuous Dependency for Trajectory Prediction under Traffic Lights",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -1111,7 +1111,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Bhattacharyya_2022_CoRL,
     author = "Bhattacharyya, Prarthana and Huang, Chengjie and Czarnecki, Krzysztof",
-    title = "SSL}-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving",
+    title = "{SSL}-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving",
     booktitle = "CoRL",
     year = "2022"
 }
@@ -1258,7 +1258,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Luo_2022_CoRL,
     author = "Luo, Wenjie and Park, Cheol and Cornman, Andre and Sapp, Benjamin and Anguelov, Dragomir",
-    title = "JFP}: Joint Future Prediction with Interactive Multi-Agent Modeling for Autonomous Driving",
+    title = "{JFP}: Joint Future Prediction with Interactive Multi-Agent Modeling for Autonomous Driving",
     booktitle = "CoRL",
     year = "2022"
 }
@@ -1286,7 +1286,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Nishimura_2022_CoRL,
     author = "Nishimura, Haruki and Mercat, Jean and Wulfe, Blake and McAllister, Rowan Thomas and Gaidon, Adrien",
-    title = "RAP}: Risk-Aware Prediction for Robust Planning",
+    title = "{RAP}: Risk-Aware Prediction for Robust Planning",
     booktitle = "CoRL",
     year = "2022"
 }
@@ -1312,8 +1312,8 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Dendorfer_2022_NeurIPS,
-    author = "Dendorfer, Patrick and Yugay, Vladimir and Osep, Aljosa and Leal-Taix{\'e, Laura",
-    title = "Quo Vadis: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?",
+    author = "Dendorfer, Patrick and Yugay, Vladimir and Osep, Aljosa and Leal-Taix{\'e}, Laura",
+    title = "{Quo Vadis}: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?",
     booktitle = "NeurIPS",
     year = "2022"
 }
@@ -1451,7 +1451,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Ngiam_2022_ICLR/>
 <details close>
-<summary><strong><em>Ngiam et al., "Scene Transformer: A unified architecture for predicting future trajectories of multiple agents", ICLR, 2022.</em></strong> <a href=https://openreview.net/pdf?id=Wm3EA5OlHsG>paper</a> <a href=https://arxiv.org/pdf/2106.08417.pdf>arxiv</a></summary>
+<summary><strong><em>Ngiam et al., "Scene Transformer: A Unified Architecture for Predicting Future Trajectories of Multiple Agents", ICLR, 2022.</em></strong> <a href=https://openreview.net/pdf?id=Wm3EA5OlHsG>paper</a> <a href=https://arxiv.org/pdf/2106.08417.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1470,7 +1470,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Ngiam_2022_ICLR,
     author = "Ngiam, Jiquan and Vasudevan, Vijay and Caine, Benjamin and Zhang, Zhengdong and Chiang, Hao-Tien Lewis and Ling, Jeffrey and Roelofs, Rebecca and Bewley, Alex and Liu, Chenxi and Venugopal, Ashish and Weiss, David J and Sapp, Ben and Chen, Zhifeng and Shlens, Jonathon",
-    title = "Scene Transformer: A unified architecture for predicting future trajectories of multiple agents",
+    title = "{Scene Transformer}: A Unified Architecture for Predicting Future Trajectories of Multiple Agents",
     booktitle = "ICLR",
     year = "2022"
 }
@@ -1557,7 +1557,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Gilles_2022_ICRA,
     author = "Gilles, Thomas and Sabatini, Stefano and Tsishkou, Dzmitry and Stanciulescu, Bogdan and Moutarde, Fabien",
     booktitle = "ICRA",
-    title = "GOHOME: Graph-Oriented Heatmap Output for future Motion Estimation",
+    title = "{GOHOME}: Graph-Oriented Heatmap Output for future Motion Estimation",
     year = "2022"
 }
 </pre>
@@ -1677,7 +1677,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Kamenev_2022_ICRA,
     author = "Kamenev, Alexey and Wang, Lirui and Bohan, Ollin Boer and Kulkarni, Ishwar and Kartal, Bilal and Molchanov, Artem and Birchfield, Stan and Nistér, David and Smolyanskiy, Nikolai",
     booktitle = "ICRA",
-    title = "PredictionNet: Real-Time Joint Probabilistic Traffic Prediction for Planning, Control, and Simulation",
+    title = "{PredictionNet}: Real-Time Joint Probabilistic Traffic Prediction for Planning, Control, and Simulation",
     year = "2022"
 }
 </pre>
@@ -1709,7 +1709,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Kim_2022_ICRA,
     author = "Kim, Jinkyu and Mahjourian, Reza and Ettinger, Scott and Bansal, Mayank and White, Brandyn and Sapp, Ben and Anguelov, Dragomir",
     booktitle = "ICRA",
-    title = "StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving",
+    title = "{StopNet}: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving",
     year = "2022"
 }
 </pre>
@@ -1796,7 +1796,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Lu_2022_ICRA,
     author = "Lu, Qiujing and Han, Weiqiao and Ling, Jeffrey and Wang, Minfa and Chen, Haoyu and Varadarajan, Balakrishnan and Covington, Paul",
     booktitle = "ICRA",
-    title = "KEMP: Keyframe-Based Hierarchical End-to-End Deep Model for Long- Term Trajectory Prediction",
+    title = "{KEMP}: Keyframe-Based Hierarchical End-to-End Deep Model for Long- Term Trajectory Prediction",
     year = "2022"
 }
 </pre>
@@ -1881,7 +1881,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Schmidt_2022_ICRA,
     author = "Schmidt, Julian and Jordan, Julian and Gritschneder, Franz and Dietmayer, Klaus",
     booktitle = "ICRA",
-    title = "CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention",
+    title = "{CRAT-Pred}: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention",
     year = "2022"
 }
 </pre>
@@ -1892,7 +1892,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Su_2022_ICRA/>
 <details close>
-<summary><strong><em>Su et al., "Narrowing the coordinate-frame gap in behavior prediction models: Distillation for efficient and accurate scene-centric motion forecasting", ICRA, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9812368>paper</a> <a href=https://arxiv.org/pdf/2206.03970.pdf>arxiv</a></summary>
+<summary><strong><em>Su et al., "Narrowing the Coordinate-frame Gap in Behavior Prediction Models: Distillation for Efficient and Accurate Scene-centric Motion Forecasting", ICRA, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9812368>paper</a> <a href=https://arxiv.org/pdf/2206.03970.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1914,7 +1914,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Su_2022_ICRA,
     author = "Su, DiJia Andy and Douillard, Bertrand and Al-Rfou, Rami and Park, Cheol and Sapp, Benjamin",
     booktitle = "ICRA",
-    title = "Narrowing the coordinate-frame gap in behavior prediction models: Distillation for efficient and accurate scene-centric motion forecasting",
+    title = "Narrowing the Coordinate-frame Gap in Behavior Prediction Models: Distillation for Efficient and Accurate Scene-centric Motion Forecasting",
     year = "2022"
 }
 </pre>
@@ -1944,7 +1944,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Varadarajan_2022_ICRA,
     author = "Varadarajan, Balakrishnan and Hefny, Ahmed and Srivastava, Avikalp and Refaat, Khaled S. and Nayakanti, Nigamaa and Cornman, Andre and Chen, Kan and Douillard, Bertrand and Lam, Chi Pang and Anguelov, Dragomir and Sapp, Benjamin",
     booktitle = "ICRA",
-    title = "MultiPath++: Efficient Information Fusion and Trajectory Aggregation for Behavior Prediction",
+    title = "{MultiPath++}: Efficient Information Fusion and Trajectory Aggregation for Behavior Prediction",
     year = "2022"
 }
 </pre>
@@ -2062,7 +2062,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Li_2021_NeurIPS,
     author = "Li, Longyuan and Yao, Jian and Wenliang, Li and He, Tong and Xiao, Tianjun and Yan, Junchi and Wipf, David and Zhang, Zheng",
     booktitle = "NeurIPS",
-    title = "GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction",
+    title = "{GRIN}: Generative Relation and Intention Network for Multi-agent Trajectory Prediction",
     year = "2021"
 }
 </pre>
@@ -2126,7 +2126,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Deyao_2021_ICLR,
     author = "Zhu, Deyao and Zahran, Mohamed and Li, Li Erran and Elhoseiny, Mohamed",
     booktitle = "ICLR",
-    title = "HalentNet: Multimodal Trajectory Forecasting with Hallucinative Intents",
+    title = "{HalentNet}: Multimodal Trajectory Forecasting with Hallucinative Intents",
     year = "2021"
 }
 </pre>
@@ -2213,7 +2213,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Bhattacharyya_2021_CVPR,
     author = "Bhattacharyya, Apratim and Reino, Daniel Olmeda and Fritz, Mario and Schiele, Bernt",
-    title = "Euro-PVI: Pedestrian Vehicle Interactions in Dense Urban Centers",
+    title = "{Euro-PVI}: Pedestrian Vehicle Interactions in Dense Urban Centers",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -2271,7 +2271,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Kim_2021_CVPR,
     author = "Kim, ByeoungDo and Park, Seong Hyeon and Lee, Seokhwan and Khoshimjonov, Elbek and Kum, Dongsuk and Kim, Junsoo and Kim, Jeong Soo and Choi, Jun Won",
-    title = "LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents",
+    title = "{LaPred}: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -2504,7 +2504,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Shi_2021_CVPR,
     author = "Shi, Liushuai and Wang, Le and Long, Chengjiang and Zhou, Sanping and Zhou, Mo and Niu, Zhenxing and Hua, Gang",
-    title = "SGCN: Sparse Graph Convolution Network for Pedestrian Trajectory Prediction",
+    title = "{SGCN}: Sparse Graph Convolution Network for Pedestrian Trajectory Prediction",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -2533,7 +2533,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Ye_2021_CVPR,
     author = "Ye, Maosheng and Cao, Tongyi and Chen, Qifeng",
-    title = "TPCN: Temporal Point Cloud Networks for Motion Forecasting",
+    title = "{TPCN}: Temporal Point Cloud Networks for Motion Forecasting",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -2562,7 +2562,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Adeli_2021_ICCV,
     author = "Adeli, Vida and Ehsanpour, Mahsa and Reid, Ian and Niebles, Juan Carlos and Savarese, Silvio and Adeli, Ehsan and Rezatofighi, Hamid",
-    title = "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild",
+    title = "{TRiPOD}: Human Trajectory and Pose Dynamics Forecasting in the Wild",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -2650,7 +2650,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Cui_2021_ICCV,
     author = "Cui, Alexander and Casas, Sergio and Sadat, Abbas and Liao, Renjie and Urtasun, Raquel",
-    title = "LookOut: Diverse Multi-Future Prediction and Planning for Self-Driving",
+    title = "{LookOut}: Diverse Multi-Future Prediction and Planning for Self-Driving",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -2679,7 +2679,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Dendorfer_2021_ICCV,
     author = "Dendorfer, Patrick and Elflein, Sven and Leal-Taixe, Laura",
-    title = "MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction",
+    title = "{MG-GAN}: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -2735,7 +2735,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Girase_2021_ICCV,
     author = "Girase, Harshayu and Gang, Haiming and Malla, Srikanth and Li, Jiachen and Kanehara, Akira and Mangalam, Karttikeya and Choi, Chiho",
-    title = "LOKI: Long Term and Key Intentions for Trajectory Prediction",
+    title = "{LOKI}: Long Term and Key Intentions for Trajectory Prediction",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -2765,7 +2765,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Gu_2021_ICCV,
     author = "Gu, Junru and Sun, Chen and Zhao, Hang",
-    title = "DenseTNT: End-to-End Trajectory Prediction From Dense Goal Sets",
+    title = "{DenseTNT}: End-to-End Trajectory Prediction From Dense Goal Sets",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -2793,7 +2793,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Hu_2021_ICCV,
     author = "Hu, Anthony and Murez, Zak and Mohan, Nikhil and Dudas, Sofia and Hawke, Jeffrey and Badrinarayanan, Vijay and Cipolla, Roberto and Kendall, Alex",
-    title = "FIERY: Future Instance Prediction in Bird's-Eye View From Surround Monocular Cameras",
+    title = "{FIERY}: Future Instance Prediction in Bird's-Eye View From Surround Monocular Cameras",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -3029,7 +3029,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Yuan_2021_ICCV,
     author = "Yuan, Ye and Weng, Xinshuo and Ou, Yanglan and Kitani, Kris M.",
-    title = "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting",
+    title = "{AgentFormer}: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -3148,7 +3148,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Li_2021_ICCV_2,
     author = "Li, Jiachen and Yang, Fan and Ma, Hengbo and Malla, Srikanth and Tomizuka, Masayoshi and Choi, Chiho",
-    title = "RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting",
+    title = "{RAIN}: Reinforced Hybrid Attention Inference Network for Motion Forecasting",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -3276,7 +3276,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Dulian_2021_ICRA/>
 <details close>
-<summary><strong><em>Dulian et al., "Exploiting latent representation of sparse semantic layers for improved short-term motion prediction with Capsule Networks", ICRA, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9561467>paper</a> <a href=https://arxiv.org/pdf/2103.01644.pdf>arxiv</a></summary>
+<summary><strong><em>Dulian et al., "Exploiting Latent Representation of Sparse Semantic Layers for Improved Short-term Motion Prediction with Capsule Networks", ICRA, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9561467>paper</a> <a href=https://arxiv.org/pdf/2103.01644.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3293,7 +3293,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Dulian_2021_ICRA,
     author = "Dulian, Albert and Murray, John C.",
     booktitle = "ICRA",
-    title = "Exploiting latent representation of sparse semantic layers for improved short-term motion prediction with Capsule Networks",
+    title = "Exploiting Latent Representation of Sparse Semantic Layers for Improved Short-term Motion Prediction with Capsule Networks",
     year = "2021"
 }
 </pre>
@@ -3304,7 +3304,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Kordia_2021_ICRA/>
 <details close>
-<summary><strong><em>Kordia et al., "Movement recognition and prediction using DMPs", ICRA, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9562001>paper</a></summary>
+<summary><strong><em>Kordia et al., "Movement Recognition and Prediction using DMPs", ICRA, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9562001>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3321,7 +3321,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Kordia_2021_ICRA,
     author = "Kordia, Ali H. and Melo, Francisco S.",
     booktitle = "ICRA",
-    title = "Movement recognition and prediction using DMPs",
+    title = "Movement Recognition and Prediction using {DMPs}",
     year = "2021"
 }
 </pre>
@@ -3350,7 +3350,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Liu_2021_ICRA,
     author = "Liu, Congcong and Chen, Yuying and Liu, Ming and Shi, Bertram E.",
     booktitle = "ICRA",
-    title = "AVGCN: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention",
+    title = "{AVGCN}: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention",
     year = "2021"
 }
 </pre>
@@ -3379,7 +3379,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Majcherczyk_2021_ICRA,
     author = "Majcherczyk, Nathalie and Srishankar, Nishan and Pinciroli, Carlo",
     booktitle = "ICRA",
-    title = "Flow-FL: Data-Driven Federated Learning for Spatio-Temporal Predictions in Multi-Robot Systems",
+    title = "{Flow-FL}: Data-Driven Federated Learning for Spatio-Temporal Predictions in Multi-Robot Systems",
     year = "2021"
 }
 </pre>
@@ -3410,7 +3410,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Malla_2021_ICRA,
     author = "Malla, Srikanth and Choi, Chiho and Dariush, Behzad",
     booktitle = "ICRA",
-    title = "Social-STAGE: Spatio-Temporal Multi-Modal Future Trajectory Forecast",
+    title = "{Social-STAGE}: Spatio-Temporal Multi-Modal Future Trajectory Forecast",
     year = "2021"
 }
 </pre>
@@ -3646,7 +3646,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @Article{Cleac_2021_RAL,
     author = "Le Cleac’h, Simon and Schwager, Mac and Manchester, Zachary",
     journal = "RAL",
-    title = "LUCIDGames: Online Unscented Inverse Dynamic Games for Adaptive Trajectory Prediction and Planning",
+    title = "{LUCIDGames}: Online Unscented Inverse Dynamic Games for Adaptive Trajectory Prediction and Planning",
     year = "2021",
     volume = "6",
     number = "3",
@@ -3710,7 +3710,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @Article{Meyer_2021_RAL,
     author = "Meyer, Gregory P. and Charland, Jake and Pandey, Shreyash and Laddha, Ankit and Gautam, Shivam and Vallespi-Gonzalez, Carlos and Wellington, Carl K.",
     journal = "RAL",
-    title = "LaserFlow: Efficient and Probabilistic Object Detection and Motion Forecasting",
+    title = "{LaserFlow}: Efficient and Probabilistic Object Detection and Motion Forecasting",
     year = "2017",
     volume = "6",
     number = "2",
@@ -3776,7 +3776,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @Article{Yao_2021_RAL,
     author = "Yao, Yu and Atkins, Ella and Johnson-Roberson, Matthew and Vasudevan, Ram and Du, Xiaoxiao",
     journal = "RAL",
-    title = "BiTraP: Bi-Directional Pedestrian Trajectory Prediction With Multi-Modal Goal Estimation",
+    title = "{BiTraP}: Bi-Directional Pedestrian Trajectory Prediction With Multi-Modal Goal Estimation",
     year = "2021",
     volume = "6",
     number = "2",
@@ -3807,7 +3807,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @Article{Zhang_2021_RAL,
     author = "Zhang, Kuangen and Liu, Haiyuan and Fan, Zixuan and Chen, Xinxing and Leng, Yuquan and de Silva, Clarence W. and Fu, Chenglong",
     journal = "RAL",
-    title = "Foot Placement Prediction for Assistive Walking by Fusing Sequential 3D Gaze and Environmental Context",
+    title = "Foot Placement Prediction for Assistive Walking by Fusing Sequential {3D} Gaze and Environmental Context",
     year = "2021",
     volume = "6",
     number = "2",
@@ -3901,7 +3901,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Li_2021_ICRA_2,
     author = "Li, Kunming and Eiffert, Stuart and Shan, Mao and Gomez-Donoso, Francisco and Worrall, Stewart and Nebot, Eduardo",
     booktitle = "ICRA",
-    title = "Attentional-GCNN: Adaptive Pedestrian Trajectory Prediction towards Generic Autonomous Vehicle Use Cases",
+    title = "{Attentional-GCNN}: Adaptive Pedestrian Trajectory Prediction towards Generic Autonomous Vehicle Use Cases",
     year = "2021"
 }
 </pre>
@@ -3959,7 +3959,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Ankit_2021_IROS,
     author = "Ankit and Narayanan, Karthik and Ghosh, Dibyendu and Honkote, Vinayak and Nandakumar, Ganeshram",
     booktitle = "IROS",
-    title = "Multi-Variable State Prediction: HMM Based Approach for Real-Time Trajectory Prediction",
+    title = "Multi-Variable State Prediction: {HMM} Based Approach for Real-Time Trajectory Prediction",
     year = "2021"
 }
 </pre>
@@ -4105,7 +4105,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Laddha_2021_IROS,
     author = "Laddha, Ankit and Gautam, Shivam and Meyer, Gregory P. and Vallespi-Gonzalez, Carlos and Wellington, Carl K.",
     booktitle = "IROS",
-    title = "RV-FuseNet: Range View Based Fusion of Time-Series LiDAR Data for Joint 3D Object Detection and Motion Forecasting",
+    title = "{RV-FuseNet}: Range View Based Fusion of Time-Series {LiDAR} Data for Joint {3D} Object Detection and Motion Forecasting",
     year = "2021"
 }
 </pre>
@@ -4191,7 +4191,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Postnikov_2021_IROS,
     author = "Postnikov, Aleksey and Gamayunov, Aleksander and Ferrer, Gonzalo",
     booktitle = "IROS",
-    title = "CovarianceNet: Conditional Generative Model for Correct Covariance Prediction in Human Motion Prediction",
+    title = "{CovarianceNet}: Conditional Generative Model for Correct Covariance Prediction in Human Motion Prediction",
     year = "2021"
 }
 </pre>
@@ -4221,7 +4221,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Rella_2021_IROS,
     author = "Rella, Edoardo Mello and Zaech, Jan-Nico and Liniger, Alexander and Van Gool, Luc",
     booktitle = "IROS",
-    title = "Decoder Fusion RNN: Context and Interaction Aware Decoders for Trajectory Prediction",
+    title = "Decoder {Fusion RNN}: Context and Interaction Aware Decoders for Trajectory Prediction",
     year = "2021"
 }
 </pre>
@@ -4250,7 +4250,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Scholler_2021_IROS,
     author = "Schöller, Christoph and Knoll, Alois",
     booktitle = "IROS",
-    title = "FloMo: Tractable Motion Prediction with Normalizing Flows",
+    title = "{FloMo}: Tractable Motion Prediction with Normalizing Flows",
     year = "2021"
 }
 </pre>
@@ -4279,7 +4279,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Su_2021_IROS,
     author = "Su, Zhaoxin and Zhang, Sanyuan and Hua, Wei",
     booktitle = "IROS",
-    title = "CR-LSTM: Collision-prior Guided Social Refinement for Pedestrian Trajectory Prediction",
+    title = "{CR-LSTM}: Collision-prior Guided Social Refinement for Pedestrian Trajectory Prediction",
     year = "2021"
 }
 </pre>
@@ -4365,7 +4365,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Zeng_2021_IROS,
     author = "Zeng, Wenyuan and Liang, Ming and Liao, Renjie and Urtasun, Raquel",
     booktitle = "IROS",
-    title = "LaneRCNN: Distributed Representations for Graph-Centric Motion Forecasting",
+    title = "{LaneRCNN}: Distributed Representations for Graph-Centric Motion Forecasting",
     year = "2021"
 }
 </pre>
@@ -4606,7 +4606,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=SunL_2021_RSS/>
 <details close>
-<summary><strong><em>Sun et al., "On complementing end-to-end human behavior predictors with planning", RSS, 2021.</em></strong> <a href=http://www.roboticsproceedings.org/rss17/p037.pdf>paper</a> <a href=https://arxiv.org/pdf/2103.05661.pdf>arxiv</a></summary>
+<summary><strong><em>Sun et al., "On Complementing End-to-end Human Behavior Predictors with Planning", RSS, 2021.</em></strong> <a href=http://www.roboticsproceedings.org/rss17/p037.pdf>paper</a> <a href=https://arxiv.org/pdf/2103.05661.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4621,7 +4621,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{SunL_2021_RSS,
     AUTHOR = "Sun, Liting and Jia, Xiaogang and Dragan, Anca",
-    TITLE = "On complementing end-to-end human behavior predictors with planning}",
+    TITLE = "On Complementing End-to-end Human Behavior Predictors with Planning",
     BOOKTITLE = "RSS",
     YEAR = "2021"
 }
@@ -4649,7 +4649,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Hauri_2021_WACV,
     author = "Hauri, Sandro and Djuric, Nemanja and Radosavljevic, Vladan and Vucetic, Slobodan",
-    title = "Multi-Modal Trajectory Prediction of NBA Players",
+    title = "Multi-Modal Trajectory Prediction of {NBA} Players",
     booktitle = "WACV",
     year = "2021"
 }
@@ -4737,7 +4737,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Wang_2021_WACV,
     author = "Wang, Chengxin and Cai, Shaofeng and Tan, Gary",
-    title = "GraphTCN: Spatio-Temporal Interaction Modeling for Human Trajectory Prediction",
+    title = "{GraphTCN}: Spatio-Temporal Interaction Modeling for Human Trajectory Prediction",
     booktitle = "WACV",
     year = "2021"
 }
@@ -4773,7 +4773,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Fang_2020_CVPR,
     author = "Fang, Liangji and Jiang, Qinhong and Shi, Jianping and Zhou, Bolei",
-    title = "TPNet: Trajectory Proposal Network for Motion Prediction",
+    title = "{TPNet}: Trajectory Proposal Network for Motion Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -4833,7 +4833,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Liang_2020_CVPR,
     author = "Liang, Ming and Yang, Bin and Zeng, Wenyuan and Chen, Yun and Hu, Rui and Casas, Sergio and Urtasun, Raquel",
-    title = "PnPNet: End-to-End Perception and Prediction With Tracking in the Loop",
+    title = "{PnPNet}: End-to-End Perception and Prediction With Tracking in the Loop",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -4895,7 +4895,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Malla_2020_CVPR,
     author = "Malla, Srikanth and Dariush, Behzad and Choi, Chiho",
-    title = "TITAN: Future Forecast Using Action Priors",
+    title = "{TITAN}: Future Forecast Using Action Priors",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -4925,7 +4925,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Marchetti_2020_CVPR,
     author = "Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto",
-    title = "MANTRA: Memory Augmented Networks for Multiple Trajectory Prediction",
+    title = "{MANTRA}: Memory Augmented Networks for Multiple Trajectory Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -4954,7 +4954,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Mohamed_2020_CVPR,
     author = "Mohamed, Abduallah and Qian, Kun and Elhoseiny, Mohamed and Claudel, Christian",
-    title = "Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction",
+    title = "{Social-STGCNN}: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -4984,7 +4984,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Phan-Minh_2020_CVPR,
     author = "Phan-Minh, Tung and Grigore, Elena Corina and Boulton, Freddy A. and Beijbom, Oscar and Wolff, Eric M.",
-    title = "CoverNet: Multimodal Behavior Prediction Using Trajectory Sets",
+    title = "{CoverNet}: Multimodal Behavior Prediction Using Trajectory Sets",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -5043,7 +5043,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Zhang_2020_CVPR,
     author = "Zhang, Zhishuai and Gao, Jiyang and Mao, Junhua and Liu, Yukai and Anguelov, Dragomir and Li, Congcong",
-    title = "STINet: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction",
+    title = "{STINet}: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -5130,7 +5130,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Wu_2020_CVPR_2,
     author = "Wu, Pengxiang and Chen, Siheng and Metaxas, Dimitris N.",
-    title = "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps",
+    title = "{MotionNet}: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -5192,7 +5192,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Liu_2020_ECCV_2,
     author = "Liu, Buyu and Pittaluga, Francesco and Chandraker, Manmohan and others",
-    title = "SMART: Simultaneous Multi-Agent Recurrent Trajectory Prediction",
+    title = "{SMART}: Simultaneous Multi-Agent Recurrent Trajectory Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -5233,7 +5233,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Casas_2020_ECCV/>
 <details close>
-<summary><strong><em>Casas et al., "Implicit latent variable model for scene-consistent motion forecasting", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680613.pdf>paper</a> <a href=https://arxiv.org/pdf/2007.12036.pdf>arxiv</a></summary>
+<summary><strong><em>Casas et al., "Implicit Latent Variable Model for Scene-consistent Motion Forecasting", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680613.pdf>paper</a> <a href=https://arxiv.org/pdf/2007.12036.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5254,7 +5254,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Casas_2020_ECCV,
     author = "Casas, Sergio and Gulino, Cole and Suo, Simon and Luo, Katie and Liao, Renjie and Urtasun, Raquel",
-    title = "Implicit latent variable model for scene-consistent motion forecasting",
+    title = "Implicit Latent Variable Model for Scene-consistent Motion Forecasting",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -5312,7 +5312,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Liang_2020_ECCV,
     author = "Liang, Junwei and Jiang, Lu and Hauptmann, Alexander",
-    title = "SimAug: Learning Robust Representations from Simulation for Trajectory Prediction",
+    title = "{SimAug}: Learning Robust Representations from Simulation for Trajectory Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -5341,7 +5341,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Ma_2020_ECCV,
     author = "Ma, Yuexin and Zhu, Xinge and Cheng, Xinjing and Yang, Ruigang and Liu, Jiming and Manocha, Dinesh",
-    title = "AutoTrajectory: Label-free Trajectory Extraction and Prediction from Videos using Dynamic Points",
+    title = "{AutoTrajectory}: Label-free Trajectory Extraction and Prediction from Videos using Dynamic Points",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -5416,7 +5416,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Salzmann_2020_ECCV/>
 <details close>
-<summary><strong><em>Salzmann et al., "Trajectron++: Multi-agent generative trajectory forecasting with heterogeneous data for control", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630664.pdf>paper</a> <a href=https://arxiv.org/pdf/2001.03093.pdf>arxiv</a> <a href=https://github.com/StanfordASL/Trajectron-plus-plus>code</a></summary>
+<summary><strong><em>Salzmann et al., "Trajectron++: Multi-agent Generative Trajectory Forecasting with Heterogeneous Data for Control", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630664.pdf>paper</a> <a href=https://arxiv.org/pdf/2001.03093.pdf>arxiv</a> <a href=https://github.com/StanfordASL/Trajectron-plus-plus>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5437,7 +5437,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Salzmann_2020_ECCV,
     author = "Salzmann, Tim and Ivanovic, Boris and Chakravarty, Punarjay and Pavone, Marco",
-    title = "Trajectron++: Multi-agent generative trajectory forecasting with heterogeneous data for control",
+    title = "Trajectron++: Multi-agent Generative Trajectory Forecasting with Heterogeneous Data for Control",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -5466,7 +5466,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Song_2020_ECCV,
     author = "Song, Haoran and Ding, Wenchao and Chen, Yuxuan and Shen, Shaojie and Wang, Michael Yu and Chen, Qifeng",
-    title = "PiP: Planning-informed Trajectory Prediction for Autonomous Driving",
+    title = "{PiP}: Planning-informed Trajectory Prediction for Autonomous Driving",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -5497,7 +5497,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Tao_2020_ECCV,
     author = "Tao, Chaofan and Jiang, Qinhong and Duan, Lixin and Luo, Ping",
-    title = "Dynamic and Static Context-aware LSTM for Multi-agent Motion Prediction",
+    title = "Dynamic and Static Context-aware {LSTM} for Multi-agent Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -5509,7 +5509,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Wang_2020_ECCV/>
 <details close>
-<summary><strong><em>Wang et al., "V2vnet: Vehicle-to-vehicle communication for joint perception and prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470596.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.07519.pdf>arxiv</a></summary>
+<summary><strong><em>Wang et al., "V2VNet: Vehicle-to-vehicle Communication for Joint Perception and Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470596.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.07519.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5526,7 +5526,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Wang_2020_ECCV,
     author = "Wang, Tsun-Hsuan and Manivasagam, Sivabalan and Liang, Ming and Yang, Bin and Zeng, Wenyuan and Tu, James and Urtasun, Raquel",
-    title = "V2vnet: Vehicle-to-vehicle communication for joint perception and prediction",
+    title = "{V2VNet}: Vehicle-to-vehicle Communication for Joint Perception and Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -5597,7 +5597,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Biktairov_2020_NeurIPS/>
 <details close>
-<summary><strong><em>Biktairov et al., "PRANK: motion Prediction based on RANKing", NeurIPS, 2020.</em></strong> <a href=https://papers.nips.cc/paper/2020/file/1b0251ccb8bd5f9ccf444e4bda7713e3-Paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2010.12007.pdf>arxiv</a></summary>
+<summary><strong><em>Biktairov et al., "PRANK: Motion Prediction Based on RANKing", NeurIPS, 2020.</em></strong> <a href=https://papers.nips.cc/paper/2020/file/1b0251ccb8bd5f9ccf444e4bda7713e3-Paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2010.12007.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5616,9 +5616,8 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Biktairov_2020_NeurIPS,
     author = "Biktairov, Yuriy and Stebelev, Maxim and Rudenko, Irina and Shliazhko, Oleh and Yangel, Boris",
-    editor = "Larochelle, H. and Ranzato, M. and Hadsell, R. and Balcan, M. F. and Lin, H.",
     booktitle = "NeurIPS",
-    title = "PRANK: motion Prediction based on RANKing",
+    title = "{PRANK}: Motion Prediction Based on {RANKing}",
     year = "2020"
 }
 </pre>
@@ -5681,9 +5680,8 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Li_2020_NeurIPS,
     author = "Li, Jiachen and Yang, Fan and Tomizuka, Masayoshi and Choi, Chiho",
-    editor = "Larochelle, H. and Ranzato, M. and Hadsell, R. and Balcan, M. F. and Lin, H.",
     booktitle = "NeurIPS",
-    title = "EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning",
+    title = "{EvolveGraph}: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning",
     year = "2020"
 }
 </pre>
@@ -5694,7 +5692,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Chen_2020_BMVC/>
 <details close>
-<summary><strong><em>Chen et al., "CoMoGCN: Coherent motion aware trajectory prediction with graph representation", BMVC, 2020.</em></strong> <a href=https://www.bmvc2020-conference.com/assets/papers/0238.pdf>paper</a> <a href=https://arxiv.org/pdf/2005.00754.pdf>arxiv</a></summary>
+<summary><strong><em>Chen et al., "CoMoGCN: Coherent Motion Aware Trajectory Prediction with Graph Representation", BMVC, 2020.</em></strong> <a href=https://www.bmvc2020-conference.com/assets/papers/0238.pdf>paper</a> <a href=https://arxiv.org/pdf/2005.00754.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5711,7 +5709,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Chen_2020_BMVC,
     author = "Chen, Yuying and Liu, Congcong and Shi, Bertram and Liu, Ming",
-    title = "CoMoGCN: Coherent motion aware trajectory prediction with graph representation",
+    title = "{CoMoGCN}: Coherent Motion Aware Trajectory Prediction with Graph Representation",
     booktitle = "BMVC",
     year = "2020"
 }
@@ -5723,7 +5721,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Huynh_2020_BMVC/>
 <details close>
-<summary><strong><em>Huynh et al., "Aol: Adaptive online learning for human trajectory prediction in dynamic video scenes", BMVC, 2020.</em></strong> <a href=https://www.bmvc2020-conference.com/assets/papers/0493.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.06666.pdf>arxiv</a></summary>
+<summary><strong><em>Huynh et al., "AOL: Adaptive Online Learning for Human Trajectory Prediction in Dynamic Video Scenes", BMVC, 2020.</em></strong> <a href=https://www.bmvc2020-conference.com/assets/papers/0493.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.06666.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5739,7 +5737,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Huynh_2020_BMVC,
     author = "Huynh, Manh and Alaghband, Gita",
-    title = "Aol: Adaptive online learning for human trajectory prediction in dynamic video scenes",
+    title = "{AOL}: Adaptive Online Learning for Human Trajectory Prediction in Dynamic Video Scenes",
     booktitle = "BMVC",
     year = "2020"
 }
@@ -5772,7 +5770,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Dendorfer_2020_ACCV,
     author = "Dendorfer, Patrick and Osep, Aljosa and Leal-Taixe, Laura",
-    title = "Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation",
+    title = "{Goal-GAN}: Multimodal Trajectory Prediction Based on Goal Position Estimation",
     booktitle = "ACCV",
     year = "2020"
 }
@@ -5943,7 +5941,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Casas_2020_ICRA,
     author = "Casas, S. and Gulino, C. and Liao, R. and Urtasun, R.",
     booktitle = "ICRA",
-    title = "SpAGNN: Spatially-Aware Graph Neural Networks for Relational Behavior Forecasting from Sensor Data",
+    title = "{SpAGNN}: Spatially-Aware Graph Neural Networks for Relational Behavior Forecasting from Sensor Data",
     year = "2020"
 }
 </pre>
@@ -5999,7 +5997,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Filatov_2020_ICRA,
     author = "Filatov, A. and Rykov, A. and Murashkin, V.",
     booktitle = "ICRA",
-    title = "Any Motion Detector: Learning Class-agnostic Scene Dynamics from a Sequence of LiDAR Point Clouds",
+    title = "Any Motion Detector: Learning Class-agnostic Scene Dynamics from a Sequence of {LiDAR} Point Clouds",
     year = "2020"
 }
 </pre>
@@ -6086,7 +6084,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Mercat_2020_ICRA,
-    author = "Mercat, J. and Gilles, T. and El Zoghby, N. and Sandou, G. and Beauvois, D. and Gil, G. P.",
+    author = "Mercat, J. and Gilles, T. and Zoghby, N. El and Sandou, G. and Beauvois, D. and Gil, G. P.",
     booktitle = "ICRA",
     title = "Multi-Head Attention for Multi-Modal Joint Vehicle Motion Forecasting",
     year = "2020"
@@ -6116,7 +6114,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Monforte_2020_ICRA,
     author = "Monforte, M. and Arriandiaga, A. and Glover, A. and Bartolozzi, C.",
     booktitle = "ICRA",
-    title = "Where and When: Event-Based Spatiotemporal Trajectory Prediction from the iCub’s Point-Of-View",
+    title = "Where and When: Event-Based Spatiotemporal Trajectory Prediction from the {iCub}’s Point-Of-View",
     year = "2020"
 }
 </pre>
@@ -6200,7 +6198,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Qiao_2020_ICRA,
     author = "Qiao, Z. and Zhao, J. and Zhu, J. and Tyree, Z. and Mudalige, P. and Schneider, J. and Dolan, J. M.",
     booktitle = "ICRA",
-    title = "Human Driver Behavior Prediction based on UrbanFlow*",
+    title = "Human Driver Behavior Prediction based on {UrbanFlow*}",
     year = "2020"
 }
 </pre>
@@ -6258,7 +6256,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Ansari_2020_IROS,
     author = "Ansari, J. A. and Bhowmick, B.",
     booktitle = "IROS",
-    title = "Simple means Faster: Real-Time Human Motion Forecasting in Monocular First Person Videos on CPU",
+    title = "Simple means Faster: Real-Time Human Motion Forecasting in Monocular First Person Videos on {CPU}",
     year = "2020"
 }
 </pre>
@@ -6319,7 +6317,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Dwivedi_2020_IROS,
     author = "Dwivedi, I. and Malla, S. and Dariush, B. and Choi, C.",
     booktitle = "IROS",
-    title = "SSP: Single Shot Future Trajectory Prediction",
+    title = "{SSP}: Single Shot Future Trajectory Prediction",
     year = "2020"
 }
 </pre>
@@ -6377,7 +6375,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Jeon_2020_IROS,
     author = "Jeon, H. and Choi, J. and Kum, D.",
     booktitle = "IROS",
-    title = "SCALE-Net: Scalable Vehicle Trajectory Prediction Network under Random Number of Interacting Vehicles via Edge-enhanced Graph Convolutional Neural Network",
+    title = "{SCALE-Net}: Scalable Vehicle Trajectory Prediction Network under Random Number of Interacting Vehicles via Edge-enhanced Graph Convolutional Neural Network",
     year = "2020"
 }
 </pre>
@@ -6474,7 +6472,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Oh_2020_IROS/>
 <details close>
-<summary><strong><em>Oh et al., "Impact of traffic lights on trajectory forecasting of human-driven vehicles near signalized intersections", IROS, 2020.</em></strong> <a href=http://ras.papercept.net/images/temp/IROS/files/3159.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.00486.pdf>arxiv</a></summary>
+<summary><strong><em>Oh et al., "Impact of Traffic Lights on Trajectory Forecasting of Human-driven Vehicles near Signalized Intersections", IROS, 2020.</em></strong> <a href=http://ras.papercept.net/images/temp/IROS/files/3159.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.00486.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6491,7 +6489,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Oh_2020_IROS,
     author = "Oh, Geunseob and Peng, Huei",
-    title = "Impact of traffic lights on trajectory forecasting of human-driven vehicles near signalized intersections",
+    title = "Impact of Traffic Lights on Trajectory Forecasting of Human-driven Vehicles near Signalized Intersections",
     booktitle = "IROS",
     year = "2020"
 }
@@ -6522,7 +6520,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Qin_2020_IROS,
     author = "Qin, Y. and Feyzabadi, S. and Allan, M. and Burdick, J. W. and Azizian, M.",
     booktitle = "IROS",
-    title = "daVinciNet: Joint Prediction of Motion and Surgical State in Robot-Assisted Surgery",
+    title = "{daVinciNet}: Joint Prediction of Motion and Surgical State in Robot-Assisted Surgery",
     year = "2020"
 }
 </pre>
@@ -6647,7 +6645,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @Article{Chandra_2020_RAL,
     author = "Chandra, R. and Guan, T. and Panuganti, S. and Mittal, T. and Bhattacharya, U. and Bera, A. and Manocha, D.",
     journal = "RAL",
-    title = "Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs",
+    title = "Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in {Graph-LSTMs}",
     year = "2020",
     volume = "5",
     number = "3",
@@ -6682,7 +6680,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @Article{Eiffert_2020_RAL,
     author = "Eiffert, S. and Li, K. and Shan, M. and Worrall, S. and Sukkarieh, S. and Nebot, E.",
     journal = "RAL",
-    title = "Probabilistic Crowd GAN: Multimodal Pedestrian Trajectory Prediction Using a Graph Vehicle-Pedestrian Attention Network",
+    title = "Probabilistic Crowd {GAN}: Multimodal Pedestrian Trajectory Prediction Using a Graph Vehicle-Pedestrian Attention Network",
     year = "2020",
     volume = "5",
     number = "4",
@@ -6776,7 +6774,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @Article{Huang_2020_RAL,
     author = "Huang, X. and McGill, S. G. and DeCastro, J. A. and Fletcher, L. and Leonard, J. J. and Williams, B. C. and Rosman, G.",
     journal = "RAL",
-    title = "DiversityGAN: Diversity-Aware Vehicle Motion Prediction via Latent Semantic Sampling",
+    title = "{DiversityGAN}: Diversity-Aware Vehicle Motion Prediction via Latent Semantic Sampling",
     year = "2020",
     volume = "5",
     number = "4",
@@ -6870,7 +6868,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Brito_2020_CORL,
     author = "Brito, Bruno and Zhu, Hai and Pan, Wei and Alonso-Mora, Javier",
-    title = "Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians",
+    title = "{Social-VRNN}: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -6882,7 +6880,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Buhet_2020_CORL/>
 <details close>
-<summary><strong><em>Buhet et al., "PLOP: Probabilistic poLynomial Objects trajectory Planning for autonomous driving", CoRL, 2020.</em></strong> <a href=https://drive.google.com/file/d/1--QAL2sR7KMk9R4DwxyfJAT5iGCheFrn/view>paper</a> <a href=https://arxiv.org/pdf/2003.08744.pdf>arxiv</a></summary>
+<summary><strong><em>Buhet et al., "PLOP: Probabilistic PoLynomial Objects Trajectory Planning for Autonomous Driving", CoRL, 2020.</em></strong> <a href=https://drive.google.com/file/d/1--QAL2sR7KMk9R4DwxyfJAT5iGCheFrn/view>paper</a> <a href=https://arxiv.org/pdf/2003.08744.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6899,7 +6897,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Buhet_2020_CORL,
     author = "Buhet, Thibault and Wirbel, Emilie and Bursuc, Andrei and Perrotton, Xavier",
-    title = "PLOP: Probabilistic poLynomial Objects trajectory Planning for autonomous driving",
+    title = "{PLOP}: Probabilistic PoLynomial Objects Trajectory Planning for Autonomous Driving",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -6911,7 +6909,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Choi_2020_CORL/>
 <details close>
-<summary><strong><em>Choi et al., "DROGON: A trajectory prediction model based on intention-conditioned behavior reasoning", CoRL, 2020.</em></strong> <a href=https://drive.google.com/file/d/17GZtLbLp-LzpHqPJyB6Wfvoll3RDM1Wq/view>paper</a> <a href=https://arxiv.org/pdf/1908.00024.pdf>arxiv</a></summary>
+<summary><strong><em>Choi et al., "DROGON: A Trajectory Prediction Model Based on Intention-conditioned Behavior Reasoning", CoRL, 2020.</em></strong> <a href=https://drive.google.com/file/d/17GZtLbLp-LzpHqPJyB6Wfvoll3RDM1Wq/view>paper</a> <a href=https://arxiv.org/pdf/1908.00024.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6929,7 +6927,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Choi_2020_CORL,
     author = "Choi, Chiho and Malla, Srikanth and Patil, Abhishek and Choi, J Hee",
-    title = "DROGON: A trajectory prediction model based on intention-conditioned behavior reasoning",
+    title = "{DROGON}: A Trajectory Prediction Model Based on Intention-conditioned Behavior Reasoning",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -6941,7 +6939,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Houston_2020_CORL/>
 <details close>
-<summary><strong><em>Houston et al., "One thousand and one hours: Self-driving motion prediction dataset", CoRL, 2020.</em></strong> <a href=https://drive.google.com/file/d/1aABQsyBkxr-TlgjwKRdeeJy6YjShUAmj/view>paper</a> <a href=https://arxiv.org/pdf/2006.14480.pdf>arxiv</a> <a href=https://github.com/lyft/l5kit>code</a></summary>
+<summary><strong><em>Houston et al., "One Thousand and One Hours: Self-driving Motion Prediction Dataset", CoRL, 2020.</em></strong> <a href=https://drive.google.com/file/d/1aABQsyBkxr-TlgjwKRdeeJy6YjShUAmj/view>paper</a> <a href=https://arxiv.org/pdf/2006.14480.pdf>arxiv</a> <a href=https://github.com/lyft/l5kit>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6956,7 +6954,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Houston_2020_CORL,
     author = "Houston, John and Zuidhof, Guido and Bergamini, Luca and Ye, Yawei and Chen, Long and Jain, Ashesh and Omari, Sammy and Iglovikov, Vladimir and Ondruska, Peter",
-    title = "One thousand and one hours: Self-driving motion prediction dataset",
+    title = "One Thousand and One Hours: Self-driving Motion Prediction Dataset",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -6983,7 +6981,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Ivanovic_2020_CORL,
     author = "Ivanovic, Boris and Elhafsi, Amine and Rosman, Guy and Gaidon, Adrien and Pavone, Marco",
-    title = "MATS: An Interpretable Trajectory Forecasting Representation for Planning and Control",
+    title = "{MATS}: An Interpretable Trajectory Forecasting Representation for Planning and Control",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -6995,7 +6993,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Li_2020_CORL/>
 <details close>
-<summary><strong><em>Li et al., "Differentiable logic layer for rule guided trajectory prediction", CoRL, 2020.</em></strong> <a href=https://drive.google.com/file/d/1XxYxO_doBjFy70ruodwikpCJB9htrdIV/view>paper</a></summary>
+<summary><strong><em>Li et al., "Differentiable Logic Layer for Rule Guided Trajectory Prediction", CoRL, 2020.</em></strong> <a href=https://drive.google.com/file/d/1XxYxO_doBjFy70ruodwikpCJB9htrdIV/view>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7012,7 +7010,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Li_2020_CORL,
     author = "Li, Xiao and Rosman, Guy and Gilitschenski, Igor and DeCastro, Jonathan and Vasile, Cristian-Ioan and Rus, Sertac Karaman Daniela",
-    title = "Differentiable logic layer for rule guided trajectory prediction",
+    title = "Differentiable Logic Layer for Rule Guided Trajectory Prediction",
     year = "2020",
     booktitle = "CoRL"
 }
@@ -7070,7 +7068,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Shah_2020_CORL,
     author = "Shah, Meet and Huang, Zhiling and Laddha, Ankit and Langford, Matthew and Barber, Blake and Zhang, Sidney and Vallespi-Gonzalez, Carlos and Urtasun, Raquel",
-    title = "LiRaNet: End-to-End Trajectory Prediction using Spatio-Temporal Radar Fusion",
+    title = "{LiRaNet}: End-to-End Trajectory Prediction using Spatio-Temporal Radar Fusion",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -7099,7 +7097,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Weng_2020_CORL,
     author = "Weng, Xinshuo and Wang, Jianren and Levine, Sergey and Kitani, Kris and Rhinehart, Nick",
-    title = "Inverting the Pose Forecasting Pipeline with SPF2: Sequential Pointcloud Forecasting for Sequential Pose Forecasting",
+    title = "Inverting the Pose Forecasting Pipeline with {SPF2}: Sequential Pointcloud Forecasting for Sequential Pose Forecasting",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -7139,7 +7137,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Zhao_2020_CORL/>
 <details close>
-<summary><strong><em>Zhao et al., "Tnt: Target-driven trajectory prediction", CoRL, 2020.</em></strong> <a href=https://drive.google.com/file/d/1Ol40GkiELqcechS9eWINoacMb5ebDUkD/view>paper</a> <a href=https://arxiv.org/pdf/2008.08294.pdf>arxiv</a></summary>
+<summary><strong><em>Zhao et al., "TNT: Target-driven Trajectory Prediction", CoRL, 2020.</em></strong> <a href=https://drive.google.com/file/d/1Ol40GkiELqcechS9eWINoacMb5ebDUkD/view>paper</a> <a href=https://arxiv.org/pdf/2008.08294.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7160,7 +7158,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Zhao_2020_CORL,
     author = "Zhao, Hang and Gao, Jiyang and Lan, Tian and Sun, Chen and Sapp, Benjamin and Varadarajan, Balakrishnan and Shen, Yue and Shen, Yi and Chai, Yuning and Schmid, Cordelia and others",
-    title = "Tnt: Target-driven trajectory prediction",
+    title = "{TNT}: Target-driven Trajectory Prediction",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -7189,7 +7187,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Chen_2020_ICIP,
     author = "Chen, Guangxi and Hu, Ling and Zhang, Qieshi and Ren, Ziliang and Gao, Xiangyang and Cheng, Jun",
     booktitle = "ICIP",
-    title = "ST-LSTM: Spatio-Temporal Graph Based Long Short-Term Memory Network For Vehicle Trajectory Prediction",
+    title = "{ST-LSTM}: Spatio-Temporal Graph Based Long Short-Term Memory Network For Vehicle Trajectory Prediction",
     year = "2020"
 }
 </pre>
@@ -7200,7 +7198,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Chandra_2019_CVPR/>
 <details close>
-<summary><strong><em>Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.04767.pdf>arxiv</a> <a href=https://go.umd.edu/TraPHic>code</a></summary>
+<summary><strong><em>Chandra et al., "TraPHic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.04767.pdf>arxiv</a> <a href=https://go.umd.edu/TraPHic>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7217,7 +7215,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Chandra_2019_CVPR,
     author = "Chandra, Rohan and Bhattacharya, Uttaran and Bera, Aniket and Manocha, Dinesh",
-    title = "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions",
+    title = "{TraPHic}: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -7245,7 +7243,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Chang_2019_CVPR,
     author = "Chang, Ming-Fang and Lambert, John and Sangkloy, Patsorn and Singh, Jagjeet and Bak, Slawomir and Hartnett, Andrew and Wang, De and Carr, Peter and Lucey, Simon and Ramanan, Deva and Hays, James",
-    title = "Argoverse: 3D Tracking And Forecasting With Rich Maps",
+    title = "Argoverse: {3D} Tracking And Forecasting With Rich Maps",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -7377,7 +7375,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Sadeghian_2019_CVPR/>
 <details close>
-<summary><strong><em>Sadeghian et al., "Sophie: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.01482.pdf>arxiv</a></summary>
+<summary><strong><em>Sadeghian et al., "SoPhie: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.01482.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7394,7 +7392,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Sadeghian_2019_CVPR,
     author = "Sadeghian, Amir and Kosaraju, Vineet and Sadeghian, Ali and Hirose, Noriaki and Rezatofighi, Hamid and Savarese, Silvio",
-    title = "Sophie: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints",
+    title = "{SoPhie}: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -7406,7 +7404,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Zhang_2019_CVPR/>
 <details close>
-<summary><strong><em>Zhang et al., "Sr-Lstm: State Refinement For Lstm Towards Pedestrian Trajectory Prediction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1903.02793.pdf>arxiv</a> <a href=https://github.com/zhangpur/SR-LSTM>code</a></summary>
+<summary><strong><em>Zhang et al., "SR-LSTM: State Refinement For LSTM Towards Pedestrian Trajectory Prediction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1903.02793.pdf>arxiv</a> <a href=https://github.com/zhangpur/SR-LSTM>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7423,7 +7421,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Zhang_2019_CVPR,
     author = "Zhang, Pu and Ouyang, Wanli and Zhang, Pengfei and Xue, Jianru and Zheng, Nanning",
-    title = "Sr-Lstm: State Refinement For Lstm Towards Pedestrian Trajectory Prediction",
+    title = "{SR-LSTM}: State Refinement For {LSTM} Towards Pedestrian Trajectory Prediction",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -7527,7 +7525,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Huang_2019_ICCV/>
 <details close>
-<summary><strong><em>Huang et al., "Stgat: Modeling Spatial-Temporal Interactions For Human Trajectory Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf>paper</a></summary>
+<summary><strong><em>Huang et al., "STGAT: Modeling Spatial-Temporal Interactions For Human Trajectory Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7544,7 +7542,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Huang_2019_ICCV,
     author = "Huang, Yingfan and Bi, Huikun and Li, Zhaoxin and Mao, Tianlu and Wang, Zhaoqi",
-    title = "Stgat: Modeling Spatial-Temporal Interactions For Human Trajectory Prediction",
+    title = "{STGAT}: Modeling Spatial-Temporal Interactions For Human Trajectory Prediction",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -7583,7 +7581,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Rasouli_2019_ICCV/>
 <details close>
-<summary><strong><em>Rasouli et al., "Pie: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf>paper</a> <a href=https://github.com/aras62/PIEPredict>code</a></summary>
+<summary><strong><em>Rasouli et al., "PIE: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf>paper</a> <a href=https://github.com/aras62/PIEPredict>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7600,7 +7598,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Rasouli_2019_ICCV,
     author = "Rasouli, Amir and Kotseruba, Iuliia and Kunic, Toni and Tsotsos, John K.",
-    title = "Pie: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction",
+    title = "{PIE}: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -7669,7 +7667,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Kosaraju_2019_NeurIPS/>
 <details close>
-<summary><strong><em>Kosaraju et al., "Social-Bigat: Multimodal Trajectory Forecasting Using Bicycle-Gan And Graph Attention Networks", NeurIPS, 2019.</em></strong> <a href=http://papers.nips.cc/paper/8308-social-bigat-multimodal-trajectory-forecasting-using-bicycle-gan-and-graph-attention-networks.pdf>paper</a> <a href=https://arxiv.org/pdf/1907.03395.pdf>arxiv</a></summary>
+<summary><strong><em>Kosaraju et al., "Social-BiGAT: Multimodal Trajectory Forecasting Using Bicycle-GAN And Graph Attention Networks", NeurIPS, 2019.</em></strong> <a href=http://papers.nips.cc/paper/8308-social-bigat-multimodal-trajectory-forecasting-using-bicycle-gan-and-graph-attention-networks.pdf>paper</a> <a href=https://arxiv.org/pdf/1907.03395.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7686,7 +7684,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Kosaraju_2019_NeurIPS,
     author = "Kosaraju, Vineet and Sadeghian, Amir and Mart\'\in-Mart\'\in, Roberto and Reid, Ian and Rezatofighi, Hamid and Savarese, Silvio",
-    title = "Social-Bigat: Multimodal Trajectory Forecasting Using Bicycle-Gan And Graph Attention Networks",
+    title = "{Social-BiGAT}: Multimodal Trajectory Forecasting Using {Bicycle-GAN} And Graph Attention Networks",
     booktitle = "NeurIPS",
     year = "2019"
 }
@@ -7982,7 +7980,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Srikanth_2019_IROS/>
 <details close>
-<summary><strong><em>Srikanth et al., "Infer: Intermediate Representations For Future Prediction", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968553>paper</a> <a href=https://arxiv.org/pdf/1903.10641.pdf>arxiv</a> <a href=https://rebrand.ly/INFER-results>code</a></summary>
+<summary><strong><em>Srikanth et al., "INFER: INtermediate Representations For FuturE PRediction", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968553>paper</a> <a href=https://arxiv.org/pdf/1903.10641.pdf>arxiv</a> <a href=https://rebrand.ly/INFER-results>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8000,7 +7998,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Srikanth_2019_IROS,
     author = "Srikanth, Shashank and Ansari, Junaid Ahmed and Sharma, Sarthak and others",
     booktitle = "IROS",
-    title = "Infer: Intermediate Representations For Future Prediction",
+    title = "{INFER}: {IN}termediate Representations For {F}utur{E} P{R}ediction",
     year = "2019"
 }
 </pre>
@@ -8070,7 +8068,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Zhu_2019_IROS/>
 <details close>
-<summary><strong><em>Zhu et al., "Starnet: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8967811>paper</a> <a href=https://arxiv.org/pdf/1906.01797.pdf>arxiv</a></summary>
+<summary><strong><em>Zhu et al., "StarNet: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8967811>paper</a> <a href=https://arxiv.org/pdf/1906.01797.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8088,7 +8086,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Zhu_2019_IROS,
     author = "Zhu, Yanliang and Qian, Deheng and Ren, Dongchun and Xia, Huaxia",
     booktitle = "IROS",
-    title = "Starnet: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology",
+    title = "{StarNet}: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology",
     year = "2019"
 }
 </pre>
@@ -8099,7 +8097,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Chai_2019_CORL/>
 <details close>
-<summary><strong><em>Chai et al., "Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction", CoRL, 2019.</em></strong> <a href=http://proceedings.mlr.press/v100/chai20a/chai20a.pdf>paper</a> <a href=https://arxiv.org/pdf/1910.05449.pdf>arxiv</a></summary>
+<summary><strong><em>Chai et al., "MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction", CoRL, 2019.</em></strong> <a href=http://proceedings.mlr.press/v100/chai20a/chai20a.pdf>paper</a> <a href=https://arxiv.org/pdf/1910.05449.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8118,7 +8116,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Chai_2019_CORL,
     author = "Chai, Yuning and Sapp, Benjamin and Bansal, Mayank and Anguelov, Dragomir",
-    title = "Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction",
+    title = "{MultiPath}: Multiple Probabilistic Anchor Trajectory Hypotheses For Behavior Prediction",
     booktitle = "CoRL",
     year = "2019"
 }
@@ -8269,7 +8267,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @Article{Grigorescu_2019_RAL,
     author = "Grigorescu, S. M. and Trasnea, B. and Marina, L. and Vasilcoi, A. and Cocias, T.",
     journal = "RAL",
-    title = "NeuroTrajectory: A Neuroevolutionary Approach to Local State Trajectory Learning for Autonomous Vehicles",
+    title = "{NeuroTrajectory}: A Neuroevolutionary Approach to Local State Trajectory Learning for Autonomous Vehicles",
     year = "2019",
     volume = "4",
     number = "4",
@@ -8338,7 +8336,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Gupta_2018_CVPR/>
 <details close>
-<summary><strong><em>Gupta et al., "Social Gan: Socially Acceptable Trajectories With Generative Adversarial Networks", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.10892.pdf>arxiv</a> <a href=https://github.com/agrimgupta92/sgan>code</a></summary>
+<summary><strong><em>Gupta et al., "Social GAN: Socially Acceptable Trajectories With Generative Adversarial Networks", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.10892.pdf>arxiv</a> <a href=https://github.com/agrimgupta92/sgan>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8355,7 +8353,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Gupta_2018_CVPR,
     author = "Gupta, Agrim and Johnson, Justin and Fei-Fei, Li and Savarese, Silvio and Alahi, Alexandre",
-    title = "Social Gan: Socially Acceptable Trajectories With Generative Adversarial Networks",
+    title = "Social {GAN}: Socially Acceptable Trajectories With Generative Adversarial Networks",
     booktitle = "CVPR",
     year = "2018"
 }
@@ -8367,7 +8365,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Hasan_2018_CVPR/>
 <details close>
-<summary><strong><em>Hasan et al., "Mx-Lstm: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Hasan_MX-LSTM_Mixing_Tracklets_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1805.00652.pdf>arxiv</a></summary>
+<summary><strong><em>Hasan et al., "MX-LSTM: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Hasan_MX-LSTM_Mixing_Tracklets_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1805.00652.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8384,7 +8382,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Hasan_2018_CVPR,
     author = "Hasan, Irtiza and Setti, Francesco and Tsesmelis, Theodore and Del Bue, Alessio and Galasso, Fabio and Cristani, Marco",
-    title = "Mx-Lstm: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses",
+    title = "{MX-LSTM}: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses",
     booktitle = "CVPR",
     year = "2018"
 }
@@ -8529,7 +8527,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Rhinehart_2018_ECCV,
     author = "Rhinehart, Nicholas and Kitani, Kris M. and Vernaza, Paul",
-    title = "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting",
+    title = "{R2P2}: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting",
     booktitle = "ECCV",
     year = "2018"
 }
@@ -8541,7 +8539,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Fernando_2018_ACCV/>
 <details close>
-<summary><strong><em>Fernando et al., "Gd-Gan: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds", ACCV, 2019.</em></strong> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_20>paper</a> <a href=https://arxiv.org/pdf/1812.07667.pdf>arxiv</a></summary>
+<summary><strong><em>Fernando et al., "GD-GAN: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds", ACCV, 2019.</em></strong> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_20>paper</a> <a href=https://arxiv.org/pdf/1812.07667.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8559,7 +8557,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Fernando_2018_ACCV,
     author = "Fernando, Tharindu and Denman, Simon and Sridharan, Sridha and Fookes, Clinton",
     editor = "Jawahar, C. V. and Li, Hongdong and Mori, Greg and Schindler, Konrad",
-    title = "Gd-Gan: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds",
+    title = "{GD-GAN}: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds",
     booktitle = "ACCV",
     year = "2019"
 }
@@ -8729,7 +8727,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Sun_2018_ICRA,
     author = "Sun, L. and Yan, Z. and Mellado, S. M. and Hanheide, M. and Duckett, T.",
     booktitle = "ICRA",
-    title = "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data",
+    title = "{3Dof} Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data",
     year = "2018"
 }
 </pre>
@@ -8769,7 +8767,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Ivanovic_2018_IROS/>
 <details close>
-<summary><strong><em>Ivanovic et al., "Generative modeling of multimodal multi-human behavior", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8594393>paper</a> <a href=https://arxiv.org/pdf/1803.02015.pdf>arxiv</a></summary>
+<summary><strong><em>Ivanovic et al., "Generative Modeling of Multimodal Multi-human Behavior", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8594393>paper</a> <a href=https://arxiv.org/pdf/1803.02015.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8784,7 +8782,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Ivanovic_2018_IROS,
     author = "Ivanovic, Boris and Schmerling, Edward and Leung, Karen and Pavone, Marco",
-    title = "Generative modeling of multimodal multi-human behavior",
+    title = "Generative Modeling of Multimodal Multi-human Behavior",
     booktitle = "IROS",
     year = "2018"
 }
@@ -8883,7 +8881,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Fisac_2018_RSS/>
 <details close>
-<summary><strong><em>Fisac et al., "Probabilistically safe robot planning with confidence-based human predictions", RSS, 2018.</em></strong> <a href=http://www.roboticsproceedings.org/rss14/p69.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.00109.pdf%3E>arxiv</a></summary>
+<summary><strong><em>Fisac et al., "Probabilistically Safe Robot Planning with Confidence-based Human Predictions", RSS, 2018.</em></strong> <a href=http://www.roboticsproceedings.org/rss14/p69.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.00109.pdf%3E>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8899,7 +8897,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Fisac_2018_RSS,
     author = "Fisac, Jaime F and Bajcsy, Andrea and Herbert, Sylvia L and Fridovich-Keil, David and Wang, Steven and Tomlin, Claire J and Dragan, Anca D",
-    title = "Probabilistically safe robot planning with confidence-based human predictions",
+    title = "Probabilistically Safe Robot Planning with Confidence-based Human Predictions",
     booktitle = "RSS",
     year = "2018"
 }
@@ -8911,7 +8909,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Casas_2018_CORL/>
 <details close>
-<summary><strong><em>Casas et al., "Intentnet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018.</em></strong> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>
+<summary><strong><em>Casas et al., "IntentNet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018.</em></strong> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8928,7 +8926,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Casas_2018_CORL,
     author = "Casas, Sergio and Luo, Wenjie and Urtasun, Raquel",
-    title = "Intentnet: Learning To Predict Intention From Raw Sensor Data",
+    title = "{IntentNet}: Learning To Predict Intention From Raw Sensor Data",
     booktitle = "CORL",
     year = "2018"
 }
@@ -8969,7 +8967,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Hasan_2018_WACV/>
 <details close>
-<summary><strong><em>Hasan et al., ""Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention", WACV, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8354238>paper</a></summary>
+<summary><strong><em>Hasan et al., "Seeing Is Believing: Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention", WACV, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8354238>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8988,7 +8986,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Hasan_2018_WACV,
     author = "Hasan, I. and Setti, F. and Tsesmelis, T. and Del Bue, A. and Cristani, M. and Galasso, F.",
     booktitle = "WACV",
-    title = "Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention,
+    title = "{Seeing Is Believing}: Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention",
     year = "2018"
 }
 </pre>
@@ -8999,7 +8997,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Xue_2018_WACV/>
 <details close>
-<summary><strong><em>Xue et al., "Ss-Lstm: A Hierarchical Lstm Model For Pedestrian Trajectory Prediction", WACV, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8354239>paper</a></summary>
+<summary><strong><em>Xue et al., "SS-LSTM: A Hierarchical LSTM Model For Pedestrian Trajectory Prediction", WACV, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8354239>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -9017,7 +9015,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Xue_2018_WACV,
     author = "Xue, H. and Huynh, D. Q. and Reynolds, M.",
     booktitle = "WACV",
-    title = "Ss-Lstm: A Hierarchical Lstm Model For Pedestrian Trajectory Prediction",
+    title = "{SS-LSTM}: A Hierarchical {LSTM} Model For Pedestrian Trajectory Prediction",
     year = "2018"
 }
 </pre>
@@ -9055,7 +9053,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Lee_2017_CVPR/>
 <details close>
-<summary><strong><em>Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.04394.pdf>arxiv</a> <a href=https://github.com/yadrimz/DESIRE>code</a></summary>
+<summary><strong><em>Lee et al., "DESIRE: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.04394.pdf>arxiv</a> <a href=https://github.com/yadrimz/DESIRE>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -9074,7 +9072,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Lee_2017_CVPR,
     author = "Lee, Namhoon and Choi, Wongun and Vernaza, Paul and Choy, Christopher B. and Torr, Philip H. S. and Chandraker, Manmohan",
-    title = "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
+    title = "{DESIRE}: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
     booktitle = "CVPR",
     year = "2017"
 }
@@ -9115,7 +9113,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Solaimanpour_2017_ICRA/>
 <details close>
-<summary><strong><em>Solaimanpour et al., "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings", ICRA, 2017.</em></strong> <a href=https://ieeexplore.ieee.org/document/7989097>paper</a></summary>
+<summary><strong><em>Solaimanpour et al., "A Layered HMM For Predicting Motion Of A Leader In Multi-Robot Settings", ICRA, 2017.</em></strong> <a href=https://ieeexplore.ieee.org/document/7989097>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -9134,7 +9132,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Solaimanpour_2017_ICRA,
     author = "Solaimanpour, S. and Doshi, P.",
     booktitle = "ICRA",
-    title = "A Layered Hmm For Predicting Motion Of A Leader In Multi-Robot Settings",
+    title = "A Layered {HMM} For Predicting Motion Of A Leader In Multi-Robot Settings",
     year = "2017"
 }
 </pre>
@@ -9202,7 +9200,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 
 <a name=Alahi_2016_CVPR/>
 <details close>
-<summary><strong><em>Alahi et al., "Social Lstm: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>paper</a> <a href=https://github.com/quancore/social-lstm>code</a></summary>
+<summary><strong><em>Alahi et al., "Social LSTM: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>paper</a> <a href=https://github.com/quancore/social-lstm>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -9220,7 +9218,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 <pre>
 @InProceedings{Alahi_2016_CVPR,
     author = "Alahi, Alexandre and Goel, Kratarth and Ramanathan, Vignesh and Robicquet, Alexandre and Fei-Fei, Li and Savarese, Silvio",
-    title = "Social Lstm: Human Trajectory Prediction In Crowded Spaces",
+    title = "Social {LSTM}: Human Trajectory Prediction In Crowded Spaces",
     booktitle = "CVPR",
     year = "2016"
 }
@@ -9480,7 +9478,7 @@ Below is the list of Trajectory prediction papers sorted chronologically and acc
 @InProceedings{Lee_2016_WACV,
     author = "Lee, N. and Kitani, K. M.",
     booktitle = "WACV",
-    title = "Predicting Wide Receiver Trajectories In American Football",
+    title = "Predicting Wide Receiver Trajectories In {A}merican Football",
     year = "2016"
 }
 </pre>

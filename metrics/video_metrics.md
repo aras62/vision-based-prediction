@@ -34,7 +34,7 @@ ___
 <pre>
 @InProceedings{Gao_2022_CVPR,
     author = "Gao, Zhangyang and Tan, Cheng and Wu, Lirong and Li, Stan Z.",
-    title = "SimVP: Simpler Yet Better Video Prediction",
+    title = "{SimVP}: Simpler Yet Better Video Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -148,7 +148,7 @@ ___
 <pre>
 @InProceedings{Pourheydari_2022_BMVC,
     author = "Pourheydari, Mohammad Saber and Bahrami, Emad and Fayyaz, Mohsen and Francesca, Gianpiero and Noroozi, Mehdi and Gall, Jürgen",
-    title = "TaylorSwiftNet: Taylor Driven Temporal Modeling for Swift Future Frame Prediction",
+    title = "{TaylorSwiftNet}: Taylor Driven Temporal Modeling for Swift Future Frame Prediction",
     booktitle = "BMVC",
     year = "2022"
 }
@@ -179,7 +179,7 @@ ___
 <pre>
 @InProceedings{Villar-Corrales_2022_BMVC,
     author = "Villar-Corrales, Angel and Karapetyan, Ani and Boltres, Andreas and Behnke, Sven",
-    title = "MSPred: Video Prediction at Multiple Spatio-Temporal Scales with Hierarchical Recurrent Networks",
+    title = "{MSPred}: Video Prediction at Multiple Spatio-Temporal Scales with Hierarchical Recurrent Networks",
     booktitle = "BMVC",
     year = "2022"
 }
@@ -238,7 +238,7 @@ ___
 <pre>
 @InProceedings{Ben_Zikri_2022_ACCV,
     author = "Ben Zikri, Nir and Sharf, Andrei",
-    title = "PhyLoNet: Physically-Constrained Long Term Video Prediction",
+    title = "{PhyLoNet}: Physically-Constrained Long Term Video Prediction",
     booktitle = "ACCV",
     year = "2022"
 }
@@ -272,7 +272,7 @@ ___
 @InProceedings{Chang_2021_NeurIPS,
     author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Ye, Yan and Xinguang, Xiang and Gao, Wen",
     booktitle = "NeurIPS",
-    title = "MAU: A Motion-Aware Unit for Video Prediction and Beyond",
+    title = "{MAU}: A Motion-Aware Unit for Video Prediction and Beyond",
     year = "2021"
 }
 </pre>
@@ -421,7 +421,7 @@ ___
 <pre>
 @InProceedings{Wu_2021_CVPR_2,
     author = "Wu, Haixu and Yao, Zhiyu and Wang, Jianmin and Long, Mingsheng",
-    title = "MotionRNN: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
+    title = "{MotionRNN}: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -633,7 +633,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Franceschi et al., "Stochastic latent residual video prediction", ICML, 2020.</em></strong> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
+<summary><strong><em>Franceschi et al., "Stochastic Latent Residual Video Prediction", ICML, 2020.</em></strong> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -653,8 +653,8 @@ ___
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Franceschi_2020_ICML,
-    author = Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick,
-    title = "Stochastic latent residual video prediction",
+    author = {Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick},
+    title = "Stochastic Latent Residual Video Prediction",
     booktitle = "ICML",
     year = "2020"
 }
@@ -749,7 +749,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
+<summary><strong><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle GAN", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -770,7 +770,7 @@ ___
 <pre>
 @InProceedings{Kwon_2019_CVPR,
     author = "Kwon, Yong-Hoon and Park, Min-Gyu",
-    title = "Predicting Future Frames Using Retrospective Cycle Gan",
+    title = "Predicting Future Frames Using Retrospective Cycle {GAN}",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -780,7 +780,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.12165.pdf>arxiv</a></summary>
+<summary><strong><em>Castrejon et al., "Improved Conditional VRNNs For Video Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.12165.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -799,7 +799,7 @@ ___
 <pre>
 @InProceedings{Castrejon_2019_ICCV,
     author = "Castrejon, Lluis and Ballas, Nicolas and Courville, Aaron",
-    title = "Improved Conditional Vrnns For Video Prediction",
+    title = "Improved Conditional {VRNNs} For Video Prediction",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -836,7 +836,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Ho et al., "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
+<summary><strong><em>Ho et al., "SME-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -855,7 +855,7 @@ ___
 <pre>
 @InProceedings{Ho_2019_ICCV,
     author = "Ho, Yung-Han and Cho, Chuan-Yuan and Peng, Wen-Hsiao and Jin, Guo-Lun",
-    title = "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning",
+    title = "{SME-Net}: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -1144,7 +1144,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Reda et al., "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1811.00684.pdf>arxiv</a></summary>
+<summary><strong><em>Reda et al., "SDC-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1811.00684.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1163,7 +1163,7 @@ ___
 <pre>
 @InProceedings{Reda_2018_ECCV,
     author = "Reda, Fitsum A. and Liu, Guilin and Shih, Kevin J. and Kirby, Robert and Barker, Jon and Tarjan, David and Tao, Andrew and Catanzaro, Bryan",
-    title = "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution",
+    title = "{SDC-Net}: Video Prediction Using Spatially-Displaced Convolution",
     booktitle = "ECCV",
     year = "2018"
 }
@@ -1260,7 +1260,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Jin et al., "Varnet: Exploring Variations For Unsupervised Video Prediction", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8594264>paper</a> <a href=https://github.com/jinbeibei/VarNet>code</a></summary>
+<summary><strong><em>Jin et al., "VarNet: Exploring Variations For Unsupervised Video Prediction", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8594264>paper</a> <a href=https://github.com/jinbeibei/VarNet>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1278,7 +1278,7 @@ ___
 @InProceedings{Jin_2018_IROS,
     author = "Jin, B. and Hu, Y. and Zeng, Y. and Tang, Q. and Liu, S. and Ye, J.",
     booktitle = "IROS",
-    title = "Varnet: Exploring Variations For Unsupervised Video Prediction",
+    title = "{VarNet}: Exploring Variations For Unsupervised Video Prediction",
     year = "2018"
 }
 </pre>
@@ -1287,7 +1287,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a></summary>
+<summary><strong><em>Liang et al., "Dual Motion GAN For Future-Flow Embedded Video Prediction", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1307,7 +1307,7 @@ ___
 <pre>
 @InProceedings{Liang_2017_ICCV,
     author = "Liang, Xiaodan and Lee, Lisa and Dai, Wei and Xing, Eric P.",
-    title = "Dual Motion Gan For Future-Flow Embedded Video Prediction",
+    title = "Dual Motion {GAN} For Future-Flow Embedded Video Prediction",
     booktitle = "ICCV",
     year = "2017"
 }
@@ -1345,7 +1345,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Wang et al., "Predrnn: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal Lstms", NeurIPS, 2017.</em></strong> <a href=https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf>paper</a> <a href=https://github.com/ujjax/pred-rnn>code</a></summary>
+<summary><strong><em>Wang et al., "PredRNN: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal LSTMs", NeurIPS, 2017.</em></strong> <a href=https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf>paper</a> <a href=https://github.com/ujjax/pred-rnn>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1363,7 +1363,7 @@ ___
 <pre>
 @InProceedings{Wang_2017_NeurIPS,
     author = "Wang, Yunbo and Long, Mingsheng and Wang, Jianmin and Gao, Zhifeng and Yu, Philip S",
-    title = "Predrnn: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal Lstms",
+    title = "{PredRNN}: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal {LSTMs}",
     booktitle = "NeurIPS",
     year = "2017"
 }
@@ -1426,7 +1426,7 @@ ___
 <pre>
 @InProceedings{Chang_2022_CVPR,
     author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Gao, Wen",
-    title = "STRPM: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction",
+    title = "{STRPM}: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -1458,7 +1458,7 @@ ___
 <pre>
 @InProceedings{Gao_2022_CVPR,
     author = "Gao, Zhangyang and Tan, Cheng and Wu, Lirong and Li, Stan Z.",
-    title = "SimVP: Simpler Yet Better Video Prediction",
+    title = "{SimVP}: Simpler Yet Better Video Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -1518,7 +1518,7 @@ ___
 <pre>
 @InProceedings{Villar-Corrales_2022_BMVC,
     author = "Villar-Corrales, Angel and Karapetyan, Ani and Boltres, Andreas and Behnke, Sven",
-    title = "MSPred: Video Prediction at Multiple Spatio-Temporal Scales with Hierarchical Recurrent Networks",
+    title = "{MSPred}: Video Prediction at Multiple Spatio-Temporal Scales with Hierarchical Recurrent Networks",
     booktitle = "BMVC",
     year = "2022"
 }
@@ -1582,7 +1582,7 @@ ___
 @InProceedings{Chang_2021_NeurIPS,
     author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Ye, Yan and Xinguang, Xiang and Gao, Wen",
     booktitle = "NeurIPS",
-    title = "MAU: A Motion-Aware Unit for Video Prediction and Beyond",
+    title = "{MAU}: A Motion-Aware Unit for Video Prediction and Beyond",
     year = "2021"
 }
 </pre>
@@ -1828,7 +1828,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Franceschi et al., "Stochastic latent residual video prediction", ICML, 2020.</em></strong> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
+<summary><strong><em>Franceschi et al., "Stochastic Latent Residual Video Prediction", ICML, 2020.</em></strong> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1848,8 +1848,8 @@ ___
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Franceschi_2020_ICML,
-    author = Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick,
-    title = "Stochastic latent residual video prediction",
+    author = {Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick},
+    title = "Stochastic Latent Residual Video Prediction",
     booktitle = "ICML",
     year = "2020"
 }
@@ -1915,7 +1915,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
+<summary><strong><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle GAN", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1936,7 +1936,7 @@ ___
 <pre>
 @InProceedings{Kwon_2019_CVPR,
     author = "Kwon, Yong-Hoon and Park, Min-Gyu",
-    title = "Predicting Future Frames Using Retrospective Cycle Gan",
+    title = "Predicting Future Frames Using Retrospective Cycle {GAN}",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -1973,7 +1973,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Ho et al., "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
+<summary><strong><em>Ho et al., "SME-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1992,7 +1992,7 @@ ___
 <pre>
 @InProceedings{Ho_2019_ICCV,
     author = "Ho, Yung-Han and Cho, Chuan-Yuan and Peng, Wen-Hsiao and Jin, Guo-Lun",
-    title = "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning",
+    title = "{SME-Net}: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -2281,7 +2281,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Reda et al., "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1811.00684.pdf>arxiv</a></summary>
+<summary><strong><em>Reda et al., "SDC-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1811.00684.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2300,7 +2300,7 @@ ___
 <pre>
 @InProceedings{Reda_2018_ECCV,
     author = "Reda, Fitsum A. and Liu, Guilin and Shih, Kevin J. and Kirby, Robert and Barker, Jon and Tarjan, David and Tao, Andrew and Catanzaro, Bryan",
-    title = "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution",
+    title = "{SDC-Net}: Video Prediction Using Spatially-Displaced Convolution",
     booktitle = "ECCV",
     year = "2018"
 }
@@ -2424,7 +2424,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Jin et al., "Varnet: Exploring Variations For Unsupervised Video Prediction", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8594264>paper</a> <a href=https://github.com/jinbeibei/VarNet>code</a></summary>
+<summary><strong><em>Jin et al., "VarNet: Exploring Variations For Unsupervised Video Prediction", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8594264>paper</a> <a href=https://github.com/jinbeibei/VarNet>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2442,7 +2442,7 @@ ___
 @InProceedings{Jin_2018_IROS,
     author = "Jin, B. and Hu, Y. and Zeng, Y. and Tang, Q. and Liu, S. and Ye, J.",
     booktitle = "IROS",
-    title = "Varnet: Exploring Variations For Unsupervised Video Prediction",
+    title = "{VarNet}: Exploring Variations For Unsupervised Video Prediction",
     year = "2018"
 }
 </pre>
@@ -2509,7 +2509,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a></summary>
+<summary><strong><em>Liang et al., "Dual Motion GAN For Future-Flow Embedded Video Prediction", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2529,7 +2529,7 @@ ___
 <pre>
 @InProceedings{Liang_2017_ICCV,
     author = "Liang, Xiaodan and Lee, Lisa and Dai, Wei and Xing, Eric P.",
-    title = "Dual Motion Gan For Future-Flow Embedded Video Prediction",
+    title = "Dual Motion {GAN} For Future-Flow Embedded Video Prediction",
     booktitle = "ICCV",
     year = "2017"
 }
@@ -2567,7 +2567,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Wang et al., "Predrnn: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal Lstms", NeurIPS, 2017.</em></strong> <a href=https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf>paper</a> <a href=https://github.com/ujjax/pred-rnn>code</a></summary>
+<summary><strong><em>Wang et al., "PredRNN: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal LSTMs", NeurIPS, 2017.</em></strong> <a href=https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf>paper</a> <a href=https://github.com/ujjax/pred-rnn>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2585,7 +2585,7 @@ ___
 <pre>
 @InProceedings{Wang_2017_NeurIPS,
     author = "Wang, Yunbo and Long, Mingsheng and Wang, Jianmin and Gao, Zhifeng and Yu, Philip S",
-    title = "Predrnn: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal Lstms",
+    title = "{PredRNN}: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal {LSTMs}",
     booktitle = "NeurIPS",
     year = "2017"
 }
@@ -2679,7 +2679,7 @@ ___
 <pre>
 @InProceedings{Gao_2022_CVPR,
     author = "Gao, Zhangyang and Tan, Cheng and Wu, Lirong and Li, Stan Z.",
-    title = "SimVP: Simpler Yet Better Video Prediction",
+    title = "{SimVP}: Simpler Yet Better Video Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -2738,7 +2738,7 @@ ___
 <pre>
 @InProceedings{Pourheydari_2022_BMVC,
     author = "Pourheydari, Mohammad Saber and Bahrami, Emad and Fayyaz, Mohsen and Francesca, Gianpiero and Noroozi, Mehdi and Gall, Jürgen",
-    title = "TaylorSwiftNet: Taylor Driven Temporal Modeling for Swift Future Frame Prediction",
+    title = "{TaylorSwiftNet}: Taylor Driven Temporal Modeling for Swift Future Frame Prediction",
     booktitle = "BMVC",
     year = "2022"
 }
@@ -2769,7 +2769,7 @@ ___
 <pre>
 @InProceedings{Villar-Corrales_2022_BMVC,
     author = "Villar-Corrales, Angel and Karapetyan, Ani and Boltres, Andreas and Behnke, Sven",
-    title = "MSPred: Video Prediction at Multiple Spatio-Temporal Scales with Hierarchical Recurrent Networks",
+    title = "{MSPred}: Video Prediction at Multiple Spatio-Temporal Scales with Hierarchical Recurrent Networks",
     booktitle = "BMVC",
     year = "2022"
 }
@@ -2828,7 +2828,7 @@ ___
 <pre>
 @InProceedings{Ben_Zikri_2022_ACCV,
     author = "Ben Zikri, Nir and Sharf, Andrei",
-    title = "PhyLoNet: Physically-Constrained Long Term Video Prediction",
+    title = "{PhyLoNet}: Physically-Constrained Long Term Video Prediction",
     booktitle = "ACCV",
     year = "2022"
 }
@@ -2862,7 +2862,7 @@ ___
 @InProceedings{Chang_2021_NeurIPS,
     author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Ye, Yan and Xinguang, Xiang and Gao, Wen",
     booktitle = "NeurIPS",
-    title = "MAU: A Motion-Aware Unit for Video Prediction and Beyond",
+    title = "{MAU}: A Motion-Aware Unit for Video Prediction and Beyond",
     year = "2021"
 }
 </pre>
@@ -2923,7 +2923,7 @@ ___
 <pre>
 @InProceedings{Wu_2021_CVPR_2,
     author = "Wu, Haixu and Yao, Zhiyu and Wang, Jianmin and Long, Mingsheng",
-    title = "MotionRNN: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
+    title = "{MotionRNN}: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -2976,7 +2976,7 @@ ___
 @InProceedings{Lange_2021_IROS,
     author = "Lange, Bernard and Itkina, Masha and Kochenderfer, Mykel J.",
     booktitle = "IROS",
-    title = "Attention Augmented ConvLSTM for Environment Prediction",
+    title = "Attention Augmented {ConvLSTM} for Environment Prediction",
     year = "2021"
 }
 </pre>
@@ -3071,7 +3071,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
+<summary><strong><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle GAN", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3092,7 +3092,7 @@ ___
 <pre>
 @InProceedings{Kwon_2019_CVPR,
     author = "Kwon, Yong-Hoon and Park, Min-Gyu",
-    title = "Predicting Future Frames Using Retrospective Cycle Gan",
+    title = "Predicting Future Frames Using Retrospective Cycle {GAN}",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -3102,7 +3102,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Ho et al., "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
+<summary><strong><em>Ho et al., "SME-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3121,7 +3121,7 @@ ___
 <pre>
 @InProceedings{Ho_2019_ICCV,
     author = "Ho, Yung-Han and Cho, Chuan-Yuan and Peng, Wen-Hsiao and Jin, Guo-Lun",
-    title = "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning",
+    title = "{SME-Net}: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -3218,7 +3218,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Reda et al., "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1811.00684.pdf>arxiv</a></summary>
+<summary><strong><em>Reda et al., "SDC-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1811.00684.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3237,7 +3237,7 @@ ___
 <pre>
 @InProceedings{Reda_2018_ECCV,
     author = "Reda, Fitsum A. and Liu, Guilin and Shih, Kevin J. and Kirby, Robert and Barker, Jon and Tarjan, David and Tao, Andrew and Catanzaro, Bryan",
-    title = "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution",
+    title = "{SDC-Net}: Video Prediction Using Spatially-Displaced Convolution",
     booktitle = "ECCV",
     year = "2018"
 }
@@ -3356,7 +3356,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a></summary>
+<summary><strong><em>Liang et al., "Dual Motion GAN For Future-Flow Embedded Video Prediction", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3376,7 +3376,7 @@ ___
 <pre>
 @InProceedings{Liang_2017_ICCV,
     author = "Liang, Xiaodan and Lee, Lisa and Dai, Wei and Xing, Eric P.",
-    title = "Dual Motion Gan For Future-Flow Embedded Video Prediction",
+    title = "Dual Motion {GAN} For Future-Flow Embedded Video Prediction",
     booktitle = "ICCV",
     year = "2017"
 }
@@ -3386,7 +3386,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Wang et al., "Predrnn: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal Lstms", NeurIPS, 2017.</em></strong> <a href=https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf>paper</a> <a href=https://github.com/ujjax/pred-rnn>code</a></summary>
+<summary><strong><em>Wang et al., "PredRNN: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal LSTMs", NeurIPS, 2017.</em></strong> <a href=https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf>paper</a> <a href=https://github.com/ujjax/pred-rnn>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3404,7 +3404,7 @@ ___
 <pre>
 @InProceedings{Wang_2017_NeurIPS,
     author = "Wang, Yunbo and Long, Mingsheng and Wang, Jianmin and Gao, Zhifeng and Yu, Philip S",
-    title = "Predrnn: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal Lstms",
+    title = "{PredRNN}: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal {LSTMs}",
     booktitle = "NeurIPS",
     year = "2017"
 }
@@ -3466,7 +3466,7 @@ ___
 <pre>
 @InProceedings{Chang_2022_CVPR,
     author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Gao, Wen",
-    title = "STRPM: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction",
+    title = "{STRPM}: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -3581,7 +3581,7 @@ ___
 <pre>
 @InProceedings{Villar-Corrales_2022_BMVC,
     author = "Villar-Corrales, Angel and Karapetyan, Ani and Boltres, Andreas and Behnke, Sven",
-    title = "MSPred: Video Prediction at Multiple Spatio-Temporal Scales with Hierarchical Recurrent Networks",
+    title = "{MSPred}: Video Prediction at Multiple Spatio-Temporal Scales with Hierarchical Recurrent Networks",
     booktitle = "BMVC",
     year = "2022"
 }
@@ -3615,7 +3615,7 @@ ___
 @InProceedings{Chang_2021_NeurIPS,
     author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Ye, Yan and Xinguang, Xiang and Gao, Wen",
     booktitle = "NeurIPS",
-    title = "MAU: A Motion-Aware Unit for Video Prediction and Beyond",
+    title = "{MAU}: A Motion-Aware Unit for Video Prediction and Beyond",
     year = "2021"
 }
 </pre>
@@ -3914,7 +3914,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Franceschi et al., "Stochastic latent residual video prediction", ICML, 2020.</em></strong> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
+<summary><strong><em>Franceschi et al., "Stochastic Latent Residual Video Prediction", ICML, 2020.</em></strong> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3934,8 +3934,8 @@ ___
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Franceschi_2020_ICML,
-    author = Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick,
-    title = "Stochastic latent residual video prediction",
+    author = {Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick},
+    title = "Stochastic Latent Residual Video Prediction",
     booktitle = "ICML",
     year = "2020"
 }
@@ -3945,7 +3945,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.12165.pdf>arxiv</a></summary>
+<summary><strong><em>Castrejon et al., "Improved Conditional VRNNs For Video Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.12165.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3964,7 +3964,7 @@ ___
 <pre>
 @InProceedings{Castrejon_2019_ICCV,
     author = "Castrejon, Lluis and Ballas, Nicolas and Courville, Aaron",
-    title = "Improved Conditional Vrnns For Video Prediction",
+    title = "Improved Conditional {VRNNs} For Video Prediction",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -4085,7 +4085,7 @@ ___
 @InProceedings{Chang_2021_NeurIPS,
     author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Ye, Yan and Xinguang, Xiang and Gao, Wen",
     booktitle = "NeurIPS",
-    title = "MAU: A Motion-Aware Unit for Video Prediction and Beyond",
+    title = "{MAU}: A Motion-Aware Unit for Video Prediction and Beyond",
     year = "2021"
 }
 </pre>
@@ -4176,7 +4176,7 @@ ___
 <pre>
 @InProceedings{Wu_2021_CVPR_2,
     author = "Wu, Haixu and Yao, Zhiyu and Wang, Jianmin and Long, Mingsheng",
-    title = "MotionRNN: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
+    title = "{MotionRNN}: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -4247,7 +4247,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Franceschi et al., "Stochastic latent residual video prediction", ICML, 2020.</em></strong> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
+<summary><strong><em>Franceschi et al., "Stochastic Latent Residual Video Prediction", ICML, 2020.</em></strong> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4267,8 +4267,8 @@ ___
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Franceschi_2020_ICML,
-    author = Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick,
-    title = "Stochastic latent residual video prediction",
+    author = {Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick},
+    title = "Stochastic Latent Residual Video Prediction",
     booktitle = "ICML",
     year = "2020"
 }
@@ -4307,7 +4307,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.12165.pdf>arxiv</a></summary>
+<summary><strong><em>Castrejon et al., "Improved Conditional VRNNs For Video Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.12165.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4326,7 +4326,7 @@ ___
 <pre>
 @InProceedings{Castrejon_2019_ICCV,
     author = "Castrejon, Lluis and Ballas, Nicolas and Courville, Aaron",
-    title = "Improved Conditional Vrnns For Video Prediction",
+    title = "Improved Conditional {VRNNs} For Video Prediction",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -4393,7 +4393,7 @@ ___
 <pre>
 @InProceedings{Gao_2022_CVPR,
     author = "Gao, Zhangyang and Tan, Cheng and Wu, Lirong and Li, Stan Z.",
-    title = "SimVP: Simpler Yet Better Video Prediction",
+    title = "{SimVP}: Simpler Yet Better Video Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -4423,7 +4423,7 @@ ___
 <pre>
 @InProceedings{Pourheydari_2022_BMVC,
     author = "Pourheydari, Mohammad Saber and Bahrami, Emad and Fayyaz, Mohsen and Francesca, Gianpiero and Noroozi, Mehdi and Gall, Jürgen",
-    title = "TaylorSwiftNet: Taylor Driven Temporal Modeling for Swift Future Frame Prediction",
+    title = "{TaylorSwiftNet}: Taylor Driven Temporal Modeling for Swift Future Frame Prediction",
     booktitle = "BMVC",
     year = "2022"
 }
@@ -4452,7 +4452,7 @@ ___
 <pre>
 @InProceedings{Ben_Zikri_2022_ACCV,
     author = "Ben Zikri, Nir and Sharf, Andrei",
-    title = "PhyLoNet: Physically-Constrained Long Term Video Prediction",
+    title = "{PhyLoNet}: Physically-Constrained Long Term Video Prediction",
     booktitle = "ACCV",
     year = "2022"
 }
@@ -4484,7 +4484,7 @@ ___
 <pre>
 @InProceedings{Wu_2021_CVPR_2,
     author = "Wu, Haixu and Yao, Zhiyu and Wang, Jianmin and Long, Mingsheng",
-    title = "MotionRNN: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
+    title = "{MotionRNN}: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -4726,7 +4726,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Reda et al., "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1811.00684.pdf>arxiv</a></summary>
+<summary><strong><em>Reda et al., "SDC-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1811.00684.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4745,7 +4745,7 @@ ___
 <pre>
 @InProceedings{Reda_2018_ECCV,
     author = "Reda, Fitsum A. and Liu, Guilin and Shih, Kevin J. and Kirby, Robert and Barker, Jon and Tarjan, David and Tao, Andrew and Catanzaro, Bryan",
-    title = "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution",
+    title = "{SDC-Net}: Video Prediction Using Spatially-Displaced Convolution",
     booktitle = "ECCV",
     year = "2018"
 }
@@ -4780,7 +4780,7 @@ ___
 @InProceedings{Lange_2021_IROS,
     author = "Lange, Bernard and Itkina, Masha and Kochenderfer, Mykel J.",
     booktitle = "IROS",
-    title = "Attention Augmented ConvLSTM for Environment Prediction",
+    title = "Attention Augmented {ConvLSTM} for Environment Prediction",
     year = "2021"
 }
 </pre>
@@ -4846,7 +4846,7 @@ ___
 <pre>
 @InProceedings{Wu_2021_CVPR_2,
     author = "Wu, Haixu and Yao, Zhiyu and Wang, Jianmin and Long, Mingsheng",
-    title = "MotionRNN: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
+    title = "{MotionRNN}: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -4995,7 +4995,7 @@ ___
 <pre>
 @InProceedings{Wu_2021_CVPR_2,
     author = "Wu, Haixu and Yao, Zhiyu and Wang, Jianmin and Long, Mingsheng",
-    title = "MotionRNN: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
+    title = "{MotionRNN}: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
     booktitle = "CVPR",
     year = "2021"
 }

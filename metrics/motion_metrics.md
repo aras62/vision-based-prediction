@@ -55,7 +55,7 @@ ___
 <pre>
 @InProceedings{Diller_2022_CVPR,
     author = "Diller, Christian and Funkhouser, Thomas and Dai, Angela",
-    title = "Forecasting Characteristic 3D Poses of Human Actions",
+    title = "Forecasting Characteristic {3D} Poses of Human Actions",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -111,7 +111,7 @@ ___
 <pre>
 @InProceedings{Zhong_2022_CVPR,
     author = "Zhong, Chongyang and Hu, Lei and Zhang, Zihao and Ye, Yongjing and Xia, Shihong",
-    title = "Spatio-Temporal Gating-Adjacency GCN for Human Motion Prediction",
+    title = "Spatio-Temporal Gating-Adjacency {GCN} for Human Motion Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -139,7 +139,7 @@ ___
 <pre>
 @InProceedings{Li_2022_ECCV,
     author = "Li, Maosen and Chen, Siheng and Zhang, Zijing and Xie, Lingxi and Tian, Qi and Zhang, Ya",
-    title = "Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction",
+    title = "Skeleton-Parted Graph Scattering Networks for {3D} Human Motion Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -218,7 +218,7 @@ ___
 <pre>
 @InProceedings{Zhang_2022_ECCV_2,
     author = "Zheng, Yang and Yang, Yanchao and Mo, Kaichun and Li, Jiaman and Yu, Tao and Liu, Yebin and Liu, Karen and Guibas, Leonidas J.",
-    title = "GIMO: Gaze-Informed Human Motion Prediction in Context",
+    title = "{GIMO}: Gaze-Informed Human Motion Prediction in Context",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -272,7 +272,7 @@ ___
 @InProceedings{Sun_2021_NeurIPS,
     author = "Sun, Jiangxin and Lin, Zihang and Han, Xintong and Hu, Jian-Fang and Xu, Jia and Zheng, Wei-Shi",
     booktitle = "NeurIPS",
-    title = "Action-guided 3D Human Motion Prediction",
+    title = "Action-guided {3D} Human Motion Prediction",
     year = "2021"
 }
 </pre>
@@ -300,7 +300,7 @@ ___
 @InProceedings{Wang_2021_NeurIPS,
     author = "Wang, Jiashun and Xu, Huazhe and Narasimhan, Medhini and Wang, Xiaolong",
     booktitle = "NeurIPS",
-    title = "Multi-Person 3D Motion Prediction with Multi-Range Transformers",
+    title = "Multi-Person {3D} Motion Prediction with Multi-Range Transformers",
     year = "2021"
 }
 </pre>
@@ -326,7 +326,7 @@ ___
 <pre>
 @InProceedings{Cui_2021_CVPR,
     author = "Cui, Qiongjie and Sun, Huaijiang",
-    title = "Towards Accurate 3D Human Motion Prediction From Incomplete Observations",
+    title = "Towards Accurate {3D} Human Motion Prediction From Incomplete Observations",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -352,7 +352,7 @@ ___
 <pre>
 @InProceedings{Dang_2021_ICCV,
     author = "Dang, Lingwei and Nie, Yongwei and Long, Chengjiang and Zhang, Qing and Li, Guiqing",
-    title = "MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction",
+    title = "{MSR-GCN}: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -470,7 +470,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Cai et al., "Learning progressive joint propagation for human motion prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520222.pdf>paper</a></summary>
+<summary><strong><em>Cai et al., "Learning Progressive Joint Propagation for Human Motion Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520222.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -487,7 +487,7 @@ ___
 <pre>
 @InProceedings{Cai_2020_ECCV,
     author = "Cai, Yujun and Huang, Lin and Wang, Yiwei and Cham, Tat-Jen and Cai, Jianfei and Yuan, Junsong and Liu, Jun and Yang, Xu and Zhu, Yiheng and Shen, Xiaohui and Liu, Ding and Liu, Jing and Thalmann, Nadia M",
-    title = "Learning progressive joint propagation for human motion prediction",
+    title = "Learning Progressive Joint Propagation for Human Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -625,7 +625,7 @@ ___
 <pre>
 @InProceedings{Zhang_2019_ICCV,
     author = "Zhang, Jason Y. and Felsen, Panna and Kanazawa, Angjoo and Malik, Jitendra",
-    title = "Predicting 3D Human Dynamics From Video",
+    title = "Predicting {3D} Human Dynamics From Video",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -652,7 +652,7 @@ ___
 @Article{Du_2019_RAL,
     author = "Du, X. and Vasudevan, R. and Johnson-Roberson, M.",
     journal = "RAL",
-    title = "Bio-LSTM: A Biomechanically Inspired Recurrent Neural Network for 3-D Pedestrian Pose and Gait Prediction",
+    title = "{Bio-LSTM}: A Biomechanically Inspired Recurrent Neural Network for 3-D Pedestrian Pose and Gait Prediction",
     year = "2019",
     volume = "4",
     number = "2",
@@ -689,7 +689,7 @@ ___
 @InProceedings{Walters_2021_IROS,
     author = "Walters, Celyn and Hadfield, Simon",
     booktitle = "IROS",
-    title = "EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance",
+    title = "{EVReflex}: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance",
     year = "2021"
 }
 </pre>
@@ -767,7 +767,7 @@ ___
 <pre>
 @InProceedings{Li_2020_CVPR,
     author = "Li, Maosen and Chen, Siheng and Zhao, Yangheng and Zhang, Ya and Wang, Yanfeng and Tian, Qi",
-    title = "Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction",
+    title = "Dynamic Multiscale Graph Neural Networks for {3D} Skeleton Based Human Motion Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -777,7 +777,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Cai et al., "Learning progressive joint propagation for human motion prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520222.pdf>paper</a></summary>
+<summary><strong><em>Cai et al., "Learning Progressive Joint Propagation for Human Motion Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520222.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -794,7 +794,7 @@ ___
 <pre>
 @InProceedings{Cai_2020_ECCV,
     author = "Cai, Yujun and Huang, Lin and Wang, Yiwei and Cham, Tat-Jen and Cai, Jianfei and Yuan, Junsong and Liu, Jun and Yang, Xu and Zhu, Yiheng and Shen, Xiaohui and Liu, Ding and Liu, Jing and Thalmann, Nadia M",
-    title = "Learning progressive joint propagation for human motion prediction",
+    title = "Learning Progressive Joint Propagation for Human Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -1065,7 +1065,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Jain et al., "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1511.05298.pdf>arxiv</a></summary>
+<summary><strong><em>Jain et al., "Structural-RNN: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1511.05298.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1080,7 +1080,7 @@ ___
 <pre>
 @InProceedings{Jain_2016_CVPR,
     author = "Jain, Ashesh and Zamir, Amir R. and Savarese, Silvio and Saxena, Ashutosh",
-    title = "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs",
+    title = "{Structural-RNN}: Deep Learning On Spatio-Temporal Graphs",
     booktitle = "CVPR",
     year = "2016"
 }
@@ -1139,7 +1139,7 @@ ___
 <pre>
 @InProceedings{Maeda_2022_CVPR,
     author = "Maeda, Takahiro and Ukita, Norimichi",
-    title = "MotionAug: Augmentation With Physical Correction for Human Motion Prediction",
+    title = "{MotionAug}: Augmentation With Physical Correction for Human Motion Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -1166,7 +1166,7 @@ ___
 <pre>
 @InProceedings{Park_2020_RSS,
     AUTHOR = "Park, Jaesung and Manocha, Dinesh",
-    TITLE = "HMPO: Human Motion Prediction in Occluded Environments for Safe Motion Planning}",
+    TITLE = "{HMPO}: Human Motion Prediction in Occluded Environments for Safe Motion Planning",
     BOOKTITLE = "RSS",
     YEAR = "2020"
 }
@@ -1191,7 +1191,7 @@ ___
 <summary><em>Bibtex</em></summary>
 <pre>
 @Article{Callens_2020_RAL,
-    author = "Callens, T. and van der Have, T. and Rossom, S. V. and De Schutter, J. and Aertbeliën, E.",
+    author = "Callens, T. and van der Have, T. and Rossom, S. V. and Schutter, J. De and Aertbeliën, E.",
     journal = "RAL",
     title = "A Framework for Recognition and Prediction of Human Motions in Human-Robot Collaboration Using Probabilistic Motion Models",
     year = "2020",
@@ -1336,7 +1336,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Wu et al., "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A Rgb Camera", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8658594>paper</a></summary>
+<summary><strong><em>Wu et al., "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A RGB Camera", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8658594>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1355,7 +1355,7 @@ ___
 @InProceedings{Wu_2019_WACV,
     author = "Wu, E. and Koike, H.",
     booktitle = "WACV",
-    title = "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A Rgb Camera",
+    title = "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A {RGB} Camera",
     year = "2019"
 }
 </pre>
@@ -1667,7 +1667,7 @@ ___
 <pre>
 @InProceedings{Zhang_2021_CVPR,
     author = "Zhang, Yan and Black, Michael J. and Tang, Siyu",
-    title = "We Are More Than Our Joints: Predicting How 3D Bodies Move",
+    title = "We Are More Than Our Joints: Predicting How {3D} Bodies Move",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -1705,7 +1705,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Yuan et al., "Dlow: Diversifying latent flows for diverse human motion prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
+<summary><strong><em>Yuan et al., "DLow: Diversifying Latent Flows for Diverse Human Motion Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1725,7 +1725,7 @@ ___
 <pre>
 @InProceedings{Yuan_2020_ECCV,
     author = "Yuan, Ye and Kitani, Kris",
-    title = "Dlow: Diversifying latent flows for diverse human motion prediction",
+    title = "{DLow}: Diversifying Latent Flows for Diverse Human Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -1850,7 +1850,7 @@ ___
 <pre>
 @InProceedings{Zhang_2021_CVPR,
     author = "Zhang, Yan and Black, Michael J. and Tang, Siyu",
-    title = "We Are More Than Our Joints: Predicting How 3D Bodies Move",
+    title = "We Are More Than Our Joints: Predicting How {3D} Bodies Move",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -1914,7 +1914,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Yuan et al., "Dlow: Diversifying latent flows for diverse human motion prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
+<summary><strong><em>Yuan et al., "DLow: Diversifying Latent Flows for Diverse Human Motion Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1934,7 +1934,7 @@ ___
 <pre>
 @InProceedings{Yuan_2020_ECCV,
     author = "Yuan, Ye and Kitani, Kris",
-    title = "Dlow: Diversifying latent flows for diverse human motion prediction",
+    title = "{DLow}: Diversifying Latent Flows for Diverse Human Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -2027,7 +2027,7 @@ ___
 <pre>
 @InProceedings{Zhong_2022_CVPR,
     author = "Zhong, Chongyang and Hu, Lei and Zhang, Zihao and Ye, Yongjing and Xia, Shihong",
-    title = "Spatio-Temporal Gating-Adjacency GCN for Human Motion Prediction",
+    title = "Spatio-Temporal Gating-Adjacency {GCN} for Human Motion Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -2055,7 +2055,7 @@ ___
 <pre>
 @InProceedings{Li_2022_ECCV,
     author = "Li, Maosen and Chen, Siheng and Zhang, Zijing and Xie, Lingxi and Tian, Qi and Zhang, Ya",
-    title = "Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction",
+    title = "Skeleton-Parted Graph Scattering Networks for {3D} Human Motion Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -2147,7 +2147,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Zhang et al., "Non-local Graph Convolutional Network for joint Activity Recognition and Motion Prediction", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9636107>paper</a> <a href=https://arxiv.org/pdf/2108.01518.pdf>arxiv</a></summary>
+<summary><strong><em>Zhang et al., "Non-local Graph Convolutional Network for Joint Activity Recognition and Motion Prediction", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9636107>paper</a> <a href=https://arxiv.org/pdf/2108.01518.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2165,7 +2165,7 @@ ___
 @InProceedings{Zhang_2021_IROS,
     author = "Zhang, Dianhao and Vien, Ngo Anh and Van, Mien and McLoone, Seán",
     booktitle = "IROS",
-    title = "Non-local Graph Convolutional Network for joint Activity Recognition and Motion Prediction",
+    title = "Non-local Graph Convolutional Network for Joint Activity Recognition and Motion Prediction",
     year = "2021"
 }
 </pre>
@@ -2346,7 +2346,7 @@ ___
 <pre>
 @InProceedings{Zhang_2021_CVPR,
     author = "Zhang, Yan and Black, Michael J. and Tang, Siyu",
-    title = "We Are More Than Our Joints: Predicting How 3D Bodies Move",
+    title = "We Are More Than Our Joints: Predicting How {3D} Bodies Move",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -2384,7 +2384,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Yuan et al., "Dlow: Diversifying latent flows for diverse human motion prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
+<summary><strong><em>Yuan et al., "DLow: Diversifying Latent Flows for Diverse Human Motion Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2404,7 +2404,7 @@ ___
 <pre>
 @InProceedings{Yuan_2020_ECCV,
     author = "Yuan, Ye and Kitani, Kris",
-    title = "Dlow: Diversifying latent flows for diverse human motion prediction",
+    title = "{DLow}: Diversifying Latent Flows for Diverse Human Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -2440,7 +2440,7 @@ ___
 @InProceedings{Sun_2021_NeurIPS,
     author = "Sun, Jiangxin and Lin, Zihang and Han, Xintong and Hu, Jian-Fang and Xu, Jia and Zheng, Wei-Shi",
     booktitle = "NeurIPS",
-    title = "Action-guided 3D Human Motion Prediction",
+    title = "Action-guided {3D} Human Motion Prediction",
     year = "2021"
 }
 </pre>
@@ -2465,7 +2465,7 @@ ___
 <pre>
 @InProceedings{Honda_2020_BMVC,
     author = "Honda, Yutaro and Kawakami, Rei and Naemura, Takeshi",
-    title = "RNN-based Motion Prediction in Competitive Fencing Considering Interaction between Players",
+    title = "{RNN}-based Motion Prediction in Competitive Fencing Considering Interaction between Players",
     booktitle = "BMVC",
     year = "2020"
 }
@@ -2494,7 +2494,7 @@ ___
 <pre>
 @InProceedings{Zhang_2019_ICCV,
     author = "Zhang, Jason Y. and Felsen, Panna and Kanazawa, Angjoo and Malik, Jitendra",
-    title = "Predicting 3D Human Dynamics From Video",
+    title = "Predicting {3D} Human Dynamics From Video",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -2531,7 +2531,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Wu et al., "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A Rgb Camera", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8658594>paper</a></summary>
+<summary><strong><em>Wu et al., "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A RGB Camera", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8658594>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2550,7 +2550,7 @@ ___
 @InProceedings{Wu_2019_WACV,
     author = "Wu, E. and Koike, H.",
     booktitle = "WACV",
-    title = "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A Rgb Camera",
+    title = "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A {RGB} Camera",
     year = "2019"
 }
 </pre>
@@ -2640,7 +2640,7 @@ ___
 @Article{Du_2019_RAL,
     author = "Du, X. and Vasudevan, R. and Johnson-Roberson, M.",
     journal = "RAL",
-    title = "Bio-LSTM: A Biomechanically Inspired Recurrent Neural Network for 3-D Pedestrian Pose and Gait Prediction",
+    title = "{Bio-LSTM}: A Biomechanically Inspired Recurrent Neural Network for 3-D Pedestrian Pose and Gait Prediction",
     year = "2019",
     volume = "4",
     number = "2",
@@ -2669,7 +2669,7 @@ ___
 @Article{Aykut_2018_RAL,
     author = "Aykut, T. and Karimi, M. and Burgmair, C. and Finkenzeller, A. and Bachhuber, C. and Steinbach, E.",
     journal = "RAL",
-    title = "Delay Compensation for a Telepresence System With 3D 360 Degree Vision Based on Deep Head Motion Prediction and Dynamic FoV Adaptation",
+    title = "Delay Compensation for a Telepresence System With {3D} 360 Degree Vision Based on Deep Head Motion Prediction and Dynamic {FoV} Adaptation",
     year = "2018",
     volume = "3",
     number = "4",
@@ -2772,7 +2772,7 @@ ___
 <pre>
 @InProceedings{Zhang_2021_CVPR,
     author = "Zhang, Yan and Black, Michael J. and Tang, Siyu",
-    title = "We Are More Than Our Joints: Predicting How 3D Bodies Move",
+    title = "We Are More Than Our Joints: Predicting How {3D} Bodies Move",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -2782,7 +2782,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Yuan et al., "Dlow: Diversifying latent flows for diverse human motion prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
+<summary><strong><em>Yuan et al., "DLow: Diversifying Latent Flows for Diverse Human Motion Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2802,7 +2802,7 @@ ___
 <pre>
 @InProceedings{Yuan_2020_ECCV,
     author = "Yuan, Ye and Kitani, Kris",
-    title = "Dlow: Diversifying latent flows for diverse human motion prediction",
+    title = "{DLow}: Diversifying Latent Flows for Diverse Human Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -2839,7 +2839,7 @@ ___
 <pre>
 @InProceedings{Zhang_2021_CVPR,
     author = "Zhang, Yan and Black, Michael J. and Tang, Siyu",
-    title = "We Are More Than Our Joints: Predicting How 3D Bodies Move",
+    title = "We Are More Than Our Joints: Predicting How {3D} Bodies Move",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -2849,7 +2849,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Yuan et al., "Dlow: Diversifying latent flows for diverse human motion prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
+<summary><strong><em>Yuan et al., "DLow: Diversifying Latent Flows for Diverse Human Motion Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2869,7 +2869,7 @@ ___
 <pre>
 @InProceedings{Yuan_2020_ECCV,
     author = "Yuan, Ye and Kitani, Kris",
-    title = "Dlow: Diversifying latent flows for diverse human motion prediction",
+    title = "{DLow}: Diversifying Latent Flows for Diverse Human Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -2904,7 +2904,7 @@ ___
 <pre>
 @InProceedings{Aliakbarian_2021_ICCV,
     author = "Aliakbarian, Sadegh and Saleh, Fatemeh and Petersson, Lars and Gould, Stephen and Salzmann, Mathieu",
-    title = "Contextually Plausible and Diverse 3D Human Motion Prediction",
+    title = "Contextually Plausible and Diverse {3D} Human Motion Prediction",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -3228,7 +3228,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Wu et al., "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A Rgb Camera", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8658594>paper</a></summary>
+<summary><strong><em>Wu et al., "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A RGB Camera", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8658594>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3247,7 +3247,7 @@ ___
 @InProceedings{Wu_2019_WACV,
     author = "Wu, E. and Koike, H.",
     booktitle = "WACV",
-    title = "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A Rgb Camera",
+    title = "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A {RGB} Camera",
     year = "2019"
 }
 </pre>
@@ -3391,7 +3391,7 @@ ___
 <pre>
 @InProceedings{Diller_2022_CVPR,
     author = "Diller, Christian and Funkhouser, Thomas and Dai, Angela",
-    title = "Forecasting Characteristic 3D Poses of Human Actions",
+    title = "Forecasting Characteristic {3D} Poses of Human Actions",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -3495,7 +3495,7 @@ ___
 @InProceedings{Yuan_2020_IROS,
     author = "Yuan, S. and Li, X. and Tzes, A. and Fang, Y.",
     booktitle = "IROS",
-    title = "3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction",
+    title = "{3DMotion-Net}: Learning Continuous Flow Function for {3D} Motion Prediction",
     year = "2020"
 }
 </pre>
@@ -3868,7 +3868,7 @@ ___
 <pre>
 @InProceedings{Zhang_2019_ICCV,
     author = "Zhang, Jason Y. and Felsen, Panna and Kanazawa, Angjoo and Malik, Jitendra",
-    title = "Predicting 3D Human Dynamics From Video",
+    title = "Predicting {3D} Human Dynamics From Video",
     booktitle = "ICCV",
     year = "2019"
 }

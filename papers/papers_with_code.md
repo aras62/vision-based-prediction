@@ -67,7 +67,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Villar-Corrales_2022_BMVC,
     author = "Villar-Corrales, Angel and Karapetyan, Ani and Boltres, Andreas and Behnke, Sven",
-    title = "MSPred: Video Prediction at Multiple Spatio-Temporal Scales with Hierarchical Recurrent Networks",
+    title = "{MSPred}: Video Prediction at Multiple Spatio-Temporal Scales with Hierarchical Recurrent Networks",
     booktitle = "BMVC",
     year = "2022"
 }
@@ -251,7 +251,7 @@ Below is the list of papers that have published code sorted chronologically and 
 @InProceedings{Lange_2021_IROS,
     author = "Lange, Bernard and Itkina, Masha and Kochenderfer, Mykel J.",
     booktitle = "IROS",
-    title = "Attention Augmented ConvLSTM for Environment Prediction",
+    title = "Attention Augmented {ConvLSTM} for Environment Prediction",
     year = "2021"
 }
 </pre>
@@ -327,7 +327,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Franceschi_2020_ICML/>
 <details close>
-<summary><strong><em>Franceschi et al., "Stochastic latent residual video prediction", ICML, 2020.</em></strong> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
+<summary><strong><em>Franceschi et al., "Stochastic Latent Residual Video Prediction", ICML, 2020.</em></strong> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -347,8 +347,8 @@ Below is the list of papers that have published code sorted chronologically and 
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Franceschi_2020_ICML,
-    author = Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick,
-    title = "Stochastic latent residual video prediction",
+    author = {Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick},
+    title = "Stochastic Latent Residual Video Prediction",
     booktitle = "ICML",
     year = "2020"
 }
@@ -627,7 +627,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Jin_2018_IROS/>
 <details close>
-<summary><strong><em>Jin et al., "Varnet: Exploring Variations For Unsupervised Video Prediction", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8594264>paper</a> <a href=https://github.com/jinbeibei/VarNet>code</a></summary>
+<summary><strong><em>Jin et al., "VarNet: Exploring Variations For Unsupervised Video Prediction", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8594264>paper</a> <a href=https://github.com/jinbeibei/VarNet>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -645,7 +645,7 @@ Below is the list of papers that have published code sorted chronologically and 
 @InProceedings{Jin_2018_IROS,
     author = "Jin, B. and Hu, Y. and Zeng, Y. and Tang, Q. and Liu, S. and Ye, J.",
     booktitle = "IROS",
-    title = "Varnet: Exploring Variations For Unsupervised Video Prediction",
+    title = "{VarNet}: Exploring Variations For Unsupervised Video Prediction",
     year = "2018"
 }
 </pre>
@@ -656,7 +656,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Wang_2017_NeurIPS/>
 <details close>
-<summary><strong><em>Wang et al., "Predrnn: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal Lstms", NeurIPS, 2017.</em></strong> <a href=https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf>paper</a> <a href=https://github.com/ujjax/pred-rnn>code</a></summary>
+<summary><strong><em>Wang et al., "PredRNN: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal LSTMs", NeurIPS, 2017.</em></strong> <a href=https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf>paper</a> <a href=https://github.com/ujjax/pred-rnn>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -674,7 +674,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Wang_2017_NeurIPS,
     author = "Wang, Yunbo and Long, Mingsheng and Wang, Jianmin and Gao, Zhifeng and Yu, Philip S",
-    title = "Predrnn: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal Lstms",
+    title = "{PredRNN}: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal {LSTMs}",
     booktitle = "NeurIPS",
     year = "2017"
 }
@@ -939,7 +939,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Bao_2021_ICCV,
     author = "Bao, Wentao and Yu, Qi and Kong, Yu",
-    title = "DRIVE: Deep Reinforced Accident Anticipation With Visual Explanation",
+    title = "{DRIVE}: Deep Reinforced Accident Anticipation With Visual Explanation",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -1008,7 +1008,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Liu_2020_ECCV/>
 <details close>
-<summary><strong><em>Liu et al., "Forecasting human object interaction: Joint prediction of motor attention and actions in First Person Video", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460681.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.10967.pdf>arxiv</a> <a href=https://github.com/2020aptx4869lm/Forecasting-Human-Object-Interaction-in-FPV>code</a></summary>
+<summary><strong><em>Liu et al., "Forecasting Human Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460681.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.10967.pdf>arxiv</a> <a href=https://github.com/2020aptx4869lm/Forecasting-Human-Object-Interaction-in-FPV>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1030,7 +1030,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Liu_2020_ECCV,
     author = "Liu, Miao and Tang, Siyu and Li, Yin and Rehg, James",
-    title = "Forecasting human object interaction: Joint prediction of motor attention and actions in First Person Video",
+    title = "Forecasting Human Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -1042,7 +1042,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Morais_2020_BMVC/>
 <details close>
-<summary><strong><em>Morais et al., "Learning to abstract and predict human actions", BMVC, 2020.</em></strong> <a href=https://www.bmvc2020-conference.com/assets/papers/0979.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.09234.pdf>arxiv</a> <a href=https://github.com/RomeroBarata/hierarchical_action_prediction>code</a></summary>
+<summary><strong><em>Morais et al., "Learning to Abstract and Predict Human Actions", BMVC, 2020.</em></strong> <a href=https://www.bmvc2020-conference.com/assets/papers/0979.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.09234.pdf>arxiv</a> <a href=https://github.com/RomeroBarata/hierarchical_action_prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1058,7 +1058,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Morais_2020_BMVC,
     author = "Morais, Romero and Le, Vuong and Tran, Truyen and Venkatesh, Svetha",
-    title = "Learning to abstract and predict human actions",
+    title = "Learning to Abstract and Predict Human Actions",
     booktitle = "BMVC",
     year = "2020"
 }
@@ -1097,7 +1097,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Furnari_2019_ICCV/>
 <details close>
-<summary><strong><em>Furnari et al., "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.09035.pdf>arxiv</a> <a href=https://github.com/fpv-iplab/rulstm>code</a></summary>
+<summary><strong><em>Furnari et al., "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling LSTMs And Modality Attention", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Furnari_What_Would_You_Expect_Anticipating_Egocentric_Actions_With_Rolling-Unrolling_LSTMs_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.09035.pdf>arxiv</a> <a href=https://github.com/fpv-iplab/rulstm>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1114,7 +1114,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Furnari_2019_ICCV,
     author = "Furnari, Antonino and Farinella, Giovanni Maria",
-    title = "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling Lstms And Modality Attention",
+    title = "What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling {LSTMs} And Modality Attention",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -1405,7 +1405,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Chen_2022_CVPR,
     author = "Chen, Yuxiao and Ivanovic, Boris and Pavone, Marco",
-    title = "ScePT: Scene-Consistent, Policy-Based Trajectory Predictions for Planning",
+    title = "{ScePT}: Scene-Consistent, Policy-Based Trajectory Predictions for Planning",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -1523,7 +1523,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Peri_2022_CVPR,
     author = "Peri, Neehar and Luiten, Jonathon and Li, Mengtian and O\v{s}ep, Aljo\v{s}a and Leal-Taix\'e, Laura and Ramanan, Deva",
-    title = "Forecasting From LiDAR via Future Object Detection",
+    title = "Forecasting From {LiDAR} via Future Object Detection",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -1551,7 +1551,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Sun_2022_CVPR,
     author = "Sun, Qiao and Huang, Xin and Gu, Junru and Williams, Brian C. and Zhao, Hang",
-    title = "M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction",
+    title = "{M2I}: From Factored Marginal Trajectory Prediction to Interactive Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -1670,7 +1670,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Zhou_2022_CVPR,
     author = "Zhou, Zikang and Ye, Luyao and Wang, Jianping and Wu, Kui and Lu, Kejie",
-    title = "HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction",
+    title = "{HiVT}: Hierarchical Vector Transformer for Multi-Agent Motion Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -1697,7 +1697,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Wang_2022_CVPR_2,
     author = "Wang, Yunlong and Pan, Hongyu and Zhu, Jun and Wu, Yu-Huan and Zhan, Xin and Jiang, Kun and Yang, Diange",
-    title = "BE-STI: Spatial-Temporal Integrated Network for Class-Agnostic Motion Prediction With Bidirectional Enhancement",
+    title = "{BE-STI}: Spatial-Temporal Integrated Network for Class-Agnostic Motion Prediction With Bidirectional Enhancement",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -1727,7 +1727,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Xu_2022_CVPR_2,
     author = "Xu, Chenxin and Li, Maosen and Ni, Zhenyang and Zhang, Ya and Chen, Siheng",
-    title = "GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction With Relational Reasoning",
+    title = "{GroupNet}: Multiscale Hypergraph Neural Networks for Trajectory Prediction With Relational Reasoning",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -1755,7 +1755,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Akan_2022_ECCV,
     author = "Akan, Adil Kaan and Guney, Fatma",
-    title = "StretchBEV: Stretching Future Instance Prediction Spatially and Temporally",
+    title = "{StretchBEV}: Stretching Future Instance Prediction Spatially and Temporally",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -1817,7 +1817,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Cao_2022_ECCV,
     author = "Cao, Yulong and Xiao, Chaowei and Anandkumar, Anima and Xu, Danfei and Pavone, Marco",
-    title = "AdvDO: Realistic Adversarial Attacks for Trajectory Prediction",
+    title = "{AdvDO}: Realistic Adversarial Attacks for Trajectory Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -1878,7 +1878,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Mohamed_2022_ECCV,
     author = "Mohamed, Abduallah and Zhu, Deyao and Vu, Warren and Elhoseiny, Mohamed and Claudel, Christian",
-    title = "Social-Implicit: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation",
+    title = "{Social-Implicit}: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -1908,7 +1908,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Tsao_2022_ECCV,
     author = "Tsao, Li-Wu and Wang, Yan-Kai and Lin, Hao-Siang and Shuai, Hong-Han and Wong, Lai-Kuan and Cheng, Wen-Huang",
-    title = "Social-SSL: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-agent Trajectory Prediction",
+    title = "{Social-SSL}: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-agent Trajectory Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -1970,7 +1970,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Xu_2022_ECCV,
     author = "Xu, Pei and Hayet, Jean-Bernard and Karamouzas, Ioannis",
-    title = "SocialVAE: Human Trajectory Prediction Using Timewise Latents",
+    title = "{SocialVAE}: Human Trajectory Prediction Using Timewise Latents",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -2032,7 +2032,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Zhang_2022_ECCV,
     author = "Zhang, Yuzhen and Wang, Wentong and Guo, Weizhi and Lv, Pei and Xu, Mingliang and Chen, Wei and Manocha, Dinesh",
-    title = "D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights",
+    title = "{D2-TPred}: Discontinuous Dependency for Trajectory Prediction under Traffic Lights",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -2091,7 +2091,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Bhattacharyya_2022_CoRL,
     author = "Bhattacharyya, Prarthana and Huang, Chengjie and Czarnecki, Krzysztof",
-    title = "SSL}-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving",
+    title = "{SSL}-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving",
     booktitle = "CoRL",
     year = "2022"
 }
@@ -2203,7 +2203,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Nishimura_2022_CoRL,
     author = "Nishimura, Haruki and Mercat, Jean and Wulfe, Blake and McAllister, Rowan Thomas and Gaidon, Adrien",
-    title = "RAP}: Risk-Aware Prediction for Robust Planning",
+    title = "{RAP}: Risk-Aware Prediction for Robust Planning",
     booktitle = "CoRL",
     year = "2022"
 }
@@ -2229,8 +2229,8 @@ Below is the list of papers that have published code sorted chronologically and 
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Dendorfer_2022_NeurIPS,
-    author = "Dendorfer, Patrick and Yugay, Vladimir and Osep, Aljosa and Leal-Taix{\'e, Laura",
-    title = "Quo Vadis: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?",
+    author = "Dendorfer, Patrick and Yugay, Vladimir and Osep, Aljosa and Leal-Taix{\'e}, Laura",
+    title = "{Quo Vadis}: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?",
     booktitle = "NeurIPS",
     year = "2022"
 }
@@ -2443,7 +2443,7 @@ Below is the list of papers that have published code sorted chronologically and 
 @InProceedings{Deyao_2021_ICLR,
     author = "Zhu, Deyao and Zahran, Mohamed and Li, Li Erran and Elhoseiny, Mohamed",
     booktitle = "ICLR",
-    title = "HalentNet: Multimodal Trajectory Forecasting with Hallucinative Intents",
+    title = "{HalentNet}: Multimodal Trajectory Forecasting with Hallucinative Intents",
     year = "2021"
 }
 </pre>
@@ -2587,7 +2587,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Shi_2021_CVPR,
     author = "Shi, Liushuai and Wang, Le and Long, Chengjiang and Zhou, Sanping and Zhou, Mo and Niu, Zhenxing and Hua, Gang",
-    title = "SGCN: Sparse Graph Convolution Network for Pedestrian Trajectory Prediction",
+    title = "{SGCN}: Sparse Graph Convolution Network for Pedestrian Trajectory Prediction",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -2733,7 +2733,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Yuan_2021_ICCV,
     author = "Yuan, Ye and Weng, Xinshuo and Ou, Yanglan and Kitani, Kris M.",
-    title = "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting",
+    title = "{AgentFormer}: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -2912,7 +2912,7 @@ Below is the list of papers that have published code sorted chronologically and 
 @Article{Cleac_2021_RAL,
     author = "Le Cleac’h, Simon and Schwager, Mac and Manchester, Zachary",
     journal = "RAL",
-    title = "LUCIDGames: Online Unscented Inverse Dynamic Games for Adaptive Trajectory Prediction and Planning",
+    title = "{LUCIDGames}: Online Unscented Inverse Dynamic Games for Adaptive Trajectory Prediction and Planning",
     year = "2021",
     volume = "6",
     number = "3",
@@ -2946,7 +2946,7 @@ Below is the list of papers that have published code sorted chronologically and 
 @Article{Yao_2021_RAL,
     author = "Yao, Yu and Atkins, Ella and Johnson-Roberson, Matthew and Vasudevan, Ram and Du, Xiaoxiao",
     journal = "RAL",
-    title = "BiTraP: Bi-Directional Pedestrian Trajectory Prediction With Multi-Modal Goal Estimation",
+    title = "{BiTraP}: Bi-Directional Pedestrian Trajectory Prediction With Multi-Modal Goal Estimation",
     year = "2021",
     volume = "6",
     number = "2",
@@ -3124,7 +3124,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Mohamed_2020_CVPR,
     author = "Mohamed, Abduallah and Qian, Kun and Elhoseiny, Mohamed and Claudel, Christian",
-    title = "Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction",
+    title = "{Social-STGCNN}: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -3182,7 +3182,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Wu_2020_CVPR_2,
     author = "Wu, Pengxiang and Chen, Siheng and Metaxas, Dimitris N.",
-    title = "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps",
+    title = "{MotionNet}: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -3212,7 +3212,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Liang_2020_ECCV,
     author = "Liang, Junwei and Jiang, Lu and Hauptmann, Alexander",
-    title = "SimAug: Learning Robust Representations from Simulation for Trajectory Prediction",
+    title = "{SimAug}: Learning Robust Representations from Simulation for Trajectory Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -3287,7 +3287,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Salzmann_2020_ECCV/>
 <details close>
-<summary><strong><em>Salzmann et al., "Trajectron++: Multi-agent generative trajectory forecasting with heterogeneous data for control", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630664.pdf>paper</a> <a href=https://arxiv.org/pdf/2001.03093.pdf>arxiv</a> <a href=https://github.com/StanfordASL/Trajectron-plus-plus>code</a></summary>
+<summary><strong><em>Salzmann et al., "Trajectron++: Multi-agent Generative Trajectory Forecasting with Heterogeneous Data for Control", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630664.pdf>paper</a> <a href=https://arxiv.org/pdf/2001.03093.pdf>arxiv</a> <a href=https://github.com/StanfordASL/Trajectron-plus-plus>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3308,7 +3308,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Salzmann_2020_ECCV,
     author = "Salzmann, Tim and Ivanovic, Boris and Chakravarty, Punarjay and Pavone, Marco",
-    title = "Trajectron++: Multi-agent generative trajectory forecasting with heterogeneous data for control",
+    title = "Trajectron++: Multi-agent Generative Trajectory Forecasting with Heterogeneous Data for Control",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -3375,7 +3375,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Dendorfer_2020_ACCV,
     author = "Dendorfer, Patrick and Osep, Aljosa and Leal-Taixe, Laura",
-    title = "Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation",
+    title = "{Goal-GAN}: Multimodal Trajectory Prediction Based on Goal Position Estimation",
     booktitle = "ACCV",
     year = "2020"
 }
@@ -3431,7 +3431,7 @@ Below is the list of papers that have published code sorted chronologically and 
 @InProceedings{Jeon_2020_IROS,
     author = "Jeon, H. and Choi, J. and Kum, D.",
     booktitle = "IROS",
-    title = "SCALE-Net: Scalable Vehicle Trajectory Prediction Network under Random Number of Interacting Vehicles via Edge-enhanced Graph Convolutional Neural Network",
+    title = "{SCALE-Net}: Scalable Vehicle Trajectory Prediction Network under Random Number of Interacting Vehicles via Edge-enhanced Graph Convolutional Neural Network",
     year = "2020"
 }
 </pre>
@@ -3493,7 +3493,7 @@ Below is the list of papers that have published code sorted chronologically and 
 @Article{Chandra_2020_RAL,
     author = "Chandra, R. and Guan, T. and Panuganti, S. and Mittal, T. and Bhattacharya, U. and Bera, A. and Manocha, D.",
     journal = "RAL",
-    title = "Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs",
+    title = "Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in {Graph-LSTMs}",
     year = "2020",
     volume = "5",
     number = "3",
@@ -3524,7 +3524,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Brito_2020_CORL,
     author = "Brito, Bruno and Zhu, Hai and Pan, Wei and Alonso-Mora, Javier",
-    title = "Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians",
+    title = "{Social-VRNN}: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -3536,7 +3536,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Houston_2020_CORL/>
 <details close>
-<summary><strong><em>Houston et al., "One thousand and one hours: Self-driving motion prediction dataset", CoRL, 2020.</em></strong> <a href=https://drive.google.com/file/d/1aABQsyBkxr-TlgjwKRdeeJy6YjShUAmj/view>paper</a> <a href=https://arxiv.org/pdf/2006.14480.pdf>arxiv</a> <a href=https://github.com/lyft/l5kit>code</a></summary>
+<summary><strong><em>Houston et al., "One Thousand and One Hours: Self-driving Motion Prediction Dataset", CoRL, 2020.</em></strong> <a href=https://drive.google.com/file/d/1aABQsyBkxr-TlgjwKRdeeJy6YjShUAmj/view>paper</a> <a href=https://arxiv.org/pdf/2006.14480.pdf>arxiv</a> <a href=https://github.com/lyft/l5kit>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3551,7 +3551,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Houston_2020_CORL,
     author = "Houston, John and Zuidhof, Guido and Bergamini, Luca and Ye, Yawei and Chen, Long and Jain, Ashesh and Omari, Sammy and Iglovikov, Vladimir and Ondruska, Peter",
-    title = "One thousand and one hours: Self-driving motion prediction dataset",
+    title = "One Thousand and One Hours: Self-driving Motion Prediction Dataset",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -3608,7 +3608,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Weng_2020_CORL,
     author = "Weng, Xinshuo and Wang, Jianren and Levine, Sergey and Kitani, Kris and Rhinehart, Nick",
-    title = "Inverting the Pose Forecasting Pipeline with SPF2: Sequential Pointcloud Forecasting for Sequential Pose Forecasting",
+    title = "Inverting the Pose Forecasting Pipeline with {SPF2}: Sequential Pointcloud Forecasting for Sequential Pose Forecasting",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -3620,7 +3620,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Chandra_2019_CVPR/>
 <details close>
-<summary><strong><em>Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.04767.pdf>arxiv</a> <a href=https://go.umd.edu/TraPHic>code</a></summary>
+<summary><strong><em>Chandra et al., "TraPHic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.04767.pdf>arxiv</a> <a href=https://go.umd.edu/TraPHic>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3637,7 +3637,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Chandra_2019_CVPR,
     author = "Chandra, Rohan and Bhattacharya, Uttaran and Bera, Aniket and Manocha, Dinesh",
-    title = "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions",
+    title = "{TraPHic}: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -3709,7 +3709,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Zhang_2019_CVPR/>
 <details close>
-<summary><strong><em>Zhang et al., "Sr-Lstm: State Refinement For Lstm Towards Pedestrian Trajectory Prediction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1903.02793.pdf>arxiv</a> <a href=https://github.com/zhangpur/SR-LSTM>code</a></summary>
+<summary><strong><em>Zhang et al., "SR-LSTM: State Refinement For LSTM Towards Pedestrian Trajectory Prediction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1903.02793.pdf>arxiv</a> <a href=https://github.com/zhangpur/SR-LSTM>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3726,7 +3726,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Zhang_2019_CVPR,
     author = "Zhang, Pu and Ouyang, Wanli and Zhang, Pengfei and Xue, Jianru and Zheng, Nanning",
-    title = "Sr-Lstm: State Refinement For Lstm Towards Pedestrian Trajectory Prediction",
+    title = "{SR-LSTM}: State Refinement For {LSTM} Towards Pedestrian Trajectory Prediction",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -3738,7 +3738,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Rasouli_2019_ICCV/>
 <details close>
-<summary><strong><em>Rasouli et al., "Pie: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf>paper</a> <a href=https://github.com/aras62/PIEPredict>code</a></summary>
+<summary><strong><em>Rasouli et al., "PIE: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf>paper</a> <a href=https://github.com/aras62/PIEPredict>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3755,7 +3755,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Rasouli_2019_ICCV,
     author = "Rasouli, Amir and Kotseruba, Iuliia and Kunic, Toni and Tsotsos, John K.",
-    title = "Pie: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction",
+    title = "{PIE}: A Large-Scale Dataset And Models For Pedestrian Intention Estimation And Trajectory Prediction",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -3796,7 +3796,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Srikanth_2019_IROS/>
 <details close>
-<summary><strong><em>Srikanth et al., "Infer: Intermediate Representations For Future Prediction", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968553>paper</a> <a href=https://arxiv.org/pdf/1903.10641.pdf>arxiv</a> <a href=https://rebrand.ly/INFER-results>code</a></summary>
+<summary><strong><em>Srikanth et al., "INFER: INtermediate Representations For FuturE PRediction", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968553>paper</a> <a href=https://arxiv.org/pdf/1903.10641.pdf>arxiv</a> <a href=https://rebrand.ly/INFER-results>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3814,7 +3814,7 @@ Below is the list of papers that have published code sorted chronologically and 
 @InProceedings{Srikanth_2019_IROS,
     author = "Srikanth, Shashank and Ansari, Junaid Ahmed and Sharma, Sarthak and others",
     booktitle = "IROS",
-    title = "Infer: Intermediate Representations For Future Prediction",
+    title = "{INFER}: {IN}termediate Representations For {F}utur{E} P{R}ediction",
     year = "2019"
 }
 </pre>
@@ -3913,7 +3913,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Gupta_2018_CVPR/>
 <details close>
-<summary><strong><em>Gupta et al., "Social Gan: Socially Acceptable Trajectories With Generative Adversarial Networks", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.10892.pdf>arxiv</a> <a href=https://github.com/agrimgupta92/sgan>code</a></summary>
+<summary><strong><em>Gupta et al., "Social GAN: Socially Acceptable Trajectories With Generative Adversarial Networks", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.10892.pdf>arxiv</a> <a href=https://github.com/agrimgupta92/sgan>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3930,7 +3930,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Gupta_2018_CVPR,
     author = "Gupta, Agrim and Johnson, Justin and Fei-Fei, Li and Savarese, Silvio and Alahi, Alexandre",
-    title = "Social Gan: Socially Acceptable Trajectories With Generative Adversarial Networks",
+    title = "Social {GAN}: Socially Acceptable Trajectories With Generative Adversarial Networks",
     booktitle = "CVPR",
     year = "2018"
 }
@@ -4030,7 +4030,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Lee_2017_CVPR/>
 <details close>
-<summary><strong><em>Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.04394.pdf>arxiv</a> <a href=https://github.com/yadrimz/DESIRE>code</a></summary>
+<summary><strong><em>Lee et al., "DESIRE: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.04394.pdf>arxiv</a> <a href=https://github.com/yadrimz/DESIRE>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4049,7 +4049,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Lee_2017_CVPR,
     author = "Lee, Namhoon and Choi, Wongun and Vernaza, Paul and Choy, Christopher B. and Torr, Philip H. S. and Chandraker, Manmohan",
-    title = "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
+    title = "{DESIRE}: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
     booktitle = "CVPR",
     year = "2017"
 }
@@ -4061,7 +4061,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Alahi_2016_CVPR/>
 <details close>
-<summary><strong><em>Alahi et al., "Social Lstm: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>paper</a> <a href=https://github.com/quancore/social-lstm>code</a></summary>
+<summary><strong><em>Alahi et al., "Social LSTM: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>paper</a> <a href=https://github.com/quancore/social-lstm>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4079,7 +4079,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Alahi_2016_CVPR,
     author = "Alahi, Alexandre and Goel, Kratarth and Ramanathan, Vignesh and Robicquet, Alexandre and Fei-Fei, Li and Savarese, Silvio",
-    title = "Social Lstm: Human Trajectory Prediction In Crowded Spaces",
+    title = "Social {LSTM}: Human Trajectory Prediction In Crowded Spaces",
     booktitle = "CVPR",
     year = "2016"
 }
@@ -4138,7 +4138,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Diller_2022_CVPR,
     author = "Diller, Christian and Funkhouser, Thomas and Dai, Angela",
-    title = "Forecasting Characteristic 3D Poses of Human Actions",
+    title = "Forecasting Characteristic {3D} Poses of Human Actions",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -4195,7 +4195,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Maeda_2022_CVPR,
     author = "Maeda, Takahiro and Ukita, Norimichi",
-    title = "MotionAug: Augmentation With Physical Correction for Human Motion Prediction",
+    title = "{MotionAug}: Augmentation With Physical Correction for Human Motion Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -4320,7 +4320,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Li_2022_ECCV,
     author = "Li, Maosen and Chen, Siheng and Zhang, Zijing and Xie, Lingxi and Tian, Qi and Zhang, Ya",
-    title = "Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction",
+    title = "Skeleton-Parted Graph Scattering Networks for {3D} Human Motion Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -4436,7 +4436,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Zhang_2022_ECCV_2,
     author = "Zheng, Yang and Yang, Yanchao and Mo, Kaichun and Li, Jiaman and Yu, Tao and Liu, Yebin and Liu, Karen and Guibas, Leonidas J.",
-    title = "GIMO: Gaze-Informed Human Motion Prediction in Context",
+    title = "{GIMO}: Gaze-Informed Human Motion Prediction in Context",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -4495,7 +4495,7 @@ Below is the list of papers that have published code sorted chronologically and 
 @InProceedings{Wang_2021_NeurIPS,
     author = "Wang, Jiashun and Xu, Huazhe and Narasimhan, Medhini and Wang, Xiaolong",
     booktitle = "NeurIPS",
-    title = "Multi-Person 3D Motion Prediction with Multi-Range Transformers",
+    title = "Multi-Person {3D} Motion Prediction with Multi-Range Transformers",
     year = "2021"
 }
 </pre>
@@ -4525,7 +4525,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Zhang_2021_CVPR,
     author = "Zhang, Yan and Black, Michael J. and Tang, Siyu",
-    title = "We Are More Than Our Joints: Predicting How 3D Bodies Move",
+    title = "We Are More Than Our Joints: Predicting How {3D} Bodies Move",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -4553,7 +4553,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Dang_2021_ICCV,
     author = "Dang, Lingwei and Nie, Yongwei and Long, Chengjiang and Zhang, Qing and Li, Guiqing",
-    title = "MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction",
+    title = "{MSR-GCN}: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -4729,7 +4729,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Li_2020_CVPR,
     author = "Li, Maosen and Chen, Siheng and Zhao, Yangheng and Zhang, Ya and Wang, Yanfeng and Tian, Qi",
-    title = "Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction",
+    title = "Dynamic Multiscale Graph Neural Networks for {3D} Skeleton Based Human Motion Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -4771,7 +4771,7 @@ Below is the list of papers that have published code sorted chronologically and 
 
 <a name=Yuan_2020_ECCV/>
 <details close>
-<summary><strong><em>Yuan et al., "Dlow: Diversifying latent flows for diverse human motion prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
+<summary><strong><em>Yuan et al., "DLow: Diversifying Latent Flows for Diverse Human Motion Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4791,7 +4791,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Yuan_2020_ECCV,
     author = "Yuan, Ye and Kitani, Kris",
-    title = "Dlow: Diversifying latent flows for diverse human motion prediction",
+    title = "{DLow}: Diversifying Latent Flows for Diverse Human Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -5024,7 +5024,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Zhang_2019_ICCV,
     author = "Zhang, Jason Y. and Felsen, Panna and Kanazawa, Angjoo and Malik, Jitendra",
-    title = "Predicting 3D Human Dynamics From Video",
+    title = "Predicting {3D} Human Dynamics From Video",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -5198,7 +5198,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Weng_2022_ECCV,
     author = "Weng, Xinshuo and Nan, Junyu and Lee, Kuan-Hui and McAllister, Rowan and Gaidon, Adrien and Rhinehart, Nicholas and Kitani, Kris M.",
-    title = "S2Net: Stochastic Sequential Pointcloud Forecasting",
+    title = "{S2Net}: Stochastic Sequential Pointcloud Forecasting",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -5254,7 +5254,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Kaneda_2022_ACCV,
     author = "Kaneda, Kanta and Wada, Yuiga and Iida, Tsumugi and Nishizuka, Naoto and Kubo, Y\^uki and Sugiura, Komei",
-    title = "Flare Transformer: Solar Flare Prediction using Magnetograms and Sunspot Physical Features",
+    title = "{Flare Transformer}: Solar Flare Prediction using Magnetograms and Sunspot Physical Features",
     booktitle = "ACCV",
     year = "2022"
 }
@@ -5373,7 +5373,7 @@ Below is the list of papers that have published code sorted chronologically and 
 @InProceedings{Wang_2021_IROS,
     author = "Wang, Lizi and Ye, Hongkai and Wang, Qianhao and Gao, Yuman and Xu, Chao and Gao, Fei",
     booktitle = "IROS",
-    title = "Learning-based 3D Occupancy Prediction for Autonomous Navigation in Occluded Environments",
+    title = "Learning-based {3D} Occupancy Prediction for Autonomous Navigation in Occluded Environments",
     year = "2021"
 }
 </pre>
@@ -5426,7 +5426,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Yang_2020_CVPR,
     author = "Yang, Haotian and Zhu, Hao and Wang, Yanru and Huang, Mingkai and Shen, Qiu and Yang, Ruigang and Cao, Xun",
-    title = "FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction",
+    title = "{FaceScape}: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable {3D} Face Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -5517,7 +5517,7 @@ Below is the list of papers that have published code sorted chronologically and 
 <pre>
 @InProceedings{Weng_2020_CORL,
     author = "Weng, Xinshuo and Wang, Jianren and Levine, Sergey and Kitani, Kris and Rhinehart, Nick",
-    title = "Inverting the Pose Forecasting Pipeline with SPF2: Sequential Pointcloud Forecasting for Sequential Pose Forecasting",
+    title = "Inverting the Pose Forecasting Pipeline with {SPF2}: Sequential Pointcloud Forecasting for Sequential Pose Forecasting",
     booktitle = "CoRL",
     year = "2020"
 }

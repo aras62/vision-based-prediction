@@ -41,6 +41,7 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 9/1/2023: Improved styling of bibtex
 * 9/1/2023: Minor bug fixes and readability improvement
 * 9/1/2023: Added ICRA 22 (21 papers, 2 metrics, 2 datasets)
 * 23/12/2022: Added CoRL 21-22,RSS 20-21 (15 papers, 4 metrics)

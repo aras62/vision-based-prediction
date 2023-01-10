@@ -169,7 +169,7 @@ ___
 @InProceedings{Walters_2021_IROS,
     author = "Walters, Celyn and Hadfield, Simon",
     booktitle = "IROS",
-    title = "EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance",
+    title = "{EVReflex}: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance",
     year = "2021"
 }
 </pre>
@@ -196,7 +196,7 @@ ___
 @Article{Wirthmuller_2021_RAL,
     author = "Wirthmüller, Florian and Klimke, Marvin and Schlechtriemen, Julian and Hipp, Jochen and Reichert, Manfred",
     journal = "RAL",
-    title = "Predicting the Time Until a Vehicle Changes the Lane Using LSTM-Based Recurrent Neural Networks",
+    title = "Predicting the Time Until a Vehicle Changes the Lane Using {LSTM-Based} Recurrent Neural Networks",
     year = "2021",
     volume = "6",
     number = "2",
@@ -431,7 +431,7 @@ ___
 @InProceedings{Walters_2021_IROS,
     author = "Walters, Celyn and Hadfield, Simon",
     booktitle = "IROS",
-    title = "EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance",
+    title = "{EVReflex}: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance",
     year = "2021"
 }
 </pre>
@@ -458,7 +458,7 @@ ___
 @InProceedings{Wang_2021_IROS,
     author = "Wang, Lizi and Ye, Hongkai and Wang, Qianhao and Gao, Yuman and Xu, Chao and Gao, Fei",
     booktitle = "IROS",
-    title = "Learning-based 3D Occupancy Prediction for Autonomous Navigation in Occluded Environments",
+    title = "Learning-based {3D} Occupancy Prediction for Autonomous Navigation in Occluded Environments",
     year = "2021"
 }
 </pre>
@@ -485,7 +485,7 @@ ___
 @Article{Wirthmuller_2021_RAL,
     author = "Wirthmüller, Florian and Klimke, Marvin and Schlechtriemen, Julian and Hipp, Jochen and Reichert, Manfred",
     journal = "RAL",
-    title = "Predicting the Time Until a Vehicle Changes the Lane Using LSTM-Based Recurrent Neural Networks",
+    title = "Predicting the Time Until a Vehicle Changes the Lane Using {LSTM-Based} Recurrent Neural Networks",
     year = "2021",
     volume = "6",
     number = "2",
@@ -691,7 +691,7 @@ ___
 @InProceedings{Kim_2022_ICRA,
     author = "Kim, Jinkyu and Mahjourian, Reza and Ettinger, Scott and Bansal, Mayank and White, Brandyn and Sapp, Ben and Anguelov, Dragomir",
     booktitle = "ICRA",
-    title = "StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving",
+    title = "{StopNet}: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving",
     year = "2022"
 }
 </pre>
@@ -754,7 +754,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Hu et al., "Probabilistic future prediction for video scene understanding", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610749.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.06409.pdf>arxiv</a></summary>
+<summary><strong><em>Hu et al., "Probabilistic Future Prediction for Video Scene Understanding", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610749.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.06409.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -774,7 +774,7 @@ ___
 <pre>
 @InProceedings{Hu_2020_ECCV,
     author = "Hu, Anthony and Cotter, Fergal and Mohan, Nikhil and Gurau, Corina and Kendall, Alex",
-    title = "Probabilistic future prediction for video scene understanding",
+    title = "Probabilistic Future Prediction for Video Scene Understanding",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -947,7 +947,7 @@ ___
 @InProceedings{Wang_2021_IROS,
     author = "Wang, Lizi and Ye, Hongkai and Wang, Qianhao and Gao, Yuman and Xu, Chao and Gao, Fei",
     booktitle = "IROS",
-    title = "Learning-based 3D Occupancy Prediction for Autonomous Navigation in Occluded Environments",
+    title = "Learning-based {3D} Occupancy Prediction for Autonomous Navigation in Occluded Environments",
     year = "2021"
 }
 </pre>
@@ -974,7 +974,7 @@ ___
 @Article{Wirthmuller_2021_RAL,
     author = "Wirthmüller, Florian and Klimke, Marvin and Schlechtriemen, Julian and Hipp, Jochen and Reichert, Manfred",
     journal = "RAL",
-    title = "Predicting the Time Until a Vehicle Changes the Lane Using LSTM-Based Recurrent Neural Networks",
+    title = "Predicting the Time Until a Vehicle Changes the Lane Using {LSTM-Based} Recurrent Neural Networks",
     year = "2021",
     volume = "6",
     number = "2",
@@ -1247,7 +1247,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Song et al., "Long-Term Visual Inertial Slam Based On Time Series Map Prediction", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968017>paper</a></summary>
+<summary><strong><em>Song et al., "Long-Term Visual Inertial SLAM Based On Time Series Map Prediction", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968017>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1264,7 +1264,7 @@ ___
 @InProceedings{Song_2019_IROS,
     author = "Song, Bowen and Chen, Weidong and Wang, Jingchuan and Wang, Hesheng",
     booktitle = "IROS",
-    title = "Long-Term Visual Inertial Slam Based On Time Series Map Prediction",
+    title = "Long-Term Visual Inertial {SLAM} Based On Time Series Map Prediction",
     year = "2019"
 }
 </pre>
@@ -1373,7 +1373,7 @@ ___
 <pre>
 @InProceedings{Oota_2021_WACV,
     author = "Oota, Subba Reddy and Rowtula, Vijay and Mohammed, Shahid and Galitz, Jeffrey and Liu, Minghsun and Gupta, Manish",
-    title = "HealTech - A System for Predicting Patient Hospitalization Risk and Wound Progression in Old Patients",
+    title = "{HealTech} - A System for Predicting Patient Hospitalization Risk and Wound Progression in Old Patients",
     booktitle = "WACV",
     year = "2021"
 }
@@ -1489,7 +1489,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Wilson et al., "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs", ICRA, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7139221>paper</a></summary>
+<summary><strong><em>Wilson et al., "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road UGVs", ICRA, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7139221>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1506,7 +1506,7 @@ ___
 @InProceedings{Wilson_2015_ICRA,
     author = "Wilson, G. N. and Ramirez-Serrano, A. and Sun, Q.",
     booktitle = "ICRA",
-    title = "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road Ugvs",
+    title = "Vehicle State Prediction For Outdoor Autonomous High-Speed Off-Road {UGVs}",
     year = "2015"
 }
 </pre>
@@ -1541,7 +1541,7 @@ ___
 @InProceedings{Toyungyernsub_2021_ICRA,
     author = "Toyungyernsub, Maneekwan and Itkina, Masha and Senanayake, Ransalu and Kochenderfer, Mykel J.",
     booktitle = "ICRA",
-    title = "Double-Prong ConvLSTM for Spatiotemporal Occupancy Prediction in Dynamic Environments",
+    title = "Double-Prong {ConvLSTM} for Spatiotemporal Occupancy Prediction in Dynamic Environments",
     year = "2021"
 }
 </pre>
@@ -1684,7 +1684,7 @@ ___
 <pre>
 @InProceedings{Li_2022_CVPR_2,
     author = "Li, Yiming and Cao, Ziang and Liang, Andrew and Liang, Benjamin and Chen, Luoyao and Zhao, Hang and Feng, Chen",
-    title = "Egocentric Prediction of Action Target in 3D",
+    title = "Egocentric Prediction of Action Target in {3D}",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -1801,7 +1801,7 @@ ___
 @InProceedings{Kim_2022_ICRA,
     author = "Kim, Jinkyu and Mahjourian, Reza and Ettinger, Scott and Bansal, Mayank and White, Brandyn and Sapp, Ben and Anguelov, Dragomir",
     booktitle = "ICRA",
-    title = "StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving",
+    title = "{StopNet}: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving",
     year = "2022"
 }
 </pre>
@@ -2454,7 +2454,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Cunningham et al., "Improving slip prediction on mars using thermal inertia measurements", RSS, 2017.</em></strong> <a href=http://www.roboticsproceedings.org/rss13/p38.pdf>paper</a></summary>
+<summary><strong><em>Cunningham et al., "Improving Slip Prediction on Mars using Thermal Inertia Measurements", RSS, 2017.</em></strong> <a href=http://www.roboticsproceedings.org/rss13/p38.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2470,7 +2470,7 @@ ___
 <pre>
 @InProceedings{Cunningham_2017_RSS,
     author = "Cunningham, Christopher and Nesnas, Issa A and Whittaker, William L",
-    title = "Improving slip prediction on mars using thermal inertia measurements",
+    title = "Improving Slip Prediction on Mars using Thermal Inertia Measurements",
     booktitle = "RSS",
     year = "2017"
 }
@@ -2565,7 +2565,7 @@ ___
 <pre>
 @InProceedings{Weng_2022_ECCV,
     author = "Weng, Xinshuo and Nan, Junyu and Lee, Kuan-Hui and McAllister, Rowan and Gaidon, Adrien and Rhinehart, Nicholas and Kitani, Kris M.",
-    title = "S2Net: Stochastic Sequential Pointcloud Forecasting",
+    title = "{S2Net}: Stochastic Sequential Pointcloud Forecasting",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -2590,7 +2590,7 @@ ___
 <pre>
 @InProceedings{Mersch_2021_CoRL,
     author = "Mersch, Benedikt and Chen, Xieyuanli and Behley, Jens and Stachniss, Cyrill",
-    title = "Self-supervised Point Cloud Prediction Using 3D Spatio-temporal Convolutional Networks",
+    title = "Self-supervised Point Cloud Prediction Using {3D} Spatio-temporal Convolutional Networks",
     booktitle = "CoRL",
     year = "2021"
 }
@@ -2625,7 +2625,7 @@ ___
 <pre>
 @InProceedings{Kaneda_2022_ACCV,
     author = "Kaneda, Kanta and Wada, Yuiga and Iida, Tsumugi and Nishizuka, Naoto and Kubo, Y\^uki and Sugiura, Komei",
-    title = "Flare Transformer: Solar Flare Prediction using Magnetograms and Sunspot Physical Features",
+    title = "{Flare Transformer}: Solar Flare Prediction using Magnetograms and Sunspot Physical Features",
     booktitle = "ACCV",
     year = "2022"
 }
@@ -2660,7 +2660,7 @@ ___
 <pre>
 @InProceedings{Weng_2022_ECCV,
     author = "Weng, Xinshuo and Nan, Junyu and Lee, Kuan-Hui and McAllister, Rowan and Gaidon, Adrien and Rhinehart, Nicholas and Kitani, Kris M.",
-    title = "S2Net: Stochastic Sequential Pointcloud Forecasting",
+    title = "{S2Net}: Stochastic Sequential Pointcloud Forecasting",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -2732,7 +2732,7 @@ ___
 @InProceedings{Toyungyernsub_2021_ICRA,
     author = "Toyungyernsub, Maneekwan and Itkina, Masha and Senanayake, Ransalu and Kochenderfer, Mykel J.",
     booktitle = "ICRA",
-    title = "Double-Prong ConvLSTM for Spatiotemporal Occupancy Prediction in Dynamic Environments",
+    title = "Double-Prong {ConvLSTM} for Spatiotemporal Occupancy Prediction in Dynamic Environments",
     year = "2021"
 }
 </pre>
@@ -2767,7 +2767,7 @@ ___
 @InProceedings{Toyungyernsub_2021_ICRA,
     author = "Toyungyernsub, Maneekwan and Itkina, Masha and Senanayake, Ransalu and Kochenderfer, Mykel J.",
     booktitle = "ICRA",
-    title = "Double-Prong ConvLSTM for Spatiotemporal Occupancy Prediction in Dynamic Environments",
+    title = "Double-Prong {ConvLSTM} for Spatiotemporal Occupancy Prediction in Dynamic Environments",
     year = "2021"
 }
 </pre>
@@ -2984,7 +2984,7 @@ ___
 <pre>
 @InProceedings{Kaneda_2022_ACCV,
     author = "Kaneda, Kanta and Wada, Yuiga and Iida, Tsumugi and Nishizuka, Naoto and Kubo, Y\^uki and Sugiura, Komei",
-    title = "Flare Transformer: Solar Flare Prediction using Magnetograms and Sunspot Physical Features",
+    title = "{Flare Transformer}: Solar Flare Prediction using Magnetograms and Sunspot Physical Features",
     booktitle = "ACCV",
     year = "2022"
 }
@@ -3019,7 +3019,7 @@ ___
 <pre>
 @InProceedings{Kaneda_2022_ACCV,
     author = "Kaneda, Kanta and Wada, Yuiga and Iida, Tsumugi and Nishizuka, Naoto and Kubo, Y\^uki and Sugiura, Komei",
-    title = "Flare Transformer: Solar Flare Prediction using Magnetograms and Sunspot Physical Features",
+    title = "{Flare Transformer}: Solar Flare Prediction using Magnetograms and Sunspot Physical Features",
     booktitle = "ACCV",
     year = "2022"
 }
@@ -3161,7 +3161,7 @@ ___
 @InProceedings{Walters_2021_IROS,
     author = "Walters, Celyn and Hadfield, Simon",
     booktitle = "IROS",
-    title = "EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance",
+    title = "{EVReflex}: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance",
     year = "2021"
 }
 </pre>
@@ -3657,7 +3657,7 @@ ___
 <pre>
 @InProceedings{Weng_2020_CORL,
     author = "Weng, Xinshuo and Wang, Jianren and Levine, Sergey and Kitani, Kris and Rhinehart, Nick",
-    title = "Inverting the Pose Forecasting Pipeline with SPF2: Sequential Pointcloud Forecasting for Sequential Pose Forecasting",
+    title = "Inverting the Pose Forecasting Pipeline with {SPF2}: Sequential Pointcloud Forecasting for Sequential Pose Forecasting",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -3694,7 +3694,7 @@ ___
 <pre>
 @InProceedings{Weng_2020_CORL,
     author = "Weng, Xinshuo and Wang, Jianren and Levine, Sergey and Kitani, Kris and Rhinehart, Nick",
-    title = "Inverting the Pose Forecasting Pipeline with SPF2: Sequential Pointcloud Forecasting for Sequential Pose Forecasting",
+    title = "Inverting the Pose Forecasting Pipeline with {SPF2}: Sequential Pointcloud Forecasting for Sequential Pose Forecasting",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -3712,7 +3712,7 @@ ___
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Hu et al., "Probabilistic future prediction for video scene understanding", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610749.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.06409.pdf>arxiv</a></summary>
+<summary><strong><em>Hu et al., "Probabilistic Future Prediction for Video Scene Understanding", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610749.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.06409.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3732,7 +3732,7 @@ ___
 <pre>
 @InProceedings{Hu_2020_ECCV,
     author = "Hu, Anthony and Cotter, Fergal and Mohan, Nikhil and Gurau, Corina and Kendall, Alex",
-    title = "Probabilistic future prediction for video scene understanding",
+    title = "Probabilistic Future Prediction for Video Scene Understanding",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -3750,7 +3750,7 @@ ___
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Hu et al., "Probabilistic future prediction for video scene understanding", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610749.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.06409.pdf>arxiv</a></summary>
+<summary><strong><em>Hu et al., "Probabilistic Future Prediction for Video Scene Understanding", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610749.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.06409.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3770,7 +3770,7 @@ ___
 <pre>
 @InProceedings{Hu_2020_ECCV,
     author = "Hu, Anthony and Cotter, Fergal and Mohan, Nikhil and Gurau, Corina and Kendall, Alex",
-    title = "Probabilistic future prediction for video scene understanding",
+    title = "Probabilistic Future Prediction for Video Scene Understanding",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -3788,7 +3788,7 @@ ___
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Hu et al., "Probabilistic future prediction for video scene understanding", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610749.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.06409.pdf>arxiv</a></summary>
+<summary><strong><em>Hu et al., "Probabilistic Future Prediction for Video Scene Understanding", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610749.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.06409.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3808,7 +3808,7 @@ ___
 <pre>
 @InProceedings{Hu_2020_ECCV,
     author = "Hu, Anthony and Cotter, Fergal and Mohan, Nikhil and Gurau, Corina and Kendall, Alex",
-    title = "Probabilistic future prediction for video scene understanding",
+    title = "Probabilistic Future Prediction for Video Scene Understanding",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -3841,7 +3841,7 @@ ___
 <pre>
 @InProceedings{Yang_2020_CVPR,
     author = "Yang, Haotian and Zhu, Hao and Wang, Yanru and Huang, Mingkai and Shen, Qiu and Yang, Ruigang and Cao, Xun",
-    title = "FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction",
+    title = "{FaceScape}: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable {3D} Face Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -3875,7 +3875,7 @@ ___
 <pre>
 @InProceedings{Oh_2020_CVPR,
     author = "Oh, Geunseob and Valois, Jean-Sebastien",
-    title = "HCNAF: Hyper-Conditioned Neural Autoregressive Flow and its Application for Probabilistic Occupancy Map Forecasting",
+    title = "{HCNAF}: Hyper-Conditioned Neural Autoregressive Flow and its Application for Probabilistic Occupancy Map Forecasting",
     booktitle = "CVPR",
     year = "2020"
 }

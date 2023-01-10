@@ -121,7 +121,7 @@ A dataset of annotated poses and stereo pairs.
 <pre>
 @inproceedings{Alahari_2013_ICCV,
     author = "Alahari, Karteek and Seguin, Guillaume and Sivic, Josef and Laptev, Ivan",
-    title = "Pose estimation and segmentation of people in 3D movies",
+    title = "Pose Estimation and Segmentation of People in {3D} Movies",
     booktitle = "ICCV",
     year = "2013"
 }
@@ -160,7 +160,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{Adeli_2021_ICCV,
     author = "Adeli, Vida and Ehsanpour, Mahsa and Reid, Ian and Niebles, Juan Carlos and Savarese, Silvio and Adeli, Ehsan and Rezatofighi, Hamid",
-    title = "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild",
+    title = "{TRiPOD}: Human Trajectory and Pose Dynamics Forecasting in the Wild",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -216,7 +216,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{Zhong_2022_CVPR,
     author = "Zhong, Chongyang and Hu, Lei and Zhang, Zihao and Ye, Yongjing and Xia, Shihong",
-    title = "Spatio-Temporal Gating-Adjacency GCN for Human Motion Prediction",
+    title = "Spatio-Temporal Gating-Adjacency {GCN} for Human Motion Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -244,7 +244,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{Li_2022_ECCV,
     author = "Li, Maosen and Chen, Siheng and Zhang, Zijing and Xie, Lingxi and Tian, Qi and Zhang, Ya",
-    title = "Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction",
+    title = "Skeleton-Parted Graph Scattering Networks for {3D} Human Motion Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -301,7 +301,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 @InProceedings{Wang_2021_NeurIPS,
     author = "Wang, Jiashun and Xu, Huazhe and Narasimhan, Medhini and Wang, Xiaolong",
     booktitle = "NeurIPS",
-    title = "Multi-Person 3D Motion Prediction with Multi-Range Transformers",
+    title = "Multi-Person {3D} Motion Prediction with Multi-Range Transformers",
     year = "2021"
 }
 </pre>
@@ -327,7 +327,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{Cui_2021_CVPR,
     author = "Cui, Qiongjie and Sun, Huaijiang",
-    title = "Towards Accurate 3D Human Motion Prediction From Incomplete Observations",
+    title = "Towards Accurate {3D} Human Motion Prediction From Incomplete Observations",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -508,7 +508,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{vonMarcard_2018_ECCV,
     author = "von Marcard, Timo and Henschel, Roberto and Black, Michael and Rosenhahn, Bodo and Pons-Moll, Gerard",
-    title = "Recovering Accurate 3D Human Pose In The Wild Using Imus And A Moving Camera",
+    title = "Recovering Accurate {3D} Human Pose In The Wild Using {IMUs} And A Moving Camera",
     booktitle = "ECCV",
     year = "2018"
 }
@@ -890,7 +890,7 @@ A dataset of 648 hours of video with 100 videos per 200 different activity class
 <pre>
 @InProceedings{Caba_2015_CVPR,
     author = "Fabian Caba Heilbron, Victor Escorcia, Bernard Ghanem and Niebles, Juan Carlos",
-    title = "ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding",
+    title = "{ActivityNet}: A Large-Scale Video Benchmark for Human Activity Understanding",
     booktitle = "CVPR",
     year = "2015"
 }
@@ -1121,7 +1121,7 @@ A driving dataset of 5K vehicle instances, 110K lane segments and 100 mins of se
 <pre>
 @InProceedings{Zhang_2022_ECCV,
     author = "Zhang, Yuzhen and Wang, Wentong and Guo, Weizhi and Lv, Pei and Xu, Mingliang and Chen, Wei and Manocha, Dinesh",
-    title = "D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights",
+    title = "{D2-TPred}: Discontinuous Dependency for Trajectory Prediction under Traffic Lights",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -1213,7 +1213,7 @@ A driving dataset of 5K vehicle instances, 110K lane segments and 100 mins of se
 <pre>
 @InProceedings{Fang_2020_CVPR,
     author = "Fang, Liangji and Jiang, Qinhong and Shi, Jianping and Zhou, Bolei",
-    title = "TPNet: Trajectory Proposal Network for Motion Prediction",
+    title = "{TPNet}: Trajectory Proposal Network for Motion Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -1272,7 +1272,7 @@ A driving dataset of 5K vehicle instances, 110K lane segments and 100 mins of se
 @Article{Chandra_2020_RAL,
     author = "Chandra, R. and Guan, T. and Panuganti, S. and Mittal, T. and Bhattacharya, U. and Bera, A. and Manocha, D.",
     journal = "RAL",
-    title = "Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs",
+    title = "Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in {Graph-LSTMs}",
     year = "2020",
     volume = "5",
     number = "3",
@@ -1289,7 +1289,7 @@ A driving dataset of 5K vehicle instances, 110K lane segments and 100 mins of se
 <pre>
 @article{Wang_2019_PAMI,
     author = "Wang, Peng and Huang, Xinyu and Cheng, Xinjing and Zhou, Dingfu and Geng, Qichuan and Yang, Ruigang",
-    title = "The Apolloscape Open Dataset for Autonomous Driving and its Application",
+    title = "The {ApolloScape} Open Dataset for Autonomous Driving and its Application",
     journal = "PAMI",
     year = "2019"
 }
@@ -1359,7 +1359,7 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 <pre>
 @InProceedings{Zhong_2022_CVPR,
     author = "Zhong, Chongyang and Hu, Lei and Zhang, Zihao and Ye, Yongjing and Xia, Shihong",
-    title = "Spatio-Temporal Gating-Adjacency GCN for Human Motion Prediction",
+    title = "Spatio-Temporal Gating-Adjacency {GCN} for Human Motion Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -1388,7 +1388,7 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 <pre>
 @InProceedings{Zhang_2021_CVPR,
     author = "Zhang, Yan and Black, Michael J. and Tang, Siyu",
-    title = "We Are More Than Our Joints: Predicting How 3D Bodies Move",
+    title = "We Are More Than Our Joints: Predicting How {3D} Bodies Move",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -1459,7 +1459,7 @@ A dataset of 40 hours of video recording of 300 subjects with more than 11K moti
 <pre>
 @InProceedings{Mahmood_2019_ICCV,
     author = "Mahmood, Naureen and Ghorbani, Nima and Troje, Nikolaus F. and Pons-Moll, Gerard and Black, Michael J.",
-    title = "AMASS}: Archive of Motion Capture as Surface Shapes",
+    title = "{AMASS}: Archive of Motion Capture as Surface Shapes",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -1549,7 +1549,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <pre>
 @InProceedings{Zhou_2022_CVPR,
     author = "Zhou, Zikang and Ye, Luyao and Wang, Jianping and Wu, Kui and Lu, Kejie",
-    title = "HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction",
+    title = "{HiVT}: Hierarchical Vector Transformer for Multi-Agent Motion Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -1577,7 +1577,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <pre>
 @InProceedings{Wang_2022_CVPR_3,
     author = "Wang, Jingke and Ye, Tengju and Gu, Ziqing and Chen, Junbo",
-    title = "LTP: Lane-Based Trajectory Prediction for Autonomous Driving",
+    title = "{LTP}: Lane-Based Trajectory Prediction for Autonomous Driving",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -1659,7 +1659,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <pre>
 @InProceedings{Bhattacharyya_2022_CoRL,
     author = "Bhattacharyya, Prarthana and Huang, Chengjie and Czarnecki, Krzysztof",
-    title = "SSL}-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving",
+    title = "{SSL}-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving",
     booktitle = "CoRL",
     year = "2022"
 }
@@ -1700,7 +1700,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 </details>
 <details close>
-<summary><em>Ngiam et al., "Scene Transformer: A unified architecture for predicting future trajectories of multiple agents", ICLR, 2022.</em> <a href=https://openreview.net/pdf?id=Wm3EA5OlHsG>paper</a> <a href=https://arxiv.org/pdf/2106.08417.pdf>arxiv</a></summary>
+<summary><em>Ngiam et al., "Scene Transformer: A Unified Architecture for Predicting Future Trajectories of Multiple Agents", ICLR, 2022.</em> <a href=https://openreview.net/pdf?id=Wm3EA5OlHsG>paper</a> <a href=https://arxiv.org/pdf/2106.08417.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1719,7 +1719,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <pre>
 @InProceedings{Ngiam_2022_ICLR,
     author = "Ngiam, Jiquan and Vasudevan, Vijay and Caine, Benjamin and Zhang, Zhengdong and Chiang, Hao-Tien Lewis and Ling, Jeffrey and Roelofs, Rebecca and Bewley, Alex and Liu, Chenxi and Venugopal, Ashish and Weiss, David J and Sapp, Ben and Chen, Zhifeng and Shlens, Jonathon",
-    title = "Scene Transformer: A unified architecture for predicting future trajectories of multiple agents",
+    title = "{Scene Transformer}: A Unified Architecture for Predicting Future Trajectories of Multiple Agents",
     booktitle = "ICLR",
     year = "2022"
 }
@@ -1774,7 +1774,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 @InProceedings{Gilles_2022_ICRA,
     author = "Gilles, Thomas and Sabatini, Stefano and Tsishkou, Dzmitry and Stanciulescu, Bogdan and Moutarde, Fabien",
     booktitle = "ICRA",
-    title = "GOHOME: Graph-Oriented Heatmap Output for future Motion Estimation",
+    title = "{GOHOME}: Graph-Oriented Heatmap Output for future Motion Estimation",
     year = "2022"
 }
 </pre>
@@ -1832,7 +1832,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 @InProceedings{Kim_2022_ICRA,
     author = "Kim, Jinkyu and Mahjourian, Reza and Ettinger, Scott and Bansal, Mayank and White, Brandyn and Sapp, Ben and Anguelov, Dragomir",
     booktitle = "ICRA",
-    title = "StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving",
+    title = "{StopNet}: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving",
     year = "2022"
 }
 </pre>
@@ -1886,7 +1886,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 @InProceedings{Schmidt_2022_ICRA,
     author = "Schmidt, Julian and Jordan, Julian and Gritschneder, Franz and Dietmayer, Klaus",
     booktitle = "ICRA",
-    title = "CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention",
+    title = "{CRAT-Pred}: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention",
     year = "2022"
 }
 </pre>
@@ -1895,7 +1895,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 </details>
 <details close>
-<summary><em>Su et al., "Narrowing the coordinate-frame gap in behavior prediction models: Distillation for efficient and accurate scene-centric motion forecasting", ICRA, 2022.</em> <a href=https://ieeexplore.ieee.org/document/9812368>paper</a> <a href=https://arxiv.org/pdf/2206.03970.pdf>arxiv</a></summary>
+<summary><em>Su et al., "Narrowing the Coordinate-frame Gap in Behavior Prediction Models: Distillation for Efficient and Accurate Scene-centric Motion Forecasting", ICRA, 2022.</em> <a href=https://ieeexplore.ieee.org/document/9812368>paper</a> <a href=https://arxiv.org/pdf/2206.03970.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1917,7 +1917,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 @InProceedings{Su_2022_ICRA,
     author = "Su, DiJia Andy and Douillard, Bertrand and Al-Rfou, Rami and Park, Cheol and Sapp, Benjamin",
     booktitle = "ICRA",
-    title = "Narrowing the coordinate-frame gap in behavior prediction models: Distillation for efficient and accurate scene-centric motion forecasting",
+    title = "Narrowing the Coordinate-frame Gap in Behavior Prediction Models: Distillation for Efficient and Accurate Scene-centric Motion Forecasting",
     year = "2022"
 }
 </pre>
@@ -2030,7 +2030,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <pre>
 @InProceedings{Kim_2021_CVPR,
     author = "Kim, ByeoungDo and Park, Seong Hyeon and Lee, Seokhwan and Khoshimjonov, Elbek and Kum, Dongsuk and Kim, Junsoo and Kim, Jeong Soo and Choi, Jun Won",
-    title = "LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents",
+    title = "{LaPred}: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -2084,7 +2084,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <pre>
 @InProceedings{Ye_2021_CVPR,
     author = "Ye, Maosheng and Cao, Tongyi and Chen, Qifeng",
-    title = "TPCN: Temporal Point Cloud Networks for Motion Forecasting",
+    title = "{TPCN}: Temporal Point Cloud Networks for Motion Forecasting",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -2140,7 +2140,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <pre>
 @InProceedings{Gu_2021_ICCV,
     author = "Gu, Junru and Sun, Chen and Zhao, Hang",
-    title = "DenseTNT: End-to-End Trajectory Prediction From Dense Goal Sets",
+    title = "{DenseTNT}: End-to-End Trajectory Prediction From Dense Goal Sets",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -2255,7 +2255,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 @InProceedings{Rella_2021_IROS,
     author = "Rella, Edoardo Mello and Zaech, Jan-Nico and Liniger, Alexander and Van Gool, Luc",
     booktitle = "IROS",
-    title = "Decoder Fusion RNN: Context and Interaction Aware Decoders for Trajectory Prediction",
+    title = "Decoder {Fusion RNN}: Context and Interaction Aware Decoders for Trajectory Prediction",
     year = "2021"
 }
 </pre>
@@ -2282,7 +2282,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 @InProceedings{Zeng_2021_IROS,
     author = "Zeng, Wenyuan and Liang, Ming and Liao, Renjie and Urtasun, Raquel",
     booktitle = "IROS",
-    title = "LaneRCNN: Distributed Representations for Graph-Centric Motion Forecasting",
+    title = "{LaneRCNN}: Distributed Representations for Graph-Centric Motion Forecasting",
     year = "2021"
 }
 </pre>
@@ -2368,7 +2368,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <pre>
 @InProceedings{Fang_2020_CVPR,
     author = "Fang, Liangji and Jiang, Qinhong and Shi, Jianping and Zhou, Bolei",
-    title = "TPNet: Trajectory Proposal Network for Motion Prediction",
+    title = "{TPNet}: Trajectory Proposal Network for Motion Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -2426,7 +2426,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <pre>
 @InProceedings{Liu_2020_ECCV_2,
     author = "Liu, Buyu and Pittaluga, Francesco and Chandraker, Manmohan and others",
-    title = "SMART: Simultaneous Multi-Agent Recurrent Trajectory Prediction",
+    title = "{SMART}: Simultaneous Multi-Agent Recurrent Trajectory Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -2454,7 +2454,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <pre>
 @InProceedings{Liang_2020_ECCV,
     author = "Liang, Junwei and Jiang, Lu and Hauptmann, Alexander",
-    title = "SimAug: Learning Robust Representations from Simulation for Trajectory Prediction",
+    title = "{SimAug}: Learning Robust Representations from Simulation for Trajectory Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -2495,7 +2495,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 </details>
 <details close>
-<summary><em>Biktairov et al., "PRANK: motion Prediction based on RANKing", NeurIPS, 2020.</em> <a href=https://papers.nips.cc/paper/2020/file/1b0251ccb8bd5f9ccf444e4bda7713e3-Paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2010.12007.pdf>arxiv</a></summary>
+<summary><em>Biktairov et al., "PRANK: Motion Prediction Based on RANKing", NeurIPS, 2020.</em> <a href=https://papers.nips.cc/paper/2020/file/1b0251ccb8bd5f9ccf444e4bda7713e3-Paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2010.12007.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2514,9 +2514,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <pre>
 @InProceedings{Biktairov_2020_NeurIPS,
     author = "Biktairov, Yuriy and Stebelev, Maxim and Rudenko, Irina and Shliazhko, Oleh and Yangel, Boris",
-    editor = "Larochelle, H. and Ranzato, M. and Hadsell, R. and Balcan, M. F. and Lin, H.",
     booktitle = "NeurIPS",
-    title = "PRANK: motion Prediction based on RANKing",
+    title = "{PRANK}: Motion Prediction Based on {RANKing}",
     year = "2020"
 }
 </pre>
@@ -2656,7 +2655,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 @Article{Chandra_2020_RAL,
     author = "Chandra, R. and Guan, T. and Panuganti, S. and Mittal, T. and Bhattacharya, U. and Bera, A. and Manocha, D.",
     journal = "RAL",
-    title = "Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs",
+    title = "Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in {Graph-LSTMs}",
     year = "2020",
     volume = "5",
     number = "3",
@@ -2685,7 +2684,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 @Article{Huang_2020_RAL,
     author = "Huang, X. and McGill, S. G. and DeCastro, J. A. and Fletcher, L. and Leonard, J. J. and Williams, B. C. and Rosman, G.",
     journal = "RAL",
-    title = "DiversityGAN: Diversity-Aware Vehicle Motion Prediction via Latent Semantic Sampling",
+    title = "{DiversityGAN}: Diversity-Aware Vehicle Motion Prediction via Latent Semantic Sampling",
     year = "2020",
     volume = "5",
     number = "4",
@@ -2697,7 +2696,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 </details>
 <details close>
-<summary><em>Zhao et al., "Tnt: Target-driven trajectory prediction", CoRL, 2020.</em> <a href=https://drive.google.com/file/d/1Ol40GkiELqcechS9eWINoacMb5ebDUkD/view>paper</a> <a href=https://arxiv.org/pdf/2008.08294.pdf>arxiv</a></summary>
+<summary><em>Zhao et al., "TNT: Target-driven Trajectory Prediction", CoRL, 2020.</em> <a href=https://drive.google.com/file/d/1Ol40GkiELqcechS9eWINoacMb5ebDUkD/view>paper</a> <a href=https://arxiv.org/pdf/2008.08294.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2718,7 +2717,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <pre>
 @InProceedings{Zhao_2020_CORL,
     author = "Zhao, Hang and Gao, Jiyang and Lan, Tian and Sun, Chen and Sapp, Benjamin and Varadarajan, Balakrishnan and Shen, Yue and Shen, Yi and Chai, Yuning and Schmid, Cordelia and others",
-    title = "Tnt: Target-driven trajectory prediction",
+    title = "{TNT}: Target-driven Trajectory Prediction",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -2744,7 +2743,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <pre>
 @InProceedings{Chang_2019_CVPR,
     author = "Chang, Ming-Fang and Lambert, John and Sangkloy, Patsorn and Singh, Jagjeet and Bak, Slawomir and Hartnett, Andrew and Wang, De and Carr, Peter and Lucey, Simon and Ramanan, Deva and Hays, James",
-    title = "Argoverse: 3D Tracking And Forecasting With Rich Maps",
+    title = "Argoverse: {3D} Tracking And Forecasting With Rich Maps",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -2759,7 +2758,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <pre>
 @InProceedings{Chang_2019_CVPR,
     author = "Chang, Ming-Fang and Lambert, John and Sangkloy, Patsorn and Singh, Jagjeet and Bak, Slawomir and Hartnett, Andrew and Wang, De and Carr, Peter and Lucey, Simon and Ramanan, Deva and Hays, James",
-    title = "Argoverse: 3D Tracking And Forecasting With Rich Maps",
+    title = "Argoverse: {3D} Tracking And Forecasting With Rich Maps",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -2869,7 +2868,7 @@ An action dataset of 80 atomic visual actions in 430 videos with 1.62M correspon
 <pre>
 @InProceedings{Gu_2018_CVPR,
     author = "Gu, Chunhui and Sun, Chen and Ross, David A and Vondrick, Carl and Pantofaru, Caroline and Li, Yeqing and Vijayanarasimhan, Sudheendra and Toderici, George and Ricco, Susanna and Sukthankar, Rahul and others",
-    title = "Ava: A Video Dataset Of Spatio-Temporally Localized Atomic Visual Actions",
+    title = "{AVA}: A Video Dataset Of Spatio-Temporally Localized Atomic Visual Actions",
     booktitle = "CVPR",
     year = "2018"
 }
@@ -2891,7 +2890,7 @@ A dataset of 40k frames of driving with semantic segmentation, 12k frames with 3
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Buhet et al., "PLOP: Probabilistic poLynomial Objects trajectory Planning for autonomous driving", CoRL, 2020.</em> <a href=https://drive.google.com/file/d/1--QAL2sR7KMk9R4DwxyfJAT5iGCheFrn/view>paper</a> <a href=https://arxiv.org/pdf/2003.08744.pdf>arxiv</a></summary>
+<summary><em>Buhet et al., "PLOP: Probabilistic PoLynomial Objects Trajectory Planning for Autonomous Driving", CoRL, 2020.</em> <a href=https://drive.google.com/file/d/1--QAL2sR7KMk9R4DwxyfJAT5iGCheFrn/view>paper</a> <a href=https://arxiv.org/pdf/2003.08744.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2908,7 +2907,7 @@ A dataset of 40k frames of driving with semantic segmentation, 12k frames with 3
 <pre>
 @InProceedings{Buhet_2020_CORL,
     author = "Buhet, Thibault and Wirbel, Emilie and Bursuc, Andrei and Perrotton, Xavier",
-    title = "PLOP: Probabilistic poLynomial Objects trajectory Planning for autonomous driving",
+    title = "{PLOP}: Probabilistic PoLynomial Objects Trajectory Planning for Autonomous Driving",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -2922,8 +2921,8 @@ A dataset of 40k frames of driving with semantic segmentation, 12k frames with 3
 <summary><strong>Bibtex</strong></summary>
 <pre>
 @Article{Geyer_2020_arxiv,
-    author = Geyer, Jakob and Kassahun, Yohannes and Mahmudi, Mentar and Ricou, Xavier and Durgesh, Rupesh and Chung, Andrew S and Hauswald, Lorenz and Pham, Viet Hoang and M{\"u}hlegg, Maximilian and Dorn, Sebastian and others,
-    title = "A2d2: Audi autonomous driving dataset",
+    author = {Geyer, Jakob and Kassahun, Yohannes and Mahmudi, Mentar and Ricou, Xavier and Durgesh, Rupesh and Chung, Andrew S and Hauswald, Lorenz and Pham, Viet Hoang and M{\"u}hlegg, Maximilian and Dorn, Sebastian and others},
+    title = "{A2d2}: Audi Autonomous Driving Dataset",
     journal = "arXiv:2004.06320",
     year = "2020"
 }
@@ -3006,7 +3005,7 @@ A dataset with language labels describing the actions being performed in mocap s
 <pre>
 @InProceedings{Punnakkal_2021_CVPR,
     author = "Punnakkal, Abhinanda R. and Chandrasekaran, Arjun and Athanasiou, Nikos and Quiros-Ramirez, Alejandra and Black, Michael J.",
-    title = "BABEL: Bodies, Action and Behavior With English Labels",
+    title = "{BABEL}: Bodies, Action and Behavior With English Labels",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -3088,7 +3087,7 @@ A dataset of object manipulation using a robot arm with 59k object pushing motio
 </ul>
 </details>
 <details close>
-<summary><em>Franceschi et al., "Stochastic latent residual video prediction", ICML, 2020.</em> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
+<summary><em>Franceschi et al., "Stochastic Latent Residual Video Prediction", ICML, 2020.</em> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3108,8 +3107,8 @@ A dataset of object manipulation using a robot arm with 59k object pushing motio
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Franceschi_2020_ICML,
-    author = Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick,
-    title = "Stochastic latent residual video prediction",
+    author = {Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick},
+    title = "Stochastic Latent Residual Video Prediction",
     booktitle = "ICML",
     year = "2020"
 }
@@ -3148,7 +3147,7 @@ A dataset of object manipulation using a robot arm with 59k object pushing motio
 </ul>
 </details>
 <details close>
-<summary><em>Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.12165.pdf>arxiv</a></summary>
+<summary><em>Castrejon et al., "Improved Conditional VRNNs For Video Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.12165.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3167,7 +3166,7 @@ A dataset of object manipulation using a robot arm with 59k object pushing motio
 <pre>
 @InProceedings{Castrejon_2019_ICCV,
     author = "Castrejon, Lluis and Ballas, Nicolas and Courville, Aaron",
-    title = "Improved Conditional Vrnns For Video Prediction",
+    title = "Improved Conditional {VRNNs} For Video Prediction",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -3275,7 +3274,7 @@ A dataset of basketball players’ trajectories for 2015-16 NBA games
 <pre>
 @InProceedings{Hauri_2021_WACV,
     author = "Hauri, Sandro and Djuric, Nemanja and Radosavljevic, Vladan and Vucetic, Slobodan",
-    title = "Multi-Modal Trajectory Prediction of NBA Players",
+    title = "Multi-Modal Trajectory Prediction of {NBA} Players",
     booktitle = "WACV",
     year = "2021"
 }
@@ -3671,7 +3670,7 @@ A dataset of 700 driving events using inside and outside looking cameras with an
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Jain et al., "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1511.05298.pdf>arxiv</a></summary>
+<summary><em>Jain et al., "Structural-RNN: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1511.05298.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3690,7 +3689,7 @@ A dataset of 700 driving events using inside and outside looking cameras with an
 <pre>
 @InProceedings{Jain_2016_CVPR,
     author = "Jain, Ashesh and Zamir, Amir R. and Savarese, Silvio and Saxena, Ashutosh",
-    title = "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs",
+    title = "{Structural-RNN}: Deep Learning On Spatio-Temporal Graphs",
     booktitle = "CVPR",
     year = "2016"
 }
@@ -3864,7 +3863,7 @@ A dataset of 77 hours of a video recording showing 10 breakfast preparation acti
 </ul>
 </details>
 <details close>
-<summary><em>Morais et al., "Learning to abstract and predict human actions", BMVC, 2020.</em> <a href=https://www.bmvc2020-conference.com/assets/papers/0979.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.09234.pdf>arxiv</a> <a href=https://github.com/RomeroBarata/hierarchical_action_prediction>code</a></summary>
+<summary><em>Morais et al., "Learning to Abstract and Predict Human Actions", BMVC, 2020.</em> <a href=https://www.bmvc2020-conference.com/assets/papers/0979.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.09234.pdf>arxiv</a> <a href=https://github.com/RomeroBarata/hierarchical_action_prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3880,7 +3879,7 @@ A dataset of 77 hours of a video recording showing 10 breakfast preparation acti
 <pre>
 @InProceedings{Morais_2020_BMVC,
     author = "Morais, Romero and Le, Vuong and Tran, Truyen and Venkatesh, Svetha",
-    title = "Learning to abstract and predict human actions",
+    title = "Learning to Abstract and Predict Human Actions",
     booktitle = "BMVC",
     year = "2020"
 }
@@ -4138,7 +4137,7 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 </ul>
 </details>
 <details close>
-<summary><em>Jain et al., "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1511.05298.pdf>arxiv</a></summary>
+<summary><em>Jain et al., "Structural-RNN: Deep Learning On Spatio-Temporal Graphs", CVPR, 2016.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1511.05298.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4157,7 +4156,7 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 <pre>
 @InProceedings{Jain_2016_CVPR,
     author = "Jain, Ashesh and Zamir, Amir R. and Savarese, Silvio and Saxena, Ashutosh",
-    title = "Structural-Rnn: Deep Learning On Spatio-Temporal Graphs",
+    title = "{Structural-RNN}: Deep Learning On Spatio-Temporal Graphs",
     booktitle = "CVPR",
     year = "2016"
 }
@@ -4200,7 +4199,7 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 <pre>
 @Article{Koppula_2013_IJRR,
     author = "Koppula, Hema Swetha and Gupta, Rudhir and Saxena, Ashutosh",
-    title = "Learning Human Activities And Object Affordances From Rgb-D Videos",
+    title = "Learning Human Activities And Object Affordances From {RGB-D} Videos",
     journal = "IJRR",
     volume = "32",
     number = "8",
@@ -4247,7 +4246,7 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <pre>
 @InProceedings{Gao_2022_CVPR,
     author = "Gao, Zhangyang and Tan, Cheng and Wu, Lirong and Li, Stan Z.",
-    title = "SimVP: Simpler Yet Better Video Prediction",
+    title = "{SimVP}: Simpler Yet Better Video Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -4309,7 +4308,7 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 @InProceedings{Chang_2021_NeurIPS,
     author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Ye, Yan and Xinguang, Xiang and Gao, Wen",
     booktitle = "NeurIPS",
-    title = "MAU: A Motion-Aware Unit for Video Prediction and Beyond",
+    title = "{MAU}: A Motion-Aware Unit for Video Prediction and Beyond",
     year = "2021"
 }
 </pre>
@@ -4349,7 +4348,7 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 </details>
 <details close>
-<summary><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
+<summary><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle GAN", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4370,7 +4369,7 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <pre>
 @InProceedings{Kwon_2019_CVPR,
     author = "Kwon, Yong-Hoon and Park, Min-Gyu",
-    title = "Predicting Future Frames Using Retrospective Cycle Gan",
+    title = "Predicting Future Frames Using Retrospective Cycle {GAN}",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -4407,7 +4406,7 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 </details>
 <details close>
-<summary><em>Ho et al., "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
+<summary><em>Ho et al., "SME-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4426,7 +4425,7 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <pre>
 @InProceedings{Ho_2019_ICCV,
     author = "Ho, Yung-Han and Cho, Chuan-Yuan and Peng, Wen-Hsiao and Jin, Guo-Lun",
-    title = "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning",
+    title = "{SME-Net}: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -4523,7 +4522,7 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 </details>
 <details close>
-<summary><em>Reda et al., "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1811.00684.pdf>arxiv</a></summary>
+<summary><em>Reda et al., "SDC-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1811.00684.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4542,7 +4541,7 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <pre>
 @InProceedings{Reda_2018_ECCV,
     author = "Reda, Fitsum A. and Liu, Guilin and Shih, Kevin J. and Kirby, Robert and Barker, Jon and Tarjan, David and Tao, Andrew and Catanzaro, Bryan",
-    title = "Sdc-Net: Video Prediction Using Spatially-Displaced Convolution",
+    title = "{SDC-Net}: Video Prediction Using Spatially-Displaced Convolution",
     booktitle = "ECCV",
     year = "2018"
 }
@@ -4552,7 +4551,7 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 </details>
 <details close>
-<summary><em>Liang et al., "Dual Motion Gan For Future-Flow Embedded Video Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a></summary>
+<summary><em>Liang et al., "Dual Motion GAN For Future-Flow Embedded Video Prediction", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.00284.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4572,7 +4571,7 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <pre>
 @InProceedings{Liang_2017_ICCV,
     author = "Liang, Xiaodan and Lee, Lisa and Dai, Wei and Xing, Eric P.",
-    title = "Dual Motion Gan For Future-Flow Embedded Video Prediction",
+    title = "Dual Motion {GAN} For Future-Flow Embedded Video Prediction",
     booktitle = "ICCV",
     year = "2017"
 }
@@ -4582,7 +4581,7 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 </details>
 <details close>
-<summary><em>Hariyono et al., "Estimation Of Collision Risk For Improving Driver'S Safety", IECON, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7793743>paper</a></summary>
+<summary><em>Hariyono et al., "Estimation Of Collision Risk For Improving Driver's Safety", IECON, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7793743>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4600,7 +4599,7 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 <pre>
 @InProceedings{Hariyono_2016_IES,
     author = "Hariyono, Joko and Shahbaz, Ajmal and Kurnianggoro, Laksono and Jo, Kang-Hyun",
-    title = "Estimation Of Collision Risk For Improving Driver'S Safety",
+    title = "Estimation Of Collision Risk For Improving Driver's Safety",
     booktitle = "IECON",
     year = "2016"
 }
@@ -4738,7 +4737,7 @@ A dataset of 900 simulated driving segments for multi-agent trajectory forecasti
 @InProceedings{Filatov_2020_ICRA,
     author = "Filatov, A. and Rykov, A. and Murashkin, V.",
     booktitle = "ICRA",
-    title = "Any Motion Detector: Learning Class-agnostic Scene Dynamics from a Sequence of LiDAR Point Clouds",
+    title = "Any Motion Detector: Learning Class-agnostic Scene Dynamics from a Sequence of {LiDAR} Point Clouds",
     year = "2020"
 }
 </pre>
@@ -4869,7 +4868,7 @@ A dataset of 900 simulated driving segments for multi-agent trajectory forecasti
 <pre>
 @InProceedings{Oh_2020_CVPR,
     author = "Oh, Geunseob and Valois, Jean-Sebastien",
-    title = "HCNAF: Hyper-Conditioned Neural Autoregressive Flow and its Application for Probabilistic Occupancy Map Forecasting",
+    title = "{HCNAF}: Hyper-Conditioned Neural Autoregressive Flow and its Application for Probabilistic Occupancy Map Forecasting",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -4938,7 +4937,7 @@ A dataset of Ceilidh Scottish dance sequences performed by 16 dancers in two sty
 <pre>
 @mastersthesis{Aizeboje_2016_masc,
     author = "Aizeboje, Jeremiah",
-    title = "Ceilidh dance recognition from an overhead camera",
+    title = "Ceilidh Dance Recognition from an Overhead Camera",
     year = "2016",
     school = "University of Edinburgh"
 }
@@ -4991,8 +4990,8 @@ A dataset of ~10K indoor videos with 157 action  and 46 object classes
 <summary><strong>Bibtex</strong></summary>
 <pre>
 @InProceedings{Sigurdsson_2016_ECCV,
-    author = Sigurdsson, Gunnar A and Varol, G{\"u}l and Wang, Xiaolong and Farhadi, Ali and Laptev, Ivan and Gupta, Abhinav,
-    title = "Hollywood in homes: Crowdsourcing data collection for activity understanding",
+    author = {Sigurdsson, Gunnar A and Varol, G{\"u}l and Wang, Xiaolong and Farhadi, Ali and Laptev, Ivan and Gupta, Abhinav},
+    title = "Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding",
     booktitle = "ECCV",
     year = "2016"
 }
@@ -5033,7 +5032,7 @@ A physics-based simulation of particles.
 @InProceedings{Li_2021_NeurIPS,
     author = "Li, Longyuan and Yao, Jian and Wenliang, Li and He, Tong and Xiao, Tianjun and Yan, Junchi and Wipf, David and Zhang, Zheng",
     booktitle = "NeurIPS",
-    title = "GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction",
+    title = "{GRIN}: Generative Relation and Intention Network for Multi-agent Trajectory Prediction",
     year = "2021"
 }
 </pre>
@@ -5079,7 +5078,7 @@ A physics-based simulation of particles.
 <pre>
 @InProceedings{Kipf_ICML_2018,
     author = "Kipf, Thomas and Fetaya, Ethan and Wang, Kuan-Chieh and Welling, Max and Zemel, Richard",
-    title = "Neural relational inference for interacting systems",
+    title = "Neural Relational Inference for Interacting Systems",
     booktitle = "ICML",
     year = "2018"
 }
@@ -5101,7 +5100,7 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
+<summary><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle GAN", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5122,7 +5121,7 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 <pre>
 @InProceedings{Kwon_2019_CVPR,
     author = "Kwon, Yong-Hoon and Park, Min-Gyu",
-    title = "Predicting Future Frames Using Retrospective Cycle Gan",
+    title = "Predicting Future Frames Using Retrospective Cycle {GAN}",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -5167,7 +5166,7 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 <pre>
 @InProceedings{Lu_2013_ICCV,
     author = "Lu, Cewu and Shi, Jianping and Jia, Jiaya",
-    title = "Abnormal Event Detection At 150 Fps In Matlab",
+    title = "Abnormal Event Detection At 150 Fps In {M}atlab",
     booktitle = "ICCV",
     year = "2013"
 }
@@ -5381,7 +5380,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 </details>
 <details close>
-<summary><em>Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.12165.pdf>arxiv</a></summary>
+<summary><em>Castrejon et al., "Improved Conditional VRNNs For Video Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.12165.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5400,7 +5399,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 <pre>
 @InProceedings{Castrejon_2019_ICCV,
     author = "Castrejon, Lluis and Ballas, Nicolas and Courville, Aaron",
-    title = "Improved Conditional Vrnns For Video Prediction",
+    title = "Improved Conditional {VRNNs} For Video Prediction",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -5456,7 +5455,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 <pre>
 @InProceedings{Marchetti_2020_CVPR,
     author = "Marchetti, Francesco and Becattini, Federico and Seidenari, Lorenzo and Del Bimbo, Alberto",
-    title = "MANTRA: Memory Augmented Networks for Multiple Trajectory Prediction",
+    title = "{MANTRA}: Memory Augmented Networks for Multiple Trajectory Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -5466,7 +5465,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 </details>
 <details close>
-<summary><em>Srikanth et al., "Infer: Intermediate Representations For Future Prediction", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8968553>paper</a> <a href=https://arxiv.org/pdf/1903.10641.pdf>arxiv</a> <a href=https://rebrand.ly/INFER-results>code</a></summary>
+<summary><em>Srikanth et al., "INFER: INtermediate Representations For FuturE PRediction", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8968553>paper</a> <a href=https://arxiv.org/pdf/1903.10641.pdf>arxiv</a> <a href=https://rebrand.ly/INFER-results>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5484,7 +5483,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 @InProceedings{Srikanth_2019_IROS,
     author = "Srikanth, Shashank and Ansari, Junaid Ahmed and Sharma, Sarthak and others",
     booktitle = "IROS",
-    title = "Infer: Intermediate Representations For Future Prediction",
+    title = "{INFER}: {IN}termediate Representations For {F}utur{E} P{R}ediction",
     year = "2019"
 }
 </pre>
@@ -5599,7 +5598,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 </details>
 <details close>
-<summary><em>Hu et al., "Probabilistic future prediction for video scene understanding", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610749.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.06409.pdf>arxiv</a></summary>
+<summary><em>Hu et al., "Probabilistic Future Prediction for Video Scene Understanding", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610749.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.06409.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5619,7 +5618,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 <pre>
 @InProceedings{Hu_2020_ECCV,
     author = "Hu, Anthony and Cotter, Fergal and Mohan, Nikhil and Gurau, Corina and Kendall, Alex",
-    title = "Probabilistic future prediction for video scene understanding",
+    title = "Probabilistic Future Prediction for Video Scene Understanding",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -5808,7 +5807,7 @@ A dataset of 500+ front-view sequences of pedestrian trajectories annotated at 3
 @InProceedings{Ansari_2020_IROS,
     author = "Ansari, J. A. and Bhowmick, B.",
     booktitle = "IROS",
-    title = "Simple means Faster: Real-Time Human Motion Forecasting in Monocular First Person Videos on CPU",
+    title = "Simple means Faster: Real-Time Human Motion Forecasting in Monocular First Person Videos on {CPU}",
     year = "2020"
 }
 </pre>
@@ -5916,7 +5915,7 @@ A motion dataset consists of various activities including human interaction, int
 <pre>
 @InProceedings{Li_2022_ECCV,
     author = "Li, Maosen and Chen, Siheng and Zhang, Zijing and Xie, Lingxi and Tian, Qi and Zhang, Ya",
-    title = "Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction",
+    title = "Skeleton-Parted Graph Scattering Networks for {3D} Human Motion Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -5973,7 +5972,7 @@ A motion dataset consists of various activities including human interaction, int
 @InProceedings{Wang_2021_NeurIPS,
     author = "Wang, Jiashun and Xu, Huazhe and Narasimhan, Medhini and Wang, Xiaolong",
     booktitle = "NeurIPS",
-    title = "Multi-Person 3D Motion Prediction with Multi-Range Transformers",
+    title = "Multi-Person {3D} Motion Prediction with Multi-Range Transformers",
     year = "2021"
 }
 </pre>
@@ -5999,7 +5998,7 @@ A motion dataset consists of various activities including human interaction, int
 <pre>
 @InProceedings{Cui_2021_CVPR,
     author = "Cui, Qiongjie and Sun, Huaijiang",
-    title = "Towards Accurate 3D Human Motion Prediction From Incomplete Observations",
+    title = "Towards Accurate {3D} Human Motion Prediction From Incomplete Observations",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -6026,7 +6025,7 @@ A motion dataset consists of various activities including human interaction, int
 <pre>
 @InProceedings{Aliakbarian_2021_ICCV,
     author = "Aliakbarian, Sadegh and Saleh, Fatemeh and Petersson, Lars and Gould, Stephen and Salzmann, Mathieu",
-    title = "Contextually Plausible and Diverse 3D Human Motion Prediction",
+    title = "Contextually Plausible and Diverse {3D} Human Motion Prediction",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -6052,7 +6051,7 @@ A motion dataset consists of various activities including human interaction, int
 <pre>
 @InProceedings{Dang_2021_ICCV,
     author = "Dang, Lingwei and Nie, Yongwei and Long, Chengjiang and Zhang, Qing and Li, Guiqing",
-    title = "MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction",
+    title = "{MSR-GCN}: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -6115,7 +6114,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 </details>
 <details close>
-<summary><em>Zhang et al., "Non-local Graph Convolutional Network for joint Activity Recognition and Motion Prediction", IROS, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9636107>paper</a> <a href=https://arxiv.org/pdf/2108.01518.pdf>arxiv</a></summary>
+<summary><em>Zhang et al., "Non-local Graph Convolutional Network for Joint Activity Recognition and Motion Prediction", IROS, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9636107>paper</a> <a href=https://arxiv.org/pdf/2108.01518.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6133,7 +6132,7 @@ A motion dataset consists of various activities including human interaction, int
 @InProceedings{Zhang_2021_IROS,
     author = "Zhang, Dianhao and Vien, Ngo Anh and Van, Mien and McLoone, Seán",
     booktitle = "IROS",
-    title = "Non-local Graph Convolutional Network for joint Activity Recognition and Motion Prediction",
+    title = "Non-local Graph Convolutional Network for Joint Activity Recognition and Motion Prediction",
     year = "2021"
 }
 </pre>
@@ -6215,7 +6214,7 @@ A motion dataset consists of various activities including human interaction, int
 <pre>
 @InProceedings{Li_2020_CVPR,
     author = "Li, Maosen and Chen, Siheng and Zhao, Yangheng and Zhang, Ya and Wang, Yanfeng and Tian, Qi",
-    title = "Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction",
+    title = "Dynamic Multiscale Graph Neural Networks for {3D} Skeleton Based Human Motion Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -6225,7 +6224,7 @@ A motion dataset consists of various activities including human interaction, int
 </ul>
 </details>
 <details close>
-<summary><em>Cai et al., "Learning progressive joint propagation for human motion prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520222.pdf>paper</a></summary>
+<summary><em>Cai et al., "Learning Progressive Joint Propagation for Human Motion Prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520222.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6242,7 +6241,7 @@ A motion dataset consists of various activities including human interaction, int
 <pre>
 @InProceedings{Cai_2020_ECCV,
     author = "Cai, Yujun and Huang, Lin and Wang, Yiwei and Cham, Tat-Jen and Cai, Jianfei and Yuan, Junsong and Liu, Jun and Yang, Xu and Zhu, Yiheng and Shen, Xiaohui and Liu, Ding and Liu, Jing and Thalmann, Nadia M",
-    title = "Learning progressive joint propagation for human motion prediction",
+    title = "Learning Progressive Joint Propagation for Human Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -6339,7 +6338,7 @@ A motion dataset consists of various activities including human interaction, int
 <pre>
 @Misc{CMU_Mocap_2016,
     author = "CMU",
-    title = "Cmu Graphics Lab Motion Capture Database",
+    title = "{CMU} Graphics Lab Motion Capture Database",
     howpublished = "http://mocap.cs.cmu.edu/",
     year = "2016"
 }
@@ -6405,7 +6404,7 @@ A multiview group activity dataset recorded with 10 RGB-D sensors and 30+ HD vie
 @InProceedings{Wang_2021_NeurIPS,
     author = "Wang, Jiashun and Xu, Huazhe and Narasimhan, Medhini and Wang, Xiaolong",
     booktitle = "NeurIPS",
-    title = "Multi-Person 3D Motion Prediction with Multi-Range Transformers",
+    title = "Multi-Person {3D} Motion Prediction with Multi-Range Transformers",
     year = "2021"
 }
 </pre>
@@ -6582,7 +6581,7 @@ A dataset of 40+ video clips showing collective activities including  crossing, 
 <pre>
 @InProceedings{Choi_2009_ICCVW,
     author = "Choi, Wongun and Shahid, Khuram and Savarese, Silvio",
-    title = "What Are They Doing? : Collective Activity Classification Using Spatio-Temporal Relationship Among People",
+    title = "What Are They Doing?: Collective Activity Classification Using Spatio-Temporal Relationship Among People",
     booktitle = "ICCVW",
     year = "2009"
 }
@@ -6621,7 +6620,7 @@ A dataset of driving scenarios with collected driver's gaze.
 <pre>
 @InProceedings{Bao_2021_ICCV,
     author = "Bao, Wentao and Yu, Qi and Kong, Yu",
-    title = "DRIVE: Deep Reinforced Accident Anticipation With Visual Explanation",
+    title = "{DRIVE}: Deep Reinforced Accident Anticipation With Visual Explanation",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -6637,7 +6636,7 @@ A dataset of driving scenarios with collected driver's gaze.
 @ARTICLE{FANG_2021_TITS,
     author = "Fang, J. and Yan, D. and Qiao, J. and Xue, J. and Yu, H.",
     journal = "Trans-ITS",
-    title = "DADA: Driver Attention Prediction in Driving Accident Scenarios",
+    title = "{DADA}: Driver Attention Prediction in Driving Accident Scenarios",
     year = "2021"
 }
 </pre>
@@ -6658,7 +6657,7 @@ A grayscale dataset of 70K+ pedestrian samples recorded during the course of 27 
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Hariyono et al., "Estimation Of Collision Risk For Improving Driver'S Safety", IECON, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7793743>paper</a></summary>
+<summary><em>Hariyono et al., "Estimation Of Collision Risk For Improving Driver's Safety", IECON, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7793743>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6676,7 +6675,7 @@ A grayscale dataset of 70K+ pedestrian samples recorded during the course of 27 
 <pre>
 @InProceedings{Hariyono_2016_IES,
     author = "Hariyono, Joko and Shahbaz, Ajmal and Kurnianggoro, Laksono and Jo, Kang-Hyun",
-    title = "Estimation Of Collision Risk For Improving Driver'S Safety",
+    title = "Estimation Of Collision Risk For Improving Driver's Safety",
     booktitle = "IECON",
     year = "2016"
 }
@@ -6867,7 +6866,7 @@ A dataset of 620 video sequences of traffic accidents recorded in six cities
 <pre>
 @InProceedings{Bao_2021_ICCV,
     author = "Bao, Wentao and Yu, Qi and Kong, Yu",
-    title = "DRIVE: Deep Reinforced Accident Anticipation With Visual Explanation",
+    title = "{DRIVE}: Deep Reinforced Accident Anticipation With Visual Explanation",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -6877,7 +6876,7 @@ A dataset of 620 video sequences of traffic accidents recorded in six cities
 </ul>
 </details>
 <details close>
-<summary><em>Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", The CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02675.pdf>arxiv</a></summary>
+<summary><em>Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02675.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -6898,7 +6897,7 @@ A dataset of 620 video sequences of traffic accidents recorded in six cities
 @InProceedings{Suzuki_2018_CVPR,
     author = "Suzuki, Tomoyuki and Kataoka, Hirokatsu and Aoki, Yoshimitsu and Satoh, Yutaka",
     title = "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db",
-    booktitle = "The CVPR",
+    booktitle = "CVPR",
     year = "2018"
 }
 </pre>
@@ -7061,7 +7060,7 @@ A dataset of 3D poses recorded over time (3D) at 60 fps
 @InProceedings{Yuan_2020_IROS,
     author = "Yuan, S. and Li, X. and Tzes, A. and Fang, Y.",
     booktitle = "IROS",
-    title = "3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction",
+    title = "{3DMotion-Net}: Learning Continuous Flow Function for {3D} Motion Prediction",
     year = "2020"
 }
 </pre>
@@ -7075,7 +7074,7 @@ A dataset of 3D poses recorded over time (3D) at 60 fps
 <pre>
 @InProceedings{Bogo_2017_CVPR,
     author = "Bogo, Federica and Romero, Javier and Pons-Moll, Gerard and Black, Michael J.",
-    title = "Dynamic FAUST}: R}egistering Human Bodies in Motion",
+    title = "Dynamic {FAUST}: Registering Human Bodies in Motion",
     booktitle = "CVPR",
     year = "2017"
 }

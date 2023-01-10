@@ -168,7 +168,7 @@ A collection of color video clips with different subjects and resolutions
 </ul>
 </details>
 <details close>
-<summary><em>Ho et al., "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
+<summary><em>Ho et al., "SME-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -187,7 +187,7 @@ A collection of color video clips with different subjects and resolutions
 <pre>
 @InProceedings{Ho_2019_ICCV,
     author = "Ho, Yung-Han and Cho, Chuan-Yuan and Peng, Wen-Hsiao and Jin, Guo-Lun",
-    title = "Sme-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning",
+    title = "{SME-Net}: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -231,7 +231,7 @@ A collection of color video clips with different subjects and resolutions
 <pre>
 @Misc{ASU_2009_YUV,
     author = "Library, ASU Video Trace",
-    title = "Yuv Video Sequences",
+    title = "{YUV} Video Sequences",
     year = "2009",
     howpublished = "http://trace.kom.aau.dk/yuv/index.html"
 }
@@ -288,7 +288,7 @@ A dataset of 4K+ frames for tracking objects in the presences of camera motion
 <pre>
 @InProceedings{Santner_2010_CVPR,
     author = "Santner, Jakob and Leistner, Christian and Saffari, Amir and Pock, Thomas and Bischof, Horst",
-    title = "Prost: Parallel Robust Online Simple Tracking",
+    title = "{PROST}: Parallel Robust Online Simple Tracking",
     booktitle = "CVPR",
     year = "2010"
 }
@@ -368,7 +368,7 @@ A simulated dataset of 20K stack configurations composed of a variety of element
 <pre>
 @InProceedings{Groth_2018_arxiv,
     author = "Groth, Oliver and Fuchs, Fabian B and Posner, Ingmar and Vedaldi, Andrea",
-    title = "Shapestacks: Learning Vision-Based Physical Intuition For Generalised Object Stacking",
+    title = "{ShapeStacks}: Learning Vision-Based Physical Intuition For Generalised Object Stacking",
     booktitle = "ECCV",
     year = "2018"
 }
@@ -514,7 +514,7 @@ A dataset of 12 simple activities in 480 video clips with depth maps
 <pre>
 @InProceedings{Foo_2022_ECCV,
     author = "Foo, Lin Geng and Li, Tianjiao and Rahmani, Hossein and Ke, Qiuhong and Liu, Jun",
-    title = "ERA: Expert Retrieval and Assembly for Early Action Prediction",
+    title = "{ERA}: Expert Retrieval and Assembly for Early Action Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -551,7 +551,7 @@ A dataset of 12 simple activities in 480 video clips with depth maps
 </ul>
 </details>
 <details close>
-<summary><em>Hu et al., "Real-Time Rgb-D Activity Prediction By Soft Regression", ECCV, 2016.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46448-0_17>paper</a></summary>
+<summary><em>Hu et al., "Real-Time RGB-D Activity Prediction By Soft Regression", ECCV, 2016.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46448-0_17>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -568,7 +568,7 @@ A dataset of 12 simple activities in 480 video clips with depth maps
 @InProceedings{Hu_2016_ECCV,
     author = "Hu, Jian-Fang and Zheng, Wei-Shi and Ma, Lianyang and Wang, Gang and Lai, Jianhuang",
     editor = "Leibe, Bastian and Matas, Jiri and Sebe, Nicu and Welling, Max",
-    title = "Real-Time Rgb-D Activity Prediction By Soft Regression",
+    title = "Real-Time {RGB-D} Activity Prediction By Soft Regression",
     booktitle = "ECCV",
     year = "2016"
 }
@@ -583,7 +583,7 @@ A dataset of 12 simple activities in 480 video clips with depth maps
 <pre>
 @InProceedings{Hu_2015_CVPR,
     author = "Hu, Jian-Fang and Zheng, Wei-Shi and Lai, Jianhuang and Zhang, Jianguo",
-    title = "Jointly Learning Heterogeneous Features For Rgb-D Activity Recognition",
+    title = "Jointly Learning Heterogeneous Features For {RGB-D} Activity Recognition",
     booktitle = "CVPR",
     year = "2015"
 }
@@ -681,7 +681,7 @@ A dataset of 220+ K videos of different actors interacting with various objects
 @InProceedings{Chang_2021_NeurIPS,
     author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Ye, Yan and Xinguang, Xiang and Gao, Wen",
     booktitle = "NeurIPS",
-    title = "MAU: A Motion-Aware Unit for Video Prediction and Beyond",
+    title = "{MAU}: A Motion-Aware Unit for Video Prediction and Beyond",
     year = "2021"
 }
 </pre>
@@ -695,7 +695,7 @@ A dataset of 220+ K videos of different actors interacting with various objects
 <pre>
 @InProceedings{Goya_2017_CVPR,
     author = "Goyal, Raghav and Ebrahimi Kahou, Samira and Michalski, Vincent and Materzynska, Joanna and Westphal, Susanne and Kim, Heuna and Haenel, Valentin and Fruend, Ingo and Yianilos, Peter and Mueller-Freitag, Moritz and others",
-    title = The" something something" video database for learning and evaluating visual common sense,
+    title = "The {Something Something} Video Database for Learning and Evaluating Visual Common Sense",
     booktitle = "CVPR",
     year = "2017"
 }
@@ -903,7 +903,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{Adeli_2021_ICCV,
     author = "Adeli, Vida and Ehsanpour, Mahsa and Reid, Ian and Niebles, Juan Carlos and Savarese, Silvio and Adeli, Ehsan and Rezatofighi, Hamid",
-    title = "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild",
+    title = "{TRiPOD}: Human Trajectory and Pose Dynamics Forecasting in the Wild",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -959,7 +959,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{Zhong_2022_CVPR,
     author = "Zhong, Chongyang and Hu, Lei and Zhang, Zihao and Ye, Yongjing and Xia, Shihong",
-    title = "Spatio-Temporal Gating-Adjacency GCN for Human Motion Prediction",
+    title = "Spatio-Temporal Gating-Adjacency {GCN} for Human Motion Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -987,7 +987,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{Li_2022_ECCV,
     author = "Li, Maosen and Chen, Siheng and Zhang, Zijing and Xie, Lingxi and Tian, Qi and Zhang, Ya",
-    title = "Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction",
+    title = "Skeleton-Parted Graph Scattering Networks for {3D} Human Motion Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -1044,7 +1044,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 @InProceedings{Wang_2021_NeurIPS,
     author = "Wang, Jiashun and Xu, Huazhe and Narasimhan, Medhini and Wang, Xiaolong",
     booktitle = "NeurIPS",
-    title = "Multi-Person 3D Motion Prediction with Multi-Range Transformers",
+    title = "Multi-Person {3D} Motion Prediction with Multi-Range Transformers",
     year = "2021"
 }
 </pre>
@@ -1070,7 +1070,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{Cui_2021_CVPR,
     author = "Cui, Qiongjie and Sun, Huaijiang",
-    title = "Towards Accurate 3D Human Motion Prediction From Incomplete Observations",
+    title = "Towards Accurate {3D} Human Motion Prediction From Incomplete Observations",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -1251,7 +1251,7 @@ A dataset of 60 video sequences with 2D poses and 3D body models
 <pre>
 @InProceedings{vonMarcard_2018_ECCV,
     author = "von Marcard, Timo and Henschel, Roberto and Black, Michael and Rosenhahn, Bodo and Pons-Moll, Gerard",
-    title = "Recovering Accurate 3D Human Pose In The Wild Using Imus And A Moving Camera",
+    title = "Recovering Accurate {3D} Human Pose In The Wild Using {IMUs} And A Moving Camera",
     booktitle = "ECCV",
     year = "2018"
 }
@@ -1293,7 +1293,7 @@ A dataset of pedestrian trajectories recorded recorded from ego-perspective
 @InProceedings{Ansari_2020_IROS,
     author = "Ansari, J. A. and Bhowmick, B.",
     booktitle = "IROS",
-    title = "Simple means Faster: Real-Time Human Motion Forecasting in Monocular First Person Videos on CPU",
+    title = "Simple means Faster: Real-Time Human Motion Forecasting in Monocular First Person Videos on {CPU}",
     year = "2020"
 }
 </pre>
@@ -1387,7 +1387,7 @@ A dataset of 10K RGB-D images of indoor environments with the corresponding 2D a
 @InProceedings{Song_2015_CVPR_2,
     author = "Song, Yale and Vallmitjana, J. and Stent, A. and Jaimes, A.",
     booktitle = "CVPR",
-    title = "Tvsum: Summarizing Web Videos Using Titles",
+    title = "{TVSum}: Summarizing Web Videos Using Titles",
     year = "2015"
 }
 </pre>
@@ -1426,7 +1426,7 @@ A dataset of 1356 video sequences of sports scenes with corresponding poses.
 <pre>
 @InProceedings{Adeli_2021_ICCV,
     author = "Adeli, Vida and Ehsanpour, Mahsa and Reid, Ian and Niebles, Juan Carlos and Savarese, Silvio and Adeli, Ehsan and Rezatofighi, Hamid",
-    title = "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild",
+    title = "{TRiPOD}: Human Trajectory and Pose Dynamics Forecasting in the Wild",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -1470,7 +1470,7 @@ A dataset of 1356 video sequences of sports scenes with corresponding poses.
 <pre>
 @inproceedings{Andriluka_CVPR_2018,
     Author = "Andriluka, M. and Iqbal, U. and Ensafutdinov, E. and Pishchulin, L. and Milan, A. and Gall, J. and B., Schiele",
-    Title = "PoseTrack: A Benchmark for Human Pose Estimation and Tracking",
+    Title = "{PoseTrack}: A Benchmark for Human Pose Estimation and Tracking",
     booktitle = "CVPR",
     Year = "2018"
 }
@@ -1523,7 +1523,7 @@ A dataset of annotated poses and stereo pairs.
 <pre>
 @inproceedings{Alahari_2013_ICCV,
     author = "Alahari, Karteek and Seguin, Guillaume and Sivic, Josef and Laptev, Ivan",
-    title = "Pose estimation and segmentation of people in 3D movies",
+    title = "Pose Estimation and Segmentation of People in {3D} Movies",
     booktitle = "ICCV",
     year = "2013"
 }
@@ -1575,7 +1575,7 @@ A human motion dataset consists of 2.4K+ experiments using 224 subjects and 135 
 <pre>
 @inproceedings{Mandery_2015_ICAR,
     author = "Mandery, Christian and Terlemez, Omer and Do, Martin and Vahrenkamp, Nikolaus and Asfour, Tamim",
-    title = "The KIT whole-body human motion database",
+    title = "The {KIT} whole-body human motion database",
     booktitle = "ICAR",
     year = "2015"
 }
@@ -1907,7 +1907,7 @@ A dataset of object manipulation using a robot arm with 59k object pushing motio
 </ul>
 </details>
 <details close>
-<summary><em>Franceschi et al., "Stochastic latent residual video prediction", ICML, 2020.</em> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
+<summary><em>Franceschi et al., "Stochastic Latent Residual Video Prediction", ICML, 2020.</em> <a href=http://proceedings.mlr.press/v119/franceschi20a/franceschi20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2002.09219.pdf>arxiv</a> <a href=https://github.com/edouardelasalles/srvp>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1927,8 +1927,8 @@ A dataset of object manipulation using a robot arm with 59k object pushing motio
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Franceschi_2020_ICML,
-    author = Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick,
-    title = "Stochastic latent residual video prediction",
+    author = {Franceschi, Jean-Yves and Delasalles, Edouard and Chen, Micka{\"e}l and Lamprier, Sylvain and Gallinari, Patrick},
+    title = "Stochastic Latent Residual Video Prediction",
     booktitle = "ICML",
     year = "2020"
 }
@@ -1967,7 +1967,7 @@ A dataset of object manipulation using a robot arm with 59k object pushing motio
 </ul>
 </details>
 <details close>
-<summary><em>Castrejon et al., "Improved Conditional Vrnns For Video Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.12165.pdf>arxiv</a></summary>
+<summary><em>Castrejon et al., "Improved Conditional VRNNs For Video Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1904.12165.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1986,7 +1986,7 @@ A dataset of object manipulation using a robot arm with 59k object pushing motio
 <pre>
 @InProceedings{Castrejon_2019_ICCV,
     author = "Castrejon, Lluis and Ballas, Nicolas and Courville, Aaron",
-    title = "Improved Conditional Vrnns For Video Prediction",
+    title = "Improved Conditional {VRNNs} For Video Prediction",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -2114,8 +2114,8 @@ A large-scale dataset of video of robot arms moving various objects
 <pre>
 @InProceedings{Dasari_2019_CORL,
     author = "Dasari, Sudeep and Ebert, Frederik and Tian, Stephen and Nair, Suraj and Bucher, Bernadette and Schmeckpeper, Karl and Singh, Siddharth and Levine, Sergey and Finn, Chelsea",
-    title = "Robonet: Large-scale multi-robot learning",
-    booktitle = "CORL",
+    title = "{RoboNet}: Large-scale Multi-robot Learning",
+    booktitle = "CoRL",
     year = "2019"
 }
 </pre>
@@ -2157,7 +2157,7 @@ A dataset containing monthly report of ocean forecast information including  tem
 <pre>
 @InProceedings{Pourheydari_2022_BMVC,
     author = "Pourheydari, Mohammad Saber and Bahrami, Emad and Fayyaz, Mohsen and Francesca, Gianpiero and Noroozi, Mehdi and Gall, Jürgen",
-    title = "TaylorSwiftNet: Taylor Driven Temporal Modeling for Swift Future Frame Prediction",
+    title = "{TaylorSwiftNet}: Taylor Driven Temporal Modeling for Swift Future Frame Prediction",
     booktitle = "BMVC",
     year = "2022"
 }
@@ -2273,7 +2273,7 @@ A physics-based simulation of particles.
 @InProceedings{Li_2021_NeurIPS,
     author = "Li, Longyuan and Yao, Jian and Wenliang, Li and He, Tong and Xiao, Tianjun and Yan, Junchi and Wipf, David and Zhang, Zheng",
     booktitle = "NeurIPS",
-    title = "GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction",
+    title = "{GRIN}: Generative Relation and Intention Network for Multi-agent Trajectory Prediction",
     year = "2021"
 }
 </pre>
@@ -2319,7 +2319,7 @@ A physics-based simulation of particles.
 <pre>
 @InProceedings{Kipf_ICML_2018,
     author = "Kipf, Thomas and Fetaya, Ethan and Wang, Kuan-Chieh and Welling, Max and Zemel, Richard",
-    title = "Neural relational inference for interacting systems",
+    title = "Neural Relational Inference for Interacting Systems",
     booktitle = "ICML",
     year = "2018"
 }
@@ -2454,7 +2454,7 @@ A dataset of photo realistic 194K+ RGBD images of 90 indoor environments
 <pre>
 @InProceedings{Chang_2017_3DV,
     author = "Chang, Angel and Dai, Angela and Funkhouser, Thomas and Halber, Maciej and Niessner, Matthias and Savva, Manolis and Song, Shuran and Zeng, Andy and Zhang, Yinda",
-    title = "Matterport3D: Learning from RGB-D Data in Indoor Environments",
+    title = "{Matterport3D}: Learning from {RGB-D} Data in Indoor Environments",
     booktitle = "3DV",
     year = "2017"
 }
@@ -2510,7 +2510,7 @@ A dataset of photo realistic 1.4K+ 3D indoor environments
 <pre>
 @InProceedings{Xia_2018_CVPR,
     author = "Xia, Fei and R. Zamir, Amir and He, Zhi-Yang and Sax, Alexander and Malik, Jitendra and Savarese, Silvio",
-    title = "Gibson env: real-world perception for embodied agents",
+    title = "{Gibson Env}: Real-world Perception for Embodied Agents",
     booktitle = "CVPR",
     year = "2018"
 }
@@ -2566,7 +2566,7 @@ A dataset of photo realistic 3D indoor environments
 <pre>
 @InProceedings{Savva_2019_ICCV,
     author = "Savva, Manolis and Kadian, Abhishek and Maksymets, Oleksandr and Zhao, Yili and Wijmans, Erik and Jain, Bhavana and Straub, Julian and Liu, Jia and Koltun, Vladlen and Malik, Jitendra and Parikh, Devi and Batra, Dhruv",
-    title = "Habitat: A Platform for Embodied AI Research",
+    title = "Habitat: A Platform for Embodied {AI} Research",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -2606,7 +2606,7 @@ A dataset of photo realistic 3D indoor environments
 <pre>
 @InProceedings{Kaneda_2022_ACCV,
     author = "Kaneda, Kanta and Wada, Yuiga and Iida, Tsumugi and Nishizuka, Naoto and Kubo, Y\^uki and Sugiura, Komei",
-    title = "Flare Transformer: Solar Flare Prediction using Magnetograms and Sunspot Physical Features",
+    title = "{Flare Transformer}: Solar Flare Prediction using Magnetograms and Sunspot Physical Features",
     booktitle = "ACCV",
     year = "2022"
 }
@@ -2692,7 +2692,7 @@ A dataset of photo realistic 3D indoor environments
 <pre>
 @InProceedings{Xu_2022_CVPR_2,
     author = "Xu, Chenxin and Li, Maosen and Ni, Zhenyang and Zhang, Ya and Chen, Siheng",
-    title = "GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction With Relational Reasoning",
+    title = "{GroupNet}: Multiscale Hypergraph Neural Networks for Trajectory Prediction With Relational Reasoning",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -2753,7 +2753,7 @@ A dataset of photo realistic 3D indoor environments
 <pre>
 @InProceedings{Xu_2022_ECCV,
     author = "Xu, Pei and Hayet, Jean-Bernard and Karamouzas, Ioannis",
-    title = "SocialVAE: Human Trajectory Prediction Using Timewise Latents",
+    title = "{SocialVAE}: Human Trajectory Prediction Using Timewise Latents",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -2840,7 +2840,7 @@ A dataset of photo realistic 3D indoor environments
 @InProceedings{Li_2021_NeurIPS,
     author = "Li, Longyuan and Yao, Jian and Wenliang, Li and He, Tong and Xiao, Tianjun and Yan, Junchi and Wipf, David and Zhang, Zheng",
     booktitle = "NeurIPS",
-    title = "GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction",
+    title = "{GRIN}: Generative Relation and Intention Network for Multi-agent Trajectory Prediction",
     year = "2021"
 }
 </pre>
@@ -2899,9 +2899,8 @@ A dataset of photo realistic 3D indoor environments
 <pre>
 @InProceedings{Li_2020_NeurIPS,
     author = "Li, Jiachen and Yang, Fan and Tomizuka, Masayoshi and Choi, Chiho",
-    editor = "Larochelle, H. and Ranzato, M. and Hadsell, R. and Balcan, M. F. and Lin, H.",
     booktitle = "NeurIPS",
-    title = "EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning",
+    title = "{EvolveGraph}: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning",
     year = "2020"
 }
 </pre>
@@ -2910,7 +2909,7 @@ A dataset of photo realistic 3D indoor environments
 </ul>
 </details>
 <details close>
-<summary><em>Ivanovic et al., "Generative modeling of multimodal multi-human behavior", IROS, 2018.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8594393>paper</a> <a href=https://arxiv.org/pdf/1803.02015.pdf>arxiv</a></summary>
+<summary><em>Ivanovic et al., "Generative Modeling of Multimodal Multi-human Behavior", IROS, 2018.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8594393>paper</a> <a href=https://arxiv.org/pdf/1803.02015.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2925,7 +2924,7 @@ A dataset of photo realistic 3D indoor environments
 <pre>
 @InProceedings{Ivanovic_2018_IROS,
     author = "Ivanovic, Boris and Schmerling, Edward and Leung, Karen and Pavone, Marco",
-    title = "Generative modeling of multimodal multi-human behavior",
+    title = "Generative Modeling of Multimodal Multi-human Behavior",
     booktitle = "IROS",
     year = "2018"
 }
@@ -2940,7 +2939,7 @@ A dataset of photo realistic 3D indoor environments
 <pre>
 @Misc{Linou_2016,
     author = "Luo, K",
-    Title = "NBA-Player-Movements",
+    Title = "{NBA}-Player-Movements",
     HowPublished = "Online",
     year = "2016",
     url = "https://github.com/linouk23/NBA-Player-Movements"
@@ -3090,7 +3089,7 @@ A dataset of basketball players’ trajectories for 2015-16 NBA games
 <pre>
 @InProceedings{Hauri_2021_WACV,
     author = "Hauri, Sandro and Djuric, Nemanja and Radosavljevic, Vladan and Vucetic, Slobodan",
-    title = "Multi-Modal Trajectory Prediction of NBA Players",
+    title = "Multi-Modal Trajectory Prediction of {NBA} Players",
     booktitle = "WACV",
     year = "2021"
 }
@@ -3203,7 +3202,7 @@ A dataset of 20 videos, each with approx. 400 frames, of different football matc
 @InProceedings{Lee_2016_WACV,
     author = "Lee, N. and Kitani, K. M.",
     booktitle = "WACV",
-    title = "Predicting Wide Receiver Trajectories In American Football",
+    title = "Predicting Wide Receiver Trajectories In {A}merican Football",
     year = "2016"
 }
 </pre>
@@ -3270,7 +3269,7 @@ A dataset of 4830 frames from 55 videos with 9 player action labels and 8 team a
 <pre>
 @InProceedings{Ibrahim_2016_CVPR,
     author = "Ibrahim, Mostafa S and Muralidharan, Srikanth and Deng, Zhiwei and Vahdat, Arash and Mori, Greg",
-    title = "A hierarchical deep temporal model for group activity recognition",
+    title = "A Hierarchical Deep Temporal Model for Group Activity Recognition",
     booktitle = "CVPR",
     year = "2016"
 }
@@ -3323,7 +3322,7 @@ A dataset of sport events, containing 10 different events and over 700 hrs of re
 <pre>
 @InProceedings{Shao_2020_CVPR,
     author = "Shao, Dian and Zhao, Yue and Dai, Bo and Lin, Dahua",
-    title = "FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding",
+    title = "{FineGym}: A Hierarchical Video Dataset for Fine-grained Action Understanding",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -3393,7 +3392,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Chen_2022_CVPR,
     author = "Chen, Yuxiao and Ivanovic, Boris and Pavone, Marco",
-    title = "ScePT: Scene-Consistent, Policy-Based Trajectory Predictions for Planning",
+    title = "{ScePT}: Scene-Consistent, Policy-Based Trajectory Predictions for Planning",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -3562,7 +3561,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Xu_2022_CVPR_2,
     author = "Xu, Chenxin and Li, Maosen and Ni, Zhenyang and Zhang, Ya and Chen, Siheng",
-    title = "GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction With Relational Reasoning",
+    title = "{GroupNet}: Multiscale Hypergraph Neural Networks for Trajectory Prediction With Relational Reasoning",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -3589,7 +3588,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Xu_2022_CVPR_3,
     author = "Xu, Yi and Wang, Lichen and Wang, Yizhou and Fu, Yun",
-    title = "Adaptive Trajectory Prediction via Transferable GNN",
+    title = "Adaptive Trajectory Prediction via Transferable {GNN}",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -3680,7 +3679,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Mohamed_2022_ECCV,
     author = "Mohamed, Abduallah and Zhu, Deyao and Vu, Warren and Elhoseiny, Mohamed and Claudel, Christian",
-    title = "Social-Implicit: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation",
+    title = "{Social-Implicit}: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -3708,7 +3707,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Tsao_2022_ECCV,
     author = "Tsao, Li-Wu and Wang, Yan-Kai and Lin, Hao-Siang and Shuai, Hong-Han and Wong, Lai-Kuan and Cheng, Wen-Huang",
-    title = "Social-SSL: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-agent Trajectory Prediction",
+    title = "{Social-SSL}: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-agent Trajectory Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -3766,7 +3765,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Xu_2022_ECCV,
     author = "Xu, Pei and Hayet, Jean-Bernard and Karamouzas, Ioannis",
-    title = "SocialVAE: Human Trajectory Prediction Using Timewise Latents",
+    title = "{SocialVAE}: Human Trajectory Prediction Using Timewise Latents",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -3993,7 +3992,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @InProceedings{Deyao_2021_ICLR,
     author = "Zhu, Deyao and Zahran, Mohamed and Li, Li Erran and Elhoseiny, Mohamed",
     booktitle = "ICLR",
-    title = "HalentNet: Multimodal Trajectory Forecasting with Hallucinative Intents",
+    title = "{HalentNet}: Multimodal Trajectory Forecasting with Hallucinative Intents",
     year = "2021"
 }
 </pre>
@@ -4073,7 +4072,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Shi_2021_CVPR,
     author = "Shi, Liushuai and Wang, Le and Long, Chengjiang and Zhou, Sanping and Zhou, Mo and Niu, Zhenxing and Hua, Gang",
-    title = "SGCN: Sparse Graph Convolution Network for Pedestrian Trajectory Prediction",
+    title = "{SGCN}: Sparse Graph Convolution Network for Pedestrian Trajectory Prediction",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -4127,7 +4126,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Dendorfer_2021_ICCV,
     author = "Dendorfer, Patrick and Elflein, Sven and Leal-Taixe, Laura",
-    title = "MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction",
+    title = "{MG-GAN}: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -4262,7 +4261,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Yuan_2021_ICCV,
     author = "Yuan, Ye and Weng, Xinshuo and Ou, Yanglan and Kitani, Kris M.",
-    title = "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting",
+    title = "{AgentFormer}: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -4345,7 +4344,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @InProceedings{Liu_2021_ICRA,
     author = "Liu, Congcong and Chen, Yuying and Liu, Ming and Shi, Bertram E.",
     booktitle = "ICRA",
-    title = "AVGCN: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention",
+    title = "{AVGCN}: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention",
     year = "2021"
 }
 </pre>
@@ -4374,7 +4373,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @InProceedings{Malla_2021_ICRA,
     author = "Malla, Srikanth and Choi, Chiho and Dariush, Behzad",
     booktitle = "ICRA",
-    title = "Social-STAGE: Spatio-Temporal Multi-Modal Future Trajectory Forecast",
+    title = "{Social-STAGE}: Spatio-Temporal Multi-Modal Future Trajectory Forecast",
     year = "2021"
 }
 </pre>
@@ -4430,7 +4429,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @Article{Yao_2021_RAL,
     author = "Yao, Yu and Atkins, Ella and Johnson-Roberson, Matthew and Vasudevan, Ram and Du, Xiaoxiao",
     journal = "RAL",
-    title = "BiTraP: Bi-Directional Pedestrian Trajectory Prediction With Multi-Modal Goal Estimation",
+    title = "{BiTraP}: Bi-Directional Pedestrian Trajectory Prediction With Multi-Modal Goal Estimation",
     year = "2021",
     volume = "6",
     number = "2",
@@ -4463,7 +4462,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @InProceedings{Li_2021_ICRA_2,
     author = "Li, Kunming and Eiffert, Stuart and Shan, Mao and Gomez-Donoso, Francisco and Worrall, Stewart and Nebot, Eduardo",
     booktitle = "ICRA",
-    title = "Attentional-GCNN: Adaptive Pedestrian Trajectory Prediction towards Generic Autonomous Vehicle Use Cases",
+    title = "{Attentional-GCNN}: Adaptive Pedestrian Trajectory Prediction towards Generic Autonomous Vehicle Use Cases",
     year = "2021"
 }
 </pre>
@@ -4544,7 +4543,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @InProceedings{Scholler_2021_IROS,
     author = "Schöller, Christoph and Knoll, Alois",
     booktitle = "IROS",
-    title = "FloMo: Tractable Motion Prediction with Normalizing Flows",
+    title = "{FloMo}: Tractable Motion Prediction with Normalizing Flows",
     year = "2021"
 }
 </pre>
@@ -4571,7 +4570,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @InProceedings{Su_2021_IROS,
     author = "Su, Zhaoxin and Zhang, Sanyuan and Hua, Wei",
     booktitle = "IROS",
-    title = "CR-LSTM: Collision-prior Guided Social Refinement for Pedestrian Trajectory Prediction",
+    title = "{CR-LSTM}: Collision-prior Guided Social Refinement for Pedestrian Trajectory Prediction",
     year = "2021"
 }
 </pre>
@@ -4651,7 +4650,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Wang_2021_WACV,
     author = "Wang, Chengxin and Cai, Shaofeng and Tan, Gary",
-    title = "GraphTCN: Spatio-Temporal Interaction Modeling for Human Trajectory Prediction",
+    title = "{GraphTCN}: Spatio-Temporal Interaction Modeling for Human Trajectory Prediction",
     booktitle = "WACV",
     year = "2021"
 }
@@ -4685,7 +4684,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Fang_2020_CVPR,
     author = "Fang, Liangji and Jiang, Qinhong and Shi, Jianping and Zhou, Bolei",
-    title = "TPNet: Trajectory Proposal Network for Motion Prediction",
+    title = "{TPNet}: Trajectory Proposal Network for Motion Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -4740,7 +4739,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Mohamed_2020_CVPR,
     author = "Mohamed, Abduallah and Qian, Kun and Elhoseiny, Mohamed and Claudel, Christian",
-    title = "Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction",
+    title = "{Social-STGCNN}: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -4848,7 +4847,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Ma_2020_ECCV,
     author = "Ma, Yuexin and Zhu, Xinge and Cheng, Xinjing and Yang, Ruigang and Liu, Jiming and Manocha, Dinesh",
-    title = "AutoTrajectory: Label-free Trajectory Extraction and Prediction from Videos using Dynamic Points",
+    title = "{AutoTrajectory}: Label-free Trajectory Extraction and Prediction from Videos using Dynamic Points",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -4886,7 +4885,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
-<summary><em>Salzmann et al., "Trajectron++: Multi-agent generative trajectory forecasting with heterogeneous data for control", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630664.pdf>paper</a> <a href=https://arxiv.org/pdf/2001.03093.pdf>arxiv</a> <a href=https://github.com/StanfordASL/Trajectron-plus-plus>code</a></summary>
+<summary><em>Salzmann et al., "Trajectron++: Multi-agent Generative Trajectory Forecasting with Heterogeneous Data for Control", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630664.pdf>paper</a> <a href=https://arxiv.org/pdf/2001.03093.pdf>arxiv</a> <a href=https://github.com/StanfordASL/Trajectron-plus-plus>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4907,7 +4906,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Salzmann_2020_ECCV,
     author = "Salzmann, Tim and Ivanovic, Boris and Chakravarty, Punarjay and Pavone, Marco",
-    title = "Trajectron++: Multi-agent generative trajectory forecasting with heterogeneous data for control",
+    title = "Trajectron++: Multi-agent Generative Trajectory Forecasting with Heterogeneous Data for Control",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -4936,7 +4935,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Tao_2020_ECCV,
     author = "Tao, Chaofan and Jiang, Qinhong and Duan, Lixin and Luo, Ping",
-    title = "Dynamic and Static Context-aware LSTM for Multi-agent Motion Prediction",
+    title = "Dynamic and Static Context-aware {LSTM} for Multi-agent Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -5005,7 +5004,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
-<summary><em>Chen et al., "CoMoGCN: Coherent motion aware trajectory prediction with graph representation", BMVC, 2020.</em> <a href=https://www.bmvc2020-conference.com/assets/papers/0238.pdf>paper</a> <a href=https://arxiv.org/pdf/2005.00754.pdf>arxiv</a></summary>
+<summary><em>Chen et al., "CoMoGCN: Coherent Motion Aware Trajectory Prediction with Graph Representation", BMVC, 2020.</em> <a href=https://www.bmvc2020-conference.com/assets/papers/0238.pdf>paper</a> <a href=https://arxiv.org/pdf/2005.00754.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5022,7 +5021,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Chen_2020_BMVC,
     author = "Chen, Yuying and Liu, Congcong and Shi, Bertram and Liu, Ming",
-    title = "CoMoGCN: Coherent motion aware trajectory prediction with graph representation",
+    title = "{CoMoGCN}: Coherent Motion Aware Trajectory Prediction with Graph Representation",
     booktitle = "BMVC",
     year = "2020"
 }
@@ -5053,7 +5052,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Dendorfer_2020_ACCV,
     author = "Dendorfer, Patrick and Osep, Aljosa and Leal-Taixe, Laura",
-    title = "Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation",
+    title = "{Goal-GAN}: Multimodal Trajectory Prediction Based on Goal Position Estimation",
     booktitle = "ACCV",
     year = "2020"
 }
@@ -5137,7 +5136,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @InProceedings{Dwivedi_2020_IROS,
     author = "Dwivedi, I. and Malla, S. and Dariush, B. and Choi, C.",
     booktitle = "IROS",
-    title = "SSP: Single Shot Future Trajectory Prediction",
+    title = "{SSP}: Single Shot Future Trajectory Prediction",
     year = "2020"
 }
 </pre>
@@ -5167,7 +5166,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @Article{Eiffert_2020_RAL,
     author = "Eiffert, S. and Li, K. and Shan, M. and Worrall, S. and Sukkarieh, S. and Nebot, E.",
     journal = "RAL",
-    title = "Probabilistic Crowd GAN: Multimodal Pedestrian Trajectory Prediction Using a Graph Vehicle-Pedestrian Attention Network",
+    title = "Probabilistic Crowd {GAN}: Multimodal Pedestrian Trajectory Prediction Using a Graph Vehicle-Pedestrian Attention Network",
     year = "2020",
     volume = "5",
     number = "4",
@@ -5256,7 +5255,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Brito_2020_CORL,
     author = "Brito, Bruno and Zhu, Hai and Pan, Wei and Alonso-Mora, Javier",
-    title = "Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians",
+    title = "{Social-VRNN}: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -5322,7 +5321,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
-<summary><em>Sadeghian et al., "Sophie: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.01482.pdf>arxiv</a></summary>
+<summary><em>Sadeghian et al., "SoPhie: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.01482.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5339,7 +5338,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Sadeghian_2019_CVPR,
     author = "Sadeghian, Amir and Kosaraju, Vineet and Sadeghian, Ali and Hirose, Noriaki and Rezatofighi, Hamid and Savarese, Silvio",
-    title = "Sophie: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints",
+    title = "{SoPhie}: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -5349,7 +5348,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
-<summary><em>Zhang et al., "Sr-Lstm: State Refinement For Lstm Towards Pedestrian Trajectory Prediction", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1903.02793.pdf>arxiv</a> <a href=https://github.com/zhangpur/SR-LSTM>code</a></summary>
+<summary><em>Zhang et al., "SR-LSTM: State Refinement For LSTM Towards Pedestrian Trajectory Prediction", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1903.02793.pdf>arxiv</a> <a href=https://github.com/zhangpur/SR-LSTM>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5366,7 +5365,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Zhang_2019_CVPR,
     author = "Zhang, Pu and Ouyang, Wanli and Zhang, Pengfei and Xue, Jianru and Zheng, Nanning",
-    title = "Sr-Lstm: State Refinement For Lstm Towards Pedestrian Trajectory Prediction",
+    title = "{SR-LSTM}: State Refinement For {LSTM} Towards Pedestrian Trajectory Prediction",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -5434,7 +5433,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
-<summary><em>Huang et al., "Stgat: Modeling Spatial-Temporal Interactions For Human Trajectory Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf>paper</a></summary>
+<summary><em>Huang et al., "STGAT: Modeling Spatial-Temporal Interactions For Human Trajectory Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5451,7 +5450,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Huang_2019_ICCV,
     author = "Huang, Yingfan and Bi, Huikun and Li, Zhaoxin and Mao, Tianlu and Wang, Zhaoqi",
-    title = "Stgat: Modeling Spatial-Temporal Interactions For Human Trajectory Prediction",
+    title = "{STGAT}: Modeling Spatial-Temporal Interactions For Human Trajectory Prediction",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -5487,7 +5486,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
-<summary><em>Kosaraju et al., "Social-Bigat: Multimodal Trajectory Forecasting Using Bicycle-Gan And Graph Attention Networks", NeurIPS, 2019.</em> <a href=http://papers.nips.cc/paper/8308-social-bigat-multimodal-trajectory-forecasting-using-bicycle-gan-and-graph-attention-networks.pdf>paper</a> <a href=https://arxiv.org/pdf/1907.03395.pdf>arxiv</a></summary>
+<summary><em>Kosaraju et al., "Social-BiGAT: Multimodal Trajectory Forecasting Using Bicycle-GAN And Graph Attention Networks", NeurIPS, 2019.</em> <a href=http://papers.nips.cc/paper/8308-social-bigat-multimodal-trajectory-forecasting-using-bicycle-gan-and-graph-attention-networks.pdf>paper</a> <a href=https://arxiv.org/pdf/1907.03395.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5504,7 +5503,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Kosaraju_2019_NeurIPS,
     author = "Kosaraju, Vineet and Sadeghian, Amir and Mart\'\in-Mart\'\in, Roberto and Reid, Ian and Rezatofighi, Hamid and Savarese, Silvio",
-    title = "Social-Bigat: Multimodal Trajectory Forecasting Using Bicycle-Gan And Graph Attention Networks",
+    title = "{Social-BiGAT}: Multimodal Trajectory Forecasting Using {Bicycle-GAN} And Graph Attention Networks",
     booktitle = "NeurIPS",
     year = "2019"
 }
@@ -5571,7 +5570,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
-<summary><em>Zhu et al., "Starnet: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8967811>paper</a> <a href=https://arxiv.org/pdf/1906.01797.pdf>arxiv</a></summary>
+<summary><em>Zhu et al., "StarNet: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8967811>paper</a> <a href=https://arxiv.org/pdf/1906.01797.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5589,7 +5588,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @InProceedings{Zhu_2019_IROS,
     author = "Zhu, Yanliang and Qian, Deheng and Ren, Dongchun and Xia, Huaxia",
     booktitle = "IROS",
-    title = "Starnet: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology",
+    title = "{StarNet}: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology",
     year = "2019"
 }
 </pre>
@@ -5627,7 +5626,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
-<summary><em>Gupta et al., "Social Gan: Socially Acceptable Trajectories With Generative Adversarial Networks", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.10892.pdf>arxiv</a> <a href=https://github.com/agrimgupta92/sgan>code</a></summary>
+<summary><em>Gupta et al., "Social GAN: Socially Acceptable Trajectories With Generative Adversarial Networks", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.10892.pdf>arxiv</a> <a href=https://github.com/agrimgupta92/sgan>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5644,7 +5643,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Gupta_2018_CVPR,
     author = "Gupta, Agrim and Johnson, Justin and Fei-Fei, Li and Savarese, Silvio and Alahi, Alexandre",
-    title = "Social Gan: Socially Acceptable Trajectories With Generative Adversarial Networks",
+    title = "Social {GAN}: Socially Acceptable Trajectories With Generative Adversarial Networks",
     booktitle = "CVPR",
     year = "2018"
 }
@@ -5654,7 +5653,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
-<summary><em>Hasan et al., "Mx-Lstm: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Hasan_MX-LSTM_Mixing_Tracklets_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1805.00652.pdf>arxiv</a></summary>
+<summary><em>Hasan et al., "MX-LSTM: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Hasan_MX-LSTM_Mixing_Tracklets_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1805.00652.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5671,7 +5670,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Hasan_2018_CVPR,
     author = "Hasan, Irtiza and Setti, Francesco and Tsesmelis, Theodore and Del Bue, Alessio and Galasso, Fabio and Cristani, Marco",
-    title = "Mx-Lstm: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses",
+    title = "{MX-LSTM}: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses",
     booktitle = "CVPR",
     year = "2018"
 }
@@ -5711,7 +5710,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
-<summary><em>Fernando et al., "Gd-Gan: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds", ACCV, 2019.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_20>paper</a> <a href=https://arxiv.org/pdf/1812.07667.pdf>arxiv</a></summary>
+<summary><em>Fernando et al., "GD-GAN: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds", ACCV, 2019.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_20>paper</a> <a href=https://arxiv.org/pdf/1812.07667.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5729,7 +5728,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @InProceedings{Fernando_2018_ACCV,
     author = "Fernando, Tharindu and Denman, Simon and Sridharan, Sridha and Fookes, Clinton",
     editor = "Jawahar, C. V. and Li, Hongdong and Mori, Greg and Schindler, Konrad",
-    title = "Gd-Gan: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds",
+    title = "{GD-GAN}: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds",
     booktitle = "ACCV",
     year = "2019"
 }
@@ -5766,7 +5765,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
-<summary><em>Hasan et al., ""Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention", WACV, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8354238>paper</a></summary>
+<summary><em>Hasan et al., "Seeing Is Believing: Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention", WACV, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8354238>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5785,7 +5784,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @InProceedings{Hasan_2018_WACV,
     author = "Hasan, I. and Setti, F. and Tsesmelis, T. and Del Bue, A. and Cristani, M. and Galasso, F.",
     booktitle = "WACV",
-    title = "Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention,
+    title = "{Seeing Is Believing}: Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention",
     year = "2018"
 }
 </pre>
@@ -5794,7 +5793,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
-<summary><em>Xue et al., "Ss-Lstm: A Hierarchical Lstm Model For Pedestrian Trajectory Prediction", WACV, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8354239>paper</a></summary>
+<summary><em>Xue et al., "SS-LSTM: A Hierarchical LSTM Model For Pedestrian Trajectory Prediction", WACV, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8354239>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5812,7 +5811,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @InProceedings{Xue_2018_WACV,
     author = "Xue, H. and Huynh, D. Q. and Reynolds, M.",
     booktitle = "WACV",
-    title = "Ss-Lstm: A Hierarchical Lstm Model For Pedestrian Trajectory Prediction",
+    title = "{SS-LSTM}: A Hierarchical {LSTM} Model For Pedestrian Trajectory Prediction",
     year = "2018"
 }
 </pre>
@@ -5873,7 +5872,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
-<summary><em>Alahi et al., "Social Lstm: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>paper</a> <a href=https://github.com/quancore/social-lstm>code</a></summary>
+<summary><em>Alahi et al., "Social LSTM: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>paper</a> <a href=https://github.com/quancore/social-lstm>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5891,7 +5890,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 <pre>
 @InProceedings{Alahi_2016_CVPR,
     author = "Alahi, Alexandre and Goel, Kratarth and Ramanathan, Vignesh and Robicquet, Alexandre and Fei-Fei, Li and Savarese, Silvio",
-    title = "Social Lstm: Human Trajectory Prediction In Crowded Spaces",
+    title = "Social {LSTM}: Human Trajectory Prediction In Crowded Spaces",
     booktitle = "CVPR",
     year = "2016"
 }
@@ -5965,7 +5964,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 @Article{Lerner_2007_CGF,
     author = "Lerner, Alon and Chrysanthou, Yiorgos and Lischinski, Dani",
     title = "Crowds By Example",
-    journal = "Computer graphics forum",
+    journal = "Computer Graphics Forum",
     volume = "26",
     number = "3",
     pages = "655--664",
@@ -6036,7 +6035,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Chen_2022_CVPR,
     author = "Chen, Yuxiao and Ivanovic, Boris and Pavone, Marco",
-    title = "ScePT: Scene-Consistent, Policy-Based Trajectory Predictions for Planning",
+    title = "{ScePT}: Scene-Consistent, Policy-Based Trajectory Predictions for Planning",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -6205,7 +6204,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Xu_2022_CVPR_2,
     author = "Xu, Chenxin and Li, Maosen and Ni, Zhenyang and Zhang, Ya and Chen, Siheng",
-    title = "GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction With Relational Reasoning",
+    title = "{GroupNet}: Multiscale Hypergraph Neural Networks for Trajectory Prediction With Relational Reasoning",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -6232,7 +6231,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Xu_2022_CVPR_3,
     author = "Xu, Yi and Wang, Lichen and Wang, Yizhou and Fu, Yun",
-    title = "Adaptive Trajectory Prediction via Transferable GNN",
+    title = "Adaptive Trajectory Prediction via Transferable {GNN}",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -6323,7 +6322,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Mohamed_2022_ECCV,
     author = "Mohamed, Abduallah and Zhu, Deyao and Vu, Warren and Elhoseiny, Mohamed and Claudel, Christian",
-    title = "Social-Implicit: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation",
+    title = "{Social-Implicit}: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -6351,7 +6350,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Tsao_2022_ECCV,
     author = "Tsao, Li-Wu and Wang, Yan-Kai and Lin, Hao-Siang and Shuai, Hong-Han and Wong, Lai-Kuan and Cheng, Wen-Huang",
-    title = "Social-SSL: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-agent Trajectory Prediction",
+    title = "{Social-SSL}: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-agent Trajectory Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -6409,7 +6408,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Xu_2022_ECCV,
     author = "Xu, Pei and Hayet, Jean-Bernard and Karamouzas, Ioannis",
-    title = "SocialVAE: Human Trajectory Prediction Using Timewise Latents",
+    title = "{SocialVAE}: Human Trajectory Prediction Using Timewise Latents",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -6636,7 +6635,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 @InProceedings{Deyao_2021_ICLR,
     author = "Zhu, Deyao and Zahran, Mohamed and Li, Li Erran and Elhoseiny, Mohamed",
     booktitle = "ICLR",
-    title = "HalentNet: Multimodal Trajectory Forecasting with Hallucinative Intents",
+    title = "{HalentNet}: Multimodal Trajectory Forecasting with Hallucinative Intents",
     year = "2021"
 }
 </pre>
@@ -6716,7 +6715,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Shi_2021_CVPR,
     author = "Shi, Liushuai and Wang, Le and Long, Chengjiang and Zhou, Sanping and Zhou, Mo and Niu, Zhenxing and Hua, Gang",
-    title = "SGCN: Sparse Graph Convolution Network for Pedestrian Trajectory Prediction",
+    title = "{SGCN}: Sparse Graph Convolution Network for Pedestrian Trajectory Prediction",
     booktitle = "CVPR",
     year = "2021"
 }
@@ -6770,7 +6769,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Dendorfer_2021_ICCV,
     author = "Dendorfer, Patrick and Elflein, Sven and Leal-Taixe, Laura",
-    title = "MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction",
+    title = "{MG-GAN}: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -6905,7 +6904,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Yuan_2021_ICCV,
     author = "Yuan, Ye and Weng, Xinshuo and Ou, Yanglan and Kitani, Kris M.",
-    title = "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting",
+    title = "{AgentFormer}: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting",
     booktitle = "ICCV",
     year = "2021"
 }
@@ -6988,7 +6987,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 @InProceedings{Liu_2021_ICRA,
     author = "Liu, Congcong and Chen, Yuying and Liu, Ming and Shi, Bertram E.",
     booktitle = "ICRA",
-    title = "AVGCN: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention",
+    title = "{AVGCN}: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention",
     year = "2021"
 }
 </pre>
@@ -7017,7 +7016,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 @InProceedings{Malla_2021_ICRA,
     author = "Malla, Srikanth and Choi, Chiho and Dariush, Behzad",
     booktitle = "ICRA",
-    title = "Social-STAGE: Spatio-Temporal Multi-Modal Future Trajectory Forecast",
+    title = "{Social-STAGE}: Spatio-Temporal Multi-Modal Future Trajectory Forecast",
     year = "2021"
 }
 </pre>
@@ -7073,7 +7072,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 @Article{Yao_2021_RAL,
     author = "Yao, Yu and Atkins, Ella and Johnson-Roberson, Matthew and Vasudevan, Ram and Du, Xiaoxiao",
     journal = "RAL",
-    title = "BiTraP: Bi-Directional Pedestrian Trajectory Prediction With Multi-Modal Goal Estimation",
+    title = "{BiTraP}: Bi-Directional Pedestrian Trajectory Prediction With Multi-Modal Goal Estimation",
     year = "2021",
     volume = "6",
     number = "2",
@@ -7106,7 +7105,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 @InProceedings{Li_2021_ICRA_2,
     author = "Li, Kunming and Eiffert, Stuart and Shan, Mao and Gomez-Donoso, Francisco and Worrall, Stewart and Nebot, Eduardo",
     booktitle = "ICRA",
-    title = "Attentional-GCNN: Adaptive Pedestrian Trajectory Prediction towards Generic Autonomous Vehicle Use Cases",
+    title = "{Attentional-GCNN}: Adaptive Pedestrian Trajectory Prediction towards Generic Autonomous Vehicle Use Cases",
     year = "2021"
 }
 </pre>
@@ -7187,7 +7186,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 @InProceedings{Postnikov_2021_IROS,
     author = "Postnikov, Aleksey and Gamayunov, Aleksander and Ferrer, Gonzalo",
     booktitle = "IROS",
-    title = "CovarianceNet: Conditional Generative Model for Correct Covariance Prediction in Human Motion Prediction",
+    title = "{CovarianceNet}: Conditional Generative Model for Correct Covariance Prediction in Human Motion Prediction",
     year = "2021"
 }
 </pre>
@@ -7214,7 +7213,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 @InProceedings{Scholler_2021_IROS,
     author = "Schöller, Christoph and Knoll, Alois",
     booktitle = "IROS",
-    title = "FloMo: Tractable Motion Prediction with Normalizing Flows",
+    title = "{FloMo}: Tractable Motion Prediction with Normalizing Flows",
     year = "2021"
 }
 </pre>
@@ -7241,7 +7240,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 @InProceedings{Su_2021_IROS,
     author = "Su, Zhaoxin and Zhang, Sanyuan and Hua, Wei",
     booktitle = "IROS",
-    title = "CR-LSTM: Collision-prior Guided Social Refinement for Pedestrian Trajectory Prediction",
+    title = "{CR-LSTM}: Collision-prior Guided Social Refinement for Pedestrian Trajectory Prediction",
     year = "2021"
 }
 </pre>
@@ -7321,7 +7320,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Wang_2021_WACV,
     author = "Wang, Chengxin and Cai, Shaofeng and Tan, Gary",
-    title = "GraphTCN: Spatio-Temporal Interaction Modeling for Human Trajectory Prediction",
+    title = "{GraphTCN}: Spatio-Temporal Interaction Modeling for Human Trajectory Prediction",
     booktitle = "WACV",
     year = "2021"
 }
@@ -7355,7 +7354,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Fang_2020_CVPR,
     author = "Fang, Liangji and Jiang, Qinhong and Shi, Jianping and Zhou, Bolei",
-    title = "TPNet: Trajectory Proposal Network for Motion Prediction",
+    title = "{TPNet}: Trajectory Proposal Network for Motion Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -7410,7 +7409,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Mohamed_2020_CVPR,
     author = "Mohamed, Abduallah and Qian, Kun and Elhoseiny, Mohamed and Claudel, Christian",
-    title = "Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction",
+    title = "{Social-STGCNN}: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction",
     booktitle = "CVPR",
     year = "2020"
 }
@@ -7518,7 +7517,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Ma_2020_ECCV,
     author = "Ma, Yuexin and Zhu, Xinge and Cheng, Xinjing and Yang, Ruigang and Liu, Jiming and Manocha, Dinesh",
-    title = "AutoTrajectory: Label-free Trajectory Extraction and Prediction from Videos using Dynamic Points",
+    title = "{AutoTrajectory}: Label-free Trajectory Extraction and Prediction from Videos using Dynamic Points",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -7556,7 +7555,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
-<summary><em>Salzmann et al., "Trajectron++: Multi-agent generative trajectory forecasting with heterogeneous data for control", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630664.pdf>paper</a> <a href=https://arxiv.org/pdf/2001.03093.pdf>arxiv</a> <a href=https://github.com/StanfordASL/Trajectron-plus-plus>code</a></summary>
+<summary><em>Salzmann et al., "Trajectron++: Multi-agent Generative Trajectory Forecasting with Heterogeneous Data for Control", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630664.pdf>paper</a> <a href=https://arxiv.org/pdf/2001.03093.pdf>arxiv</a> <a href=https://github.com/StanfordASL/Trajectron-plus-plus>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7577,7 +7576,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Salzmann_2020_ECCV,
     author = "Salzmann, Tim and Ivanovic, Boris and Chakravarty, Punarjay and Pavone, Marco",
-    title = "Trajectron++: Multi-agent generative trajectory forecasting with heterogeneous data for control",
+    title = "Trajectron++: Multi-agent Generative Trajectory Forecasting with Heterogeneous Data for Control",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -7606,7 +7605,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Tao_2020_ECCV,
     author = "Tao, Chaofan and Jiang, Qinhong and Duan, Lixin and Luo, Ping",
-    title = "Dynamic and Static Context-aware LSTM for Multi-agent Motion Prediction",
+    title = "Dynamic and Static Context-aware {LSTM} for Multi-agent Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -7675,7 +7674,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
-<summary><em>Chen et al., "CoMoGCN: Coherent motion aware trajectory prediction with graph representation", BMVC, 2020.</em> <a href=https://www.bmvc2020-conference.com/assets/papers/0238.pdf>paper</a> <a href=https://arxiv.org/pdf/2005.00754.pdf>arxiv</a></summary>
+<summary><em>Chen et al., "CoMoGCN: Coherent Motion Aware Trajectory Prediction with Graph Representation", BMVC, 2020.</em> <a href=https://www.bmvc2020-conference.com/assets/papers/0238.pdf>paper</a> <a href=https://arxiv.org/pdf/2005.00754.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7692,7 +7691,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Chen_2020_BMVC,
     author = "Chen, Yuying and Liu, Congcong and Shi, Bertram and Liu, Ming",
-    title = "CoMoGCN: Coherent motion aware trajectory prediction with graph representation",
+    title = "{CoMoGCN}: Coherent Motion Aware Trajectory Prediction with Graph Representation",
     booktitle = "BMVC",
     year = "2020"
 }
@@ -7723,7 +7722,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Dendorfer_2020_ACCV,
     author = "Dendorfer, Patrick and Osep, Aljosa and Leal-Taixe, Laura",
-    title = "Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation",
+    title = "{Goal-GAN}: Multimodal Trajectory Prediction Based on Goal Position Estimation",
     booktitle = "ACCV",
     year = "2020"
 }
@@ -7807,7 +7806,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 @InProceedings{Dwivedi_2020_IROS,
     author = "Dwivedi, I. and Malla, S. and Dariush, B. and Choi, C.",
     booktitle = "IROS",
-    title = "SSP: Single Shot Future Trajectory Prediction",
+    title = "{SSP}: Single Shot Future Trajectory Prediction",
     year = "2020"
 }
 </pre>
@@ -7837,7 +7836,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 @Article{Eiffert_2020_RAL,
     author = "Eiffert, S. and Li, K. and Shan, M. and Worrall, S. and Sukkarieh, S. and Nebot, E.",
     journal = "RAL",
-    title = "Probabilistic Crowd GAN: Multimodal Pedestrian Trajectory Prediction Using a Graph Vehicle-Pedestrian Attention Network",
+    title = "Probabilistic Crowd {GAN}: Multimodal Pedestrian Trajectory Prediction Using a Graph Vehicle-Pedestrian Attention Network",
     year = "2020",
     volume = "5",
     number = "4",
@@ -7926,7 +7925,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Brito_2020_CORL,
     author = "Brito, Bruno and Zhu, Hai and Pan, Wei and Alonso-Mora, Javier",
-    title = "Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians",
+    title = "{Social-VRNN}: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -7992,7 +7991,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
-<summary><em>Sadeghian et al., "Sophie: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.01482.pdf>arxiv</a></summary>
+<summary><em>Sadeghian et al., "SoPhie: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.01482.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8009,7 +8008,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Sadeghian_2019_CVPR,
     author = "Sadeghian, Amir and Kosaraju, Vineet and Sadeghian, Ali and Hirose, Noriaki and Rezatofighi, Hamid and Savarese, Silvio",
-    title = "Sophie: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints",
+    title = "{SoPhie}: An Attentive Gan For Predicting Paths Compliant To Social And Physical Constraints",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -8019,7 +8018,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
-<summary><em>Zhang et al., "Sr-Lstm: State Refinement For Lstm Towards Pedestrian Trajectory Prediction", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1903.02793.pdf>arxiv</a> <a href=https://github.com/zhangpur/SR-LSTM>code</a></summary>
+<summary><em>Zhang et al., "SR-LSTM: State Refinement For LSTM Towards Pedestrian Trajectory Prediction", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1903.02793.pdf>arxiv</a> <a href=https://github.com/zhangpur/SR-LSTM>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8036,7 +8035,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Zhang_2019_CVPR,
     author = "Zhang, Pu and Ouyang, Wanli and Zhang, Pengfei and Xue, Jianru and Zheng, Nanning",
-    title = "Sr-Lstm: State Refinement For Lstm Towards Pedestrian Trajectory Prediction",
+    title = "{SR-LSTM}: State Refinement For {LSTM} Towards Pedestrian Trajectory Prediction",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -8104,7 +8103,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
-<summary><em>Huang et al., "Stgat: Modeling Spatial-Temporal Interactions For Human Trajectory Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf>paper</a></summary>
+<summary><em>Huang et al., "STGAT: Modeling Spatial-Temporal Interactions For Human Trajectory Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8121,7 +8120,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Huang_2019_ICCV,
     author = "Huang, Yingfan and Bi, Huikun and Li, Zhaoxin and Mao, Tianlu and Wang, Zhaoqi",
-    title = "Stgat: Modeling Spatial-Temporal Interactions For Human Trajectory Prediction",
+    title = "{STGAT}: Modeling Spatial-Temporal Interactions For Human Trajectory Prediction",
     booktitle = "ICCV",
     year = "2019"
 }
@@ -8131,7 +8130,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
-<summary><em>Kosaraju et al., "Social-Bigat: Multimodal Trajectory Forecasting Using Bicycle-Gan And Graph Attention Networks", NeurIPS, 2019.</em> <a href=http://papers.nips.cc/paper/8308-social-bigat-multimodal-trajectory-forecasting-using-bicycle-gan-and-graph-attention-networks.pdf>paper</a> <a href=https://arxiv.org/pdf/1907.03395.pdf>arxiv</a></summary>
+<summary><em>Kosaraju et al., "Social-BiGAT: Multimodal Trajectory Forecasting Using Bicycle-GAN And Graph Attention Networks", NeurIPS, 2019.</em> <a href=http://papers.nips.cc/paper/8308-social-bigat-multimodal-trajectory-forecasting-using-bicycle-gan-and-graph-attention-networks.pdf>paper</a> <a href=https://arxiv.org/pdf/1907.03395.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8148,7 +8147,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Kosaraju_2019_NeurIPS,
     author = "Kosaraju, Vineet and Sadeghian, Amir and Mart\'\in-Mart\'\in, Roberto and Reid, Ian and Rezatofighi, Hamid and Savarese, Silvio",
-    title = "Social-Bigat: Multimodal Trajectory Forecasting Using Bicycle-Gan And Graph Attention Networks",
+    title = "{Social-BiGAT}: Multimodal Trajectory Forecasting Using {Bicycle-GAN} And Graph Attention Networks",
     booktitle = "NeurIPS",
     year = "2019"
 }
@@ -8215,7 +8214,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
-<summary><em>Zhu et al., "Starnet: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8967811>paper</a> <a href=https://arxiv.org/pdf/1906.01797.pdf>arxiv</a></summary>
+<summary><em>Zhu et al., "StarNet: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8967811>paper</a> <a href=https://arxiv.org/pdf/1906.01797.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8233,7 +8232,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 @InProceedings{Zhu_2019_IROS,
     author = "Zhu, Yanliang and Qian, Deheng and Ren, Dongchun and Xia, Huaxia",
     booktitle = "IROS",
-    title = "Starnet: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology",
+    title = "{StarNet}: Pedestrian Trajectory Prediction Using Deep Neural Network In Star Topology",
     year = "2019"
 }
 </pre>
@@ -8271,7 +8270,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
-<summary><em>Gupta et al., "Social Gan: Socially Acceptable Trajectories With Generative Adversarial Networks", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.10892.pdf>arxiv</a> <a href=https://github.com/agrimgupta92/sgan>code</a></summary>
+<summary><em>Gupta et al., "Social GAN: Socially Acceptable Trajectories With Generative Adversarial Networks", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1803.10892.pdf>arxiv</a> <a href=https://github.com/agrimgupta92/sgan>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8288,7 +8287,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Gupta_2018_CVPR,
     author = "Gupta, Agrim and Johnson, Justin and Fei-Fei, Li and Savarese, Silvio and Alahi, Alexandre",
-    title = "Social Gan: Socially Acceptable Trajectories With Generative Adversarial Networks",
+    title = "Social {GAN}: Socially Acceptable Trajectories With Generative Adversarial Networks",
     booktitle = "CVPR",
     year = "2018"
 }
@@ -8328,7 +8327,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
-<summary><em>Fernando et al., "Gd-Gan: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds", ACCV, 2019.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_20>paper</a> <a href=https://arxiv.org/pdf/1812.07667.pdf>arxiv</a></summary>
+<summary><em>Fernando et al., "GD-GAN: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds", ACCV, 2019.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20887-5_20>paper</a> <a href=https://arxiv.org/pdf/1812.07667.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8346,7 +8345,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 @InProceedings{Fernando_2018_ACCV,
     author = "Fernando, Tharindu and Denman, Simon and Sridharan, Sridha and Fookes, Clinton",
     editor = "Jawahar, C. V. and Li, Hongdong and Mori, Greg and Schindler, Konrad",
-    title = "Gd-Gan: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds",
+    title = "{GD-GAN}: Generative Adversarial Networks For Trajectory Prediction And Group Detection In Crowds",
     booktitle = "ACCV",
     year = "2019"
 }
@@ -8408,7 +8407,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
-<summary><em>Xue et al., "Ss-Lstm: A Hierarchical Lstm Model For Pedestrian Trajectory Prediction", WACV, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8354239>paper</a></summary>
+<summary><em>Xue et al., "SS-LSTM: A Hierarchical LSTM Model For Pedestrian Trajectory Prediction", WACV, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8354239>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8426,7 +8425,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 @InProceedings{Xue_2018_WACV,
     author = "Xue, H. and Huynh, D. Q. and Reynolds, M.",
     booktitle = "WACV",
-    title = "Ss-Lstm: A Hierarchical Lstm Model For Pedestrian Trajectory Prediction",
+    title = "{SS-LSTM}: A Hierarchical {LSTM} Model For Pedestrian Trajectory Prediction",
     year = "2018"
 }
 </pre>
@@ -8435,7 +8434,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
-<summary><em>Alahi et al., "Social Lstm: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>paper</a> <a href=https://github.com/quancore/social-lstm>code</a></summary>
+<summary><em>Alahi et al., "Social LSTM: Human Trajectory Prediction In Crowded Spaces", CVPR, 2016.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf>paper</a> <a href=https://github.com/quancore/social-lstm>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -8453,7 +8452,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 <pre>
 @InProceedings{Alahi_2016_CVPR,
     author = "Alahi, Alexandre and Goel, Kratarth and Ramanathan, Vignesh and Robicquet, Alexandre and Fei-Fei, Li and Savarese, Silvio",
-    title = "Social Lstm: Human Trajectory Prediction In Crowded Spaces",
+    title = "Social {LSTM}: Human Trajectory Prediction In Crowded Spaces",
     booktitle = "CVPR",
     year = "2016"
 }
@@ -8628,7 +8627,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 <pre>
 @InProceedings{Lee_2022_CVPR,
     author = "Lee, Mihee and Sohn, Samuel S. and Moon, Seonghyeon and Yoon, Sejong and Kapadia, Mubbasir and Pavlovic, Vladimir",
-    title = "MUSE-VAE: Multi-Scale VAE for Environment-Aware Long Term Trajectory Prediction",
+    title = "{MUSE-VAE}: Multi-Scale {VAE} for Environment-Aware Long Term Trajectory Prediction",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -8772,7 +8771,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 <pre>
 @InProceedings{Tsao_2022_ECCV,
     author = "Tsao, Li-Wu and Wang, Yan-Kai and Lin, Hao-Siang and Shuai, Hong-Han and Wong, Lai-Kuan and Cheng, Wen-Huang",
-    title = "Social-SSL: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-agent Trajectory Prediction",
+    title = "{Social-SSL}: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-agent Trajectory Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -8830,7 +8829,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 <pre>
 @InProceedings{Xu_2022_ECCV,
     author = "Xu, Pei and Hayet, Jean-Bernard and Karamouzas, Ioannis",
-    title = "SocialVAE: Human Trajectory Prediction Using Timewise Latents",
+    title = "{SocialVAE}: Human Trajectory Prediction Using Timewise Latents",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -8888,7 +8887,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 <pre>
 @InProceedings{Zhang_2022_ECCV,
     author = "Zhang, Yuzhen and Wang, Wentong and Guo, Weizhi and Lv, Pei and Xu, Mingliang and Chen, Wei and Manocha, Dinesh",
-    title = "D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights",
+    title = "{D2-TPred}: Discontinuous Dependency for Trajectory Prediction under Traffic Lights",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -9081,7 +9080,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 <pre>
 @InProceedings{Liang_2020_ECCV,
     author = "Liang, Junwei and Jiang, Lu and Hauptmann, Alexander",
-    title = "SimAug: Learning Robust Representations from Simulation for Trajectory Prediction",
+    title = "{SimAug}: Learning Robust Representations from Simulation for Trajectory Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -9138,7 +9137,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 <pre>
 @InProceedings{Tao_2020_ECCV,
     author = "Tao, Chaofan and Jiang, Qinhong and Duan, Lixin and Luo, Ping",
-    title = "Dynamic and Static Context-aware LSTM for Multi-agent Motion Prediction",
+    title = "Dynamic and Static Context-aware {LSTM} for Multi-agent Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -9166,9 +9165,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 <pre>
 @InProceedings{Li_2020_NeurIPS,
     author = "Li, Jiachen and Yang, Fan and Tomizuka, Masayoshi and Choi, Chiho",
-    editor = "Larochelle, H. and Ranzato, M. and Hadsell, R. and Balcan, M. F. and Lin, H.",
     booktitle = "NeurIPS",
-    title = "EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning",
+    title = "{EvolveGraph}: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning",
     year = "2020"
 }
 </pre>
@@ -9198,7 +9196,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 <pre>
 @InProceedings{Dendorfer_2020_ACCV,
     author = "Dendorfer, Patrick and Osep, Aljosa and Leal-Taixe, Laura",
-    title = "Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation",
+    title = "{Goal-GAN}: Multimodal Trajectory Prediction Based on Goal Position Estimation",
     booktitle = "ACCV",
     year = "2020"
 }
@@ -9255,7 +9253,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 @InProceedings{Dwivedi_2020_IROS,
     author = "Dwivedi, I. and Malla, S. and Dariush, B. and Choi, C.",
     booktitle = "IROS",
-    title = "SSP: Single Shot Future Trajectory Prediction",
+    title = "{SSP}: Single Shot Future Trajectory Prediction",
     year = "2020"
 }
 </pre>
@@ -9324,7 +9322,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 </details>
 <details close>
-<summary><em>Zhao et al., "Tnt: Target-driven trajectory prediction", CoRL, 2020.</em> <a href=https://drive.google.com/file/d/1Ol40GkiELqcechS9eWINoacMb5ebDUkD/view>paper</a> <a href=https://arxiv.org/pdf/2008.08294.pdf>arxiv</a></summary>
+<summary><em>Zhao et al., "TNT: Target-driven Trajectory Prediction", CoRL, 2020.</em> <a href=https://drive.google.com/file/d/1Ol40GkiELqcechS9eWINoacMb5ebDUkD/view>paper</a> <a href=https://arxiv.org/pdf/2008.08294.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -9345,7 +9343,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 <pre>
 @InProceedings{Zhao_2020_CORL,
     author = "Zhao, Hang and Gao, Jiyang and Lan, Tian and Sun, Chen and Sapp, Benjamin and Varadarajan, Balakrishnan and Shen, Yue and Shen, Yi and Chai, Yuning and Schmid, Cordelia and others",
-    title = "Tnt: Target-driven trajectory prediction",
+    title = "{TNT}: Target-driven Trajectory Prediction",
     booktitle = "CoRL",
     year = "2020"
 }
@@ -9527,7 +9525,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 </details>
 <details close>
-<summary><em>Lee et al., "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.04394.pdf>arxiv</a> <a href=https://github.com/yadrimz/DESIRE>code</a></summary>
+<summary><em>Lee et al., "DESIRE: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.04394.pdf>arxiv</a> <a href=https://github.com/yadrimz/DESIRE>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -9546,7 +9544,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 <pre>
 @InProceedings{Lee_2017_CVPR,
     author = "Lee, Namhoon and Choi, Wongun and Vernaza, Paul and Choy, Christopher B. and Torr, Philip H. S. and Chandraker, Manmohan",
-    title = "Desire: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
+    title = "{DESIRE}: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
     booktitle = "CVPR",
     year = "2017"
 }
@@ -9799,7 +9797,7 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 @InProceedings{Chang_2021_NeurIPS,
     author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Ye, Yan and Xinguang, Xiang and Gao, Wen",
     booktitle = "NeurIPS",
-    title = "MAU: A Motion-Aware Unit for Video Prediction and Beyond",
+    title = "{MAU}: A Motion-Aware Unit for Video Prediction and Beyond",
     year = "2021"
 }
 </pre>
@@ -9808,7 +9806,7 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 </ul>
 </details>
 <details close>
-<summary><em>Hasan et al., "Mx-Lstm: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Hasan_MX-LSTM_Mixing_Tracklets_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1805.00652.pdf>arxiv</a></summary>
+<summary><em>Hasan et al., "MX-LSTM: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Hasan_MX-LSTM_Mixing_Tracklets_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1805.00652.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -9825,7 +9823,7 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 <pre>
 @InProceedings{Hasan_2018_CVPR,
     author = "Hasan, Irtiza and Setti, Francesco and Tsesmelis, Theodore and Del Bue, Alessio and Galasso, Fabio and Cristani, Marco",
-    title = "Mx-Lstm: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses",
+    title = "{MX-LSTM}: Mixing Tracklets And Vislets To Jointly Forecast Trajectories And Head Poses",
     booktitle = "CVPR",
     year = "2018"
 }
@@ -9835,7 +9833,7 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 </ul>
 </details>
 <details close>
-<summary><em>Hasan et al., ""Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention", WACV, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8354238>paper</a></summary>
+<summary><em>Hasan et al., "Seeing Is Believing: Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention", WACV, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8354238>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -9854,7 +9852,7 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 @InProceedings{Hasan_2018_WACV,
     author = "Hasan, I. and Setti, F. and Tsesmelis, T. and Del Bue, A. and Cristani, M. and Galasso, F.",
     booktitle = "WACV",
-    title = "Seeing Is Believing": Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention,
+    title = "{Seeing Is Believing}: Pedestrian Trajectory Forecasting Using Visual Frustum Of Attention",
     year = "2018"
 }
 </pre>
@@ -9935,7 +9933,7 @@ A collection of videos from existing datasets for the purpose of object tracking
 <pre>
 @InProceedings{Chen_2022_ECCV,
     author = "Chen, Yu-Wen and Yang, Hsuan-Kung and Chiu, Chu-Chi and Lee, Chun-Yi",
-    title = "S2F2: Single-Stage Flow Forecasting for Future Multiple Trajectories Prediction",
+    title = "{S2F2}: Single-Stage Flow Forecasting for Future Multiple Trajectories Prediction",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -9959,8 +9957,8 @@ A collection of videos from existing datasets for the purpose of object tracking
 <summary><em>Bibtex</em></summary>
 <pre>
 @InProceedings{Dendorfer_2022_NeurIPS,
-    author = "Dendorfer, Patrick and Yugay, Vladimir and Osep, Aljosa and Leal-Taix{\'e, Laura",
-    title = "Quo Vadis: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?",
+    author = "Dendorfer, Patrick and Yugay, Vladimir and Osep, Aljosa and Leal-Taix{\'e}, Laura",
+    title = "{Quo Vadis}: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?",
     booktitle = "NeurIPS",
     year = "2022"
 }
@@ -10148,7 +10146,7 @@ A dataset of multiview surveillance sequences for trajectory  prediction and act
 <pre>
 @InProceedings{Liang_2020_ECCV,
     author = "Liang, Junwei and Jiang, Lu and Hauptmann, Alexander",
-    title = "SimAug: Learning Robust Representations from Simulation for Trajectory Prediction",
+    title = "{SimAug}: Learning Robust Representations from Simulation for Trajectory Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -10347,7 +10345,7 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
+<summary><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle GAN", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -10368,7 +10366,7 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 <pre>
 @InProceedings{Kwon_2019_CVPR,
     author = "Kwon, Yong-Hoon and Park, Min-Gyu",
-    title = "Predicting Future Frames Using Retrospective Cycle Gan",
+    title = "Predicting Future Frames Using Retrospective Cycle {GAN}",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -10413,7 +10411,7 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 <pre>
 @InProceedings{Lu_2013_ICCV,
     author = "Lu, Cewu and Shi, Jianping and Jia, Jiaya",
-    title = "Abnormal Event Detection At 150 Fps In Matlab",
+    title = "Abnormal Event Detection At 150 Fps In {M}atlab",
     booktitle = "ICCV",
     year = "2013"
 }
@@ -10524,7 +10522,7 @@ A dataset of crowd activities, e.g. walking, running, evacuation (rapid dispersi
 @InProceedings{Ferryman_2009_PETS,
     author = "Ferryman, J. and Shahrokni, A.",
     booktitle = "PETS",
-    title = "Pets2009: Dataset And Challenge",
+    title = "{PETS}2009: Dataset And Challenge",
     year = "2009"
 }
 </pre>
@@ -10579,7 +10577,7 @@ A repository of various surveillance footage of pedestrians in indoor and outdoo
 <pre>
 @Article{Vezzani_2010_MTA,
     author = "Vezzani, Roberto and Cucchiara, Rita",
-    title = "Video Surveillance Online Repository (Visor): An Integrated Framework",
+    title = "Video Surveillance Online Repository ({VISOR}): An Integrated Framework",
     journal = "Multimedia Tools and Applications",
     volume = "50",
     number = "2",
@@ -10661,7 +10659,7 @@ An anomaly detection dataset with 300K+ frames surveillance footage with 130 abn
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle Gan", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
+<summary><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle GAN", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -10682,7 +10680,7 @@ An anomaly detection dataset with 300K+ frames surveillance footage with 130 abn
 <pre>
 @InProceedings{Kwon_2019_CVPR,
     author = "Kwon, Yong-Hoon and Park, Min-Gyu",
-    title = "Predicting Future Frames Using Retrospective Cycle Gan",
+    title = "Predicting Future Frames Using Retrospective Cycle {GAN}",
     booktitle = "CVPR",
     year = "2019"
 }
@@ -10948,7 +10946,7 @@ A dataset of simulated pedestrian trajectories with focus on interactions.
 <pre>
 @Article{Kothari_2021_TITS,
     author = "Kothari, Parth and Kreiss, Sven and Alahi, Alexandre",
-    title = "Human trajectory forecasting in crowds: A deep learning perspective",
+    title = "Human Trajectory Forecasting in Crowds: A Deep Learning Perspective",
     journal = "T-ITS",
     year = "2021"
 }
@@ -11207,7 +11205,7 @@ A dataset of 500+ front-view sequences of pedestrian trajectories annotated at 3
 @InProceedings{Ansari_2020_IROS,
     author = "Ansari, J. A. and Bhowmick, B.",
     booktitle = "IROS",
-    title = "Simple means Faster: Real-Time Human Motion Forecasting in Monocular First Person Videos on CPU",
+    title = "Simple means Faster: Real-Time Human Motion Forecasting in Monocular First Person Videos on {CPU}",
     year = "2020"
 }
 </pre>
@@ -11276,7 +11274,7 @@ A dataset of wide-angle images of the sky with the corresponding temperature rec
 <pre>
 @techreport{Stoffel_1981,
     author = "Stoffel, T and Andreas, A",
-    title = "Nrel Solar Radiation Research Laboratory (Srrl): Baseline Measurement System (Bms); Golden, Colorado (Data)",
+    title = "{NREl} Solar Radiation Research Laboratory ({SRRL}): Baseline Measurement System ({BMS}); Golden, Colorado (Data)",
     year = "1981",
     institution = "National Renewable Energy Lab.(NREL)"
 }
