@@ -5,7 +5,7 @@
 ___
 [Video](video_code.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](action_code.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Trajectory&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](motion_code.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_code.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
-<h2>Trajectory papers with code</h2> 
+<h2>Trajectory Papers with Code</h2> 
 <ul><a name=Bae_2022_CVPR/>
 <details close>
 <summary><strong><em>Bae et al., "Non-Probability Sampling Network for Stochastic Human Trajectory Prediction", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Non-Probability_Sampling_Network_for_Stochastic_Human_Trajectory_Prediction_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.13471.pdf>arxiv</a> <a href=https://github.com/inhwanbae/NPSN>code</a></summary>

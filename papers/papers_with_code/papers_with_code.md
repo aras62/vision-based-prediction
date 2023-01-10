@@ -6,6 +6,8 @@
 ___
 # Papers with code
  * <a href=video_code.md#top>Video</a>
- video_code.md#top* <a href=action_code.md#top>Action</a>
- action_code.md#top* <a href=trajectory_code.md#top>Trajectory</a>
+ * <a href=action_code.md#top>Action</a>
+ * <a href=trajectory_code.md#top>Trajectory</a>
+ * <a href=motion_code.md#top>Motion</a>
+ * <a href=other_code.md#top>Other</a>
  
