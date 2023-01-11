@@ -9,7 +9,7 @@ Vison-based prediction papers are categorized in to 6 groups according to their 
 * <a href=trajectory_papers.md#top>Trajectory</a> prediction algorithms predict the future trajectories of objects, i.e. the future positions of the objects over time.
 * <a href=motion_papers.md#top>Motion</a> prediction algorithms are those designed to predict future changes in human pose.
 * <a href=other_papers.md#top>Other</a>  prediction includes algorithms such as visual weather prediction, occupancy grid map prediction, contest outcome prediction, etc.
-* <a href=papers_with_code.md#top>Papers with code</a> page provides an alternative search of papers that have published code available online.
+* <a href=papers_with_code/papers_with_code.md#top>Papers with code</a> page provides an alternative search of papers that have published code available online.
 
 ### Page Structure
 Papers in each category are sorted chronologically. Each paper has an associated link to the publication page, and/or arxiv preprint and/or code links if available. By **clicking on the papers** you can get the following information:
