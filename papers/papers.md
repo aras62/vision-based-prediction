@@ -11,6 +11,7 @@ Vison-based prediction papers are categorized in to 6 groups according to their 
 * <a href=other/other_papers.md#top>Other</a>  prediction includes algorithms such as visual weather prediction, occupancy grid map prediction, contest outcome prediction, etc.
 * <a href=papers_with_code/papers_with_code.md#top>Papers with Code</a> page provides an alternative search of papers that have published code available online.
 
+
 ### Page Structure
 Papers in each category are sorted chronologically. Each paper has an associated link to the publication page, and/or arxiv preprint and/or code links if available. By **clicking on the papers** you can get the following information:
 
