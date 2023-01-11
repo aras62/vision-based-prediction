@@ -2542,7 +2542,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 </details>
 <details close>
-<summary><em>Bhattacharjee et al., "Predicting Video Frames Using Feature Based Locally Guided Objectives", ACCV, 2019.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20870-7_42>paper</a></summary>
+<summary><em>Bhattacharjee et al., "Predicting Video Frames Using Feature Based Locally Guided Objectives", ACCV, 2018.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20870-7_42>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2563,7 +2563,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
     editor = "Jawahar, C.V. and Li, Hongdong and Mori, Greg and Schindler, Konrad",
     title = "Predicting Video Frames Using Feature Based Locally Guided Objectives",
     booktitle = "ACCV",
-    year = "2019"
+    year = "2018"
 }
 </pre>
 </details>
@@ -4019,7 +4019,7 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 </details>
 <details close>
-<summary><em>Bhattacharjee et al., "Predicting Video Frames Using Feature Based Locally Guided Objectives", ACCV, 2019.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20870-7_42>paper</a></summary>
+<summary><em>Bhattacharjee et al., "Predicting Video Frames Using Feature Based Locally Guided Objectives", ACCV, 2018.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20870-7_42>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4040,7 +4040,7 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
     editor = "Jawahar, C.V. and Li, Hongdong and Mori, Greg and Schindler, Konrad",
     title = "Predicting Video Frames Using Feature Based Locally Guided Objectives",
     booktitle = "ACCV",
-    year = "2019"
+    year = "2018"
 }
 </pre>
 </details>

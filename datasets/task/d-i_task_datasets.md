@@ -1637,36 +1637,6 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 </details>
 <details close>
-<summary><em>Meyer et al., "LaserFlow: Efficient and Probabilistic Object Detection and Motion Forecasting", RAL, 2017.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9310205>paper</a> <a href=https://arxiv.org/pdf/2003.05982.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/trajectory_metrics.md#l2">L2</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@Article{Meyer_2021_RAL,
-    author = "Meyer, Gregory P. and Charland, Jake and Pandey, Shreyash and Laddha, Ankit and Gautam, Shivam and Vallespi-Gonzalez, Carlos and Wellington, Carl K.",
-    journal = "RAL",
-    title = "{LaserFlow}: Efficient and Probabilistic Object Detection and Motion Forecasting",
-    year = "2017",
-    volume = "6",
-    number = "2",
-    pages = "526-533"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
 <summary><em>Kumar et al., "Interaction-Based Trajectory Prediction Over a Hybrid Traffic Graph", IROS, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9636143>paper</a> <a href=https://arxiv.org/pdf/2009.12916.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
@@ -2168,6 +2138,36 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
     booktitle = "IROS",
     title = "End-to-end Contextual Perception and Prediction with Interaction Transformer",
     year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Meyer et al., "LaserFlow: Efficient and Probabilistic Object Detection and Motion Forecasting", RAL, 2020.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9310205>paper</a> <a href=https://arxiv.org/pdf/2003.05982.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/trajectory_metrics.md#l2">L2</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Meyer_2020_RAL,
+    author = "Meyer, Gregory P. and Charland, Jake and Pandey, Shreyash and Laddha, Ankit and Gautam, Shivam and Vallespi-Gonzalez, Carlos and Wellington, Carl K.",
+    journal = "RAL",
+    title = "{LaserFlow}: Efficient and Probabilistic Object Detection and Motion Forecasting",
+    year = "2020",
+    volume = "6",
+    number = "2",
+    pages = "526-533"
 }
 </pre>
 </details>
@@ -4175,7 +4175,7 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 </details>
 <details close>
-<summary><em>Bhattacharjee et al., "Predicting Video Frames Using Feature Based Locally Guided Objectives", ACCV, 2019.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20870-7_42>paper</a></summary>
+<summary><em>Bhattacharjee et al., "Predicting Video Frames Using Feature Based Locally Guided Objectives", ACCV, 2018.</em> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20870-7_42>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4196,7 +4196,7 @@ A large-scale driving dataset recorded with different modalities including stere
     editor = "Jawahar, C.V. and Li, Hongdong and Mori, Greg and Schindler, Konrad",
     title = "Predicting Video Frames Using Feature Based Locally Guided Objectives",
     booktitle = "ACCV",
-    year = "2019"
+    year = "2018"
 }
 </pre>
 </details>
@@ -8798,7 +8798,7 @@ A dataset of 620 video sequences of traffic accidents recorded in six cities
 <details close>
 <summary><strong>Bibtex</strong></summary>
 <pre>
-@InProceedings{Chan_2016_ACCV,
+@InProceedings{Chan_2017_ACCV,
     author = "Chan, Fu-Hsiang and Chen, Yu-Ting and Xiang, Yu and Sun, Min",
     editor = "Lai, Shang-Hong and Lepetit, Vincent and Nishino, Ko and Sato, Yoichi",
     title = "Anticipating Accidents In Dashcam Videos",

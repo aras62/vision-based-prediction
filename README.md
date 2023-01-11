@@ -11,12 +11,12 @@ The repository also contains information about the datasets used in the papers. 
 To search for papers, you can use one of the following options:
 
 * [Papers](papers/papers.md#top)
-  * [Video prediction](papers/video_papers.md#top)
-  * [Action prediction](papers/action_papers.md#top)
-  * [Trajectory prediction](papers/trajectory_papers.md#top)
-  * [Motion prediction](papers/motion_papers.md#top)
-  * [Other prediction](papers/other_papers.md#top)
-  * [Papers with code](papers/papers_with_code.md#top)
+  * [Video prediction](papers/video/video_papers.md#top)
+  * [Action prediction](papers/action/action_papers.md#top)
+  * [Trajectory prediction](papers/trajectory/trajectory_papers.md#top)
+  * [Motion prediction](papers/motion/motion_papers.md#top)
+  * [Other prediction](papers/other/other_papers.md#top)
+  * [Papers with code](papers/papers_with_code/papers_with_code.md#top)
 * [Datasets](datasets/datasets.md#top)
   * [Alphabetical](datasets/alphabetical/alphabetical_datasets.md#top)
   * [Year](datasets/year/year_datasets.md#top)
@@ -41,6 +41,7 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 11/1/2023: Split pages by year
 * 9/1/2023: Improved styling of bibtex
 * 9/1/2023: Minor bug fixes and readability improvement
 * 9/1/2023: Added ICRA 22 (21 papers, 2 metrics, 2 datasets)

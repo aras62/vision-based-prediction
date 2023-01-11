@@ -556,6 +556,311 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </details>
 
 </ul></details>
+<a name=dad></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Dashcam Accident Dataset (DAD)</strong></l> <a href=https://aliensunmin.github.io/project/dashcam/>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-54190-7_9>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 620 video sequences of traffic accidents recorded in six cities
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, object class, temporal segment, Tracking ID</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Bao et al., "DRIVE: Deep Reinforced Accident Anticipation With Visual Explanation", ICCV, 2021.</em> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Bao_DRIVE_Deep_Reinforced_Accident_Anticipation_With_Visual_Explanation_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2107.10189.pdf>arxiv</a> <a href=https://github.com/Cogito2012/DRIVE>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#dada-2000">DADA-2000</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#auc">AUC</a></li>
+<li><a href="../metrics/action_metrics.md#tta">TTA</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Bao_2021_ICCV,
+    author = "Bao, Wentao and Yu, Qi and Kong, Yu",
+    title = "{DRIVE}: Deep Reinforced Accident Anticipation With Visual Explanation",
+    booktitle = "ICCV",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02675.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../metrics/action_metrics.md#recall">Recall</a></li>
+<li><a href="../metrics/action_metrics.md#precision">Precision</a></li>
+<li><a href="../metrics/action_metrics.md#f1">F1</a></li>
+<li><a href="../metrics/action_metrics.md#map">mAP</a></li>
+<li><a href="../metrics/action_metrics.md#attc">ATTC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Suzuki_2018_CVPR,
+    author = "Suzuki, Tomoyuki and Kataoka, Hirokatsu and Aoki, Yoshimitsu and Satoh, Yutaka",
+    title = "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db",
+    booktitle = "CVPR",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06560.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-fail">Epic-Fail</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#map">mAP</a></li>
+<li><a href="../metrics/action_metrics.md#tta">TTA</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zeng_2017_CVPR,
+    author = "Zeng, Kuo-Hao and Chou, Shih-Han and Chan, Fu-Hsiang and Carlos Niebles, Juan and Sun, Min",
+    title = "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Yao et al., "Unsupervised Traffic Accident Detection in First-Person Videos", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8967556>paper</a> <a href=https://arxiv.org/pdf/1903.00618.pdf>arxiv</a> <a href=https://github.com/MoonBlvd/tad-IROS2019>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#hev-i">HEV-I</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#a3d">A3D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#fiou">FIoU</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yao_2019_IROS,
+    author = "Yao, Y. and Xu, M. and Wang, Y. and Crandall, D. J. and Atkins, E. M.",
+    booktitle = "IROS",
+    title = "Unsupervised Traffic Accident Detection in First-Person Videos",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Chan_2017_ACCV,
+    author = "Chan, Fu-Hsiang and Chen, Yu-Ting and Xiang, Yu and Sun, Min",
+    editor = "Lai, Shang-Hong and Lepetit, Vincent and Nishino, Ko and Sato, Yoichi",
+    title = "Anticipating Accidents In Dashcam Videos",
+    booktitle = "ACCV",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=mouse_fish></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Mouse Fish</strong></l> <a href=https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/behaviorAnalysis/Lie-X/Lie-X.html>link</a> <a href=https://link.springer.com/article/10.1007/s11263-017-0998-6>paper</a> <a href=https://arxiv.org/pdf/1609.03773.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of fishes and mice in a lab environment with corresponding 2D poses
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> Depth, 3D pose</li>
+<li><em><strong>Task:</strong></em> Animal</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Liu et al., "Motion Prediction Using Trajectory Cues", ICCV, 2021.</em> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Motion_Prediction_Using_Trajectory_Cues_ICCV_2021_paper.pdf>paper</a> <a href=https://github.com/Pose-Group/MPT>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mouse_fish">Mouse Fish</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Liu_2021_ICCV,
+    author = "Liu, Zhenguang and Su, Pengxiang and Wu, Shuang and Shen, Xuanjing and Chen, Haipeng and Hao, Yanbin and Wang, Meng",
+    title = "Motion Prediction Using Trajectory Cues",
+    booktitle = "ICCV",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Liu et al., "Towards Natural And Accurate Future Motion Prediction Of Humans And Animals", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Towards_Natural_and_Accurate_Future_Motion_Prediction_of_Humans_and_CVPR_2019_paper.pdf>paper</a> <a href=https://github.com/BII-wushuang/Lie-Group-Motion-Prediction>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mouse_fish">Mouse Fish</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mje">MJE</a></li>
+<li><a href="../metrics/motion_metrics.md#run_time">Run Time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Liu_2019_CVPR,
+    author = "Liu, Zhenguang and Wu, Shuang and Jin, Shuyuan and Liu, Qi and Lu, Shijian and Zimmermann, Roger and Cheng, Li",
+    title = "Towards Natural And Accurate Future Motion Prediction Of Humans And Animals",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@Article{Xu_2017_IJCV,
+    author = "Xu, Chi and Govindarajan, Lakshmi Narasimhan and Zhang, Yu and Cheng, Li",
+    title = "{Lie-X}: Depth Image Based Articulated Object Pose Estimation, Tracking, And Action Recognition On Lie Groups",
+    journal = "IJCV",
+    volume = "123",
+    number = "3",
+    pages = "454--478",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=kinetics-400></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Kinetics-400</strong></l> <a href=https://deepmind.com/research/open-source/kinetics>link</a> <a href=https://arxiv.org/pdf/1705.06950.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A large-scale dataset 300K+ video clips of 400 human action classes, e.g. drawing, drinking, laughing,  each containing ~10s clips
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Suris et al., "Learning the Predictability of the Future", CVPR, 2021.</em> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Suris_Learning_the_Predictability_of_the_Future_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2101.01600.pdf>arxiv</a> <a href=https://github.com/cvlab-columbia/hyperfuture/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#kinetics-400">Kinetics-400</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#finegym">FineGym</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Suris_2021_CVPR,
+    author = "Suris, Didac and Liu, Ruoshi and Vondrick, Carl",
+    title = "Learning the Predictability of the Future",
+    booktitle = "CVPR",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Wang et al., "Self-supervised Video Representation Learning by Pace Prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620494.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.05861.pdf>arxiv</a> <a href=https://github.com/laura-wang/video-pace>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#kinetics-400">Kinetics-400</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#hmdb">HMDB</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/other_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wang_2020_ECCV_2,
+    author = "Wang, Jiangliu and Jiao, Jianbo and Liu, Yun-Hui",
+    title = "Self-supervised Video Representation Learning by Pace Prediction",
+    booktitle = "ECCV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@Article{Kay_2017_arxiv,
+    author = "Kay, Will and Carreira, Joao and Simonyan, Karen and Zhang, Brian and Hillier, Chloe and Vijayanarasimhan, Sudheendra and Viola, Fabio and Green, Tim and Back, Trevor and Natsev, Paul and Suleyman, Mustafa and Zisserman, Andrew",
+    title = "The Kinetics Human Action Video Dataset",
+    journal = "arXiv:1705.06950",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
 <a name=jigsaws></a>
 <details close>
 <summary><l style="font-size:20px"><strong>JIGSAWS</strong></l> <a href=https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/7805258>paper</a></summary> 
@@ -729,726 +1034,6 @@ A dataset containing 100 repetitions of a consistent route through Oxford drivin
 </details>
 
 </ul></details>
-<a name=mouse_fish></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Mouse Fish</strong></l> <a href=https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/behaviorAnalysis/Lie-X/Lie-X.html>link</a> <a href=https://link.springer.com/article/10.1007/s11263-017-0998-6>paper</a> <a href=https://arxiv.org/pdf/1609.03773.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of fishes and mice in a lab environment with corresponding 2D poses
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> Depth, 3D pose</li>
-<li><em><strong>Task:</strong></em> Animal</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Liu et al., "Motion Prediction Using Trajectory Cues", ICCV, 2021.</em> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Motion_Prediction_Using_Trajectory_Cues_ICCV_2021_paper.pdf>paper</a> <a href=https://github.com/Pose-Group/MPT>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mouse_fish">Mouse Fish</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Liu_2021_ICCV,
-    author = "Liu, Zhenguang and Su, Pengxiang and Wu, Shuang and Shen, Xuanjing and Chen, Haipeng and Hao, Yanbin and Wang, Meng",
-    title = "Motion Prediction Using Trajectory Cues",
-    booktitle = "ICCV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Liu et al., "Towards Natural And Accurate Future Motion Prediction Of Humans And Animals", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Towards_Natural_and_Accurate_Future_Motion_Prediction_of_Humans_and_CVPR_2019_paper.pdf>paper</a> <a href=https://github.com/BII-wushuang/Lie-Group-Motion-Prediction>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mouse_fish">Mouse Fish</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mje">MJE</a></li>
-<li><a href="../metrics/motion_metrics.md#run_time">Run Time</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Liu_2019_CVPR,
-    author = "Liu, Zhenguang and Wu, Shuang and Jin, Shuyuan and Liu, Qi and Lu, Shijian and Zimmermann, Roger and Cheng, Li",
-    title = "Towards Natural And Accurate Future Motion Prediction Of Humans And Animals",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@Article{Xu_2017_IJCV,
-    author = "Xu, Chi and Govindarajan, Lakshmi Narasimhan and Zhang, Yu and Cheng, Li",
-    title = "{Lie-X}: Depth Image Based Articulated Object Pose Estimation, Tracking, And Action Recognition On Lie Groups",
-    journal = "IJCV",
-    volume = "123",
-    number = "3",
-    pages = "454--478",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=kinetics-400></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Kinetics-400</strong></l> <a href=https://deepmind.com/research/open-source/kinetics>link</a> <a href=https://arxiv.org/pdf/1705.06950.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A large-scale dataset 300K+ video clips of 400 human action classes, e.g. drawing, drinking, laughing,  each containing ~10s clips
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, activity label</li>
-<li><em><strong>Task:</strong></em> Activity</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Suris et al., "Learning the Predictability of the Future", CVPR, 2021.</em> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Suris_Learning_the_Predictability_of_the_Future_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2101.01600.pdf>arxiv</a> <a href=https://github.com/cvlab-columbia/hyperfuture/>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#kinetics-400">Kinetics-400</a></li>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#finegym">FineGym</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Suris_2021_CVPR,
-    author = "Suris, Didac and Liu, Ruoshi and Vondrick, Carl",
-    title = "Learning the Predictability of the Future",
-    booktitle = "CVPR",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Wang et al., "Self-supervised Video Representation Learning by Pace Prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620494.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.05861.pdf>arxiv</a> <a href=https://github.com/laura-wang/video-pace>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#kinetics-400">Kinetics-400</a></li>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#hmdb">HMDB</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/other_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Wang_2020_ECCV_2,
-    author = "Wang, Jiangliu and Jiao, Jianbo and Liu, Yun-Hui",
-    title = "Self-supervised Video Representation Learning by Pace Prediction",
-    booktitle = "ECCV",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@Article{Kay_2017_arxiv,
-    author = "Kay, Will and Carreira, Joao and Simonyan, Karen and Zhang, Brian and Hillier, Chloe and Vijayanarasimhan, Sudheendra and Viola, Fabio and Green, Tim and Back, Trevor and Natsev, Paul and Suleyman, Mustafa and Zisserman, Andrew",
-    title = "The Kinetics Human Action Video Dataset",
-    journal = "arXiv:1705.06950",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=matterport3d></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Matterport3D</strong></l> <a href=https://niessner.github.io/Matterport/>link</a> <a href=https://ieeexplore.ieee.org/document/8374622>paper</a> <a href=https://arxiv.org/pdf/1709.06158.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of photo realistic 194K+ RGBD images of 90 indoor environments
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGBD, Semantic Segment</li>
-<li><em><strong>Task:</strong></em> Simulation</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Ramakrishnan et al., "Occupancy Anticipation for Efficient Exploration and Navigation", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500392.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.09285.pdf>arxiv</a> <a href=https://github.com/facebookresearch/OccupancyAnticipation>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#matterport3d">Matterport3D</a></li>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#gibson_env">Gibson Env</a></li>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#habitat">Habitat</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/other_metrics.md#f1">F1</a></li>
-<li><a href="../metrics/other_metrics.md#iou">IoU</a></li>
-<li><a href="../metrics/other_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ramakrishnan_2020_ECCV,
-    author = "Ramakrishnan, Santhosh K and Al-Halah, Ziad and Grauman, Kristen",
-    title = "Occupancy Anticipation for Efficient Exploration and Navigation",
-    booktitle = "ECCV",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Chang_2017_3DV,
-    author = "Chang, Angel and Dai, Angela and Funkhouser, Thomas and Halber, Maciej and Niessner, Matthias and Savva, Manolis and Song, Shuran and Zeng, Andy and Zhang, Yinda",
-    title = "{Matterport3D}: Learning from {RGB-D} Data in Indoor Environments",
-    booktitle = "3DV",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=smtsmt></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Something Something (SmtSmt)</strong></l> <a href=https://developer.qualcomm.com/software/ai-datasets/something-something>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Goyal_The_Something_Something_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1706.04261.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 220+ K videos of different actors interacting with various objects
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, Activity Label</li>
-<li><em><strong>Task:</strong></em> Object interaction</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Chang et al., "MAU: A Motion-Aware Unit for Video Prediction and Beyond", NeurIPS, 2021.</em> <a href=https://papers.nips.cc/paper/2021/file/e25cfa90f04351958216f97e3efdabe9-Paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#town_center">Town Center</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#smtsmt">SmtSmt</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../metrics/video_metrics.md#fvd">FVD</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chang_2021_NeurIPS,
-    author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Ye, Yan and Xinguang, Xiang and Gao, Wen",
-    booktitle = "NeurIPS",
-    title = "{MAU}: A Motion-Aware Unit for Video Prediction and Beyond",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Goya_2017_CVPR,
-    author = "Goyal, Raghav and Ebrahimi Kahou, Samira and Michalski, Vincent and Materzynska, Joanna and Westphal, Susanne and Kim, Heuna and Haenel, Valentin and Fruend, Ingo and Yianilos, Peter and Mueller-Freitag, Moritz and others",
-    title = "The {Something Something} Video Database for Learning and Evaluating Visual Common Sense",
-    booktitle = "CVPR",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=dfaust></a>
-<details close>
-<summary><l style="font-size:20px"><strong>DFAUST</strong></l> <a href=https://dfaust.is.tue.mpg.de/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Bogo_Dynamic_FAUST_Registering_CVPR_2017_paper.pdf>paper</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 3D poses recorded over time (3D) at 60 fps
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> 3D Pose</li>
-<li><em><strong>Task:</strong></em> Activity</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Yuan et al., "3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction", IROS, 2020.</em> <a href=https://ieeexplore.ieee.org/document/9341671>paper</a> <a href=https://arxiv.org/pdf/2006.13906.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#tosca">TOSCA</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#scape">SCAPE</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#dfaust">DFAUST</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#cma">CMA</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Yuan_2020_IROS,
-    author = "Yuan, S. and Li, X. and Tzes, A. and Fang, Y.",
-    booktitle = "IROS",
-    title = "{3DMotion-Net}: Learning Continuous Flow Function for {3D} Motion Prediction",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Bogo_2017_CVPR,
-    author = "Bogo, Federica and Romero, Javier and Pons-Moll, Gerard and Black, Michael J.",
-    title = "Dynamic {FAUST}: Registering Human Bodies in Motion",
-    booktitle = "CVPR",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=20bn></a>
-<details close>
-<summary><l style="font-size:20px"><strong>20BN</strong></l> <a href=https://20bn.com/datasets/something-something/v2>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Goyal_The_Something_Something_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1706.04261.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 220K+ videos of 174 different activities
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, Activity Label</li>
-<li><em><strong>Task:</strong></em> Activity</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Rothfuss et al., "Deep Episodic Memory: Encoding, Recalling, and Predicting Episodic Experiences for Robot Action Execution", RAL, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8421022>paper</a> <a href=https://arxiv.org/pdf/1801.04134.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#activitynet">ActivityNet</a></li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@Article{Rothfuss_2018_RAL,
-    author = "Rothfuss, J. and Ferreira, F. and Aksoy, E. E. and Zhou, Y. and Asfour, T.",
-    journal = "RAL",
-    title = "Deep Episodic Memory: Encoding, Recalling, and Predicting Episodic Experiences for Robot Action Execution",
-    year = "2018",
-    volume = "3",
-    number = "4",
-    pages = "4007-4014"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Goyal_2017_ICCV,
-    author = "Goyal, Raghav and Kahou, Samira Ebrahimi and Michalski, Vincent and Materzynska, Joanna and Westphal, Susanne and Kim, Heuna and Haenel, Valentin and Fruend, Ingo and Yianilos, Peter and Mueller-Freitag, Moritz and others",
-    title = "The Something Something Video Database for Learning and Evaluating Visual Common Sense.",
-    booktitle = "ICCV",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=bdd100k></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Berkeley DeepDrive (BDD100K)</strong></l> <a href=https://bair.berkeley.edu/blog/2018/05/30/bdd/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_End-To-End_Learning_of_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.01079.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 100K driving sequences with annotations fo 10 traffic objects annotated at 10Hz
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, Bounding Box, Semantic Segment, Lane Marking, Drivable Areas</li>
-<li><em><strong>Task:</strong></em> Driving</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Schmeckpeper et al., "Learning Predictive Models From Observation and Interaction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650698.pdf>paper</a> <a href=https://arxiv.org/pdf/1912.12773.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#htud">HTUD</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#bdd100k">BDD100K</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../metrics/video_metrics.md#lpips">LPIPS</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Schmeckpeper_2020_ECCV,
-    author = "Schmeckpeper, Karl and Xie, Annie and Rybkin, Oleh and Tian, Stephen and Daniilidis, Kostas and Levine, Sergey and Finn, Chelsea",
-    title = "Learning Predictive Models From Observation and Interaction",
-    booktitle = "ECCV",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Xu_2017_CVPR,
-    author = "Xu, Huazhe and Gao, Yang and Yu, Fisher and Darrell, Trevor",
-    title = "End-To-End Learning of Driving Models From Large-Scale Video Datasets",
-    booktitle = "CVPR",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=strands></a>
-<details close>
-<summary><l style="font-size:20px"><strong>STRANDS</strong></l> <a href=https://strands.readthedocs.io/en/latest/datasets/>link</a> <a href=https://ieeexplore.ieee.org/document/7948740>paper</a> <a href=https://arxiv.org/pdf/1604.04384.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-An RGBD dataset of objects with corresponding 3D bounding boxes collected using a mobile robot
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGBD, 3D bounding box</li>
-<li><em><strong>Task:</strong></em> Driving</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>paper</a> <a href=https://arxiv.org/pdf/1710.00126.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#strands">STRANDS</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#l-cas">L-CAS</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../metrics/trajectory_metrics.md#aede">AEDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Sun_2018_ICRA,
-    author = "Sun, L. and Yan, Z. and Mellado, S. M. and Hanheide, M. and Duckett, T.",
-    booktitle = "ICRA",
-    title = "{3Dof} Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@Article{Hawes_2017_RAM,
-    author = "Hawes, Nick and Burbridge, Christopher and Jovan, Ferdian and Kunze, Lars and Lacerda, Bruno and Mudrova, Lenka and Young, Jay and Wyatt, Jeremy and Hebesberger, Denise and Kortner, Tobias and others",
-    title = "The Strands Project: Long-Term Autonomy In Everyday Environments",
-    journal = "IEEE Robotics \\\& Automation Magazine",
-    volume = "24",
-    number = "3",
-    pages = "146--156",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=mapillary_vistas></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Mapillary Vistas</strong></l> <a href=https://www.mapillary.com/dataset/vistas?lat=-12.95419285181812&lng=-39.89899730092117&z=0.6853800234619407&pKey=H1P0sKnFsYu1MkfcjGUZTg>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Neuhold_The_Mapillary_Vistas_ICCV_2017_paper.pdf>paper</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of street-level images with the corresponding instance and semantic segmentation
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, Bounding Box, Semantic Segment</li>
-<li><em><strong>Task:</strong></em> Driving</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Makansi et al., "Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior", CVPR, 2020.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Makansi_Multimodal_Future_Localization_and_Emergence_Prediction_for_Objects_in_Egocentric_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.04700.pdf>arxiv</a> <a href=https://github.com/lmb-freiburg/FLN-EPN-RPN>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#fit">FIT</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mapillary_vistas">Mapillary Vistas</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../metrics/trajectory_metrics.md#iou">IoU</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Makansi_2020_CVPR,
-    author = "Makansi, Osama and Cicek, Ozgun and Buchicchio, Kevin and Brox, Thomas",
-    title = "Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior",
-    booktitle = "CVPR",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Neuhold_2017_ICCV,
-    author = "Neuhold, Gerhard and Ollmann, Tobias and Rota Bulo, Samuel and Kontschieder, Peter",
-    title = "The Mapillary Vistas Dataset for Semantic Understanding of Street Scenes",
-    booktitle = "ICCV",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=recipe1m></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Recipe1M</strong></l> <a href=http://pic2recipe.csail.mit.edu/>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Cross-Modal_Embeddings_With_Adversarial_Networks_for_Cooking_Recipes_and_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.01273.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 1M+ cooking recipes with 13M food images
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB (image), text</li>
-<li><em><strong>Task:</strong></em> Cooking</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Sener et al., "Zero-Shot Anticipation For Instructional Activities", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Sener_Zero-Shot_Anticipation_for_Instructional_Activities_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.02501.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#youcook2">YouCook2</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#recipe1m">Recipe1M</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#recall">Recall</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Sener_2019_ICCV,
-    author = "Sener, Fadime and Yao, Angela",
-    title = "Zero-Shot Anticipation For Instructional Activities",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Salvador_2017_CVPR,
-    author = "Salvador, Amaia and Hynes, Nicholas and Aytar, Yusuf and Marin, Javier and Ofli, Ferda and Weber, Ingmar and Torralba, Antonio",
-    title = "Learning Cross-Modal Embeddings For Cooking Recipes And Food Images",
-    booktitle = "CVPR",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=cityperson></a>
-<details close>
-<summary><l style="font-size:20px"><strong>CityPersons</strong></l> <a href=https://bitbucket.org/shanshanzhang/citypersons/src/default/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_CityPersons_A_Diverse_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1702.05693.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A subset of Cityscapes dataset with fine-grained annotations for pedestrians and vehicles in additional 20K images with a total of 35K+ bounding boxes for pedestrians
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> Stereo RGB, bounding box, semantic segment</li>
-<li><em><strong>Task:</strong></em> Driving</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Bhattacharyya et al., "Long-Term On-Board Prediction Of People In Traffic Scenes Under Uncertainty", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1711.09026.pdf>arxiv</a> <a href=https://github.com/apratimbhattacharyya18/onboard_long_term_prediction>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cityperson">CityPerson</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../metrics/trajectory_metrics.md#nll">NLL</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Bhattacharyya_2018_CVPR,
-    author = "Bhattacharyya, Apratim and Fritz, Mario and Schiele, Bernt",
-    title = "Long-Term On-Board Prediction Of People In Traffic Scenes Under Uncertainty",
-    booktitle = "CVPR",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Shanshan_2017_CVPR,
-    Author = "Zhang, Shanshan and Benenson, Rodrigo and Schiele, Bernt",
-    Title = "Citypersons: A Diverse Dataset For Pedestrian Detection",
-    Booktitle = "CVPR",
-    Year = "2017"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=epic-fail></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Epic-Fail</strong></l> <a href=http://aliensunmin.github.io/project/video-Forecasting/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06560.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A risk-assessment dataset of failed activity videos with 3K samples annotated at every 15 frames with bounding boxes around risky regions
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, trajectory, temporal segment</li>
-<li><em><strong>Task:</strong></em> Risk assessment</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06560.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-fail">Epic-Fail</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#map">mAP</a></li>
-<li><a href="../metrics/action_metrics.md#tta">TTA</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zeng_2017_CVPR,
-    author = "Zeng, Kuo-Hao and Chou, Shih-Han and Chan, Fu-Hsiang and Carlos Niebles, Juan and Sun, Min",
-    title = "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization",
-    booktitle = "CVPR",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Zeng_2017_CVPR,
-    author = "Zeng, Kuo-Hao and Chou, Shih-Han and Chan, Fu-Hsiang and Carlos Niebles, Juan and Sun, Min",
-    title = "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization",
-    booktitle = "CVPR",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul></details>
 <a name=l-cas></a>
 <details close>
 <summary><l style="font-size:20px"><strong>L-CAS</strong></l> <a href=https://lcas.lincoln.ac.uk/wp/research/data-sets-software/l-cas-3d-point-cloud-people-dataset/>link</a> <a href=https://ieeexplore.ieee.org/document/8202247>paper</a></summary> 
@@ -1556,6 +1141,117 @@ A multimodal dataset of 41 daily activities and 10 interaction actions recorded 
 </details>
 
 </ul></details>
+<a name=epic-fail></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Epic-Fail</strong></l> <a href=http://aliensunmin.github.io/project/video-Forecasting/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06560.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A risk-assessment dataset of failed activity videos with 3K samples annotated at every 15 frames with bounding boxes around risky regions
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, trajectory, temporal segment</li>
+<li><em><strong>Task:</strong></em> Risk assessment</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06560.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-fail">Epic-Fail</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#map">mAP</a></li>
+<li><a href="../metrics/action_metrics.md#tta">TTA</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zeng_2017_CVPR,
+    author = "Zeng, Kuo-Hao and Chou, Shih-Han and Chan, Fu-Hsiang and Carlos Niebles, Juan and Sun, Min",
+    title = "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Zeng_2017_CVPR,
+    author = "Zeng, Kuo-Hao and Chou, Shih-Han and Chan, Fu-Hsiang and Carlos Niebles, Juan and Sun, Min",
+    title = "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=strands></a>
+<details close>
+<summary><l style="font-size:20px"><strong>STRANDS</strong></l> <a href=https://strands.readthedocs.io/en/latest/datasets/>link</a> <a href=https://ieeexplore.ieee.org/document/7948740>paper</a> <a href=https://arxiv.org/pdf/1604.04384.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+An RGBD dataset of objects with corresponding 3D bounding boxes collected using a mobile robot
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, 3D bounding box</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018.</em> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>paper</a> <a href=https://arxiv.org/pdf/1710.00126.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#strands">STRANDS</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#l-cas">L-CAS</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#aede">AEDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Sun_2018_ICRA,
+    author = "Sun, L. and Yan, Z. and Mellado, S. M. and Hanheide, M. and Duckett, T.",
+    booktitle = "ICRA",
+    title = "{3Dof} Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@Article{Hawes_2017_RAM,
+    author = "Hawes, Nick and Burbridge, Christopher and Jovan, Ferdian and Kunze, Lars and Lacerda, Bruno and Mudrova, Lenka and Young, Jay and Wyatt, Jeremy and Hebesberger, Denise and Kortner, Tobias and others",
+    title = "The Strands Project: Long-Term Autonomy In Everyday Environments",
+    journal = "IEEE Robotics \\\& Automation Magazine",
+    volume = "24",
+    number = "3",
+    pages = "146--156",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
 <a name=bu_action></a>
 <details close>
 <summary><l style="font-size:20px"><strong>BU Action (BUA)</strong></l> <a href=http://cs-people.bu.edu/sbargal/BU-action/>link</a> <a href=https://www.sciencedirect.com/science/article/abs/pii/S0031320317300353>paper</a> <a href=https://arxiv.org/pdf/1512.07155.pdf>arxiv</a></summary> 
@@ -1610,6 +1306,451 @@ A dataset of action images with 23K+ images and 101 activity classes collected f
     volume = "68",
     pages = "334--345",
     year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=mapillary_vistas></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Mapillary Vistas</strong></l> <a href=https://www.mapillary.com/dataset/vistas?lat=-12.95419285181812&lng=-39.89899730092117&z=0.6853800234619407&pKey=H1P0sKnFsYu1MkfcjGUZTg>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Neuhold_The_Mapillary_Vistas_ICCV_2017_paper.pdf>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of street-level images with the corresponding instance and semantic segmentation
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Bounding Box, Semantic Segment</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Makansi et al., "Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior", CVPR, 2020.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Makansi_Multimodal_Future_Localization_and_Emergence_Prediction_for_Objects_in_Egocentric_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.04700.pdf>arxiv</a> <a href=https://github.com/lmb-freiburg/FLN-EPN-RPN>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#fit">FIT</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mapillary_vistas">Mapillary Vistas</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../metrics/trajectory_metrics.md#iou">IoU</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Makansi_2020_CVPR,
+    author = "Makansi, Osama and Cicek, Ozgun and Buchicchio, Kevin and Brox, Thomas",
+    title = "Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Neuhold_2017_ICCV,
+    author = "Neuhold, Gerhard and Ollmann, Tobias and Rota Bulo, Samuel and Kontschieder, Peter",
+    title = "The Mapillary Vistas Dataset for Semantic Understanding of Street Scenes",
+    booktitle = "ICCV",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=matterport3d></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Matterport3D</strong></l> <a href=https://niessner.github.io/Matterport/>link</a> <a href=https://ieeexplore.ieee.org/document/8374622>paper</a> <a href=https://arxiv.org/pdf/1709.06158.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of photo realistic 194K+ RGBD images of 90 indoor environments
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, Semantic Segment</li>
+<li><em><strong>Task:</strong></em> Simulation</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Ramakrishnan et al., "Occupancy Anticipation for Efficient Exploration and Navigation", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500392.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.09285.pdf>arxiv</a> <a href=https://github.com/facebookresearch/OccupancyAnticipation>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#matterport3d">Matterport3D</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#gibson_env">Gibson Env</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#habitat">Habitat</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/other_metrics.md#f1">F1</a></li>
+<li><a href="../metrics/other_metrics.md#iou">IoU</a></li>
+<li><a href="../metrics/other_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ramakrishnan_2020_ECCV,
+    author = "Ramakrishnan, Santhosh K and Al-Halah, Ziad and Grauman, Kristen",
+    title = "Occupancy Anticipation for Efficient Exploration and Navigation",
+    booktitle = "ECCV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Chang_2017_3DV,
+    author = "Chang, Angel and Dai, Angela and Funkhouser, Thomas and Halber, Maciej and Niessner, Matthias and Savva, Manolis and Song, Shuran and Zeng, Andy and Zhang, Yinda",
+    title = "{Matterport3D}: Learning from {RGB-D} Data in Indoor Environments",
+    booktitle = "3DV",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=bdd100k></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Berkeley DeepDrive (BDD100K)</strong></l> <a href=https://bair.berkeley.edu/blog/2018/05/30/bdd/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_End-To-End_Learning_of_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.01079.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 100K driving sequences with annotations fo 10 traffic objects annotated at 10Hz
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Bounding Box, Semantic Segment, Lane Marking, Drivable Areas</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Schmeckpeper et al., "Learning Predictive Models From Observation and Interaction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650698.pdf>paper</a> <a href=https://arxiv.org/pdf/1912.12773.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#htud">HTUD</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#bdd100k">BDD100K</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#lpips">LPIPS</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Schmeckpeper_2020_ECCV,
+    author = "Schmeckpeper, Karl and Xie, Annie and Rybkin, Oleh and Tian, Stephen and Daniilidis, Kostas and Levine, Sergey and Finn, Chelsea",
+    title = "Learning Predictive Models From Observation and Interaction",
+    booktitle = "ECCV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Xu_2017_CVPR,
+    author = "Xu, Huazhe and Gao, Yang and Yu, Fisher and Darrell, Trevor",
+    title = "End-To-End Learning of Driving Models From Large-Scale Video Datasets",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=recipe1m></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Recipe1M</strong></l> <a href=http://pic2recipe.csail.mit.edu/>link</a> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Cross-Modal_Embeddings_With_Adversarial_Networks_for_Cooking_Recipes_and_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.01273.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 1M+ cooking recipes with 13M food images
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB (image), text</li>
+<li><em><strong>Task:</strong></em> Cooking</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Sener et al., "Zero-Shot Anticipation For Instructional Activities", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Sener_Zero-Shot_Anticipation_for_Instructional_Activities_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.02501.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#youcook2">YouCook2</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#recipe1m">Recipe1M</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#recall">Recall</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Sener_2019_ICCV,
+    author = "Sener, Fadime and Yao, Angela",
+    title = "Zero-Shot Anticipation For Instructional Activities",
+    booktitle = "ICCV",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Salvador_2017_CVPR,
+    author = "Salvador, Amaia and Hynes, Nicholas and Aytar, Yusuf and Marin, Javier and Ofli, Ferda and Weber, Ingmar and Torralba, Antonio",
+    title = "Learning Cross-Modal Embeddings For Cooking Recipes And Food Images",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=20bn></a>
+<details close>
+<summary><l style="font-size:20px"><strong>20BN</strong></l> <a href=https://20bn.com/datasets/something-something/v2>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Goyal_The_Something_Something_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1706.04261.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 220K+ videos of 174 different activities
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Activity Label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Rothfuss et al., "Deep Episodic Memory: Encoding, Recalling, and Predicting Episodic Experiences for Robot Action Execution", RAL, 2018.</em> <a href=https://ieeexplore.ieee.org/document/8421022>paper</a> <a href=https://arxiv.org/pdf/1801.04134.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#activitynet">ActivityNet</a></li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Rothfuss_2018_RAL,
+    author = "Rothfuss, J. and Ferreira, F. and Aksoy, E. E. and Zhou, Y. and Asfour, T.",
+    journal = "RAL",
+    title = "Deep Episodic Memory: Encoding, Recalling, and Predicting Episodic Experiences for Robot Action Execution",
+    year = "2018",
+    volume = "3",
+    number = "4",
+    pages = "4007-4014"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Goyal_2017_ICCV,
+    author = "Goyal, Raghav and Kahou, Samira Ebrahimi and Michalski, Vincent and Materzynska, Joanna and Westphal, Susanne and Kim, Heuna and Haenel, Valentin and Fruend, Ingo and Yianilos, Peter and Mueller-Freitag, Moritz and others",
+    title = "The Something Something Video Database for Learning and Evaluating Visual Common Sense.",
+    booktitle = "ICCV",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=dfaust></a>
+<details close>
+<summary><l style="font-size:20px"><strong>DFAUST</strong></l> <a href=https://dfaust.is.tue.mpg.de/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Bogo_Dynamic_FAUST_Registering_CVPR_2017_paper.pdf>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 3D poses recorded over time (3D) at 60 fps
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> 3D Pose</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Yuan et al., "3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction", IROS, 2020.</em> <a href=https://ieeexplore.ieee.org/document/9341671>paper</a> <a href=https://arxiv.org/pdf/2006.13906.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#tosca">TOSCA</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#scape">SCAPE</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#dfaust">DFAUST</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#cma">CMA</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yuan_2020_IROS,
+    author = "Yuan, S. and Li, X. and Tzes, A. and Fang, Y.",
+    booktitle = "IROS",
+    title = "{3DMotion-Net}: Learning Continuous Flow Function for {3D} Motion Prediction",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Bogo_2017_CVPR,
+    author = "Bogo, Federica and Romero, Javier and Pons-Moll, Gerard and Black, Michael J.",
+    title = "Dynamic {FAUST}: Registering Human Bodies in Motion",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=smtsmt></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Something Something (SmtSmt)</strong></l> <a href=https://developer.qualcomm.com/software/ai-datasets/something-something>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Goyal_The_Something_Something_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1706.04261.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 220+ K videos of different actors interacting with various objects
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/video_papers.md#top>Video prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Activity Label</li>
+<li><em><strong>Task:</strong></em> Object interaction</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Chang et al., "MAU: A Motion-Aware Unit for Video Prediction and Beyond", NeurIPS, 2021.</em> <a href=https://papers.nips.cc/paper/2021/file/e25cfa90f04351958216f97e3efdabe9-Paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#town_center">Town Center</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#smtsmt">SmtSmt</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/video_metrics.md#ssim">SSIM</a></li>
+<li><a href="../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../metrics/video_metrics.md#fvd">FVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Chang_2021_NeurIPS,
+    author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Ye, Yan and Xinguang, Xiang and Gao, Wen",
+    booktitle = "NeurIPS",
+    title = "{MAU}: A Motion-Aware Unit for Video Prediction and Beyond",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Goya_2017_CVPR,
+    author = "Goyal, Raghav and Ebrahimi Kahou, Samira and Michalski, Vincent and Materzynska, Joanna and Westphal, Susanne and Kim, Heuna and Haenel, Valentin and Fruend, Ingo and Yianilos, Peter and Mueller-Freitag, Moritz and others",
+    title = "The {Something Something} Video Database for Learning and Evaluating Visual Common Sense",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=cityperson></a>
+<details close>
+<summary><l style="font-size:20px"><strong>CityPersons</strong></l> <a href=https://bitbucket.org/shanshanzhang/citypersons/src/default/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_CityPersons_A_Diverse_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1702.05693.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A subset of Cityscapes dataset with fine-grained annotations for pedestrians and vehicles in additional 20K images with a total of 35K+ bounding boxes for pedestrians
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/trajectory_papers.md#top>Trajectory prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> Stereo RGB, bounding box, semantic segment</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Bhattacharyya et al., "Long-Term On-Board Prediction Of People In Traffic Scenes Under Uncertainty", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1711.09026.pdf>arxiv</a> <a href=https://github.com/apratimbhattacharyya18/onboard_long_term_prediction>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cityperson">CityPerson</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../metrics/trajectory_metrics.md#nll">NLL</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Bhattacharyya_2018_CVPR,
+    author = "Bhattacharyya, Apratim and Fritz, Mario and Schiele, Bernt",
+    title = "Long-Term On-Board Prediction Of People In Traffic Scenes Under Uncertainty",
+    booktitle = "CVPR",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Shanshan_2017_CVPR,
+    Author = "Zhang, Shanshan and Benenson, Rodrigo and Schiele, Bernt",
+    Title = "Citypersons: A Diverse Dataset For Pedestrian Detection",
+    Booktitle = "CVPR",
+    Year = "2017"
 }
 </pre>
 </details>
@@ -2704,6 +2845,523 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </details>
 
 </ul></details>
+<a name=cmu_mocap></a>
+<details close>
+<summary><l style="font-size:20px"><strong>CMU Mocap</strong></l> <a href=http://mocap.cs.cmu.edu/>link</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A motion dataset consists of various activities including human interaction, interaction with the environment, locomotion, sports, etc.
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> 3D pose, activity label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Butepage et al., "Deep Representation Learning For Human Motion Prediction And Classification", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Butepage_Deep_Representation_Learning_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1702.07486.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Butepage_2017_CVPR,
+    author = "Butepage, Judith and Black, Michael J. and Kragic, Danica and Kjellstrom, Hedvig",
+    title = "Deep Representation Learning For Human Motion Prediction And Classification",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Ma et al., "Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction", CVPR, 2022.</em> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Progressively_Generating_Better_Initial_Guesses_Towards_Next_Stages_for_High-Quality_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.16051.pdf>arxiv</a> <a href=https://github.com/705062791/PGBIG>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ma_2022_CVPR,
+    author = "Ma, Tiezheng and Nie, Yongwei and Long, Chengjiang and Zhang, Qing and Li, Guiqing",
+    title = "Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction",
+    booktitle = "CVPR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Li et al., "Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction", ECCV, 2022.</em> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660018.pdf>paper</a> <a href=https://arxiv.org/pdf/2208.00368.pdf>arxiv</a> <a href=https://github.com/MediaBrain-SJTU/SPGSN>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Li_2022_ECCV,
+    author = "Li, Maosen and Chen, Siheng and Zhang, Zijing and Xie, Lingxi and Tian, Qi and Zhang, Ya",
+    title = "Skeleton-Parted Graph Scattering Networks for {3D} Human Motion Prediction",
+    booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Sun et al., "Overlooked Poses Actually Make Sense: Distilling Privileged Knowledge for Human Motion Prediction", ECCV, 2022.</em> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650668.pdf>paper</a> <a href=https://arxiv.org/pdf/2208.01302.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Sun_2022_ECCV,
+    author = "Sun, Xiaoning and Cui, Qiongjie and Sun, Huaijiang and Li, Bin and Li, Weiqing and Lu, Jianfeng",
+    title = "Overlooked Poses Actually Make Sense: Distilling Privileged Knowledge for Human Motion Prediction",
+    booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Wang et al., "Multi-Person 3D Motion Prediction with Multi-Range Transformers", NeurIPS, 2021.</em> <a href=https://papers.nips.cc/paper/2021/file/2fd5d41ec6cfab47e32164d5624269b1-Paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2111.12073.pdf>arxiv</a> <a href=https://github.com/jiashunwang/MRT>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mupots-3d">MuPoTS-3D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wang_2021_NeurIPS,
+    author = "Wang, Jiashun and Xu, Huazhe and Narasimhan, Medhini and Wang, Xiaolong",
+    booktitle = "NeurIPS",
+    title = "Multi-Person {3D} Motion Prediction with Multi-Range Transformers",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Cui et al., "Towards Accurate 3D Human Motion Prediction From Incomplete Observations", CVPR, 2021.</em> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Cui_Towards_Accurate_3D_Human_Motion_Prediction_From_Incomplete_Observations_CVPR_2021_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Cui_2021_CVPR,
+    author = "Cui, Qiongjie and Sun, Huaijiang",
+    title = "Towards Accurate {3D} Human Motion Prediction From Incomplete Observations",
+    booktitle = "CVPR",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Aliakbarian et al., "Contextually Plausible and Diverse 3D Human Motion Prediction", ICCV, 2021.</em> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Aliakbarian_Contextually_Plausible_and_Diverse_3D_Human_Motion_Prediction_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1912.08521.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#kld">KLD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Aliakbarian_2021_ICCV,
+    author = "Aliakbarian, Sadegh and Saleh, Fatemeh and Petersson, Lars and Gould, Stephen and Salzmann, Mathieu",
+    title = "Contextually Plausible and Diverse {3D} Human Motion Prediction",
+    booktitle = "ICCV",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Dang et al., "MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction", ICCV, 2021.</em> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Dang_MSR-GCN_Multi-Scale_Residual_Graph_Convolution_Networks_for_Human_Motion_Prediction_ICCV_2021_paper.pdf>paper</a> <a href=https://github.com/Droliven/MSRGCN>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Dang_2021_ICCV,
+    author = "Dang, Lingwei and Nie, Yongwei and Long, Chengjiang and Zhang, Qing and Li, Guiqing",
+    title = "{MSR-GCN}: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction",
+    booktitle = "ICCV",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Liu et al., "Motion Prediction Using Trajectory Cues", ICCV, 2021.</em> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Motion_Prediction_Using_Trajectory_Cues_ICCV_2021_paper.pdf>paper</a> <a href=https://github.com/Pose-Group/MPT>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mouse_fish">Mouse Fish</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Liu_2021_ICCV,
+    author = "Liu, Zhenguang and Su, Pengxiang and Wu, Shuang and Shen, Xuanjing and Chen, Haipeng and Hao, Yanbin and Wang, Meng",
+    title = "Motion Prediction Using Trajectory Cues",
+    booktitle = "ICCV",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Li et al., "Directed Acyclic Graph Neural Network for Human Motion Prediction", ICRA, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9561540>paper</a> <a href=https://github.com/Qinli-zz/DA-GNN>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Li_2021_ICRA,
+    author = "Li, Qin and Chalvatzaki, Georgia and Peters, Jan and Wang, Yong",
+    booktitle = "ICRA",
+    title = "Directed Acyclic Graph Neural Network for Human Motion Prediction",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Zhang et al., "Non-local Graph Convolutional Network for Joint Activity Recognition and Motion Prediction", IROS, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9636107>paper</a> <a href=https://arxiv.org/pdf/2108.01518.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhang_2021_IROS,
+    author = "Zhang, Dianhao and Vien, Ngo Anh and Van, Mien and McLoone, Seán",
+    booktitle = "IROS",
+    title = "Non-local Graph Convolutional Network for Joint Activity Recognition and Motion Prediction",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Aliakbarian et al., "A Stochastic Conditioning Scheme for Diverse Human Motion Prediction", CVPR, 2020.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Aliakbarian_A_Stochastic_Conditioning_Scheme_for_Diverse_Human_Motion_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://github.com/mix-and-match/mix-and-match-tutorial>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#kld">KLD</a></li>
+<li><a href="../metrics/motion_metrics.md#si">SI</a></li>
+<li><a href="../metrics/motion_metrics.md#kl">KL</a></li>
+<li><a href="../metrics/motion_metrics.md#s-mse">S-MSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Aliakbarian_2020_CVPR,
+    author = "Aliakbarian, Sadegh and Saleh, Fatemeh Sadat and Salzmann, Mathieu and Petersson, Lars and Gould, Stephen",
+    title = "A Stochastic Conditioning Scheme for Diverse Human Motion Prediction",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Cui et al., "Learning Dynamic Relationships for 3D Human Motion Prediction", CVPR, 2020.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Cui_Learning_Dynamic_Relationships_for_3D_Human_Motion_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://github.com/cuiqiongjie/LDRGCN>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Cui_2020_CVPR,
+    author = "Cui, Qiongjie and Sun, Huaijiang and Yang, Fei",
+    title = "Learning Dynamic Relationships for 3D Human Motion Prediction",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Li et al., "Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction", CVPR, 2020.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Dynamic_Multiscale_Graph_Neural_Networks_for_3D_Skeleton_Based_Human_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08802.pdf>arxiv</a> <a href=https://github.com/limaosen0/DMGNN>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Li_2020_CVPR,
+    author = "Li, Maosen and Chen, Siheng and Zhao, Yangheng and Zhang, Ya and Wang, Yanfeng and Tian, Qi",
+    title = "Dynamic Multiscale Graph Neural Networks for {3D} Skeleton Based Human Motion Prediction",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Cai et al., "Learning Progressive Joint Propagation for Human Motion Prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520222.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Cai_2020_ECCV,
+    author = "Cai, Yujun and Huang, Lin and Wang, Yiwei and Cham, Tat-Jen and Cai, Jianfei and Yuan, Junsong and Liu, Jun and Yang, Xu and Zhu, Yiheng and Shen, Xiaohui and Liu, Ding and Liu, Jing and Thalmann, Nadia M",
+    title = "Learning Progressive Joint Propagation for Human Motion Prediction",
+    booktitle = "ECCV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Chao et al., "Adversarial Refinement Network for Human Motion Prediction", ACCV, 2020.</em> <a href=https://openaccess.thecvf.com/content/ACCV2020/papers/Chao_Adversarial_Refinement_Network_for_Human_Motion_Prediction_ACCV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2011.11221.pdf>arxiv</a> <a href=https://github.com/Xianjin111/ARNet-for-human-motion-prediction>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Chao_2020_ACCV,
+    author = "Chao, Xianjin and Bin, Yanrui and Chu, Wenqing and Cao, Xuan and Ge, Yanhao and Wang, Chengjie and Li, Jilin and Huang, Feiyue and Leung, Howard",
+    title = "Adversarial Refinement Network for Human Motion Prediction",
+    booktitle = "ACCV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Lebailly et al., "Motion Prediction Using Temporal Inception Module", ACCV, 2020.</em> <a href=https://openaccess.thecvf.com/content/ACCV2020/papers/Lebailly_Motion_Prediction_Using_Temporal_Inception_Module_ACCV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2010.03006.pdf>arxiv</a> <a href=https://github.com/tileb1/motion-prediction-tim>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lebailly_2020_ACCV,
+    author = "Lebailly, Tim and Kiciroglu, Sena and Salzmann, Mathieu and Fua, Pascal and Wang, Wei",
+    title = "Motion Prediction Using Temporal Inception Module",
+    booktitle = "ACCV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Mao et al., "Learning Trajectory Dependencies For Human Motion Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Mao_Learning_Trajectory_Dependencies_for_Human_Motion_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.05436.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/LearnTrajDep>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mao_2019_ICCV,
+    author = "Mao, Wei and Liu, Miaomiao and Salzmann, Mathieu and Li, Hongdong",
+    title = "Learning Trajectory Dependencies For Human Motion Prediction",
+    booktitle = "ICCV",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@Misc{CMU_Mocap_2016,
+    author = "CMU",
+    title = "{CMU} Graphics Lab Motion Capture Database",
+    howpublished = "http://mocap.cs.cmu.edu/",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul></details>
 <a name=cityscapes></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Cityscapes</strong></l> <a href=https://www.cityscapes-dataset.com/>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1604.01685.pdf>arxiv</a></summary> 
@@ -3219,523 +3877,6 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
     author = "Cordts, Marius and Omran, Mohamed and Ramos, Sebastian and Rehfeld, Timo and Enzweiler, Markus and Benenson, Rodrigo and Franke, Uwe and Roth, Stefan and Schiele, Bernt",
     title = "The Cityscapes Dataset For Semantic Urban Scene Understanding",
     booktitle = "CVPR",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=cmu_mocap></a>
-<details close>
-<summary><l style="font-size:20px"><strong>CMU Mocap</strong></l> <a href=http://mocap.cs.cmu.edu/>link</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A motion dataset consists of various activities including human interaction, interaction with the environment, locomotion, sports, etc.
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a>, <a href=../papers/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> 3D pose, activity label</li>
-<li><em><strong>Task:</strong></em> Activity</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Butepage et al., "Deep Representation Learning For Human Motion Prediction And Classification", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Butepage_Deep_Representation_Learning_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1702.07486.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Butepage_2017_CVPR,
-    author = "Butepage, Judith and Black, Michael J. and Kragic, Danica and Kjellstrom, Hedvig",
-    title = "Deep Representation Learning For Human Motion Prediction And Classification",
-    booktitle = "CVPR",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Ma et al., "Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction", CVPR, 2022.</em> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Progressively_Generating_Better_Initial_Guesses_Towards_Next_Stages_for_High-Quality_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.16051.pdf>arxiv</a> <a href=https://github.com/705062791/PGBIG>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ma_2022_CVPR,
-    author = "Ma, Tiezheng and Nie, Yongwei and Long, Chengjiang and Zhang, Qing and Li, Guiqing",
-    title = "Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction",
-    booktitle = "CVPR",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Li et al., "Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction", ECCV, 2022.</em> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660018.pdf>paper</a> <a href=https://arxiv.org/pdf/2208.00368.pdf>arxiv</a> <a href=https://github.com/MediaBrain-SJTU/SPGSN>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Li_2022_ECCV,
-    author = "Li, Maosen and Chen, Siheng and Zhang, Zijing and Xie, Lingxi and Tian, Qi and Zhang, Ya",
-    title = "Skeleton-Parted Graph Scattering Networks for {3D} Human Motion Prediction",
-    booktitle = "ECCV",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Sun et al., "Overlooked Poses Actually Make Sense: Distilling Privileged Knowledge for Human Motion Prediction", ECCV, 2022.</em> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650668.pdf>paper</a> <a href=https://arxiv.org/pdf/2208.01302.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Sun_2022_ECCV,
-    author = "Sun, Xiaoning and Cui, Qiongjie and Sun, Huaijiang and Li, Bin and Li, Weiqing and Lu, Jianfeng",
-    title = "Overlooked Poses Actually Make Sense: Distilling Privileged Knowledge for Human Motion Prediction",
-    booktitle = "ECCV",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Wang et al., "Multi-Person 3D Motion Prediction with Multi-Range Transformers", NeurIPS, 2021.</em> <a href=https://papers.nips.cc/paper/2021/file/2fd5d41ec6cfab47e32164d5624269b1-Paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2111.12073.pdf>arxiv</a> <a href=https://github.com/jiashunwang/MRT>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mupots-3d">MuPoTS-3D</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Wang_2021_NeurIPS,
-    author = "Wang, Jiashun and Xu, Huazhe and Narasimhan, Medhini and Wang, Xiaolong",
-    booktitle = "NeurIPS",
-    title = "Multi-Person {3D} Motion Prediction with Multi-Range Transformers",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Cui et al., "Towards Accurate 3D Human Motion Prediction From Incomplete Observations", CVPR, 2021.</em> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Cui_Towards_Accurate_3D_Human_Motion_Prediction_From_Incomplete_Observations_CVPR_2021_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Cui_2021_CVPR,
-    author = "Cui, Qiongjie and Sun, Huaijiang",
-    title = "Towards Accurate {3D} Human Motion Prediction From Incomplete Observations",
-    booktitle = "CVPR",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Aliakbarian et al., "Contextually Plausible and Diverse 3D Human Motion Prediction", ICCV, 2021.</em> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Aliakbarian_Contextually_Plausible_and_Diverse_3D_Human_Motion_Prediction_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1912.08521.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#kld">KLD</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Aliakbarian_2021_ICCV,
-    author = "Aliakbarian, Sadegh and Saleh, Fatemeh and Petersson, Lars and Gould, Stephen and Salzmann, Mathieu",
-    title = "Contextually Plausible and Diverse {3D} Human Motion Prediction",
-    booktitle = "ICCV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Dang et al., "MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction", ICCV, 2021.</em> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Dang_MSR-GCN_Multi-Scale_Residual_Graph_Convolution_Networks_for_Human_Motion_Prediction_ICCV_2021_paper.pdf>paper</a> <a href=https://github.com/Droliven/MSRGCN>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Dang_2021_ICCV,
-    author = "Dang, Lingwei and Nie, Yongwei and Long, Chengjiang and Zhang, Qing and Li, Guiqing",
-    title = "{MSR-GCN}: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction",
-    booktitle = "ICCV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Liu et al., "Motion Prediction Using Trajectory Cues", ICCV, 2021.</em> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Motion_Prediction_Using_Trajectory_Cues_ICCV_2021_paper.pdf>paper</a> <a href=https://github.com/Pose-Group/MPT>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#mouse_fish">Mouse Fish</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Liu_2021_ICCV,
-    author = "Liu, Zhenguang and Su, Pengxiang and Wu, Shuang and Shen, Xuanjing and Chen, Haipeng and Hao, Yanbin and Wang, Meng",
-    title = "Motion Prediction Using Trajectory Cues",
-    booktitle = "ICCV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Li et al., "Directed Acyclic Graph Neural Network for Human Motion Prediction", ICRA, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9561540>paper</a> <a href=https://github.com/Qinli-zz/DA-GNN>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Li_2021_ICRA,
-    author = "Li, Qin and Chalvatzaki, Georgia and Peters, Jan and Wang, Yong",
-    booktitle = "ICRA",
-    title = "Directed Acyclic Graph Neural Network for Human Motion Prediction",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Zhang et al., "Non-local Graph Convolutional Network for Joint Activity Recognition and Motion Prediction", IROS, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9636107>paper</a> <a href=https://arxiv.org/pdf/2108.01518.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zhang_2021_IROS,
-    author = "Zhang, Dianhao and Vien, Ngo Anh and Van, Mien and McLoone, Seán",
-    booktitle = "IROS",
-    title = "Non-local Graph Convolutional Network for Joint Activity Recognition and Motion Prediction",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Aliakbarian et al., "A Stochastic Conditioning Scheme for Diverse Human Motion Prediction", CVPR, 2020.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Aliakbarian_A_Stochastic_Conditioning_Scheme_for_Diverse_Human_Motion_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://github.com/mix-and-match/mix-and-match-tutorial>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#kld">KLD</a></li>
-<li><a href="../metrics/motion_metrics.md#si">SI</a></li>
-<li><a href="../metrics/motion_metrics.md#kl">KL</a></li>
-<li><a href="../metrics/motion_metrics.md#s-mse">S-MSE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Aliakbarian_2020_CVPR,
-    author = "Aliakbarian, Sadegh and Saleh, Fatemeh Sadat and Salzmann, Mathieu and Petersson, Lars and Gould, Stephen",
-    title = "A Stochastic Conditioning Scheme for Diverse Human Motion Prediction",
-    booktitle = "CVPR",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Cui et al., "Learning Dynamic Relationships for 3D Human Motion Prediction", CVPR, 2020.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Cui_Learning_Dynamic_Relationships_for_3D_Human_Motion_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://github.com/cuiqiongjie/LDRGCN>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Cui_2020_CVPR,
-    author = "Cui, Qiongjie and Sun, Huaijiang and Yang, Fei",
-    title = "Learning Dynamic Relationships for 3D Human Motion Prediction",
-    booktitle = "CVPR",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Li et al., "Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction", CVPR, 2020.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Dynamic_Multiscale_Graph_Neural_Networks_for_3D_Skeleton_Based_Human_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08802.pdf>arxiv</a> <a href=https://github.com/limaosen0/DMGNN>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Li_2020_CVPR,
-    author = "Li, Maosen and Chen, Siheng and Zhao, Yangheng and Zhang, Ya and Wang, Yanfeng and Tian, Qi",
-    title = "Dynamic Multiscale Graph Neural Networks for {3D} Skeleton Based Human Motion Prediction",
-    booktitle = "CVPR",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Cai et al., "Learning Progressive Joint Propagation for Human Motion Prediction", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520222.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Cai_2020_ECCV,
-    author = "Cai, Yujun and Huang, Lin and Wang, Yiwei and Cham, Tat-Jen and Cai, Jianfei and Yuan, Junsong and Liu, Jun and Yang, Xu and Zhu, Yiheng and Shen, Xiaohui and Liu, Ding and Liu, Jing and Thalmann, Nadia M",
-    title = "Learning Progressive Joint Propagation for Human Motion Prediction",
-    booktitle = "ECCV",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Chao et al., "Adversarial Refinement Network for Human Motion Prediction", ACCV, 2020.</em> <a href=https://openaccess.thecvf.com/content/ACCV2020/papers/Chao_Adversarial_Refinement_Network_for_Human_Motion_Prediction_ACCV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2011.11221.pdf>arxiv</a> <a href=https://github.com/Xianjin111/ARNet-for-human-motion-prediction>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mae">MAE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chao_2020_ACCV,
-    author = "Chao, Xianjin and Bin, Yanrui and Chu, Wenqing and Cao, Xuan and Ge, Yanhao and Wang, Chengjie and Li, Jilin and Huang, Feiyue and Leung, Howard",
-    title = "Adversarial Refinement Network for Human Motion Prediction",
-    booktitle = "ACCV",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Lebailly et al., "Motion Prediction Using Temporal Inception Module", ACCV, 2020.</em> <a href=https://openaccess.thecvf.com/content/ACCV2020/papers/Lebailly_Motion_Prediction_Using_Temporal_Inception_Module_ACCV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2010.03006.pdf>arxiv</a> <a href=https://github.com/tileb1/motion-prediction-tim>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Lebailly_2020_ACCV,
-    author = "Lebailly, Tim and Kiciroglu, Sena and Salzmann, Mathieu and Fua, Pascal and Wang, Wei",
-    title = "Motion Prediction Using Temporal Inception Module",
-    booktitle = "ACCV",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Mao et al., "Learning Trajectory Dependencies For Human Motion Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Mao_Learning_Trajectory_Dependencies_for_Human_Motion_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.05436.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/LearnTrajDep>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../metrics/motion_metrics.md#mane">MAnE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mao_2019_ICCV,
-    author = "Mao, Wei and Liu, Miaomiao and Salzmann, Mathieu and Li, Hongdong",
-    title = "Learning Trajectory Dependencies For Human Motion Prediction",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@Misc{CMU_Mocap_2016,
-    author = "CMU",
-    title = "{CMU} Graphics Lab Motion Capture Database",
-    howpublished = "http://mocap.cs.cmu.edu/",
     year = "2016"
 }
 </pre>
@@ -4514,199 +4655,6 @@ A dataset of object manipulation using a robot arm with 59k object pushing motio
 </details>
 
 </ul></details>
-<a name=dad></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Dashcam Accident Dataset (DAD)</strong></l> <a href=https://aliensunmin.github.io/project/dashcam/>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-54190-7_9>paper</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 620 video sequences of traffic accidents recorded in six cities
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box, object class, temporal segment, Tracking ID</li>
-<li><em><strong>Task:</strong></em> Driving</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Bao et al., "DRIVE: Deep Reinforced Accident Anticipation With Visual Explanation", ICCV, 2021.</em> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Bao_DRIVE_Deep_Reinforced_Accident_Anticipation_With_Visual_Explanation_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2107.10189.pdf>arxiv</a> <a href=https://github.com/Cogito2012/DRIVE>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#dada-2000">DADA-2000</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#auc">AUC</a></li>
-<li><a href="../metrics/action_metrics.md#tta">TTA</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Bao_2021_ICCV,
-    author = "Bao, Wentao and Yu, Qi and Kong, Yu",
-    title = "{DRIVE}: Deep Reinforced Accident Anticipation With Visual Explanation",
-    booktitle = "ICCV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", CVPR, 2018.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02675.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../metrics/action_metrics.md#recall">Recall</a></li>
-<li><a href="../metrics/action_metrics.md#precision">Precision</a></li>
-<li><a href="../metrics/action_metrics.md#f1">F1</a></li>
-<li><a href="../metrics/action_metrics.md#map">mAP</a></li>
-<li><a href="../metrics/action_metrics.md#attc">ATTC</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Suzuki_2018_CVPR,
-    author = "Suzuki, Tomoyuki and Kataoka, Hirokatsu and Aoki, Yoshimitsu and Satoh, Yutaka",
-    title = "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db",
-    booktitle = "CVPR",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06560.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-fail">Epic-Fail</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#map">mAP</a></li>
-<li><a href="../metrics/action_metrics.md#tta">TTA</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zeng_2017_CVPR,
-    author = "Zeng, Kuo-Hao and Chou, Shih-Han and Chan, Fu-Hsiang and Carlos Niebles, Juan and Sun, Min",
-    title = "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization",
-    booktitle = "CVPR",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Yao et al., "Unsupervised Traffic Accident Detection in First-Person Videos", IROS, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8967556>paper</a> <a href=https://arxiv.org/pdf/1903.00618.pdf>arxiv</a> <a href=https://github.com/MoonBlvd/tad-IROS2019>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
-<li><a href="../datasets/alphabetical/e-i_alphabetical_datasets.md#hev-i">HEV-I</a></li>
-<li><a href="../datasets/alphabetical/a-d_alphabetical_datasets.md#a3d">A3D</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../metrics/trajectory_metrics.md#fiou">FIoU</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Yao_2019_IROS,
-    author = "Yao, Y. and Xu, M. and Wang, Y. and Crandall, D. J. and Atkins, E. M.",
-    booktitle = "IROS",
-    title = "Unsupervised Traffic Accident Detection in First-Person Videos",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Chan_2016_ACCV,
-    author = "Chan, Fu-Hsiang and Chen, Yu-Ting and Xiang, Yu and Sun, Min",
-    editor = "Lai, Shang-Hong and Lepetit, Vincent and Nishino, Ko and Sato, Yoichi",
-    title = "Anticipating Accidents In Dashcam Videos",
-    booktitle = "ACCV",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=oa></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Ongoing Activity (OA)</strong></l> <a href=http://www.mpii.de/ongoing-activity>link</a> <a href=https://ieeexplore.ieee.org/document/7477586>paper</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 450+ activities, such as cooking, house chores, etc.,  videos collected from public video sharing websites
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, activity label</li>
-<li><em><strong>Task:</strong></em> Activity</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Li et al., "Recognition Of Ongoing Complex Activities By Sequence Prediction Over A Hierarchical Label Space", WACV, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7477586>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#oa">OA</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Li_2016_WACV,
-    author = "Li, W. and Fritz, M.",
-    booktitle = "WACV",
-    title = "Recognition Of Ongoing Complex Activities By Sequence Prediction Over A Hierarchical Label Space",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Li_2016_WACV,
-    author = "Li, W. and Fritz, M.",
-    booktitle = "WACV",
-    title = "Recognition Of Ongoing Complex Activities By Sequence Prediction Over A Hierarchical Label Space",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul></details>
 <a name=youtube-8m></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Youtube-8M</strong></l> <a href=https://research.google.com/youtube8m/>link</a> <a href=https://arxiv.org/pdf/1609.08675.pdf>arxiv</a></summary> 
@@ -4757,6 +4705,113 @@ A large-scale dataset of videos collected from YouTube with corresponding machin
     author = "Abu-El-Haija, Sami and Kothari, Nisarg and Lee, Joonseok and Natsev, Paul and Toderici, George and Varadarajan, Balakrishnan and Vijayanarasimhan, Sudheendra",
     title = "{YouTube-8M}: A Large-Scale Video Classification Benchmark",
     journal = "arXiv:1609.08675",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=vist></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Visual Storytelling (VIST)</strong></l> <a href=http://visionandlanguage.net/VIST/>link</a> <a href=https://www.aclweb.org/anthology/N16-1147.pdf>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 80K+ images collected from 21K+ sequences with corresponding text captions
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, text</li>
+<li><em><strong>Task:</strong></em> Visual story</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.05827.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#vist">VIST</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/other_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zeng_2017_ICCV,
+    author = "Zeng, Kuo-Hao and Shen, William B. and Huang, De-An and Sun, Min and Carlos Niebles, Juan",
+    title = "Visual Forecasting By Imitating Dynamics In Natural Sequences",
+    booktitle = "ICCV",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Huang_2016_NAACL,
+    author = "Huang, Ting-Hao K. and Ferraro, Francis and Mostafazadeh, Nasrin and Misra, Ishan and Devlin, Jacob and Agrawal, Aishwarya and Girshick, Ross and He, Xiaodong and Kohli, Pushmeet and Batra, Dhruv and others",
+    title = "Visual Storytelling",
+    booktitle = "NAACL",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=tv_series></a>
+<details close>
+<summary><l style="font-size:20px"><strong>TV Series</strong></l> <a href=https://github.com/zhenyangli/online_action>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46454-1_17>paper</a> <a href=https://arxiv.org/pdf/1604.06506.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A collection of sequences collected from TV series for the purpose of action detection
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Gao et al., "RED: Reinforced Encoder-Decoder Networks For Action Anticipation", BMVC, 2017.</em> <a href=http://www.bmva.org/bmvc/2017/papers/paper092/paper092.pdf>paper</a> <a href=https://arxiv.org/pdf/1707.04818.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#tv_series">TV Series</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics/action_metrics.md#map">mAP</a></li>
+<li><a href="../metrics/action_metrics.md#cap">cAP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Gao_2017_BMVC,
+    author = "Gao, Jiyang and Yang, Zhenheng and Nevatia, Ram",
+    title = "{RED}: Reinforced Encoder-Decoder Networks For Action Anticipation",
+    year = "2017",
+    booktitle = "BMVC"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{De_2016_ECCV,
+    author = "De Geest, Roeland and Gavves, Efstratios and Ghodrati, Amir and Li, Zhenyang and Snoek, Cees and Tuytelaars, Tinne",
+    title = "Online Action Detection",
+    booktitle = "ECCV",
     year = "2016"
 }
 </pre>
@@ -4816,41 +4871,38 @@ A dataset of 10 indoor activities in 59 sequences collected using a Kinect V2 se
 </details>
 
 </ul></details>
-<a name=tv_series></a>
+<a name=oa></a>
 <details close>
-<summary><l style="font-size:20px"><strong>TV Series</strong></l> <a href=https://github.com/zhenyangli/online_action>link</a> <a href=https://link.springer.com/chapter/10.1007/978-3-319-46454-1_17>paper</a> <a href=https://arxiv.org/pdf/1604.06506.pdf>arxiv</a></summary> 
+<summary><l style="font-size:20px"><strong>Ongoing Activity (OA)</strong></l> <a href=http://www.mpii.de/ongoing-activity>link</a> <a href=https://ieeexplore.ieee.org/document/7477586>paper</a></summary> 
 <ul><li>
 <em><strong>Summary:</strong></em> 
-A collection of sequences collected from TV series for the purpose of action detection
+A dataset of 450+ activities, such as cooking, house chores, etc.,  videos collected from public video sharing websites
 </li>
 <li>
 <em><strong>Applications:</strong></em> <a href=../papers/action_papers.md#top>Action prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label</li>
 <li><em><strong>Task:</strong></em> Activity</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Gao et al., "RED: Reinforced Encoder-Decoder Networks For Action Anticipation", BMVC, 2017.</em> <a href=http://www.bmva.org/bmvc/2017/papers/paper092/paper092.pdf>paper</a> <a href=https://arxiv.org/pdf/1707.04818.pdf>arxiv</a></summary>
+<summary><em>Li et al., "Recognition Of Ongoing Complex Activities By Sequence Prediction Over A Hierarchical Label Space", WACV, 2016.</em> <a href=https://ieeexplore.ieee.org/document/7477586>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#thumos">THUMOS</a></li>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#tv_series">TV Series</a></li>
+<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#oa">OA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../metrics/action_metrics.md#map">mAP</a></li>
-<li><a href="../metrics/action_metrics.md#cap">cAP</a></li>
+<li><a href="../metrics/action_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Gao_2017_BMVC,
-    author = "Gao, Jiyang and Yang, Zhenheng and Nevatia, Ram",
-    title = "{RED}: Reinforced Encoder-Decoder Networks For Action Anticipation",
-    year = "2017",
-    booktitle = "BMVC"
+@InProceedings{Li_2016_WACV,
+    author = "Li, W. and Fritz, M.",
+    booktitle = "WACV",
+    title = "Recognition Of Ongoing Complex Activities By Sequence Prediction Over A Hierarchical Label Space",
+    year = "2016"
 }
 </pre>
 </details>
@@ -4861,10 +4913,10 @@ A collection of sequences collected from TV series for the purpose of action det
 <details close>
 <summary><strong>Bibtex</strong></summary>
 <pre>
-@InProceedings{De_2016_ECCV,
-    author = "De Geest, Roeland and Gavves, Efstratios and Ghodrati, Amir and Li, Zhenyang and Snoek, Cees and Tuytelaars, Tinne",
-    title = "Online Action Detection",
-    booktitle = "ECCV",
+@InProceedings{Li_2016_WACV,
+    author = "Li, W. and Fritz, M.",
+    booktitle = "WACV",
+    title = "Recognition Of Ongoing Complex Activities By Sequence Prediction Over A Hierarchical Label Space",
     year = "2016"
 }
 </pre>
@@ -4971,58 +5023,6 @@ A simulated dataset of bounding balls generated using Neural Physics Engine
     author = "Chang, Michael B and Ullman, Tomer and Torralba, Antonio and Tenenbaum, Joshua B",
     title = "A Compositional Object-Based Approach To Learning Physical Dynamics",
     journal = "arXiv:1612.00341",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=vist></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Visual Storytelling (VIST)</strong></l> <a href=http://visionandlanguage.net/VIST/>link</a> <a href=https://www.aclweb.org/anthology/N16-1147.pdf>paper</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 80K+ images collected from 21K+ sequences with corresponding text captions
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../papers/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, text</li>
-<li><em><strong>Task:</strong></em> Visual story</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Zeng et al., "Visual Forecasting By Imitating Dynamics In Natural Sequences", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Zeng_Visual_Forecasting_by_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1708.05827.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../datasets/alphabetical/j-z_alphabetical_datasets.md#vist">VIST</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../metrics/other_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zeng_2017_ICCV,
-    author = "Zeng, Kuo-Hao and Shen, William B. and Huang, De-An and Sun, Min and Carlos Niebles, Juan",
-    title = "Visual Forecasting By Imitating Dynamics In Natural Sequences",
-    booktitle = "ICCV",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Huang_2016_NAACL,
-    author = "Huang, Ting-Hao K. and Ferraro, Francis and Mostafazadeh, Nasrin and Misra, Ishan and Devlin, Jacob and Agrawal, Aishwarya and Girshick, Ross and He, Xiaodong and Kohli, Pushmeet and Batra, Dhruv and others",
-    title = "Visual Storytelling",
-    booktitle = "NAACL",
     year = "2016"
 }
 </pre>

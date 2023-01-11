@@ -6953,7 +6953,7 @@ A dataset of 620 video sequences of traffic accidents recorded in six cities
 <details close>
 <summary><strong>Bibtex</strong></summary>
 <pre>
-@InProceedings{Chan_2016_ACCV,
+@InProceedings{Chan_2017_ACCV,
     author = "Chan, Fu-Hsiang and Chen, Yu-Ting and Xiang, Yu and Sun, Min",
     editor = "Lai, Shang-Hong and Lepetit, Vincent and Nishino, Ko and Sato, Yoichi",
     title = "Anticipating Accidents In Dashcam Videos",

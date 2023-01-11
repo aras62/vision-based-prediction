@@ -1201,7 +1201,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Bhattacharjee et al., "Predicting Video Frames Using Feature Based Locally Guided Objectives", ACCV, 2019.</em></strong> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20870-7_42>paper</a></summary>
+<summary><strong><em>Bhattacharjee et al., "Predicting Video Frames Using Feature Based Locally Guided Objectives", ACCV, 2018.</em></strong> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20870-7_42>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -1222,7 +1222,7 @@ ___
     editor = "Jawahar, C.V. and Li, Hongdong and Mori, Greg and Schindler, Konrad",
     title = "Predicting Video Frames Using Feature Based Locally Guided Objectives",
     booktitle = "ACCV",
-    year = "2019"
+    year = "2018"
 }
 </pre>
 </details>
@@ -2365,7 +2365,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Bhattacharjee et al., "Predicting Video Frames Using Feature Based Locally Guided Objectives", ACCV, 2019.</em></strong> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20870-7_42>paper</a></summary>
+<summary><strong><em>Bhattacharjee et al., "Predicting Video Frames Using Feature Based Locally Guided Objectives", ACCV, 2018.</em></strong> <a href=https://link.springer.com/chapter/10.1007/978-3-030-20870-7_42>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2386,7 +2386,7 @@ ___
     editor = "Jawahar, C.V. and Li, Hongdong and Mori, Greg and Schindler, Konrad",
     title = "Predicting Video Frames Using Feature Based Locally Guided Objectives",
     booktitle = "ACCV",
-    year = "2019"
+    year = "2018"
 }
 </pre>
 </details>

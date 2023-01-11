@@ -17831,7 +17831,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Meyer et al., "LaserFlow: Efficient and Probabilistic Object Detection and Motion Forecasting", RAL, 2017.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9310205>paper</a> <a href=https://arxiv.org/pdf/2003.05982.pdf>arxiv</a></summary>
+<summary><strong><em>Meyer et al., "LaserFlow: Efficient and Probabilistic Object Detection and Motion Forecasting", RAL, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9310205>paper</a> <a href=https://arxiv.org/pdf/2003.05982.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -17846,11 +17846,11 @@ ___
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@Article{Meyer_2021_RAL,
+@Article{Meyer_2020_RAL,
     author = "Meyer, Gregory P. and Charland, Jake and Pandey, Shreyash and Laddha, Ankit and Gautam, Shivam and Vallespi-Gonzalez, Carlos and Wellington, Carl K.",
     journal = "RAL",
     title = "{LaserFlow}: Efficient and Probabilistic Object Detection and Motion Forecasting",
-    year = "2017",
+    year = "2020",
     volume = "6",
     number = "2",
     pages = "526-533"
