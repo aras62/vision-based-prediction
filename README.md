@@ -16,7 +16,7 @@ To search for papers, you can use one of the following options:
   * [Trajectory prediction](papers/trajectory_papers.md#top)
   * [Motion prediction](papers/motion_papers.md#top)
   * [Other prediction](papers/other_papers.md#top)
-  * [Papers with code](papers/papers_with_code.md#top)
+  * [Papers with code](papers/papers_with_code/papers_with_code.md#top)
 * [Datasets](datasets/datasets.md#top)
   * [Alphabetical](datasets/alphabetical/alphabetical_datasets.md#top)
   * [Year](datasets/year/year_datasets.md#top)
