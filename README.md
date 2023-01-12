@@ -41,6 +41,7 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 12/1/2023: Updated the paper links for CoRL 2020
 * 11/1/2023: Split pages by year
 * 9/1/2023: Improved styling of bibtex
 * 9/1/2023: Minor bug fixes and readability improvement
