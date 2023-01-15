@@ -41,13 +41,14 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 15/1/2023: Added 7 papers and 1 metric from previous years
 * 12/1/2023: Updated the paper links for CoRL 2020
 * 11/1/2023: Split pages by year
 * 9/1/2023: Improved styling of bibtex
 * 9/1/2023: Minor bug fixes and readability improvement
 * 9/1/2023: Added ICRA 22 (21 papers, 2 metrics, 2 datasets)
 * 23/12/2022: Added CoRL 21-22,RSS 20-21 (15 papers, 4 metrics)
-* 16/12/2022: Added NeurIPS,ICLR,BMVC,WACV,ACCV 2022 (17 papers, 1 dataset, 3 metrics)
+* 16/12/2022: Added NeurIPS, ICLR, BMVC, WACV, ACCV 2022 (17 papers, 1 dataset, 3 metrics)
 * 11/11/2022: Fixed some bugs with reference links
 * 11/11/2022: Added ECCV 2022 (28 papers, 86 datasets, 6 metrics)
 * 21/06/2022: Added CVPR 2022 (38 papers, 8 datasets, 6 metrics)

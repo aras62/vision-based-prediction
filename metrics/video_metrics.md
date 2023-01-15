@@ -3386,6 +3386,34 @@ ___
 </ul>
 </details>
 <details close>
+<summary><strong><em>Rupprecht et al., "Learning in an uncertain world: Representing ambiguity through multiple hypotheses", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Rupprecht_Learning_in_an_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.00197.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="video_metrics.md#mse">MSE</a></li>
+<li><a href="video_metrics.md#sharpness">Sharpness</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rupprecht_2017_ICCV,
+    author = "Rupprecht, Christian and Laina, Iro and DiPietro, Robert and Baust, Maximilian and Tombari, Federico and Navab, Nassir and Hager, Gregory D",
+    title = "Learning in an uncertain world: Representing ambiguity through multiple hypotheses",
+    booktitle = "ICCV",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Wang et al., "PredRNN: Recurrent Neural Networks For Predictive Learning Using Spatiotemporal LSTMs", NeurIPS, 2017.</em></strong> <a href=https://papers.nips.cc/paper/6689-predrnn-recurrent-neural-networks-for-predictive-learning-using-spatiotemporal-lstms.pdf>paper</a> <a href=https://github.com/ujjax/pred-rnn>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -4818,6 +4846,46 @@ ___
 </ul>
 </details>
 
+<a name=csi></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Critical Success Index (CSI)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Wu et al., "MotionRNN: A Flexible Model for Video Prediction With Spacetime-Varying Motions", CVPR, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_MotionRNN_A_Flexible_Model_for_Video_Prediction_With_Spacetime-Varying_Motions_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2103.02243.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="video_metrics.md#ssim">SSIM</a></li>
+<li><a href="video_metrics.md#mse">MSE</a></li>
+<li><a href="video_metrics.md#fvd">FVD</a></li>
+<li><a href="video_metrics.md#mae">MAE</a></li>
+<li><a href="video_metrics.md#csi">CSI</a></li>
+<li><a href="video_metrics.md#gdl">GDL</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wu_2021_CVPR_2,
+    author = "Wu, Haixu and Yao, Zhiyu and Wang, Jianmin and Long, Mingsheng",
+    title = "{MotionRNN}: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
+    booktitle = "CVPR",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=gdl></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Gradient Difference Loss (GDL)</strong></l>
@@ -4858,32 +4926,33 @@ ___
 </ul>
 </details>
 
-<a name=bce></a>
+<a name=sharpness></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Binary Cross Entropy (BCE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Sharpness</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018.</em></strong> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.04166.pdf>arxiv</a> <a href=https://github.com/jthsieh/DDPAE-video-prediction>code</a></summary>
+<summary><strong><em>Rupprecht et al., "Learning in an uncertain world: Representing ambiguity through multiple hypotheses", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Rupprecht_Learning_in_an_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.00197.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#bouncing_ball">Bouncing Ball</a></li>
+<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li>Custom</li>
+
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="video_metrics.md#mse">MSE</a></li>
-<li><a href="video_metrics.md#bce">BCE</a></li>
+<li><a href="video_metrics.md#sharpness">Sharpness</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Hsieh_2018_NeurIPS,
-    author = "Hsieh, Jun-Ting and Liu, Bingbin and Huang, De-An and Fei-Fei, Li F and Niebles, Juan Carlos",
-    title = "Learning To Decompose And Disentangle Representations For Video Prediction",
-    booktitle = "NeurIPS",
-    year = "2018"
+@InProceedings{Rupprecht_2017_ICCV,
+    author = "Rupprecht, Christian and Laina, Iro and DiPietro, Robert and Baust, Maximilian and Tombari, Federico and Navab, Nassir and Hager, Gregory D",
+    title = "Learning in an uncertain world: Representing ambiguity through multiple hypotheses",
+    booktitle = "ICCV",
+    year = "2017"
 }
 </pre>
 </details>
@@ -4967,46 +5036,6 @@ ___
 </ul>
 </details>
 
-<a name=csi></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Critical Success Index (CSI)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Wu et al., "MotionRNN: A Flexible Model for Video Prediction With Spacetime-Varying Motions", CVPR, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_MotionRNN_A_Flexible_Model_for_Video_Prediction_With_Spacetime-Varying_Motions_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2103.02243.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="video_metrics.md#ssim">SSIM</a></li>
-<li><a href="video_metrics.md#mse">MSE</a></li>
-<li><a href="video_metrics.md#fvd">FVD</a></li>
-<li><a href="video_metrics.md#mae">MAE</a></li>
-<li><a href="video_metrics.md#csi">CSI</a></li>
-<li><a href="video_metrics.md#gdl">GDL</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Wu_2021_CVPR_2,
-    author = "Wu, Haixu and Yao, Zhiyu and Wang, Jianmin and Long, Mingsheng",
-    title = "{MotionRNN}: A Flexible Model for Video Prediction With Spacetime-Varying Motions",
-    booktitle = "CVPR",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=ms-ssim></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Multi-Scale SSIM (MS-SSIM)</strong></l>
@@ -5067,6 +5096,41 @@ ___
     author = "Li, Yijun and Fang, Chen and Yang, Jimei and Wang, Zhaowen and Lu, Xin and Yang, Ming-Hsuan",
     title = "Flow-Grounded Spatial-Temporal Video Prediction From Still Images",
     booktitle = "ECCV",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=bce></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Binary Cross Entropy (BCE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018.</em></strong> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.04166.pdf>arxiv</a> <a href=https://github.com/jthsieh/DDPAE-video-prediction>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#bouncing_ball">Bouncing Ball</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="video_metrics.md#mse">MSE</a></li>
+<li><a href="video_metrics.md#bce">BCE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Hsieh_2018_NeurIPS,
+    author = "Hsieh, Jun-Ting and Liu, Bingbin and Huang, De-An and Fei-Fei, Li F and Niebles, Juan Carlos",
+    title = "Learning To Decompose And Disentangle Representations For Video Prediction",
+    booktitle = "NeurIPS",
     year = "2018"
 }
 </pre>
