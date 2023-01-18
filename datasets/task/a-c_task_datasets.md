@@ -4482,7 +4482,7 @@ An action dataset of 60 daily activities in 56K+ video samples
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Rupprecht et al., "Learning in an uncertain world: Representing ambiguity through multiple hypotheses", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Rupprecht_Learning_in_an_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.00197.pdf>arxiv</a></summary>
+<summary><em>Rupprecht et al., "Learning in an Uncertain World: Representing Ambiguity Through Multiple Hypotheses", ICCV, 2017.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Rupprecht_Learning_in_an_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.00197.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4500,7 +4500,7 @@ An action dataset of 60 daily activities in 56K+ video samples
 <pre>
 @InProceedings{Rupprecht_2017_ICCV,
     author = "Rupprecht, Christian and Laina, Iro and DiPietro, Robert and Baust, Maximilian and Tombari, Federico and Navab, Nassir and Hager, Gregory D",
-    title = "Learning in an uncertain world: Representing ambiguity through multiple hypotheses",
+    title = "Learning in an Uncertain World: Representing Ambiguity Through Multiple Hypotheses",
     booktitle = "ICCV",
     year = "2017"
 }

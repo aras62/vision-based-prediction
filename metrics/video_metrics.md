@@ -3386,7 +3386,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Rupprecht et al., "Learning in an uncertain world: Representing ambiguity through multiple hypotheses", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Rupprecht_Learning_in_an_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.00197.pdf>arxiv</a></summary>
+<summary><strong><em>Rupprecht et al., "Learning in an Uncertain World: Representing Ambiguity Through Multiple Hypotheses", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Rupprecht_Learning_in_an_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.00197.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -3404,7 +3404,7 @@ ___
 <pre>
 @InProceedings{Rupprecht_2017_ICCV,
     author = "Rupprecht, Christian and Laina, Iro and DiPietro, Robert and Baust, Maximilian and Tombari, Federico and Navab, Nassir and Hager, Gregory D",
-    title = "Learning in an uncertain world: Representing ambiguity through multiple hypotheses",
+    title = "Learning in an Uncertain World: Representing Ambiguity Through Multiple Hypotheses",
     booktitle = "ICCV",
     year = "2017"
 }
@@ -4932,7 +4932,7 @@ ___
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Rupprecht et al., "Learning in an uncertain world: Representing ambiguity through multiple hypotheses", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Rupprecht_Learning_in_an_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.00197.pdf>arxiv</a></summary>
+<summary><strong><em>Rupprecht et al., "Learning in an Uncertain World: Representing Ambiguity Through Multiple Hypotheses", ICCV, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017/papers/Rupprecht_Learning_in_an_ICCV_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1612.00197.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4950,7 +4950,7 @@ ___
 <pre>
 @InProceedings{Rupprecht_2017_ICCV,
     author = "Rupprecht, Christian and Laina, Iro and DiPietro, Robert and Baust, Maximilian and Tombari, Federico and Navab, Nassir and Hager, Gregory D",
-    title = "Learning in an uncertain world: Representing ambiguity through multiple hypotheses",
+    title = "Learning in an Uncertain World: Representing Ambiguity Through Multiple Hypotheses",
     booktitle = "ICCV",
     year = "2017"
 }

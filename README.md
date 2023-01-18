@@ -41,6 +41,7 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 18/1/2023: Added 10 papers from previous years
 * 15/1/2023: Added 7 papers and 1 metric from previous years
 * 12/1/2023: Updated the paper links for CoRL 2020
 * 11/1/2023: Split pages by year
