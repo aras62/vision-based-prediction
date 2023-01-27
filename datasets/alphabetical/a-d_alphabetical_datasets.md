@@ -1962,7 +1962,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Robin_2021_ICLR,
+@InProceedings{Walters_2021_ICLR,
     author = "Walters, Robin and Li, Jinxi and Yu, Rose",
     booktitle = "ICLR",
     title = "Trajectory Prediction using Equivariant Continuous Convolution",

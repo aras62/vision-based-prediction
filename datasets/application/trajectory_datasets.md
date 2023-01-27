@@ -2017,6 +2017,37 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 </details>
 <details close>
+<summary><em>Choi et al., "DROGON: A Trajectory Prediction Model Based on Intention-conditioned Behavior Reasoning", CoRL, 2020.</em> <a href=https://proceedings.mlr.press/v155/choi21a/choi21a.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.00024.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#maxd">MaxD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Choi_2020_CORL,
+    author = "Choi, Chiho and Malla, Srikanth and Patil, Abhishek and Choi, J Hee",
+    title = "{DROGON}: A Trajectory Prediction Model Based on Intention-conditioned Behavior Reasoning",
+    booktitle = "CoRL",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
@@ -4817,6 +4848,37 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
+<summary><em>Choi et al., "DROGON: A Trajectory Prediction Model Based on Intention-conditioned Behavior Reasoning", CoRL, 2020.</em> <a href=https://proceedings.mlr.press/v155/choi21a/choi21a.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.00024.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#maxd">MaxD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Choi_2020_CORL,
+    author = "Choi, Chiho and Malla, Srikanth and Patil, Abhishek and Choi, J Hee",
+    title = "{DROGON}: A Trajectory Prediction Model Based on Intention-conditioned Behavior Reasoning",
+    booktitle = "CoRL",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
@@ -5645,6 +5707,33 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
     author = "Wang, Yunlong and Pan, Hongyu and Zhu, Jun and Wu, Yu-Huan and Zhan, Xin and Jiang, Kun and Yang, Diange",
     title = "{BE-STI}: Spatial-Temporal Integrated Network for Class-Agnostic Motion Prediction With Bidirectional Enhancement",
     booktitle = "CVPR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Xu et al., "PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map", ECCV, 2022.</em> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990034.pdf>paper</a> <a href=https://arxiv.org/pdf/2204.10435.pdf>arxiv</a> <a href=https://github.com/chenfengxu714/PreTraM>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Xu_2022_ECCV_3,
+    author = "Xu, Chenfeng and Li, Tian and Tang, Chen and Sun, Lingfeng and Keutzer, Kurt and Tomizuka, Masayoshi and Fathi, Alireza and Zhan, Wei",
+    title = "{PreTraM}: Self-Supervised Pre-training via Connecting Trajectory and Map",
+    booktitle = "ECCV",
     year = "2022"
 }
 </pre>
@@ -7705,7 +7794,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Robin_2021_ICLR,
+@InProceedings{Walters_2021_ICLR,
     author = "Walters, Robin and Li, Jinxi and Yu, Rose",
     booktitle = "ICLR",
     title = "Trajectory Prediction using Equivariant Continuous Convolution",
@@ -9392,6 +9481,37 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
     volume = "5",
     number = "2",
     pages = "2816-2823"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Choi et al., "DROGON: A Trajectory Prediction Model Based on Intention-conditioned Behavior Reasoning", CoRL, 2020.</em> <a href=https://proceedings.mlr.press/v155/choi21a/choi21a.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.00024.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#maxd">MaxD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Choi_2020_CORL,
+    author = "Choi, Chiho and Malla, Srikanth and Patil, Abhishek and Choi, J Hee",
+    title = "{DROGON}: A Trajectory Prediction Model Based on Intention-conditioned Behavior Reasoning",
+    booktitle = "CoRL",
+    year = "2020"
 }
 </pre>
 </details>
@@ -13974,7 +14094,7 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{SunL_2021_RSS,
+@InProceedings{Sun_2021_RSS,
     AUTHOR = "Sun, Liting and Jia, Xiaogang and Dragan, Anca",
     TITLE = "On Complementing End-to-end Human Behavior Predictors with Planning",
     BOOKTITLE = "RSS",
@@ -14912,7 +15032,7 @@ A dataset of simulated pedestrian trajectories with focus on interactions.
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Robin_2021_ICLR,
+@InProceedings{Walters_2021_ICLR,
     author = "Walters, Robin and Li, Jinxi and Yu, Rose",
     booktitle = "ICLR",
     title = "Trajectory Prediction using Equivariant Continuous Convolution",

@@ -418,6 +418,35 @@ ___
 </ul>
 </details>
 
+<a name=Xu_2022_ECCV_3/>
+<details close>
+<summary><strong><em>Xu et al., "PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990034.pdf>paper</a> <a href=https://arxiv.org/pdf/2204.10435.pdf>arxiv</a> <a href=https://github.com/chenfengxu714/PreTraM>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Xu_2022_ECCV_3,
+    author = "Xu, Chenfeng and Li, Tian and Tang, Chen and Sun, Lingfeng and Keutzer, Kurt and Tomizuka, Masayoshi and Fathi, Alireza and Zhan, Wei",
+    title = "{PreTraM}: Self-Supervised Pre-training via Connecting Trajectory and Map",
+    booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Bae_2022_ECCV/>
 <details close>
 <summary><strong><em>Bae et al., "Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820263.pdf>paper</a> <a href=https://arxiv.org/pdf/2207.09953.pdf>arxiv</a> <a href=https://github.com/inhwanbae/GPGraph>code</a></summary>
@@ -1105,7 +1134,7 @@ ___
 </ul>
 </details>
 
-<a name=Robin_2021_ICLR/>
+<a name=Walters_2021_ICLR/>
 <details close>
 <summary><strong><em>Walters et al., "Trajectory Prediction using Equivariant Continuous Convolution", ICLR, 2021.</em></strong> <a href=https://openreview.net/pdf?id=J8_GttYLFgr>paper</a> <a href=https://arxiv.org/pdf/2010.11344.pdf>arxiv</a> <a href=https://github.com/Rose-STL-Lab/ECCO>code</a></summary>
 <ul>
@@ -1123,7 +1152,7 @@ ___
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Robin_2021_ICLR,
+@InProceedings{Walters_2021_ICLR,
     author = "Walters, Robin and Li, Jinxi and Yu, Rose",
     booktitle = "ICLR",
     title = "Trajectory Prediction using Equivariant Continuous Convolution",
@@ -1458,6 +1487,34 @@ ___
 </ul>
 </details>
 
+<a name=Albrecht_2021_ICRA/>
+<details close>
+<summary><strong><em>Albrecht et al., "Interpretable Goal-based Prediction and Planning for Autonomous Driving", ICRA, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9560849>paper</a> <a href=https://arxiv.org/pdf/2002.02277.pdf>arxiv</a> <a href=https://github.com/uoe-agents/IGP2>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory_metrics.md#probability">Probability</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Albrecht_2021_ICRA,
+    author = "Albrecht, Stefano V. and Brewitt, Cillian and Wilhelm, John and Gyevnar, Balint and Eiras, Francisco and Dobre, Mihai and Ramamoorthy, Subramanian",
+    booktitle = "ICRA",
+    title = "Interpretable Goal-based Prediction and Planning for Autonomous Driving",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Cheng_2021_ICRA/>
 <details close>
 <summary><strong><em>Cheng et al., "Exploring Dynamic Context for Multi-path Trajectory Prediction", ICRA, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9562034>paper</a> <a href=https://arxiv.org/pdf/2010.16267.pdf>arxiv</a> <a href=https://github.com/wtliao/DCENet>code</a></summary>
@@ -1478,34 +1535,6 @@ ___
     author = "Cheng, Hao and Liao, Wentong and Tang, Xuejiao and Yang, Michael Ying and Sester, Monika and Rosenhahn, Bodo",
     booktitle = "ICRA",
     title = "Exploring Dynamic Context for Multi-path Trajectory Prediction",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-
-<a name=Stefano_2021_ICRA/>
-<details close>
-<summary><strong><em>Albrecht et al., "Interpretable Goal-based Prediction and Planning for Autonomous Driving", ICRA, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9560849>paper</a> <a href=https://arxiv.org/pdf/2002.02277.pdf>arxiv</a> <a href=https://github.com/uoe-agents/IGP2>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/trajectory_metrics.md#probability">Probability</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Stefano_2021_ICRA,
-    author = "Albrecht, Stefano V. and Brewitt, Cillian and Wilhelm, John and Gyevnar, Balint and Eiras, Francisco and Dobre, Mihai and Ramamoorthy, Subramanian",
-    booktitle = "ICRA",
-    title = "Interpretable Goal-based Prediction and Planning for Autonomous Driving",
     year = "2021"
 }
 </pre>
