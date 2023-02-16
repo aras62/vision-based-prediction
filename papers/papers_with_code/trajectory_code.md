@@ -1,6 +1,6 @@
 <a name=top></a>
 ---
-<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Papers</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../datasets/datasets.md#top><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics/metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Papers</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../datasets.md#top><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---
 [Home](../papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Video](../video/video_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](../action/action_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Trajectory](../trajectory/trajectory_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](../motion/motion_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](../other/other_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Papers with code&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
@@ -19,8 +19,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
@@ -78,8 +78,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -108,8 +108,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -139,7 +139,7 @@ ___
 <ul>
 <li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#offroad_rate">Offroad Rate</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -195,8 +195,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
@@ -314,8 +314,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -459,8 +459,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#tcr">TCR</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#tcc">TCC</a></li>
 </ul>
@@ -549,8 +549,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#kde">KDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#amv">AMV</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#amd">AMD</a></li>
@@ -643,8 +643,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
@@ -706,8 +706,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -793,7 +793,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -849,8 +849,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -905,7 +905,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -965,8 +965,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -998,8 +998,8 @@ ___
 <li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#dac">DAC</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#dac">DAC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1027,8 +1027,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1232,8 +1232,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1261,8 +1261,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1380,8 +1380,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1410,8 +1410,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1469,8 +1469,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1525,6 +1525,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
 </ul>
@@ -1650,6 +1652,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
 </ul>
@@ -1742,6 +1746,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#mse">MSE</a></li>
@@ -1776,7 +1782,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1895,8 +1905,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1924,10 +1934,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2013,8 +2023,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2042,10 +2052,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#meanfde">meanFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#meanade">meanADE</a></li>
 </ul>
@@ -2076,10 +2086,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
@@ -2143,8 +2153,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#mc">MC</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#f">F</a></li>
@@ -2176,6 +2186,8 @@ ___
 <ul>
 <li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#aiou">AIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2229,7 +2241,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
@@ -2295,8 +2307,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2399,7 +2411,7 @@ ___
 
 <a name=Liang_2019_CVPR/>
 <details close>
-<summary><strong><em>Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPRW_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1902.03748.pdf>arxiv</a> <a href=https://github.com/google/next-prediction>code</a></summary>
+<summary><strong><em>Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1902.03748.pdf>arxiv</a> <a href=https://github.com/google/next-prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2409,6 +2421,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
 </ul>
@@ -2497,6 +2511,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
@@ -2729,6 +2745,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
 </ul>

@@ -41,6 +41,7 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+*16/02/2023:Updated metric information for a number of trajectory prediction models
 * 27/1/2023: Added 1 paper ECCV2022
 * 18/1/2023: Added 10 papers from previous years
 * 15/1/2023: Added 7 papers and 1 metric from previous years

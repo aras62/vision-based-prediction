@@ -1,7 +1,7 @@
 <a name=top></a>
 <a name=top></a>
 ---
-<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../papers/papers.md#top><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Datasets</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics/metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../papers/papers.md#top><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Datasets</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---
 [Home](../datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Alphabetical](../alphabetical/alphabetical_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Year](../year/year_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Application&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Task](../task/task_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Annotation](../annotation_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
@@ -633,8 +633,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -688,8 +688,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1285,6 +1285,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
 </ul>
@@ -1318,6 +1320,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
 <li><a href="../../metrics/trajectory_metrics.md#mse">MSE</a></li>
@@ -1709,8 +1713,8 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
