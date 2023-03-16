@@ -41,6 +41,7 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+*16/03/2023:Added IROS2022 and 2 additional (30 papers, 4 datasets, 2 metrics)
 *16/02/2023:Updated metric information for a number of trajectory prediction models
 * 27/1/2023: Added 1 paper ECCV2022
 * 18/1/2023: Added 10 papers from previous years
