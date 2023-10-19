@@ -8681,7 +8681,7 @@ A dataset of actions in RGB video sequence with corresponding binary masks and a
 </ul></details>
 <a name=tosca></a>
 <details close>
-<summary><l style="font-size:20px"><strong>TOSCA</strong></l> <a href=http://tosca.cs.technion.ac.il/book/resources_data.html>link</a> <a href=https://www.springer.com/gp/book/9780387733005>paper</a></summary> 
+<summary><l style="font-size:20px"><strong>TOSCA</strong></l> <a href=https://tosca.cs.technion.ac.il/book/resources_data.html>link</a> <a href=https://www.springer.com/gp/book/9780387733005>paper</a></summary> 
 <ul><li>
 <em><strong>Summary:</strong></em> 
 A dataset of 80 synthetic objects (animals and humans) with corresponding poses
