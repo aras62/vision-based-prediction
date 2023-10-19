@@ -41,6 +41,8 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+*19/10/2023:Note that this is the last year covering WACV papers due to the volume of papers in other conferences 
+*19/10/2023:Added 2023 papers for ICCV, CVPR, ICML, CoRL, ICRA, WACV (100 papers, 26 datasets, 23 metrics)
 *16/03/2023:Added IROS2022 and 2 additional (30 papers, 4 datasets, 2 metrics)
 *16/02/2023:Updated metric information for a number of trajectory prediction models
 * 27/1/2023: Added 1 paper ECCV2022
