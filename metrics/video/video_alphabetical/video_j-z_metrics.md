@@ -12,7 +12,7 @@ ___
 <h2>J-Z <small>[rank]</small></h2> 
 <ul><a name=l1></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>L1</strong><small> 7</small></l>
+<summary><em><l style="font-size:20px"><strong>L1</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -100,7 +100,7 @@ ___
 
 </ul><ul><a name=lpips></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Learned Perceptual Image Patch Similarity (LPIPS)</strong><small> 4</small></l>
+<summary><em><l style="font-size:20px"><strong>Learned Perceptual Image Patch Similarity (LPIPS)</strong><small> [4]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -838,7 +838,7 @@ ___
 
 </ul><ul><a name=mae></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> 6</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [6]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -999,7 +999,7 @@ ___
 
 </ul><ul><a name=mmd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Maximum Mean Discrepancy (MMD)</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>Maximum Mean Discrepancy (MMD)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1034,7 +1034,7 @@ ___
 
 </ul><ul><a name=ms-ssim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Multi-Scale SSIM (MS-SSIM)</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>Multi-Scale SSIM (MS-SSIM)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1069,7 +1069,7 @@ ___
 
 </ul><ul><a name=mse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong><small> 3</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong><small> [3]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1918,7 +1918,7 @@ ___
 
 </ul><ul><a name=psnr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Peak Signal-to-Noise Ratio (PSNR)</strong><small> 2</small></l>
+<summary><em><l style="font-size:20px"><strong>Peak Signal-to-Noise Ratio (PSNR)</strong><small> [2]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3290,7 +3290,7 @@ ___
 
 </ul><ul><a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> 8</small></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3357,7 +3357,7 @@ ___
 
 </ul><ul><a name=rt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> 8</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3425,7 +3425,7 @@ ___
 
 </ul><ul><a name=sharpness></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Sharpness</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>Sharpness</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3461,7 +3461,7 @@ ___
 
 </ul><ul><a name=ssim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong><small> 1</small></l>
+<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong><small> [1]</small></l>
 </em></summary>
 <ul>
 <details close>

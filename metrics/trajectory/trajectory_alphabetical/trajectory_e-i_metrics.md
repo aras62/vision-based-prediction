@@ -12,7 +12,7 @@ ___
 <h2>E-I <small>[rank]</small></h2> 
 <ul><a name=ece></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -79,7 +79,7 @@ ___
 
 </ul><ul><a name=ecfl></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Environment Collision-Free Likelihood (ECFL)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Environment Collision-Free Likelihood (ECFL)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -119,7 +119,7 @@ ___
 
 </ul><ul><a name=ed></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> 6</small></l>
+<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [6]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -905,7 +905,7 @@ ___
 
 </ul><ul><a name=emd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -971,7 +971,7 @@ ___
 
 </ul><ul><a name=entropy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Entropy</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Entropy</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1006,7 +1006,7 @@ ___
 
 </ul><ul><a name=epa></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>End-to-end Prediction Accuracy (EPA)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>End-to-end Prediction Accuracy (EPA)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1042,7 +1042,7 @@ ___
 
 </ul><ul><a name=epe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1076,7 +1076,7 @@ ___
 
 </ul><ul><a name=epe3d></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>3D Endpoint Error (EPE3D)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>3D Endpoint Error (EPE3D)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1109,7 +1109,7 @@ ___
 
 </ul><ul><a name=f></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Feasibility (F)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Feasibility (F)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1148,7 +1148,7 @@ ___
 
 </ul><ul><a name=fde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong><small> 4</small></l>
+<summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong><small> [4]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4552,7 +4552,7 @@ ___
 
 </ul><ul><a name=fiou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final IoU (FIoU)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>Final IoU (FIoU)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4821,7 +4821,7 @@ ___
 
 </ul><ul><a name=fle></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Lane Error (FLE)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Final Lane Error (FLE)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4858,7 +4858,7 @@ ___
 
 </ul><ul><a name=fnm></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Fraction of Near Misses (FNM)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Fraction of Near Misses (FNM)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4892,7 +4892,7 @@ ___
 
 </ul><ul><a name=frb></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>FRB</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>FRB</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4959,7 +4959,7 @@ ___
 
 </ul><ul><a name=hit_rate></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Hit Rate</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>Hit Rate</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5021,7 +5021,7 @@ ___
 
 </ul><ul><a name=hor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Hard Off-road Rate (HOR)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Hard Off-road Rate (HOR)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5055,7 +5055,7 @@ ___
 
 </ul><ul><a name=human></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5090,7 +5090,7 @@ ___
 
 </ul><ul><a name=iminade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>iminADE</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>iminADE</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5131,7 +5131,7 @@ ___
 
 </ul><ul><a name=iminfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>iminFDE</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>iminFDE</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5172,7 +5172,7 @@ ___
 
 </ul><ul><a name=inace></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Image Normalized Average Centroid Error (INACE)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Image Normalized Average Centroid Error (INACE)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5207,7 +5207,7 @@ ___
 
 </ul><ul><a name=iou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong><small> 15</small></l>
+<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>

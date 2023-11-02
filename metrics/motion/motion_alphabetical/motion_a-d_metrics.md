@@ -12,7 +12,7 @@ ___
 <h2>A-D <small>[rank]</small></h2> 
 <ul><a name=accuracy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Accuracy</strong><small> 12</small></l>
+<summary><em><l style="font-size:20px"><strong>Accuracy</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -72,7 +72,7 @@ ___
 
 </ul><ul><a name=ade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> 3</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [3]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -549,7 +549,7 @@ ___
 
 </ul><ul><a name=ame></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Aligned Mean Error (AME)</strong><small> 13</small></l>
+<summary><em><l style="font-size:20px"><strong>Aligned Mean Error (AME)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -583,7 +583,7 @@ ___
 
 </ul><ul><a name=apd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Pairwise Distance (APD)</strong><small> 5</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Pairwise Distance (APD)</strong><small> [5]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -946,7 +946,7 @@ ___
 
 </ul><ul><a name=auc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> 13</small></l>
+<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -984,7 +984,7 @@ ___
 
 </ul><ul><a name=cma></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cumulative Matching Accuracy (CMA)</strong><small> 13</small></l>
+<summary><em><l style="font-size:20px"><strong>Cumulative Matching Accuracy (CMA)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1019,7 +1019,7 @@ ___
 
 </ul><ul><a name=cmd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cumulative Motion Distribution (CMD)</strong><small> 13</small></l>
+<summary><em><l style="font-size:20px"><strong>Cumulative Motion Distribution (CMD)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1059,7 +1059,7 @@ ___
 
 </ul><ul><a name=div></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Div</strong><small> 13</small></l>
+<summary><em><l style="font-size:20px"><strong>Div</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1096,7 +1096,7 @@ ___
 
 </ul><ul><a name=dt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Diversity Test (DT)</strong><small> 13</small></l>
+<summary><em><l style="font-size:20px"><strong>Diversity Test (DT)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>

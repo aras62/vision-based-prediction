@@ -7,6 +7,6 @@ ___
 [Home](../video_metrics.md"#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Alphabetical](../video_alphabetical/video_alphabetical_metrics.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ranking&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 # Metrics by ranking
-* <a href=video_Top5_rank_metrics.md#top>Top5</a>
-* <a href=video_Top6-10_rank_metrics.md#top>Top6-10</a>
-* <a href=video_Others_rank_metrics.md#top>Others</a>
+* <a href=video_Top5_metrics.md#top>Top5</a>
+* <a href=video_Top6-10_metrics.md#top>Top6-10</a>
+* <a href=video_Others_metrics.md#top>Others</a>

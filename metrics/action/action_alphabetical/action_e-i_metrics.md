@@ -12,7 +12,7 @@ ___
 <h2>E-I <small>[rank]</small></h2> 
 <ul><a name=eid></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Edit Distance (EiD)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>Edit Distance (EiD)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -46,7 +46,7 @@ ___
 
 </ul><ul><a name=f1></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>F1</strong><small> 4</small></l>
+<summary><em><l style="font-size:20px"><strong>F1</strong><small> [4]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -627,7 +627,7 @@ ___
 
 </ul><ul><a name=fde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -667,7 +667,7 @@ ___
 
 </ul><ul><a name=fp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>False positive (FP)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>False positive (FP)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>

@@ -7,6 +7,6 @@ ___
 [Home](../motion_metrics.md"#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Alphabetical](../motion_alphabetical/motion_alphabetical_metrics.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ranking&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 # Metrics by ranking
-* <a href=motion_Top5_rank_metrics.md#top>Top5</a>
-* <a href=motion_Top6-10_rank_metrics.md#top>Top6-10</a>
-* <a href=motion_Others_rank_metrics.md#top>Others</a>
+* <a href=motion_Top5_metrics.md#top>Top5</a>
+* <a href=motion_Top6-10_metrics.md#top>Top6-10</a>
+* <a href=motion_Others_metrics.md#top>Others</a>

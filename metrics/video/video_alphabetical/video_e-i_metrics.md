@@ -12,7 +12,7 @@ ___
 <h2>E-I <small>[rank]</small></h2> 
 <ul><a name=fid></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Frechet Instance Distance (FID)</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>Frechet Instance Distance (FID)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -52,7 +52,7 @@ ___
 
 </ul><ul><a name=fvd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Frechet Video Distance (FVD)</strong><small> 5</small></l>
+<summary><em><l style="font-size:20px"><strong>Frechet Video Distance (FVD)</strong><small> [5]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -423,7 +423,7 @@ ___
 
 </ul><ul><a name=gdl></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Gradient Difference Loss (GDL)</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>Gradient Difference Loss (GDL)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -463,7 +463,7 @@ ___
 
 </ul><ul><a name=human></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> 6</small></l>
+<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> [6]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -606,7 +606,7 @@ ___
 
 </ul><ul><a name=iou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -643,7 +643,7 @@ ___
 
 </ul><ul><a name=is></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> 8</small></l>
+<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>

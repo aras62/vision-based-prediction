@@ -12,7 +12,7 @@ ___
 <h2>A-D <small>[rank]</small></h2> 
 <ul><a name=absrel></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Absolute Relative error (AbsRel)</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>Absolute Relative error (AbsRel)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -52,7 +52,7 @@ ___
 
 </ul><ul><a name=bce></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Binary Cross Entropy (BCE)</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>Binary Cross Entropy (BCE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -87,7 +87,7 @@ ___
 
 </ul><ul><a name=csi></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Critical Success Index (CSI)</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>Critical Success Index (CSI)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -127,7 +127,7 @@ ___
 
 </ul><ul><a name=csim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cosine Similarity (CSIM)</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>Cosine Similarity (CSIM)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>

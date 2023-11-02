@@ -12,7 +12,7 @@ ___
 <h2>A-D <small>[rank]</small></h2> 
 <ul><a name=absrel></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Absolute Relative error (AbsRel)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Absolute Relative error (AbsRel)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -49,7 +49,7 @@ ___
 
 </ul><ul><a name=accuracy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Accuracy</strong><small> 3</small></l>
+<summary><em><l style="font-size:20px"><strong>Accuracy</strong><small> [3]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -353,7 +353,7 @@ ___
 
 </ul><ul><a name=ace></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Calibration Error (ACE)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Calibration Error (ACE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -389,7 +389,7 @@ ___
 
 </ul><ul><a name=ade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -426,7 +426,7 @@ ___
 
 </ul><ul><a name=aepe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average End-Point Error (AEPE)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Average End-Point Error (AEPE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -464,7 +464,7 @@ ___
 
 </ul><ul><a name=ap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> 8</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -554,7 +554,7 @@ ___
 
 </ul><ul><a name=auc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> 6</small></l>
+<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> [6]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -701,7 +701,7 @@ ___
 
 </ul><ul><a name=ave></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Velocity Error (AVE)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Velocity Error (AVE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -738,7 +738,7 @@ ___
 
 </ul><ul><a name=bleu></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Bilingual Evaluation Understudy (BLEU)</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>Bilingual Evaluation Understudy (BLEU)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -803,7 +803,7 @@ ___
 
 </ul><ul><a name=bss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Brier Skill Score (BSS)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Brier Skill Score (BSS)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -838,7 +838,7 @@ ___
 
 </ul><ul><a name=c-index></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cross-validated concordance Index (C-Index)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Cross-validated concordance Index (C-Index)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -872,7 +872,7 @@ ___
 
 </ul><ul><a name=cd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Chamfer Distance (CD)</strong><small> 8</small></l>
+<summary><em><l style="font-size:20px"><strong>Chamfer Distance (CD)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -960,7 +960,7 @@ ___
 
 </ul><ul><a name=cider></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -997,7 +997,7 @@ ___
 
 </ul><ul><a name=clipscore></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Contrastive Language-Image Pre-training Score (CLIPScore)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Contrastive Language-Image Pre-training Score (CLIPScore)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1034,7 +1034,7 @@ ___
 
 </ul><ul><a name=corr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Pearson Correlation Coefficient (Corr)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Pearson Correlation Coefficient (Corr)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1070,7 +1070,7 @@ ___
 
 </ul><ul><a name=cross-entropy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cross-entropy</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Cross-entropy</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1106,7 +1106,7 @@ ___
 
 </ul><ul><a name=ddm></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Diversity Distance Metric (DDM)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Diversity Distance Metric (DDM)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1144,7 +1144,7 @@ ___
 
 </ul><ul><a name=dmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Dynamic MSE (DMSE)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Dynamic MSE (DMSE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>

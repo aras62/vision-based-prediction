@@ -12,7 +12,7 @@ ___
 <h2>E-I <small>[rank]</small></h2> 
 <ul><a name=ece></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -51,7 +51,7 @@ ___
 
 </ul><ul><a name=ed></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> 7</small></l>
+<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -165,7 +165,7 @@ ___
 
 </ul><ul><a name=emd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -228,7 +228,7 @@ ___
 
 </ul><ul><a name=epe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> 8</small></l>
+<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -322,7 +322,7 @@ ___
 
 </ul><ul><a name=f1></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>F1</strong><small> 1</small></l>
+<summary><em><l style="font-size:20px"><strong>F1</strong><small> [1]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -749,7 +749,7 @@ ___
 
 </ul><ul><a name=fpr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>False Positive Rate (FPR)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>False Positive Rate (FPR)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -785,7 +785,7 @@ ___
 
 </ul><ul><a name=fve></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Velocity Error (FVE)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Final Velocity Error (FVE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -822,7 +822,7 @@ ___
 
 </ul><ul><a name=gce></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Global Consistency Error (GCE)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Global Consistency Error (GCE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -858,7 +858,7 @@ ___
 
 </ul><ul><a name=gmgs></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Gandin-Murphy-Gerrity Score (GMGS)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Gandin-Murphy-Gerrity Score (GMGS)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -893,7 +893,7 @@ ___
 
 </ul><ul><a name=ims></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Image Similarity (ImS)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Image Similarity (ImS)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -928,7 +928,7 @@ ___
 
 </ul><ul><a name=iou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong><small> 2</small></l>
+<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong><small> [2]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1262,7 +1262,7 @@ ___
 
 </ul><ul><a name=is></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1296,7 +1296,7 @@ ___
 
 </ul><ul><a name=ism></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ISM</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>ISM</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>

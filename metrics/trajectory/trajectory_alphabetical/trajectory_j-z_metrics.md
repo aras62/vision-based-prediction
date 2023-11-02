@@ -12,7 +12,7 @@ ___
 <h2>J-Z <small>[rank]</small></h2> 
 <ul><a name=kde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Keypoint Displacement Error (KDE)</strong><small> 17</small></l>
+<summary><em><l style="font-size:20px"><strong>Keypoint Displacement Error (KDE)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -107,7 +107,7 @@ ___
 
 </ul><ul><a name=kld></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> 15</small></l>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -257,7 +257,7 @@ ___
 
 </ul><ul><a name=l1></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>L1</strong><small> 17</small></l>
+<summary><em><l style="font-size:20px"><strong>L1</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -351,7 +351,7 @@ ___
 
 </ul><ul><a name=l2></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>L2</strong><small> 14</small></l>
+<summary><em><l style="font-size:20px"><strong>L2</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -525,7 +525,7 @@ ___
 
 </ul><ul><a name=ll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Log-Likelihood (LL)</strong><small> 14</small></l>
+<summary><em><l style="font-size:20px"><strong>Log-Likelihood (LL)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -697,7 +697,7 @@ ___
 
 </ul><ul><a name=mae></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> 16</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [16]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -813,7 +813,7 @@ ___
 
 </ul><ul><a name=mane></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean angular error (MAnE)</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean angular error (MAnE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -875,7 +875,7 @@ ___
 
 </ul><ul><a name=map></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>mean Average Precision (mAP)</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>mean Average Precision (mAP)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1251,7 +1251,7 @@ ___
 
 </ul><ul><a name=mape></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1287,7 +1287,7 @@ ___
 
 </ul><ul><a name=maps></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>mAPs</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>mAPs</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1323,7 +1323,7 @@ ___
 
 </ul><ul><a name=maxd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Maximum Distance (MaxD)</strong><small> 17</small></l>
+<summary><em><l style="font-size:20px"><strong>Maximum Distance (MaxD)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1421,7 +1421,7 @@ ___
 
 </ul><ul><a name=maxd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>maxD</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>maxD</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1485,7 +1485,7 @@ ___
 
 </ul><ul><a name=mc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mode Coverage (MC)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Mode Coverage (MC)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1524,7 +1524,7 @@ ___
 
 </ul><ul><a name=meanade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>meanADE</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>meanADE</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1591,7 +1591,7 @@ ___
 
 </ul><ul><a name=meanfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>meanFDE</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>meanFDE</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1658,7 +1658,7 @@ ___
 
 </ul><ul><a name=meanmsd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>mean Mean Square Displacement (meanMSD)</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>mean Mean Square Displacement (meanMSD)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1720,7 +1720,7 @@ ___
 
 </ul><ul><a name=meansade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>meanSADE</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>meanSADE</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1759,7 +1759,7 @@ ___
 
 </ul><ul><a name=meansfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>meanSFDE</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>meanSFDE</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1798,7 +1798,7 @@ ___
 
 </ul><ul><a name=mhd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Modified Hausdorff Distance (MHD)</strong><small> 14</small></l>
+<summary><em><l style="font-size:20px"><strong>Modified Hausdorff Distance (MHD)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1975,7 +1975,7 @@ ___
 
 </ul><ul><a name=minade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minADE</strong><small> 1</small></l>
+<summary><em><l style="font-size:20px"><strong>minADE</strong><small> [1]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -7171,7 +7171,7 @@ ___
 
 </ul><ul><a name=minasd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minASD</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>minASD</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -7207,7 +7207,7 @@ ___
 
 </ul><ul><a name=mined></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minED</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>minED</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -7272,7 +7272,7 @@ ___
 
 </ul><ul><a name=minfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minFDE</strong><small> 2</small></l>
+<summary><em><l style="font-size:20px"><strong>minFDE</strong><small> [2]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -12245,7 +12245,7 @@ ___
 
 </ul><ul><a name=minfsd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minFSD</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>minFSD</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -12281,7 +12281,7 @@ ___
 
 </ul><ul><a name=minjointade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minJointADE</strong><small> 16</small></l>
+<summary><em><l style="font-size:20px"><strong>minJointADE</strong><small> [16]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -12408,7 +12408,7 @@ ___
 
 </ul><ul><a name=minjointfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minJointFDE</strong><small> 16</small></l>
+<summary><em><l style="font-size:20px"><strong>minJointFDE</strong><small> [16]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -12535,7 +12535,7 @@ ___
 
 </ul><ul><a name=minmde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minMDE</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>minMDE</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -12574,7 +12574,7 @@ ___
 
 </ul><ul><a name=minmsd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minMSD</strong><small> 17</small></l>
+<summary><em><l style="font-size:20px"><strong>minMSD</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -12663,7 +12663,7 @@ ___
 
 </ul><ul><a name=minsade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minimum Scene ADE (minSADE)</strong><small> 16</small></l>
+<summary><em><l style="font-size:20px"><strong>minimum Scene ADE (minSADE)</strong><small> [16]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -12791,7 +12791,7 @@ ___
 
 </ul><ul><a name=minsfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minimum Scene FDE (minSFDE)</strong><small> 16</small></l>
+<summary><em><l style="font-size:20px"><strong>minimum Scene FDE (minSFDE)</strong><small> [16]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -12919,7 +12919,7 @@ ___
 
 </ul><ul><a name=miou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean IoU (MIoU)</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean IoU (MIoU)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -12981,7 +12981,7 @@ ___
 
 </ul><ul><a name=mmd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Maximum Mean Discrepancy (MMD)</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>Maximum Mean Discrepancy (MMD)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -13045,7 +13045,7 @@ ___
 
 </ul><ul><a name=mota></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>MOTA</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>MOTA</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -13079,7 +13079,7 @@ ___
 
 </ul><ul><a name=mpg></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Maximum Prediction Gap (MPG)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Maximum Prediction Gap (MPG)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -13116,7 +13116,7 @@ ___
 
 </ul><ul><a name=mr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>MR</strong><small> 5</small></l>
+<summary><em><l style="font-size:20px"><strong>MR</strong><small> [5]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -14685,7 +14685,7 @@ ___
 
 </ul><ul><a name=mse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -14973,7 +14973,7 @@ ___
 
 </ul><ul><a name=nll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> 7</small></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -15751,7 +15751,7 @@ ___
 
 </ul><ul><a name=nlp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Probability (NLP)</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Probability (NLP)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -15813,7 +15813,7 @@ ___
 
 </ul><ul><a name=none></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>None</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>None</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -15847,7 +15847,7 @@ ___
 
 </ul><ul><a name=or></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Overlap Rate (OR)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Overlap Rate (OR)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -15886,7 +15886,7 @@ ___
 
 </ul><ul><a name=orr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Off-Road Rate (ORR)</strong><small> 13</small></l>
+<summary><em><l style="font-size:20px"><strong>Off-Road Rate (ORR)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -16096,7 +16096,7 @@ ___
 
 </ul><ul><a name=overlap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Overlap</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>Overlap</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -16163,7 +16163,7 @@ ___
 
 </ul><ul><a name=pd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Percentage Deviated (PD)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Percentage Deviated (PD)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -16197,7 +16197,7 @@ ___
 
 </ul><ul><a name=ppei></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Part of Prediction Error Inside (PPEI)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Part of Prediction Error Inside (PPEI)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -16232,7 +16232,7 @@ ___
 
 </ul><ul><a name=precision></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Precision</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Precision</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -16267,7 +16267,7 @@ ___
 
 </ul><ul><a name=probability></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Probability</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Probability</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -16301,7 +16301,7 @@ ___
 
 </ul><ul><a name=progress></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Progress</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Progress</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -16336,7 +16336,7 @@ ___
 
 </ul><ul><a name=ptu></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Percentage of Trajectory Usage (PTU)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Percentage of Trajectory Usage (PTU)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -16371,7 +16371,7 @@ ___
 
 </ul><ul><a name=qde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Quantile Distance Error (QDE)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Quantile Distance Error (QDE)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -16410,7 +16410,7 @@ ___
 
 </ul><ul><a name=qualitative></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Qualitative</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Qualitative</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -16444,7 +16444,7 @@ ___
 
 </ul><ul><a name=recall></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Recall</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Recall</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -16478,7 +16478,7 @@ ___
 
 </ul><ul><a name=rf></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>RF</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>RF</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -16516,7 +16516,7 @@ ___
 
 </ul><ul><a name=risk></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Risk</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Risk</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -16550,7 +16550,7 @@ ___
 
 </ul><ul><a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> 8</small></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17229,7 +17229,7 @@ ___
 
 </ul><ul><a name=rt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> 17</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17325,7 +17325,7 @@ ___
 
 </ul><ul><a name=run_time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> 14</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17494,7 +17494,7 @@ ___
 
 </ul><ul><a name=rv></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Road Violation (RV)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Road Violation (RV)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17529,7 +17529,7 @@ ___
 
 </ul><ul><a name=rwse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>RWSE</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>RWSE</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17563,7 +17563,7 @@ ___
 
 </ul><ul><a name=safety></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Safety</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Safety</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17599,7 +17599,7 @@ ___
 
 </ul><ul><a name=scr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>State Collision Rate (SCR)</strong><small> 17</small></l>
+<summary><em><l style="font-size:20px"><strong>State Collision Rate (SCR)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17698,7 +17698,7 @@ ___
 
 </ul><ul><a name=smr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>SMR</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>SMR</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17767,7 +17767,7 @@ ___
 
 </ul><ul><a name=sor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Soft Off-road Rate (SOR)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Soft Off-road Rate (SOR)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17801,7 +17801,7 @@ ___
 
 </ul><ul><a name=tcc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Temporal Correlation Coefficient (TCC)</strong><small> 16</small></l>
+<summary><em><l style="font-size:20px"><strong>Temporal Correlation Coefficient (TCC)</strong><small> [16]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17927,7 +17927,7 @@ ___
 
 </ul><ul><a name=tcr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Trajectory Collision Rate (TCR)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>Trajectory Collision Rate (TCR)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18191,7 +18191,7 @@ ___
 
 </ul><ul><a name=tn></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18227,7 +18227,7 @@ ___
 
 </ul><ul><a name=tp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Positive (TP)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>True Positive (TP)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18263,7 +18263,7 @@ ___
 
 </ul><ul><a name=tri></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Turning Radius Infeasibility (TRI)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Turning Radius Infeasibility (TRI)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18300,7 +18300,7 @@ ___
 
 </ul><ul><a name=twae></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Time Weighted Absolute Error (TWAE)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Time Weighted Absolute Error (TWAE)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18335,7 +18335,7 @@ ___
 
 </ul><ul><a name=ur></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Unsmooth Ratio (UR)</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>Unsmooth Ratio (UR)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18400,7 +18400,7 @@ ___
 
 </ul><ul><a name=vam></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>VAM</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>VAM</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18436,7 +18436,7 @@ ___
 
 </ul><ul><a name=vim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>VIM</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>VIM</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18472,7 +18472,7 @@ ___
 
 </ul><ul><a name=vpq></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Video Panoptic Quality (VPQ)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Video Panoptic Quality (VPQ)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18506,7 +18506,7 @@ ___
 
 </ul><ul><a name=wade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>weighted ADE (wADE)</strong><small> 16</small></l>
+<summary><em><l style="font-size:20px"><strong>weighted ADE (wADE)</strong><small> [16]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18631,7 +18631,7 @@ ___
 
 </ul><ul><a name=wfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>weighted FDE (wFDE)</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>weighted FDE (wFDE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18697,7 +18697,7 @@ ___
 
 </ul><ul><a name=wrmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>WRMSE</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>WRMSE</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18732,7 +18732,7 @@ ___
 
 </ul><ul><a name=wsade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Weighted Sum ADE (WSADE)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Weighted Sum ADE (WSADE)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18774,7 +18774,7 @@ ___
 
 </ul><ul><a name=wsfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Weighted Sum FDE (WSFDE)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Weighted Sum FDE (WSFDE)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>

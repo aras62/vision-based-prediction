@@ -12,7 +12,7 @@ ___
 <h2>E-I <small>[rank]</small></h2> 
 <ul><a name=ed></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -126,7 +126,7 @@ ___
 
 </ul><ul><a name=fde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong><small> 3</small></l>
+<summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong><small> [3]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -604,7 +604,7 @@ ___
 
 </ul><ul><a name=fid></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Frechet Instance Distance (FID)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>Frechet Instance Distance (FID)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -700,7 +700,7 @@ ___
 
 </ul><ul><a name=human></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> 12</small></l>
+<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -762,7 +762,7 @@ ___
 
 </ul><ul><a name=is></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> 13</small></l>
+<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>

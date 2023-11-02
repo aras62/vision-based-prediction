@@ -12,7 +12,7 @@ ___
 <h2>A-D <small>[rank]</small></h2> 
 <ul><a name=accuracy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Accuracy</strong><small> 16</small></l>
+<summary><em><l style="font-size:20px"><strong>Accuracy</strong><small> [16]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -123,7 +123,7 @@ ___
 
 </ul><ul><a name=ade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> 3</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [3]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4341,7 +4341,7 @@ ___
 
 </ul><ul><a name=aede></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>AEDE</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>AEDE</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4376,7 +4376,7 @@ ___
 
 </ul><ul><a name=aiou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>AIoU</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>AIoU</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4412,7 +4412,7 @@ ___
 
 </ul><ul><a name=al></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Likelihood (AL)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Likelihood (AL)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4450,7 +4450,7 @@ ___
 
 </ul><ul><a name=amd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Mahalanobis Distance (AMD)</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Mahalanobis Distance (AMD)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4515,7 +4515,7 @@ ___
 
 </ul><ul><a name=amv></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Maximum Eigenvalue (AMV)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Maximum Eigenvalue (AMV)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4553,7 +4553,7 @@ ___
 
 </ul><ul><a name=ande></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Nonlinear Displacement Error (ANDE)</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Nonlinear Displacement Error (ANDE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4619,7 +4619,7 @@ ___
 
 </ul><ul><a name=ap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4682,7 +4682,7 @@ ___
 
 </ul><ul><a name=apad></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Path Deviation (APaD)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Path Deviation (APaD)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4717,7 +4717,7 @@ ___
 
 </ul><ul><a name=app></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Prediction Probability (APP)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Prediction Probability (APP)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4751,7 +4751,7 @@ ___
 
 </ul><ul><a name=arb></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ARB</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>ARB</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4818,7 +4818,7 @@ ___
 
 </ul><ul><a name=ate></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Along Track Error (ATE)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Along Track Error (ATE)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4857,7 +4857,7 @@ ___
 
 </ul><ul><a name=b-ade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>b-ADE</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>b-ADE</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4892,7 +4892,7 @@ ___
 
 </ul><ul><a name=b-minade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>b-minADE</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>b-minADE</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4930,7 +4930,7 @@ ___
 
 </ul><ul><a name=b-minfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>b-minFDE</strong><small> 12</small></l>
+<summary><em><l style="font-size:20px"><strong>b-minFDE</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5172,7 +5172,7 @@ ___
 
 </ul><ul><a name=bev_ap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Bird's Eye View Average Precision (BEV AP)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Bird's Eye View Average Precision (BEV AP)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5208,7 +5208,7 @@ ___
 
 </ul><ul><a name=bminfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>brier-minFDE (bminFDE)</strong><small> 17</small></l>
+<summary><em><l style="font-size:20px"><strong>brier-minFDE (bminFDE)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5299,7 +5299,7 @@ ___
 
 </ul><ul><a name=bnace></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Box Normalized Average Centroid Error (BNACE)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Box Normalized Average Centroid Error (BNACE)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5334,7 +5334,7 @@ ___
 
 </ul><ul><a name=boxorfp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Box Off-Road False Positive (BoxORFP)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Box Off-Road False Positive (BoxORFP)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5369,7 +5369,7 @@ ___
 
 </ul><ul><a name=cd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Chamfer Distance (CD)</strong><small> 18</small></l>
+<summary><em><l style="font-size:20px"><strong>Chamfer Distance (CD)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5435,7 +5435,7 @@ ___
 
 </ul><ul><a name=ce></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cross Entropy (CE)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Cross Entropy (CE)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5470,7 +5470,7 @@ ___
 
 </ul><ul><a name=cll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Conditional Log-Likelihood (CLL)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Conditional Log-Likelihood (CLL)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5504,7 +5504,7 @@ ___
 
 </ul><ul><a name=cmr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>CMR</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>CMR</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5545,7 +5545,7 @@ ___
 
 </ul><ul><a name=comfort></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Comfort</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Comfort</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5581,7 +5581,7 @@ ___
 
 </ul><ul><a name=cross-col></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cross-Col</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Cross-Col</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5622,7 +5622,7 @@ ___
 
 </ul><ul><a name=ct></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Completion Time (CT)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Completion Time (CT)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5656,7 +5656,7 @@ ___
 
 </ul><ul><a name=cte></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cross Track Error (CTE)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Cross Track Error (CTE)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5695,7 +5695,7 @@ ___
 
 </ul><ul><a name=ctrorfp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Center Off-Road False Positive (CtrORFP)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Center Off-Road False Positive (CtrORFP)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5730,7 +5730,7 @@ ___
 
 </ul><ul><a name=dac></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Drivable Area Compliance (DAC)</strong><small> 16</small></l>
+<summary><em><l style="font-size:20px"><strong>Drivable Area Compliance (DAC)</strong><small> [16]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5859,7 +5859,7 @@ ___
 
 </ul><ul><a name=dao></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>DAO</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>DAO</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5897,7 +5897,7 @@ ___
 
 </ul><ul><a name=de></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Displacement Error (DE)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Displacement Error (DE)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5933,7 +5933,7 @@ ___
 
 </ul><ul><a name=deltaesv></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Delta Empirical Sigma Value (DeltaESV)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Delta Empirical Sigma Value (DeltaESV)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5970,7 +5970,7 @@ ___
 
 </ul><ul><a name=dtg></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Distance to Goal (DtG)</strong><small> 19</small></l>
+<summary><em><l style="font-size:20px"><strong>Distance to Goal (DtG)</strong><small> [19]</small></l>
 </em></summary>
 <ul>
 <details close>

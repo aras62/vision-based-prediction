@@ -12,7 +12,7 @@ ___
 <h2>J-Z <small>[rank]</small></h2> 
 <ul><a name=kld></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -52,7 +52,7 @@ ___
 
 </ul><ul><a name=mae></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -85,7 +85,7 @@ ___
 
 </ul><ul><a name=map></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>mean Average Precision (mAP)</strong><small> 5</small></l>
+<summary><em><l style="font-size:20px"><strong>mean Average Precision (mAP)</strong><small> [5]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -453,7 +453,7 @@ ___
 
 </ul><ul><a name=mcc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -488,7 +488,7 @@ ___
 
 </ul><ul><a name=meteor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>METEOR</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>METEOR</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -525,7 +525,7 @@ ___
 
 </ul><ul><a name=moc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean-over-class (MoC)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean-over-class (MoC)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -559,7 +559,7 @@ ___
 
 </ul><ul><a name=mof></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean-over-frame (MoF)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean-over-frame (MoF)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -593,7 +593,7 @@ ___
 
 </ul><ul><a name=mrr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Reciprocal Rank (MRR)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Reciprocal Rank (MRR)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -627,7 +627,7 @@ ___
 
 </ul><ul><a name=nll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -664,7 +664,7 @@ ___
 
 </ul><ul><a name=pp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Prediction Power (PP)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>Prediction Power (PP)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -697,7 +697,7 @@ ___
 
 </ul><ul><a name=precision></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Precision</strong><small> 3</small></l>
+<summary><em><l style="font-size:20px"><strong>Precision</strong><small> [3]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1425,7 +1425,7 @@ ___
 
 </ul><ul><a name=recall></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Recall</strong><small> 2</small></l>
+<summary><em><l style="font-size:20px"><strong>Recall</strong><small> [2]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2201,7 +2201,7 @@ ___
 
 </ul><ul><a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> 8</small></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2319,7 +2319,7 @@ ___
 
 </ul><ul><a name=rouge-l></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ROUGE-L</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>ROUGE-L</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2356,7 +2356,7 @@ ___
 
 </ul><ul><a name=rt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> 10</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2421,7 +2421,7 @@ ___
 
 </ul><ul><a name=run_time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2511,7 +2511,7 @@ ___
 
 </ul><ul><a name=tnr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>TNR</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>TNR</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2547,7 +2547,7 @@ ___
 
 </ul><ul><a name=tpr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong><small> 11</small></l>
+<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2583,7 +2583,7 @@ ___
 
 </ul><ul><a name=tta></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Time To Accident (TTA)</strong><small> 9</small></l>
+<summary><em><l style="font-size:20px"><strong>Time To Accident (TTA)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2674,7 +2674,7 @@ ___
 
 </ul><ul><a name=ttm></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Time To Maneuver (TTM)</strong><small> 7</small></l>
+<summary><em><l style="font-size:20px"><strong>Time To Maneuver (TTM)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
