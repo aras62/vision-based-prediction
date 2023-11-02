@@ -1,7 +1,7 @@
 <a name=top></a>
 <a name=top></a>
 ---
-<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../papers/papers.md#top><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Datasets</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics/metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../papers/papers.md#top><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Datasets</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---
 [Home](../datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Alphabetical](../alphabetical/alphabetical_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Year&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Application](../application/application_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Task](../task/task_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Annotation](../annotation_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
@@ -33,9 +33,9 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -61,7 +61,7 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -88,7 +88,7 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -114,8 +114,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -141,8 +141,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -168,8 +168,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#is">IS</a></li>
-<li><a href="../../metrics/video_metrics.md#mmd">MMD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#is">IS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mmd">MMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -195,8 +195,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#human">Human</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -222,8 +222,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../../metrics/motion_metrics.md#pck">PCK</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#mpjpe">MPJPE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -250,7 +250,7 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#kld">KLD</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#kld">KLD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -277,9 +277,9 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../../metrics/motion_metrics.md#pck">PCK</a></li>
-<li><a href="../../metrics/motion_metrics.md#re">RE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#mpjpe">MPJPE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#pck">PCK</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#re">RE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -305,8 +305,8 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#mje">MJE</a></li>
-<li><a href="../../metrics/motion_metrics.md#pck">PCK</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#mje">MJE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -333,7 +333,7 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#pck">PCK</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -382,15 +382,15 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <em>Datasets</em>
 <ul>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#recall">Recall</a></li>
-<li><a href="../../metrics/action_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -412,13 +412,13 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <em>Datasets</em>
 <ul>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 <li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -440,12 +440,12 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <em>Datasets</em>
 <ul>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -467,14 +467,14 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <em>Datasets</em>
 <ul>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#auc">AUC</a></li>
-<li><a href="../../metrics/action_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../metrics/action_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -495,13 +495,14 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#thumos">THUMOS</a></li>
 <li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#charades">Charades</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -523,12 +524,12 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <em>Datasets</em>
 <ul>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -550,13 +551,13 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <em>Datasets</em>
 <ul>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#recall">Recall</a></li>
-<li><a href="../../metrics/action_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -577,11 +578,12 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -602,11 +604,12 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <ul>
 <em>Datasets</em>
 <ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -659,8 +662,8 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -686,7 +689,7 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -712,7 +715,7 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -739,7 +742,7 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -766,7 +769,7 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -793,7 +796,7 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -819,9 +822,9 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#map">mAP</a></li>
-<li><a href="../../metrics/action_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#map">mAP</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -875,9 +878,9 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#recall">Recall</a></li>
-<li><a href="../../metrics/action_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -903,8 +906,8 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_e-i_datasets.md#f1">F1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -929,9 +932,9 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#recall">Recall</a></li>
-<li><a href="../../metrics/action_metrics.md#precision">Precision</a></li>
-<li><a href="../../metrics/action_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_e-i_datasets.md#f1">F1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -957,10 +960,10 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#recall">Recall</a></li>
-<li><a href="../../metrics/action_metrics.md#precision">Precision</a></li>
-<li><a href="../../metrics/action_metrics.md#f1">F1</a></li>
-<li><a href="../../metrics/action_metrics.md#ttm">TTM</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_e-i_datasets.md#f1">F1</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#ttm">TTM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -985,10 +988,10 @@ A dataset of 120 RGBD videos of 10 daily activities performed by 4 subjects
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#recall">Recall</a></li>
-<li><a href="../../metrics/action_metrics.md#precision">Precision</a></li>
-<li><a href="../../metrics/action_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_e-i_datasets.md#f1">F1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1047,9 +1050,9 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1077,7 +1080,7 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1105,9 +1108,9 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1159,9 +1162,9 @@ A dataset of human tracks recorded in a shopping mall for a period of 92 days us
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#kld">KLD</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#amd">AMD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#kld">KLD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#amd">AMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1186,8 +1189,8 @@ A dataset of human tracks recorded in a shopping mall for a period of 92 days us
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1215,9 +1218,9 @@ A dataset of human tracks recorded in a shopping mall for a period of 92 days us
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#run_time">Run Time</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mhd">MHD</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nlp">NLP</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mhd">MHD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nlp">NLP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1272,7 +1275,7 @@ A dataset of 68 pedestrian sequences recorded using a dashboard camera inside a 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1297,8 +1300,8 @@ A dataset of 68 pedestrian sequences recorded using a dashboard camera inside a 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1347,11 +1350,11 @@ A dataset of annotated poses and stereo pairs.
 <em>Datasets</em>
 <ul>
 <li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscape">Cityscape</a></li>
-
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#3d_movie">3D Movie</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_a-d_datasets.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1405,8 +1408,8 @@ A dataset containing 15 new 4K resolution ultra-high definition (UHD) video sequ
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1463,9 +1466,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1493,11 +1496,11 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
-<li><a href="../../metrics/video_metrics.md#fid">FID</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fid">FID</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1524,8 +1527,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1551,8 +1554,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1581,11 +1584,11 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1612,9 +1615,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
-<li><a href="../../metrics/video_metrics.md#iou">IoU</a></li>
-<li><a href="../../metrics/video_metrics.md#csim">CSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#iou">IoU</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_a-d_datasets.md#csim">CSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1640,9 +1643,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1669,11 +1672,11 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
-<li><a href="../../metrics/video_metrics.md#human">Human</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1698,8 +1701,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video_metrics.md#is">IS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#is">IS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1727,10 +1730,10 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1756,8 +1759,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#ms-ssim">MS-SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ms-ssim">MS-SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1786,9 +1789,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1814,8 +1817,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1842,9 +1845,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1872,8 +1875,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1900,9 +1903,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1929,8 +1932,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1958,9 +1961,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1987,8 +1990,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2016,9 +2019,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2045,8 +2048,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2072,7 +2075,7 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2098,8 +2101,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2125,8 +2128,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2152,8 +2155,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2180,8 +2183,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2208,7 +2211,7 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2233,9 +2236,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minmsd">minMSD</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#meanmsd">meanMSD</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ce">CE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minmsd">minMSD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#meanmsd">meanMSD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ce">CE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2261,10 +2264,10 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ed">ED</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mined">minED</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#maxd">maxD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mined">minED</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#maxd">maxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2291,9 +2294,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#absrel">AbsRel</a></li>
-<li><a href="../../metrics/other_metrics.md#l1">L1</a></li>
-<li><a href="../../metrics/other_metrics.md#nfe">NFE</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_a-d_datasets.md#absrel">AbsRel</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#l1">L1</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#nfe">NFE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2319,8 +2322,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#cd">CD</a></li>
-<li><a href="../../metrics/other_metrics.md#emd">EMD</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_a-d_datasets.md#cd">CD</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_e-i_datasets.md#emd">EMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2345,7 +2348,7 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_a-d_datasets.md#cd">CD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2370,10 +2373,10 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#run_time">Run Time</a></li>
-<li><a href="../../metrics/other_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/other_metrics.md#tp">TP</a></li>
-<li><a href="../../metrics/other_metrics.md#tn">TN</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#tp">TP</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#tn">TN</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2398,7 +2401,7 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_e-i_datasets.md#f1">F1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2454,9 +2457,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2484,11 +2487,11 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
-<li><a href="../../metrics/video_metrics.md#fid">FID</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fid">FID</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2514,8 +2517,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2544,9 +2547,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2573,9 +2576,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2600,8 +2603,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2628,8 +2631,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2657,8 +2660,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2684,8 +2687,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2712,9 +2715,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2741,9 +2744,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2770,8 +2773,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2799,9 +2802,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2831,7 +2834,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2859,9 +2862,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2887,8 +2890,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#is">IS</a></li>
-<li><a href="../../metrics/video_metrics.md#mmd">MMD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#is">IS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mmd">MMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2915,8 +2918,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2944,7 +2947,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2971,7 +2974,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2997,7 +3000,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3024,7 +3027,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3051,7 +3054,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3078,7 +3081,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3107,8 +3110,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3135,7 +3138,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3162,7 +3165,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3188,7 +3191,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3215,7 +3218,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3242,7 +3245,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3268,9 +3271,9 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#map">mAP</a></li>
-<li><a href="../../metrics/action_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#map">mAP</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3296,7 +3299,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3323,7 +3326,7 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3378,8 +3381,8 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3407,9 +3410,9 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3435,8 +3438,8 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3461,8 +3464,8 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3489,8 +3492,8 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ed">ED</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3516,8 +3519,8 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/other_metrics.md#mae">MAE</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3571,7 +3574,7 @@ A dataset of human interactions with 400 video clips capturing 8 different inter
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3598,7 +3601,7 @@ A dataset of human interactions with 400 video clips capturing 8 different inter
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3625,7 +3628,7 @@ A dataset of human interactions with 400 video clips capturing 8 different inter
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3651,7 +3654,7 @@ A dataset of human interactions with 400 video clips capturing 8 different inter
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3705,9 +3708,9 @@ A dataset of 65 cooking activities with 5.5K+ video clips recorded from 12 subje
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#recall">Recall</a></li>
-<li><a href="../../metrics/action_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3733,10 +3736,10 @@ A dataset of 65 cooking activities with 5.5K+ video clips recorded from 12 subje
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#recall">Recall</a></li>
-<li><a href="../../metrics/action_metrics.md#precision">Precision</a></li>
-<li><a href="../../metrics/action_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3761,7 +3764,7 @@ A dataset of 65 cooking activities with 5.5K+ video clips recorded from 12 subje
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3814,7 +3817,7 @@ A dataset of 10 basic actions, e.g. throwing, pushing, pulling, each performed b
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3841,7 +3844,7 @@ A dataset of 10 basic actions, e.g. throwing, pushing, pulling, each performed b
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#mje">MJE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#mje">MJE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3895,7 +3898,7 @@ A large-scale dataset of smiles with 1240 video clips with both spontaneous and 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3949,7 +3952,7 @@ A dataset of 8 dyadic human interactions, e.g. approaching, departing, pushing, 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4001,7 +4004,7 @@ A dataset of 16 activities, such as writing on a paper, using a laptop, using a 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4053,7 +4056,7 @@ An object manipulation action dataset with 8 different manipulation actions perf
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#pp">PP</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#pp">PP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4106,7 +4109,7 @@ An egocentric dataset of 17 cooking activity videos performed by 14 subjects
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4163,11 +4166,11 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4193,8 +4196,8 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4220,9 +4223,9 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mane">MAnE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4248,8 +4251,8 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#scr">SCR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#scr">SCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4302,10 +4305,10 @@ A multiview dataset of 12 events, such as a person loading an object to a vehicl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#recall">Recall</a></li>
-<li><a href="../../metrics/action_metrics.md#precision">Precision</a></li>
-<li><a href="../../metrics/action_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4330,9 +4333,9 @@ A multiview dataset of 12 events, such as a person loading an object to a vehicl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4385,7 +4388,7 @@ A dataset of 6.8K+ video clips of 51 actions corresponding to general facial act
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4412,7 +4415,7 @@ A dataset of 6.8K+ video clips of 51 actions corresponding to general facial act
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4468,8 +4471,8 @@ A dataset of 40 actions with 9.5K+ RGB images and the corresponding bounding box
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4521,10 +4524,10 @@ A dataset of LIDAR scans and IMU readings with the corresponding images collecte
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#precision">Precision</a></li>
-<li><a href="../../metrics/other_metrics.md#recall">Recall</a></li>
-<li><a href="../../metrics/other_metrics.md#auc">AUC</a></li>
-<li><a href="../../metrics/other_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_a-d_datasets.md#auc">AUC</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4576,15 +4579,15 @@ A dataset of 400K frames (36 sequences) recorded at 50 FPS with 4 cameras using 
 <em>Datasets</em>
 <ul>
 <li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
 <li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mupots-3d">MuPoTS-3D</a></li>
 <li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#umpm">UMPM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../../metrics/motion_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/motion_metrics.md#mape">MAPE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#mpjpe">MPJPE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#mape">MAPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4639,7 +4642,7 @@ A dataset of 6 human-human interactions, such as shaking hands, hugging, with 20
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4666,7 +4669,7 @@ A dataset of 6 human-human interactions, such as shaking hands, hugging, with 20
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4693,7 +4696,7 @@ A dataset of 6 human-human interactions, such as shaking hands, hugging, with 20
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4720,7 +4723,7 @@ A dataset of 6 human-human interactions, such as shaking hands, hugging, with 20
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4746,7 +4749,7 @@ A dataset of 6 human-human interactions, such as shaking hands, hugging, with 20
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4772,7 +4775,7 @@ A dataset of 6 human-human interactions, such as shaking hands, hugging, with 20
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4797,8 +4800,8 @@ A dataset of 6 human-human interactions, such as shaking hands, hugging, with 20
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#mrr">MRR</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#mrr">MRR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4853,11 +4856,11 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/motion_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/motion_metrics.md#apd">APD</a></li>
-<li><a href="../../metrics/motion_metrics.md#mmade">MMADE</a></li>
-<li><a href="../../metrics/motion_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#apd">APD</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#mmade">MMADE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#mmfde">MMFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4883,13 +4886,13 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/motion_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/motion_metrics.md#apd">APD</a></li>
-<li><a href="../../metrics/motion_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/motion_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/motion_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/motion_metrics.md#sde">sDE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#apd">APD</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#sde">sDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4911,15 +4914,15 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 <em>Datasets</em>
 <ul>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
 <li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#amass">AMASS</a></li>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#humaneva-i">HumanEva-I</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/motion_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/motion_metrics.md#mmade">MMADE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#mmade">MMADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4945,9 +4948,9 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/motion_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/motion_metrics.md#apd">APD</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#apd">APD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4973,11 +4976,11 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/motion_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/motion_metrics.md#apd">APD</a></li>
-<li><a href="../../metrics/motion_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/motion_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#apd">APD</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#minade">minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5003,9 +5006,9 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/motion_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/motion_metrics.md#apd">APD</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#apd">APD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5031,11 +5034,11 @@ A dataset of 6 common actions, e.g. walking, jogging, recorded from 4 subjects i
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/motion_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/motion_metrics.md#apd">APD</a></li>
-<li><a href="../../metrics/motion_metrics.md#mmade">MMADE</a></li>
-<li><a href="../../metrics/motion_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#apd">APD</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#mmade">MMADE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#mmfde">MMFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5092,7 +5095,7 @@ A dataset of 300 video clips collected from 20+ different TV shows containing 4 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5118,7 +5121,7 @@ A dataset of 300 video clips collected from 20+ different TV shows containing 4 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5143,7 +5146,7 @@ A dataset of 300 video clips collected from 20+ different TV shows containing 4 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5170,8 +5173,8 @@ A dataset of 300 video clips collected from 20+ different TV shows containing 4 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#map">mAP</a></li>
-<li><a href="../../metrics/action_metrics.md#cap">cAP</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#map">mAP</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#cap">cAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5197,7 +5200,7 @@ A dataset of 300 video clips collected from 20+ different TV shows containing 4 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5253,10 +5256,10 @@ A dataset of GPS data collected from 10K+ taxis in Beijing with a sampling rate 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video_metrics.md#mae">MAE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5284,9 +5287,9 @@ A dataset of GPS data collected from 10K+ taxis in Beijing with a sampling rate 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video_metrics.md#mae">MAE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5314,9 +5317,9 @@ A dataset of GPS data collected from 10K+ taxis in Beijing with a sampling rate 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5344,9 +5347,9 @@ A dataset of GPS data collected from 10K+ taxis in Beijing with a sampling rate 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video_metrics.md#mae">MAE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5403,8 +5406,8 @@ A dataset of 7 actions, e.g. riding a bike, riding a horse, running, depicted in
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5460,7 +5463,7 @@ A repository of various surveillance footage of pedestrians in indoor and outdoo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5519,7 +5522,7 @@ A dataset of 4K+ frames for tracking objects in the presences of camera motion
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5572,8 +5575,8 @@ A dataset of 86 human subjects performing 6 types of basic expressions including
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5627,8 +5630,8 @@ A dataset 20 actions, such as high arm wave, horizontal arm wave, hammer, forwar
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5680,7 +5683,7 @@ A dataset of 3.5 hours of driving with the corresponding steering angle computed
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#mae">MAE</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5725,6 +5728,36 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
+<summary><em>Ivanovic et al., "Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning", ICRA, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10161155>paper</a> <a href=https://arxiv.org/pdf/2209.11820.pdf>arxiv</a> <a href=https://github.com/ NVlabs/adaptive-prediction.>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#ece">ECE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ivanovic_2023_ICRA,
+    author = "Ivanovic, Boris and Harrison, James and Pavone, Marco",
+    title = "Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Chen et al., "Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction", CVPR, 2023.</em> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Unsupervised_Sampling_Promoting_for_Stochastic_Human_Trajectory_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2304.04298.pdf>arxiv</a> <a href=https://github.com/viewsetting/Unsupervised_sampling_promoting>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -5734,8 +5767,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5764,9 +5797,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5793,10 +5826,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5825,8 +5858,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5854,8 +5887,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5882,10 +5915,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcr">TCR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5912,8 +5945,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5940,8 +5973,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5968,10 +6001,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#b-minade">b-minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#b-minade">b-minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5998,11 +6031,11 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minjointade">minJointADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#cd">CD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6029,7 +6062,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6056,8 +6089,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6066,36 +6099,6 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
     author = "Bagi, Shayan Shirahmad Gale and Gharaee, Zahra and Schulte, Oliver and Crowley, Mark",
     title = "Generative Causal Representation Learning for Out-of-Distribution Motion Forecasting",
     booktitle = "ICML",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Ivanovic et al., "Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning", ICRA, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10161155>paper</a> <a href=https://arxiv.org/pdf/2209.11820.pdf>arxiv</a> <a href=https://github.com/ NVlabs/adaptive-prediction.>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ece">ECE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ivanovic_2023_ICRA,
-    author = "Ivanovic, Boris and Harrison, James and Pavone, Marco",
-    title = "Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning",
-    booktitle = "ICRA",
     year = "2023"
 }
 </pre>
@@ -6114,9 +6117,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6143,8 +6146,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6171,8 +6174,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6198,8 +6201,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6227,8 +6230,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6256,8 +6259,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6284,8 +6287,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6312,8 +6315,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6339,8 +6342,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6367,10 +6370,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcr">TCR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6400,8 +6403,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6427,11 +6430,11 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#kde">KDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#amd">AMD</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#amv">AMV</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#kde">KDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#amd">AMD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#amv">AMV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6458,8 +6461,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6486,8 +6489,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6515,9 +6518,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6544,8 +6547,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6573,8 +6576,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6602,9 +6605,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6630,8 +6633,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6658,9 +6661,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#deltaesv">DeltaESV</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#deltaesv">DeltaESV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6686,8 +6689,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6714,8 +6717,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6741,8 +6744,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6771,8 +6774,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6799,8 +6802,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6826,8 +6829,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6853,8 +6856,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6880,8 +6883,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6907,8 +6910,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6934,8 +6937,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6961,8 +6964,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6990,8 +6993,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7017,8 +7020,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7044,8 +7047,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7072,8 +7075,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7100,8 +7103,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7127,8 +7130,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7154,8 +7157,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7181,10 +7184,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7211,10 +7214,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7244,9 +7247,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7277,10 +7280,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7309,8 +7312,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7340,10 +7343,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7369,8 +7372,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7397,8 +7400,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7423,9 +7426,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ppei">PPEI</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#ppei">PPEI</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7451,8 +7454,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7478,8 +7481,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7508,12 +7511,12 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7542,8 +7545,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#fiou">FIoU</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#miou">MIoU</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#miou">MIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7569,8 +7572,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7596,8 +7599,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7625,13 +7628,13 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#dac">DAC</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#wsfde">WSFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#wsade">WSADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#wsfde">WSFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#wsade">WSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7658,8 +7661,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7685,8 +7688,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7712,8 +7715,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7739,8 +7742,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7766,8 +7769,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7793,8 +7796,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7821,8 +7824,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7849,11 +7852,11 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7880,9 +7883,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7908,10 +7911,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7942,7 +7945,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7969,8 +7972,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7997,11 +8000,11 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mc">MC</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#f">F</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mc">MC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#f">F</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8028,8 +8031,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8055,10 +8058,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8085,8 +8088,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8114,9 +8117,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mhd">MHD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mhd">MHD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8145,8 +8148,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8175,10 +8178,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8207,8 +8210,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8237,11 +8240,11 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#maxd">MaxD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#maxd">MaxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8268,8 +8271,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8296,10 +8299,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8325,8 +8328,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8352,8 +8355,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8381,9 +8384,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8410,8 +8413,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8437,8 +8440,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8464,11 +8467,11 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8494,10 +8497,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8523,9 +8526,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8553,8 +8556,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8580,8 +8583,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8609,8 +8612,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8636,10 +8639,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8667,9 +8670,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8695,8 +8698,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8722,7 +8725,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8748,8 +8751,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8775,8 +8778,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8802,9 +8805,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8831,7 +8834,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8857,9 +8860,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#f1">F1</a></li>
-<li><a href="../../metrics/other_metrics.md#precision">Precision</a></li>
-<li><a href="../../metrics/other_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_e-i_datasets.md#f1">F1</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8918,10 +8921,10 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video_metrics.md#mae">MAE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8948,8 +8951,8 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8978,11 +8981,11 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9010,10 +9013,10 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9042,9 +9045,9 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9070,8 +9073,8 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9098,9 +9101,9 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9127,9 +9130,9 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9157,8 +9160,8 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9185,9 +9188,9 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9213,10 +9216,10 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video_metrics.md#l1">L1</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#l1">L1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9244,9 +9247,9 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9273,8 +9276,8 @@ A pedestrian detection dataset with 2.3K unique samples with approx. 10 hours of
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9327,8 +9330,8 @@ A collection of color video clips with different subjects and resolutions
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9355,9 +9358,9 @@ A collection of color video clips with different subjects and resolutions
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9384,9 +9387,9 @@ A collection of color video clips with different subjects and resolutions
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9438,7 +9441,7 @@ A dataset of 92K+ trajectories recorded with a top-down view camera capturing pe
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9464,8 +9467,8 @@ A dataset of 92K+ trajectories recorded with a top-down view camera capturing pe
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9518,7 +9521,7 @@ A dataset of 40+ video clips showing collective activities including  crossing, 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9544,7 +9547,7 @@ A dataset of 40+ video clips showing collective activities including  crossing, 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9596,7 +9599,7 @@ A dataset of multiview video and multimodal sensor recordings of common activiti
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9649,8 +9652,8 @@ A dataset of surveillance footage of road traffic  with 90K+ frames recorded at 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9705,8 +9708,8 @@ A dataset of crowd activities, e.g. walking, running, evacuation (rapid dispersi
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9758,11 +9761,11 @@ A dataset of 20 videos, each with approx. 400 frames, of different football matc
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mhd">MHD</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#kld">KLD</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#dtg">DtG</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mhd">MHD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#kld">KLD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#dtg">DtG</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9817,10 +9820,10 @@ A dataset 150 sequences with the resolution of 720 x 480 depicting 10 sport acti
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9847,8 +9850,8 @@ A dataset 150 sequences with the resolution of 720 x 480 depicting 10 sport acti
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9901,8 +9904,8 @@ A dataset of 40K+ trajectories recorded from a parking lot for five days
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ed">ED</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9956,8 +9959,8 @@ A grayscale dataset of 70K+ pedestrian samples recorded during the course of 27 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10014,7 +10017,7 @@ A dataset of 80 synthetic objects (animals and humans) with corresponding poses
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#cma">CMA</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#cma">CMA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10059,6 +10062,36 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
+<summary><em>Ivanovic et al., "Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning", ICRA, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10161155>paper</a> <a href=https://arxiv.org/pdf/2209.11820.pdf>arxiv</a> <a href=https://github.com/ NVlabs/adaptive-prediction.>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#ece">ECE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ivanovic_2023_ICRA,
+    author = "Ivanovic, Boris and Harrison, James and Pavone, Marco",
+    title = "Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Chen et al., "Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction", CVPR, 2023.</em> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Unsupervised_Sampling_Promoting_for_Stochastic_Human_Trajectory_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2304.04298.pdf>arxiv</a> <a href=https://github.com/viewsetting/Unsupervised_sampling_promoting>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -10068,8 +10101,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10098,9 +10131,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10127,10 +10160,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10159,8 +10192,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10188,8 +10221,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10216,10 +10249,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcr">TCR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10246,8 +10279,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10274,8 +10307,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10302,10 +10335,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#b-minade">b-minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#b-minade">b-minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10332,11 +10365,11 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minjointade">minJointADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#cd">CD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10363,7 +10396,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10390,8 +10423,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10400,36 +10433,6 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
     author = "Bagi, Shayan Shirahmad Gale and Gharaee, Zahra and Schulte, Oliver and Crowley, Mark",
     title = "Generative Causal Representation Learning for Out-of-Distribution Motion Forecasting",
     booktitle = "ICML",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Ivanovic et al., "Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning", ICRA, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10161155>paper</a> <a href=https://arxiv.org/pdf/2209.11820.pdf>arxiv</a> <a href=https://github.com/ NVlabs/adaptive-prediction.>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ece">ECE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ivanovic_2023_ICRA,
-    author = "Ivanovic, Boris and Harrison, James and Pavone, Marco",
-    title = "Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning",
-    booktitle = "ICRA",
     year = "2023"
 }
 </pre>
@@ -10448,9 +10451,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10477,8 +10480,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10505,8 +10508,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10532,8 +10535,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10561,8 +10564,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10590,8 +10593,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10618,8 +10621,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10646,8 +10649,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10673,8 +10676,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10701,10 +10704,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcr">TCR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10734,8 +10737,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10761,11 +10764,11 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#kde">KDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#amd">AMD</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#amv">AMV</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#kde">KDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#amd">AMD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#amv">AMV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10792,8 +10795,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10820,8 +10823,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10849,9 +10852,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10878,8 +10881,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10907,8 +10910,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10936,9 +10939,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10964,8 +10967,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10992,9 +10995,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#deltaesv">DeltaESV</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#deltaesv">DeltaESV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11020,8 +11023,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11048,8 +11051,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11075,8 +11078,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11105,8 +11108,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11133,8 +11136,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11160,8 +11163,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11187,8 +11190,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11214,8 +11217,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11241,8 +11244,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11268,8 +11271,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11295,8 +11298,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11324,8 +11327,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11351,8 +11354,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11378,8 +11381,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11406,8 +11409,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11434,8 +11437,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11461,8 +11464,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11488,8 +11491,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11515,10 +11518,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11545,10 +11548,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11578,9 +11581,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11611,10 +11614,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11643,8 +11646,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11674,10 +11677,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11703,8 +11706,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11731,8 +11734,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11758,8 +11761,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11785,8 +11788,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11815,12 +11818,12 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11849,8 +11852,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#fiou">FIoU</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#miou">MIoU</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#miou">MIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11876,8 +11879,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11903,8 +11906,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11932,13 +11935,13 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#dac">DAC</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#wsfde">WSFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#wsade">WSADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#wsfde">WSFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#wsade">WSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11965,8 +11968,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11992,8 +11995,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12019,8 +12022,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12046,8 +12049,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12073,8 +12076,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12100,8 +12103,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12128,8 +12131,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12156,11 +12159,11 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12187,9 +12190,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12215,10 +12218,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12249,7 +12252,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12276,8 +12279,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12304,11 +12307,11 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mc">MC</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#f">F</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mc">MC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#f">F</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12335,8 +12338,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12362,10 +12365,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12392,8 +12395,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12421,9 +12424,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mhd">MHD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mhd">MHD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12452,8 +12455,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12482,10 +12485,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12514,8 +12517,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12544,11 +12547,11 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#maxd">MaxD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#maxd">MaxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12575,8 +12578,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12603,10 +12606,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12632,8 +12635,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12659,8 +12662,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12688,9 +12691,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12717,8 +12720,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12744,8 +12747,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12771,11 +12774,11 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12801,7 +12804,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ll">LL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#ll">LL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12827,10 +12830,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12856,9 +12859,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12886,8 +12889,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12913,8 +12916,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12942,8 +12945,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12969,10 +12972,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12998,8 +13001,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13027,9 +13030,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13055,8 +13058,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13083,8 +13086,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13110,9 +13113,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mane">MAnE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13138,8 +13141,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13164,7 +13167,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13190,8 +13193,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#scr">SCR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#scr">SCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13217,9 +13220,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13245,7 +13248,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13273,7 +13276,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13299,9 +13302,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#f1">F1</a></li>
-<li><a href="../../metrics/other_metrics.md#precision">Precision</a></li>
-<li><a href="../../metrics/other_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_e-i_datasets.md#f1">F1</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13359,9 +13362,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#recall">Recall</a></li>
-<li><a href="../../metrics/action_metrics.md#precision">Precision</a></li>
-<li><a href="../../metrics/action_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_e-i_datasets.md#f1">F1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13389,9 +13392,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#recall">Recall</a></li>
-<li><a href="../../metrics/action_metrics.md#precision">Precision</a></li>
-<li><a href="../../metrics/action_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_e-i_datasets.md#f1">F1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13416,10 +13419,10 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#recall">Recall</a></li>
-<li><a href="../../metrics/action_metrics.md#precision">Precision</a></li>
-<li><a href="../../metrics/action_metrics.md#ttm">TTM</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_j-z_datasets.md#ttm">TTM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13444,7 +13447,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13471,8 +13474,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13497,8 +13500,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13524,9 +13527,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tn">TN</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tp">TP</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tn">TN</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tp">TP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13553,8 +13556,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13580,9 +13583,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#qde">QDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#qde">QDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13615,9 +13618,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13646,7 +13649,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13672,8 +13675,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13704,7 +13707,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13730,10 +13733,10 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13759,7 +13762,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13786,9 +13789,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13813,7 +13816,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13838,8 +13841,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13870,8 +13873,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13899,8 +13902,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13926,8 +13929,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13955,9 +13958,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13984,8 +13987,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14011,7 +14014,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ll">LL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#ll">LL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14038,11 +14041,11 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minmde">minMDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#minmde">minMDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14067,7 +14070,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14092,7 +14095,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14117,8 +14120,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ll">LL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#kld">KLD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#ll">LL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#kld">KLD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14143,7 +14146,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14168,7 +14171,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14224,9 +14227,9 @@ A dataset of vehicle trajectories containing 30 minutes of data recorded at Lank
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#al">AL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#al">AL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14252,8 +14255,8 @@ A dataset of vehicle trajectories containing 30 minutes of data recorded at Lank
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14307,8 +14310,8 @@ A dataset of pedestrians recorded using a mobile platform with 5K+ frames span o
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/<built-in method lower of str object at 0x106fba730>_alphabeticalaction_a-d_datasets.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14333,8 +14336,8 @@ A dataset of pedestrians recorded using a mobile platform with 5K+ frames span o
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x106fbad30>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14386,7 +14389,7 @@ A dataset of 17M+ images captured every half hour during a period of 6 months fr
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14438,7 +14441,7 @@ A motion capture dataset that contains 70+ motion classes in 10 to 50 realizatio
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#mje">MJE</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_j-z_datasets.md#mje">MJE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14496,7 +14499,7 @@ A dataset of wide-angle images of the sky with the corresponding temperature rec
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#nmape">nMAPE</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#nmape">nMAPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14553,7 +14556,7 @@ A datasets of 71 meshes of a person in different poses
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion_metrics.md#cma">CMA</a></li>
+<li><a href="../../metrics/motion/<built-in method lower of str object at 0x1100477f0>_alphabeticalmotion_a-d_datasets.md#cma">CMA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14608,8 +14611,8 @@ A dataset of actions in RGB video sequence with corresponding binary masks and a
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14665,11 +14668,11 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
-<li><a href="../../metrics/video_metrics.md#fid">FID</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fid">FID</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14695,10 +14698,10 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
-<li><a href="../../metrics/video_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14725,10 +14728,10 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14757,10 +14760,10 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video_metrics.md#mae">MAE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14788,10 +14791,10 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14818,10 +14821,10 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14848,9 +14851,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14877,10 +14880,10 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14908,10 +14911,10 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14937,8 +14940,8 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14966,10 +14969,10 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14997,8 +15000,8 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15024,8 +15027,8 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15052,8 +15055,8 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15078,9 +15081,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video_metrics.md#human">Human</a></li>
-<li><a href="../../metrics/video_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_e-i_datasets.md#human">Human</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15107,9 +15110,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15136,8 +15139,8 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15164,8 +15167,8 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15191,9 +15194,9 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x105371ef0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15249,7 +15252,7 @@ A dataset of wide-angle images of the sky with the corresponding temperature rec
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other_metrics.md#nmape">nMAPE</a></li>
+<li><a href="../../metrics/other/<built-in method lower of str object at 0x11005fcf0>_alphabeticalother_j-z_datasets.md#nmape">nMAPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>

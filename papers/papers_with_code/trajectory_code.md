@@ -1,13 +1,163 @@
 <a name=top></a>
 ---
-<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Papers</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../datasets/datasets.md#top><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics/metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Papers</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../datasets.md#top><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---
 [Home](../papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Video](../video/video_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](../action/action_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Trajectory](../trajectory/trajectory_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](../motion/motion_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](../other/other_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Papers with code&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 [Video](video_code.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](action_code.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Trajectory&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](motion_code.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_code.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 <h2>Trajectory Papers with Code</h2> 
-<ul><a name=Chen_2023_CVPR/>
+<ul><a name=Cui_2023_ICRA/>
+<details close>
+<summary><strong><em>Cui et al., "GoRela: Go Relative for Viewpoint-Invariant Motion Forecasting", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160984>paper</a> <a href=https://arxiv.org/pdf/2211.02545.pdf>arxiv</a> <a href=https://waabi.ai/research/go-relative-for-viewpoint-invariant-motion-forecasting>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#highwaysim">HighwaySim</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#cte">CTE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ate">ATE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Cui_2023_ICRA,
+    author = "Cui, Alexander and Casas, Sergio and Wong, Kelvin and Suo, Simon and Urtasun, Raquel",
+    title = "GoRela: Go Relative for Viewpoint-Invariant Motion Forecasting",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Ivanovic_2023_ICRA/>
+<details close>
+<summary><strong><em>Ivanovic et al., "Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161155>paper</a> <a href=https://arxiv.org/pdf/2209.11820.pdf>arxiv</a> <a href=https://github.com/ NVlabs/adaptive-prediction.>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#ece">ECE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ivanovic_2023_ICRA,
+    author = "Ivanovic, Boris and Harrison, James and Pavone, Marco",
+    title = "Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Mahdavian_2023_ICRA/>
+<details close>
+<summary><strong><em>Mahdavian et al., "STPOTR: Simultaneous Human Trajectory and Pose Prediction Using a Non-Autoregressive Transformer for Robot Follow-Ahead", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160538>paper</a> <a href=https://arxiv.org/pdf/2209.07600.pdf>arxiv</a> <a href=https://github.com/mmahdavian/STPOTR>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mahdavian_2023_ICRA,
+    author = "Mahdavian, Mohammad and Nikdel, Payam and TaherAhmadi, Mahdi and Chen, Mo",
+    title = "STPOTR: Simultaneous Human Trajectory and Pose Prediction Using a Non-Autoregressive Transformer for Robot Follow-Ahead",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Pini_2023_ICRA/>
+<details close>
+<summary><strong><em>Pini et al., "Safe Real-World Autonomous Driving by Learning to Predict and Plan with a Mixture of Experts", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160992>paper</a> <a href=https://arxiv.org/pdf/2211.02131.pdf>arxiv</a> <a href=https://wp-research-uk.github.io/safepathnet/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Pini_2023_ICRA,
+    author = "Pini, Stefano and Perone, Christian S. and Ahuja, Aayush and Ferreira, Ana Sofia Rufino and Niendorf, Moritz and Zagoruyko, Sergey",
+    title = "Safe Real-World Autonomous Driving by Learning to Predict and Plan with a Mixture of Experts",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Schmidt_2023_ICRA/>
+<details close>
+<summary><strong><em>Schmidt et al., "Exploring Navigation Maps for Learning-Based Motion Prediction", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160989>paper</a> <a href=https://arxiv.org/pdf/2302.06195.pdf>arxiv</a> <a href=https://github.com/schmidt-ju/argoverse-navmap>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Schmidt_2023_ICRA,
+    author = "Schmidt, Julian and Jordan, Julian and Gritschneder, Franz and Monninger, Thomas and Dietmayer, Klaus",
+    title = "Exploring Navigation Maps for Learning-Based Motion Prediction",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Chen_2023_CVPR/>
 <details close>
 <summary><strong><em>Chen et al., "Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Unsupervised_Sampling_Promoting_for_Stochastic_Human_Trajectory_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2304.04298.pdf>arxiv</a> <a href=https://github.com/viewsetting/Unsupervised_sampling_promoting>code</a></summary>
 <ul>
@@ -18,8 +168,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -46,8 +196,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#iou">IoU</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#vpq">VPQ</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#iou">IoU</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#vpq">VPQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -74,10 +224,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#epa">EPA</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#epa">EPA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -108,9 +258,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -138,14 +288,14 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#scr">SCR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#smr">SMR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#iminfde">iminFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#iminade">iminADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#cmr">CMR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#cross-col">Cross-Col</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#scr">SCR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#smr">SMR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#iminfde">iminFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#iminade">iminADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#cmr">CMR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#cross-col">Cross-Col</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -176,8 +326,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -204,9 +354,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -234,11 +384,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -267,10 +417,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcr">TCR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -299,11 +449,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -331,10 +481,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -361,9 +511,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -390,8 +540,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#l2">L2</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#l2">L2</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -420,8 +570,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -450,11 +600,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minjointade">minJointADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#cd">CD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -481,10 +631,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#maps">mAPs</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#maps">mAPs</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -493,156 +643,6 @@ ___
     author = "Yan, Zhijie and Li, Pengfei and Fu, Zheng and Xu, Shaocong and Shi, Yongliang and Chen, Xiaoxue and Zheng, Yuhang and Li, Yang and Liu, Tianyu and Li, Chuxuan and Luo, Nairui and Gao, Xu and Chen, Yilun and Wang, Zuoxu and Shi, Yifeng and Huang, Pengfei and Han, Zhengxiao and Yuan, Jirui and Gong, Jiangtao and Zhou, Guyue and Zhao, Hang and Zhao, Hao",
     title = "INT2: Interactive Trajectory Prediction at Intersections",
     booktitle = "ICCV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-
-<a name=Cui_2023_ICRA/>
-<details close>
-<summary><strong><em>Cui et al., "GoRela: Go Relative for Viewpoint-Invariant Motion Forecasting", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160984>paper</a> <a href=https://arxiv.org/pdf/2211.02545.pdf>arxiv</a> <a href=https://waabi.ai/research/go-relative-for-viewpoint-invariant-motion-forecasting>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#highwaysim">HighwaySim</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#cte">CTE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ate">ATE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Cui_2023_ICRA,
-    author = "Cui, Alexander and Casas, Sergio and Wong, Kelvin and Suo, Simon and Urtasun, Raquel",
-    title = "GoRela: Go Relative for Viewpoint-Invariant Motion Forecasting",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-
-<a name=Ivanovic_2023_ICRA/>
-<details close>
-<summary><strong><em>Ivanovic et al., "Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161155>paper</a> <a href=https://arxiv.org/pdf/2209.11820.pdf>arxiv</a> <a href=https://github.com/ NVlabs/adaptive-prediction.>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ece">ECE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ivanovic_2023_ICRA,
-    author = "Ivanovic, Boris and Harrison, James and Pavone, Marco",
-    title = "Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-
-<a name=Mahdavian_2023_ICRA/>
-<details close>
-<summary><strong><em>Mahdavian et al., "STPOTR: Simultaneous Human Trajectory and Pose Prediction Using a Non-Autoregressive Transformer for Robot Follow-Ahead", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160538>paper</a> <a href=https://arxiv.org/pdf/2209.07600.pdf>arxiv</a> <a href=https://github.com/mmahdavian/STPOTR>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mahdavian_2023_ICRA,
-    author = "Mahdavian, Mohammad and Nikdel, Payam and TaherAhmadi, Mahdi and Chen, Mo",
-    title = "STPOTR: Simultaneous Human Trajectory and Pose Prediction Using a Non-Autoregressive Transformer for Robot Follow-Ahead",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-
-<a name=Pini_2023_ICRA/>
-<details close>
-<summary><strong><em>Pini et al., "Safe Real-World Autonomous Driving by Learning to Predict and Plan with a Mixture of Experts", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160992>paper</a> <a href=https://arxiv.org/pdf/2211.02131.pdf>arxiv</a> <a href=https://wp-research-uk.github.io/safepathnet/>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Pini_2023_ICRA,
-    author = "Pini, Stefano and Perone, Christian S. and Ahuja, Aayush and Ferreira, Ana Sofia Rufino and Niendorf, Moritz and Zagoruyko, Sergey",
-    title = "Safe Real-World Autonomous Driving by Learning to Predict and Plan with a Mixture of Experts",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-
-<a name=Schmidt_2023_ICRA/>
-<details close>
-<summary><strong><em>Schmidt et al., "Exploring Navigation Maps for Learning-Based Motion Prediction", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160989>paper</a> <a href=https://arxiv.org/pdf/2302.06195.pdf>arxiv</a> <a href=https://github.com/schmidt-ju/argoverse-navmap>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Schmidt_2023_ICRA,
-    author = "Schmidt, Julian and Jordan, Julian and Gritschneder, Franz and Monninger, Thomas and Dietmayer, Klaus",
-    title = "Exploring Navigation Maps for Learning-Based Motion Prediction",
-    booktitle = "ICRA",
     year = "2023"
 }
 </pre>
@@ -663,11 +663,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minsfde">minSFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minsade">minSADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#or">OR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minsfde">minSFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minsade">minSADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#or">OR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -696,9 +696,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -725,8 +725,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#sor">SOR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#hor">HOR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#sor">SOR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#hor">HOR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -755,8 +755,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -785,8 +785,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -814,9 +814,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -843,9 +843,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ptu">PTU</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#ptu">PTU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -872,9 +872,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -901,8 +901,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -930,8 +930,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -961,8 +961,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -991,8 +991,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1019,9 +1019,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1048,7 +1048,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1077,8 +1077,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1105,9 +1105,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1136,10 +1136,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcr">TCR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1166,10 +1166,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1197,8 +1197,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1226,11 +1226,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#kde">KDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#amd">AMD</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#amv">AMV</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#kde">KDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#amd">AMD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#amv">AMV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1259,8 +1259,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1289,8 +1289,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1320,9 +1320,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1351,8 +1351,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1383,8 +1383,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1412,9 +1412,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1441,9 +1441,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1470,7 +1470,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1497,8 +1497,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1526,8 +1526,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1554,8 +1554,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#risk">Risk</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#risk">Risk</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1582,7 +1582,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1611,8 +1611,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1642,8 +1642,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1672,11 +1672,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#orr">ORR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#dac">DAC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1704,8 +1704,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1734,9 +1734,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#deltaesv">DeltaESV</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#deltaesv">DeltaESV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1763,8 +1763,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1792,9 +1792,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1823,8 +1823,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1852,9 +1852,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1881,9 +1881,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1911,7 +1911,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1939,8 +1939,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1968,8 +1968,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1997,8 +1997,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2025,10 +2025,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfsd">minFSD</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minasd">minASD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfsd">minFSD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minasd">minASD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2058,8 +2058,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2087,8 +2087,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2117,8 +2117,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2147,8 +2147,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2176,8 +2176,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2205,7 +2205,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#probability">Probability</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#probability">Probability</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2232,10 +2232,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2264,8 +2264,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2293,9 +2293,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#qde">QDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#qde">QDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2326,7 +2326,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#l2">L2</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#l2">L2</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2359,10 +2359,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2392,9 +2392,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#iou">IoU</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#bnace">BNACE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#inace">INACE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#iou">IoU</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#bnace">BNACE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#inace">INACE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2421,8 +2421,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mota">MOTA</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mota">MOTA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2453,12 +2453,12 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2489,11 +2489,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2521,8 +2521,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2551,8 +2551,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2582,9 +2582,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2612,8 +2612,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2641,10 +2641,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2671,7 +2671,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2700,8 +2700,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2730,8 +2730,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2759,12 +2759,12 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#meanfde">meanFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#meanade">meanADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#meanfde">meanFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#meanade">meanADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2793,11 +2793,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2830,7 +2830,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2860,11 +2860,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mc">MC</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#f">F</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mc">MC</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#f">F</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2891,10 +2891,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fiou">FIoU</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#aiou">AIoU</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#aiou">AIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2921,7 +2921,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2948,8 +2948,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2982,8 +2982,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3014,8 +3014,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3042,7 +3042,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3069,8 +3069,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3098,8 +3098,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3128,10 +3128,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3159,9 +3159,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#emd">EMD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#emd">EMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3189,8 +3189,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3218,11 +3218,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3250,8 +3250,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3279,8 +3279,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minmsd">minMSD</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#meanmsd">meanMSD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minmsd">minMSD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#meanmsd">meanMSD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3307,7 +3307,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3336,7 +3336,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3365,9 +3365,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3395,8 +3395,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3423,8 +3423,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3452,10 +3452,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3482,7 +3482,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3512,9 +3512,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3541,7 +3541,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3569,8 +3569,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3598,10 +3598,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#mr">MR</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ed">ED</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#mined">minED</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#maxd">maxD</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#mined">minED</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#maxd">maxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3628,9 +3628,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ll">LL</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#human">Human</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_j-z_datasets.md#ll">LL</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3658,9 +3658,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory_metrics.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/<built-in method lower of str object at 0x10287f930>_alphabeticaltrajectory_a-d_datasets.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
