@@ -20,11 +20,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -45,11 +45,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -70,11 +70,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#fm">FM</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#fm">FM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -100,9 +100,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -131,16 +131,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="trajectory_e-i_metrics.md#ece">ECE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ece">ECE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -161,12 +161,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -187,12 +187,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -213,16 +213,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="trajectory_e-i_metrics.md#frb">FRB</a></li>
-<li><a href="trajectory_a-d_metrics.md#arb">ARB</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#arb">ARB</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -243,13 +243,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="trajectory_a-d_metrics.md#amd">AMD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -270,16 +270,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -300,16 +300,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#md17">MD17</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#md17">MD17</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -330,13 +330,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nfl">NFL</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#omni-mot">Omni-MOT</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nfl">NFL</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#omni-mot">Omni-MOT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -357,12 +357,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#l2">L2</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l2">L2</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -383,14 +383,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -411,14 +411,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#crowdnav">CrowdNav</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#crowdnav">CrowdNav</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -439,11 +439,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#vdp-emc">VDP-EMC</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#vdp-emc">VDP-EMC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -464,12 +464,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -493,13 +493,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -520,13 +520,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -547,15 +547,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -576,14 +576,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -604,14 +604,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#mot">MOT</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mot">MOT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -632,14 +632,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#titan">TITAN</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#titan">TITAN</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -660,17 +660,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#ceilidh_dance">Ceilidh Dance</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#ceilidh_dance">Ceilidh Dance</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -691,14 +691,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -719,13 +719,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#highd">highD</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#ind">inD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#round">rounD</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#highd">highD</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#ind">inD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#round">rounD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -746,12 +746,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -772,14 +772,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -805,7 +805,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -831,7 +831,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -852,13 +852,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -887,9 +887,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -910,13 +910,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -937,14 +937,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#pup">PUP</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pup">PUP</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -965,14 +965,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#trajair">TrajAir</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#trajair">TrajAir</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -993,11 +993,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1018,18 +1018,18 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="trajectory_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l1">L1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1050,14 +1050,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1078,15 +1078,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1107,15 +1107,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_metrics.md#frb">FRB</a></li>
-<li><a href="trajectory_a-d_metrics.md#arb">ARB</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#arb">ARB</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1136,14 +1136,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1164,11 +1164,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1189,14 +1189,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1217,12 +1217,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1248,8 +1248,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1270,15 +1270,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1299,16 +1299,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1329,14 +1329,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#highd">highD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#highd">highD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="trajectory_j-z_metrics.md#qde">QDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#qde">QDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1360,18 +1360,18 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#charges">Charges</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#charges">Charges</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1395,17 +1395,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1429,13 +1429,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1459,16 +1459,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#usyd">USyd</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#usyd">USyd</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1489,14 +1489,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#virat/actev">VIRAT/ActEV</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat/actev">VIRAT/ActEV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1517,15 +1517,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1546,13 +1546,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#ppei">PPEI</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ppei">PPEI</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1573,13 +1573,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eilt">EILT</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eilt">EILT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="trajectory_j-z_metrics.md#miou">MIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#miou">MIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1600,13 +1600,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1627,13 +1627,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1654,16 +1654,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#thor">THOR</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#thor">THOR</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#al">AL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#al">AL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1684,12 +1684,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mota">MOTA</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mota">MOTA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1710,20 +1710,20 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#hev-i">HEV-I</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#hev-i">HEV-I</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1747,13 +1747,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1774,16 +1774,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1804,11 +1804,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1829,12 +1829,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#basketball">Basketball</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#basketball">Basketball</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1855,13 +1855,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1882,13 +1882,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1909,20 +1909,20 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#dac">DAC</a></li>
-<li><a href="trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#wsade">WSADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsade">WSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1943,14 +1943,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1971,14 +1971,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1999,14 +1999,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2027,14 +2027,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#titan">TITAN</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#titan">TITAN</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2055,13 +2055,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2082,14 +2082,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_a-d_metrics.md#bev_ap">BEV AP</a></li>
-<li><a href="trajectory_a-d_metrics.md#de">DE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bev_ap">BEV AP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#de">DE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2110,15 +2110,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#forking_paths">Forking Paths</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat/actev">VIRAT/ActEV</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#forking_paths">Forking Paths</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2139,15 +2139,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2168,15 +2168,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2197,12 +2197,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#volleyball">Volleyball</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#volleyball">Volleyball</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2223,13 +2223,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2250,17 +2250,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#meanade">meanADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2281,17 +2281,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2317,8 +2317,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2339,14 +2339,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2367,15 +2367,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2396,15 +2396,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2425,12 +2425,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2451,14 +2451,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2479,14 +2479,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#citywalks">CityWalks</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#citywalks">CityWalks</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="trajectory_a-d_metrics.md#aiou">AIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#aiou">AIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2507,15 +2507,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2536,14 +2536,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2564,14 +2564,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#fpl">FPL</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#citywalks">CityWalks</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#fpl">FPL</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#citywalks">CityWalks</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2592,14 +2592,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2620,15 +2620,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2649,14 +2649,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2682,8 +2682,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2704,14 +2704,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2735,15 +2735,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2767,16 +2767,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#usyd">USyd</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#vci">VCI</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#usyd">USyd</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#vci">VCI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2800,13 +2800,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2830,12 +2830,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2859,15 +2859,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2891,19 +2891,19 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#maxd">MaxD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">MaxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2924,11 +2924,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#otoh">OTOH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#otoh">OTOH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2949,13 +2949,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#maxd">MaxD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">MaxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2976,14 +2976,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3004,13 +3004,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#traf">TRAF</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#traf">TRAF</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3036,9 +3036,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#hit_rate">Hit Rate</a></li>
-<li><a href="trajectory_j-z_metrics.md#mined">minED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#hit_rate">Hit Rate</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mined">minED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3059,16 +3059,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#virat/actev">VIRAT/ActEV</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat/actev">VIRAT/ActEV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3089,13 +3089,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3116,14 +3116,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3144,14 +3144,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3172,16 +3172,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3202,13 +3202,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3229,15 +3229,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3258,11 +3258,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3288,7 +3288,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3309,11 +3309,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3334,13 +3334,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#hev-i">HEV-I</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#hev-i">HEV-I</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3361,14 +3361,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3389,11 +3389,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3414,13 +3414,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#oxford">Oxford</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#oxford">Oxford</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3441,15 +3441,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#hev-i">HEV-I</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#a3d">A3D</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#hev-i">HEV-I</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#a3d">A3D</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3475,7 +3475,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3496,13 +3496,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3528,10 +3528,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3557,10 +3557,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="trajectory_e-i_metrics.md#ece">ECE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ece">ECE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3581,13 +3581,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eifp">EIFP</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eifp">EIFP</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3608,15 +3608,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#pets2009">PETS2009</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3637,11 +3637,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#mot">MOT</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mot">MOT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3662,12 +3662,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#cityperson">CityPerson</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityperson">CityPerson</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3688,15 +3688,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3717,13 +3717,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#town_center">Town Center</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3744,12 +3744,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#ca">CA</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sbuki">SBUKI</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#ca">CA</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sbuki">SBUKI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3770,16 +3770,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#gc">GC</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#cuhk_avenue">CUHK Avenue</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#gc">GC</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cuhk_avenue">CUHK Avenue</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3800,13 +3800,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#btd">BTD</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#btd">BTD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_metrics.md#maxd">maxD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3827,14 +3827,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3855,13 +3855,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3883,13 +3883,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#strands">STRANDS</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#l-cas">L-CAS</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#strands">STRANDS</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#l-cas">L-CAS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_a-d_metrics.md#aede">AEDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#aede">AEDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3910,13 +3910,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3942,8 +3942,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3969,8 +3969,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3991,14 +3991,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#town_center">Town Center</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mane">MAnE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4019,13 +4019,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4046,11 +4046,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4071,13 +4071,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#ll">LL</a></li>
-<li><a href="trajectory_e-i_metrics.md#human">Human</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4103,9 +4103,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4126,14 +4126,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4154,13 +4154,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#gc">GC</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#qmul">QMUL</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#gc">GC</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#qmul">QMUL</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4181,12 +4181,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4208,13 +4208,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4235,12 +4235,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#gc">GC</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#gc">GC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4262,13 +4262,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4294,7 +4294,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4315,12 +4315,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#daimler_path">Daimler Path</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#daimler_path">Daimler Path</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4349,13 +4349,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#strands">STRANDS</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#l-cas">L-CAS</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#strands">STRANDS</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#l-cas">L-CAS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_a-d_metrics.md#aede">AEDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#aede">AEDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4384,14 +4384,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#citywalks">CityWalks</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#citywalks">CityWalks</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="trajectory_a-d_metrics.md#aiou">AIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#aiou">AIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4420,16 +4420,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#thor">THOR</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#thor">THOR</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#al">AL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#al">AL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4458,13 +4458,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="trajectory_a-d_metrics.md#amd">AMD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4485,16 +4485,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#kde">KDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#amd">AMD</a></li>
-<li><a href="trajectory_a-d_metrics.md#amv">AMV</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amv">AMV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4523,16 +4523,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#kde">KDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#amd">AMD</a></li>
-<li><a href="trajectory_a-d_metrics.md#amv">AMV</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amv">AMV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4561,16 +4561,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#gc">GC</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#cuhk_avenue">CUHK Avenue</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#gc">GC</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cuhk_avenue">CUHK Avenue</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4591,14 +4591,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4627,13 +4627,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4659,9 +4659,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4690,13 +4690,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#spmd">SPMD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#spmd">SPMD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#mae">MAE</a></li>
-<li><a href="trajectory_a-d_metrics.md#apad">APaD</a></li>
-<li><a href="trajectory_j-z_metrics.md#twae">TWAE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#apad">APaD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#twae">TWAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4730,7 +4730,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#app">APP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#app">APP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4759,16 +4759,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="trajectory_e-i_metrics.md#frb">FRB</a></li>
-<li><a href="trajectory_a-d_metrics.md#arb">ARB</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#arb">ARB</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4789,15 +4789,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_metrics.md#frb">FRB</a></li>
-<li><a href="trajectory_a-d_metrics.md#arb">ARB</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#arb">ARB</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4826,17 +4826,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#highwaysim">HighwaySim</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#highwaysim">HighwaySim</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#cte">CTE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ate">ATE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cte">CTE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ate">ATE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4870,8 +4870,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#mmd">MMD</a></li>
-<li><a href="trajectory_a-d_metrics.md#b-ade">b-ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mmd">MMD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-ade">b-ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4900,16 +4900,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#b-minade">b-minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minade">b-minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4938,17 +4938,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#highwaysim">HighwaySim</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#highwaysim">HighwaySim</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#cte">CTE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ate">ATE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cte">CTE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ate">ATE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4969,14 +4969,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4997,14 +4997,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5025,16 +5025,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5055,15 +5055,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5084,16 +5084,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#b-minade">b-minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minade">b-minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5114,16 +5114,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_metrics.md#map">mAP</a></li>
-<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5144,14 +5144,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5180,14 +5180,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_a-d_metrics.md#bev_ap">BEV AP</a></li>
-<li><a href="trajectory_a-d_metrics.md#de">DE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bev_ap">BEV AP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#de">DE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5216,14 +5216,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5244,13 +5244,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5271,14 +5271,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5307,13 +5307,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#vdd-c">VDD-C</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#vdd-c">VDD-C</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="trajectory_a-d_metrics.md#bnace">BNACE</a></li>
-<li><a href="trajectory_e-i_metrics.md#inace">INACE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bnace">BNACE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#inace">INACE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5347,8 +5347,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#boxorfp">BoxORFP</a></li>
-<li><a href="trajectory_a-d_metrics.md#ctrorfp">CtrORFP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#boxorfp">BoxORFP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ctrorfp">CtrORFP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5377,17 +5377,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
-<li><a href="trajectory_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5413,8 +5413,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#cd">CD</a></li>
-<li><a href="trajectory_j-z_metrics.md#progress">Progress</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#progress">Progress</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5443,13 +5443,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
-<li><a href="trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
-<li><a href="trajectory_a-d_metrics.md#ce">CE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ce">CE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5478,12 +5478,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="trajectory_a-d_metrics.md#cll">CLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cll">CLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5512,19 +5512,19 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#scr">SCR</a></li>
-<li><a href="trajectory_j-z_metrics.md#smr">SMR</a></li>
-<li><a href="trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
-<li><a href="trajectory_e-i_metrics.md#iminade">iminADE</a></li>
-<li><a href="trajectory_a-d_metrics.md#cmr">CMR</a></li>
-<li><a href="trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminade">iminADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cmr">CMR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5558,9 +5558,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#l2">L2</a></li>
-<li><a href="trajectory_a-d_metrics.md#comfort">Comfort</a></li>
-<li><a href="trajectory_j-z_metrics.md#safety">Safety</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l2">L2</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#comfort">Comfort</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#safety">Safety</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5589,19 +5589,19 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#scr">SCR</a></li>
-<li><a href="trajectory_j-z_metrics.md#smr">SMR</a></li>
-<li><a href="trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
-<li><a href="trajectory_e-i_metrics.md#iminade">iminADE</a></li>
-<li><a href="trajectory_a-d_metrics.md#cmr">CMR</a></li>
-<li><a href="trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminade">iminADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cmr">CMR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5635,7 +5635,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ct">CT</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ct">CT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5664,17 +5664,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#highwaysim">HighwaySim</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#highwaysim">HighwaySim</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#cte">CTE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ate">ATE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cte">CTE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ate">ATE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5708,8 +5708,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#boxorfp">BoxORFP</a></li>
-<li><a href="trajectory_a-d_metrics.md#ctrorfp">CtrORFP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#boxorfp">BoxORFP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ctrorfp">CtrORFP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5738,17 +5738,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_metrics.md#orr">ORR</a></li>
-<li><a href="trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5769,14 +5769,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5797,20 +5797,20 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_metrics.md#dac">DAC</a></li>
-<li><a href="trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#wsade">WSADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsade">WSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5831,14 +5831,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5867,16 +5867,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_metrics.md#rf">RF</a></li>
-<li><a href="trajectory_a-d_metrics.md#dao">DAO</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rf">RF</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dao">DAO</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5905,14 +5905,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="trajectory_a-d_metrics.md#bev_ap">BEV AP</a></li>
-<li><a href="trajectory_a-d_metrics.md#de">DE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bev_ap">BEV AP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#de">DE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5941,15 +5941,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="trajectory_a-d_metrics.md#deltaesv">DeltaESV</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#deltaesv">DeltaESV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5978,15 +5978,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#osu">OSU</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#osu">OSU</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="trajectory_j-z_metrics.md#mhd">MHD</a></li>
-<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="trajectory_a-d_metrics.md#dtg">DtG</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dtg">DtG</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>

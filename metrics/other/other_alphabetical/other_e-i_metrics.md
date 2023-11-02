@@ -20,17 +20,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#epe">EPE</a></li>
-<li><a href="other_j-z_metrics.md#rt">RT</a></li>
-<li><a href="other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
-<li><a href="other_j-z_metrics.md#map">mAP</a></li>
-<li><a href="other_e-i_metrics.md#ece">ECE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ece">ECE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -59,11 +59,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#egopat3d">EgoPAT3D</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#egopat3d">EgoPAT3D</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -84,15 +84,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#btd">BTD</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#pems-sf">PEMS-SF</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#btd">BTD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pems-sf">PEMS-SF</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="other_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -118,7 +118,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -144,7 +144,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -178,9 +178,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="other_a-d_metrics.md#cd">CD</a></li>
-<li><a href="other_e-i_metrics.md#emd">EMD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#emd">EMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -201,13 +201,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_a-d_metrics.md#cd">CD</a></li>
-<li><a href="other_e-i_metrics.md#emd">EMD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#emd">EMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -236,17 +236,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#epe">EPE</a></li>
-<li><a href="other_j-z_metrics.md#rt">RT</a></li>
-<li><a href="other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
-<li><a href="other_j-z_metrics.md#map">mAP</a></li>
-<li><a href="other_e-i_metrics.md#ece">ECE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ece">ECE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -267,14 +267,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="other_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="other_e-i_metrics.md#epe">EPE</a></li>
-<li><a href="other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -295,13 +295,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="other_e-i_metrics.md#epe">EPE</a></li>
-<li><a href="other_j-z_metrics.md#miou">MIoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#miou">MIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -335,10 +335,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -359,13 +359,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#copilot">COPILOT</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#copilot">COPILOT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="other_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#kld">KLD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -386,13 +386,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#3rscan">3RScan</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#3dssg">3DSSG</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#3rscan">3RScan</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dssg">3DSSG</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -413,12 +413,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -439,14 +439,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -467,14 +467,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#once">ONCE</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#once">ONCE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="other_a-d_metrics.md#cross-entropy">Cross-entropy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#cross-entropy">Cross-entropy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -500,10 +500,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="other_j-z_metrics.md#tp">TP</a></li>
-<li><a href="other_j-z_metrics.md#tn">TN</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#tp">TP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#tn">TN</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -524,13 +524,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#carla">CARLA</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#carla">CARLA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -556,9 +556,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -579,13 +579,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#highd">highD</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#highd">highD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -609,15 +609,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#matterport3d">Matterport3D</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#gibson_env">Gibson Env</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#habitat">Habitat</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#matterport3d">Matterport3D</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#gibson_env">Gibson Env</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#habitat">Habitat</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="other_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -643,9 +643,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -666,14 +666,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -697,11 +697,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -727,8 +727,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_j-z_metrics.md#roc">ROC</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#roc">ROC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -762,9 +762,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="other_j-z_metrics.md#tpr">TPR</a></li>
-<li><a href="other_e-i_metrics.md#fpr">FPR</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#fpr">FPR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -793,12 +793,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#fve">FVE</a></li>
-<li><a href="other_a-d_metrics.md#ave">AVE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#fve">FVE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ave">AVE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -830,14 +830,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="other_j-z_metrics.md#voi">VoI</a></li>
-<li><a href="other_e-i_metrics.md#gce">GCE</a></li>
-<li><a href="other_j-z_metrics.md#ri">RI</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#voi">VoI</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#gce">GCE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#ri">RI</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -866,13 +866,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#sdo">SDO</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdo">SDO</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_a-d_metrics.md#bss">BSS</a></li>
-<li><a href="other_j-z_metrics.md#tss">TSS</a></li>
-<li><a href="other_e-i_metrics.md#gmgs">GMGS</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#bss">BSS</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#tss">TSS</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#gmgs">GMGS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -901,13 +901,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#way">Way</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#way">Way</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="other_e-i_metrics.md#ims">ImS</a></li>
-<li><a href="other_a-d_metrics.md#dmse">DMSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ims">ImS</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#dmse">DMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -936,14 +936,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="other_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="other_e-i_metrics.md#epe">EPE</a></li>
-<li><a href="other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -964,12 +964,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -990,12 +990,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="other_j-z_metrics.md#vpq">VPQ</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1021,8 +1021,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1043,15 +1043,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="other_a-d_metrics.md#ap">AP</a></li>
-<li><a href="other_j-z_metrics.md#rq">RQ</a></li>
-<li><a href="other_j-z_metrics.md#sq">SQ</a></li>
-<li><a href="other_j-z_metrics.md#pq">PQ</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#rq">RQ</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#sq">SQ</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#pq">PQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1072,12 +1072,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1098,11 +1098,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1123,16 +1123,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="other_a-d_metrics.md#ddm">DDM</a></li>
-<li><a href="other_a-d_metrics.md#aepe">AEPE</a></li>
-<li><a href="other_j-z_metrics.md#sile">SILE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ddm">DDM</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#aepe">AEPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#sile">SILE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1153,15 +1153,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#matterport3d">Matterport3D</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#gibson_env">Gibson Env</a></li>
-<li><a href="datasets/alphabetical/e-i_alphabetical_datasets.md#habitat">Habitat</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#matterport3d">Matterport3D</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#gibson_env">Gibson Env</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#habitat">Habitat</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="other_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1182,11 +1182,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1207,14 +1207,14 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="other_j-z_metrics.md#voi">VoI</a></li>
-<li><a href="other_e-i_metrics.md#gce">GCE</a></li>
-<li><a href="other_j-z_metrics.md#ri">RI</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#voi">VoI</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#gce">GCE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#ri">RI</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1235,13 +1235,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="other_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="other_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1270,12 +1270,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="other_e-i_metrics.md#is">IS</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#is">IS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1304,12 +1304,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="other_j-z_metrics.md#psi">Psi</a></li>
-<li><a href="other_e-i_metrics.md#ism">ISM</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#psi">Psi</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ism">ISM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
