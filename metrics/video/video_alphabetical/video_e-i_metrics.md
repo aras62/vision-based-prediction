@@ -20,18 +20,18 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#robonet">RoboNet</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#robonet">RoboNet</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fid">FID</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fid">FID</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -60,18 +60,18 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#robonet">RoboNet</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#robonet">RoboNet</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fid">FID</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fid">FID</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -92,15 +92,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair">BAIR</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair">BAIR</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -121,19 +121,19 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#town_center">Town Center</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#smtsmt">SmtSmt</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#town_center">Town Center</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#smtsmt">SmtSmt</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -154,15 +154,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#dancing">Dancing</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#dancing">Dancing</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_a-d_metrics.md#csim">CSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_a-d_metrics.md#csim">CSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -183,17 +183,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#robonet">RoboNet</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#robonet">RoboNet</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -214,18 +214,18 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mae">MAE</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_a-d_metrics.md#csi">CSI</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#gdl">GDL</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_a-d_metrics.md#csi">CSI</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#gdl">GDL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -246,16 +246,16 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jigsaws">JIGSAWS</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jigsaws">JIGSAWS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -276,17 +276,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair">BAIR</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair">BAIR</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -307,17 +307,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -338,15 +338,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -367,15 +367,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair_push">BAIR Push</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair_push">BAIR Push</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -396,13 +396,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#uva-nemo">UvA-NEMO</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mgif">MGIF</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#uva-nemo">UvA-NEMO</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mgif">MGIF</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -431,18 +431,18 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
 <li>Custom</li>
 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mae">MAE</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_a-d_metrics.md#csi">CSI</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#gdl">GDL</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_a-d_metrics.md#csi">CSI</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#gdl">GDL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -471,17 +471,17 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#robonet">RoboNet</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#robonet">RoboNet</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -502,13 +502,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -529,11 +529,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -554,11 +554,11 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -579,13 +579,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -614,15 +614,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#dancing">Dancing</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#dancing">Dancing</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_a-d_metrics.md#csim">CSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_a-d_metrics.md#csim">CSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -651,12 +651,12 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#is">IS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#is">IS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -677,13 +677,13 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#is">IS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mmd">MMD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#is">IS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mmd">MMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>

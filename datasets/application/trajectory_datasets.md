@@ -33,9 +33,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ece">ECE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ece">ECE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -61,8 +61,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -91,9 +91,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -120,10 +120,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -152,8 +152,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -181,8 +181,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -209,10 +209,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -239,8 +239,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -267,8 +267,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -295,10 +295,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minade">b-minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minade">b-minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -325,11 +325,11 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -356,7 +356,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -383,8 +383,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -411,9 +411,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -440,8 +440,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -468,8 +468,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -495,8 +495,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -524,8 +524,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -553,8 +553,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -581,8 +581,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -609,8 +609,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -636,8 +636,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -664,10 +664,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -697,8 +697,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -724,11 +724,11 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amv">AMV</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amv">AMV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -755,8 +755,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -783,8 +783,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -812,9 +812,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -841,8 +841,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -870,8 +870,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -899,9 +899,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -927,8 +927,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -955,9 +955,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#deltaesv">DeltaESV</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#deltaesv">DeltaESV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -983,8 +983,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1011,8 +1011,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1038,8 +1038,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1068,8 +1068,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1096,8 +1096,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1123,8 +1123,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1150,8 +1150,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1177,8 +1177,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1204,8 +1204,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1231,8 +1231,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1258,8 +1258,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1287,8 +1287,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1314,8 +1314,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1341,8 +1341,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1369,8 +1369,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1397,8 +1397,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1424,8 +1424,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1451,8 +1451,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1478,10 +1478,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1508,10 +1508,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1541,9 +1541,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1574,10 +1574,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1606,8 +1606,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1637,10 +1637,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1666,8 +1666,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1694,8 +1694,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1721,8 +1721,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1748,8 +1748,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1778,12 +1778,12 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1812,8 +1812,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#miou">MIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#miou">MIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1839,8 +1839,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1866,8 +1866,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1895,13 +1895,13 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsade">WSADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsade">WSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1928,8 +1928,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1955,8 +1955,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1982,8 +1982,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2009,8 +2009,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2036,8 +2036,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2063,8 +2063,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2091,8 +2091,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2119,11 +2119,11 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2150,9 +2150,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2178,10 +2178,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2212,7 +2212,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2239,8 +2239,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2267,11 +2267,11 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mc">MC</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#f">F</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mc">MC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#f">F</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2298,8 +2298,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2325,10 +2325,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2355,8 +2355,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2384,9 +2384,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2415,8 +2415,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2445,10 +2445,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2477,8 +2477,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2507,11 +2507,11 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">MaxD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">MaxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2538,8 +2538,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2566,10 +2566,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2595,8 +2595,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2622,8 +2622,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2651,9 +2651,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2680,8 +2680,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2707,8 +2707,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2734,11 +2734,11 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2764,7 +2764,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2790,10 +2790,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2819,9 +2819,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2849,8 +2849,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2876,8 +2876,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2905,8 +2905,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2932,10 +2932,10 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2961,8 +2961,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2990,9 +2990,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3018,8 +3018,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3046,8 +3046,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3073,9 +3073,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mane">MAnE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3101,8 +3101,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3127,7 +3127,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3153,8 +3153,8 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3180,9 +3180,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3208,7 +3208,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3236,7 +3236,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3262,9 +3262,9 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3325,9 +3325,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ece">ECE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ece">ECE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3353,8 +3353,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3383,9 +3383,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3412,10 +3412,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3444,8 +3444,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3473,8 +3473,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3501,10 +3501,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3531,8 +3531,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3559,8 +3559,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3587,10 +3587,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minade">b-minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minade">b-minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3617,11 +3617,11 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3648,7 +3648,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3675,8 +3675,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3703,9 +3703,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3732,8 +3732,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3760,8 +3760,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3787,8 +3787,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3816,8 +3816,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3845,8 +3845,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3873,8 +3873,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3901,8 +3901,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3928,8 +3928,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3956,10 +3956,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3989,8 +3989,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4016,11 +4016,11 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amv">AMV</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amv">AMV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4047,8 +4047,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4075,8 +4075,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4104,9 +4104,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4133,8 +4133,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4162,8 +4162,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4191,9 +4191,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4219,8 +4219,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4247,9 +4247,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#deltaesv">DeltaESV</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#deltaesv">DeltaESV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4275,8 +4275,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4303,8 +4303,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4330,8 +4330,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4360,8 +4360,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4388,8 +4388,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4415,8 +4415,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4442,8 +4442,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4469,8 +4469,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4496,8 +4496,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4523,8 +4523,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4550,8 +4550,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4579,8 +4579,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4606,8 +4606,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4633,8 +4633,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4661,8 +4661,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4689,8 +4689,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4716,8 +4716,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4743,8 +4743,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4770,10 +4770,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4800,10 +4800,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4833,9 +4833,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4866,10 +4866,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4898,8 +4898,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4929,10 +4929,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4958,8 +4958,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4986,8 +4986,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5012,9 +5012,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ppei">PPEI</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ppei">PPEI</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5040,8 +5040,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5067,8 +5067,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5097,12 +5097,12 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5131,8 +5131,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#miou">MIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#miou">MIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5158,8 +5158,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5185,8 +5185,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5214,13 +5214,13 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsade">WSADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsade">WSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5247,8 +5247,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5274,8 +5274,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5301,8 +5301,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5328,8 +5328,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5355,8 +5355,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5382,8 +5382,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5410,8 +5410,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5438,11 +5438,11 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5469,9 +5469,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5497,10 +5497,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5531,7 +5531,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5558,8 +5558,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5586,11 +5586,11 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mc">MC</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#f">F</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mc">MC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#f">F</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5617,8 +5617,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5644,10 +5644,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5674,8 +5674,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5703,9 +5703,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5734,8 +5734,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5764,10 +5764,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5796,8 +5796,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5826,11 +5826,11 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">MaxD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">MaxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5857,8 +5857,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5885,10 +5885,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5914,8 +5914,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5941,8 +5941,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5970,9 +5970,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5999,8 +5999,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6026,8 +6026,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6053,11 +6053,11 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6083,10 +6083,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6112,9 +6112,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6142,8 +6142,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6169,8 +6169,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6198,8 +6198,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6225,10 +6225,10 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6256,9 +6256,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6284,8 +6284,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6311,7 +6311,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6337,8 +6337,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6364,8 +6364,8 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6391,9 +6391,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6420,7 +6420,7 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6446,9 +6446,9 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6505,9 +6505,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6535,9 +6535,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ece">ECE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ece">ECE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6562,8 +6562,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#vpq">VPQ</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#vpq">VPQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6588,10 +6588,10 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#epa">EPA</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#epa">EPA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6618,10 +6618,10 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6647,8 +6647,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6674,9 +6674,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6702,11 +6702,11 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rf">RF</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dao">DAO</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rf">RF</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dao">DAO</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6732,8 +6732,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6758,8 +6758,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6786,8 +6786,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6815,11 +6815,11 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ecfl">ECFL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ecfl">ECFL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6844,9 +6844,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6872,8 +6872,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6900,8 +6900,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6926,7 +6926,7 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6951,9 +6951,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6978,10 +6978,10 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7007,8 +7007,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7034,9 +7034,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7061,7 +7061,7 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7086,8 +7086,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7114,11 +7114,11 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7146,9 +7146,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7175,9 +7175,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#deltaesv">DeltaESV</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#deltaesv">DeltaESV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7204,7 +7204,7 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7229,7 +7229,7 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7257,11 +7257,11 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l1">L1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7288,8 +7288,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7315,8 +7315,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7342,8 +7342,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7369,11 +7369,11 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#emd">EMD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#emd">EMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7398,10 +7398,10 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfsd">minFSD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minasd">minASD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfsd">minFSD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minasd">minASD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7429,8 +7429,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7456,9 +7456,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ur">UR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ur">UR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7485,8 +7485,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7513,8 +7513,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7539,9 +7539,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7566,10 +7566,10 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7595,8 +7595,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7621,8 +7621,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7647,9 +7647,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">MaxD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">MaxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7679,9 +7679,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7708,7 +7708,7 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7733,8 +7733,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mane">MAnE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7759,9 +7759,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7787,11 +7787,11 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7818,8 +7818,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7845,8 +7845,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7873,8 +7873,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7901,8 +7901,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7930,9 +7930,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7959,8 +7959,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7985,7 +7985,7 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8012,11 +8012,11 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meansfde">meanSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meansade">meanSADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meansfde">meanSFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meansade">meanSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8042,12 +8042,12 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8074,11 +8074,11 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8105,8 +8105,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8133,7 +8133,7 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8160,9 +8160,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fle">FLE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fle">FLE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8189,9 +8189,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8218,7 +8218,7 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l2">L2</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l2">L2</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8247,8 +8247,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8273,7 +8273,7 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8298,9 +8298,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">MaxD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">MaxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8327,8 +8327,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8353,8 +8353,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8380,8 +8380,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8408,9 +8408,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#nfe">NFE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#nfe">NFE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8436,7 +8436,7 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#l2">L2</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#l2">L2</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8461,8 +8461,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8488,9 +8488,9 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cross-entropy">Cross-entropy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#cross-entropy">Cross-entropy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8516,8 +8516,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#emd">EMD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#emd">EMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8543,8 +8543,8 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8570,7 +8570,7 @@ A dataset with 1K driving sequences and 1M+ 3D bounding boxes annotated at 2hz
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8622,7 +8622,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8647,7 +8647,7 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8673,12 +8673,12 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cte">CTE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ate">ATE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cte">CTE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ate">ATE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8704,11 +8704,11 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8734,11 +8734,11 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#overlap">Overlap</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#overlap">Overlap</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8763,9 +8763,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8790,9 +8790,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8818,14 +8818,14 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminade">iminADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cmr">CMR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminade">iminADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cmr">CMR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8850,10 +8850,10 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8879,8 +8879,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8905,10 +8905,10 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8934,11 +8934,11 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8965,11 +8965,11 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8995,10 +8995,10 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9024,9 +9024,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9051,8 +9051,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l2">L2</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l2">L2</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9078,11 +9078,11 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rf">RF</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dao">DAO</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rf">RF</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dao">DAO</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9108,11 +9108,11 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9137,10 +9137,10 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9165,8 +9165,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#sor">SOR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#hor">HOR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#sor">SOR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#hor">HOR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9191,9 +9191,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9220,8 +9220,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9247,8 +9247,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9274,9 +9274,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9301,9 +9301,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9330,11 +9330,11 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9360,10 +9360,10 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9388,9 +9388,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9415,9 +9415,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9442,10 +9442,10 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9473,9 +9473,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9500,9 +9500,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#entropy">Entropy</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#entropy">Entropy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9527,9 +9527,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9557,10 +9557,10 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9585,9 +9585,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9612,10 +9612,10 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9643,11 +9643,11 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l1">L1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9673,9 +9673,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9700,9 +9700,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rv">RV</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rv">RV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9728,8 +9728,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9754,9 +9754,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9781,9 +9781,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9809,9 +9809,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tn">TN</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tp">TP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tn">TN</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tp">TP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9837,9 +9837,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9866,8 +9866,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9894,8 +9894,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9922,10 +9922,10 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9951,8 +9951,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wfde">wFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wfde">wFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -9980,10 +9980,10 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10008,9 +10008,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10035,9 +10035,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10063,11 +10063,11 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10095,13 +10095,13 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsade">WSADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsade">WSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10128,8 +10128,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10154,11 +10154,11 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10185,9 +10185,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10214,8 +10214,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10241,12 +10241,12 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10273,9 +10273,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10302,8 +10302,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10330,9 +10330,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10357,10 +10357,10 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10385,10 +10385,10 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10416,8 +10416,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10445,8 +10445,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10478,9 +10478,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10505,8 +10505,8 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10533,11 +10533,11 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmde">minMDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmde">minMDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10564,11 +10564,11 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rt">RT</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#ece">ECE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ece">ECE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10595,9 +10595,9 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#nfe">NFE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#nfe">NFE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10653,9 +10653,9 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10682,10 +10682,10 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10712,8 +10712,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10740,8 +10740,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10768,10 +10768,10 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minade">b-minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minade">b-minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10798,11 +10798,11 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10829,7 +10829,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10856,9 +10856,9 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10885,8 +10885,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10912,9 +10912,9 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10942,11 +10942,11 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ecfl">ECFL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ecfl">ECFL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -10974,8 +10974,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11003,8 +11003,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11031,8 +11031,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11059,10 +11059,10 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11089,8 +11089,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11117,8 +11117,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11146,9 +11146,9 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11175,8 +11175,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11205,8 +11205,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11232,8 +11232,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11261,8 +11261,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11289,8 +11289,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11317,8 +11317,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11345,8 +11345,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11372,8 +11372,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11398,8 +11398,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mota">MOTA</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mota">MOTA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11426,8 +11426,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11454,8 +11454,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11482,9 +11482,9 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11511,8 +11511,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11539,11 +11539,11 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mc">MC</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#f">F</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mc">MC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#f">F</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11570,8 +11570,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11598,8 +11598,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11626,8 +11626,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11655,8 +11655,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11688,11 +11688,11 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">MaxD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">MaxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11721,9 +11721,9 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11750,8 +11750,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11777,9 +11777,9 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#emd">EMD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#emd">EMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11807,9 +11807,9 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11836,8 +11836,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11865,8 +11865,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11894,8 +11894,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11920,8 +11920,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cll">CLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cll">CLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11948,8 +11948,8 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -11975,10 +11975,10 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mined">minED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mined">minED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12004,7 +12004,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12032,7 +12032,7 @@ A dataset of pedestrians and cyclists movements recorded using an aerial drone w
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12088,9 +12088,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12118,11 +12118,11 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fid">FID</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fid">FID</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12149,8 +12149,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12176,8 +12176,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12206,11 +12206,11 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12237,9 +12237,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_a-d_metrics.md#csim">CSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_a-d_metrics.md#csim">CSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12265,9 +12265,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12294,11 +12294,11 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12323,8 +12323,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#is">IS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#is">IS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12352,10 +12352,10 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12381,8 +12381,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ms-ssim">MS-SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ms-ssim">MS-SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12411,9 +12411,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12439,8 +12439,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12467,9 +12467,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12497,8 +12497,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12525,9 +12525,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12554,8 +12554,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12583,9 +12583,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12612,8 +12612,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12641,9 +12641,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12670,8 +12670,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12697,7 +12697,7 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12723,8 +12723,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12750,8 +12750,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12777,8 +12777,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12805,8 +12805,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12833,7 +12833,7 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12858,9 +12858,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ce">CE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ce">CE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12886,10 +12886,10 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mined">minED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mined">minED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12916,9 +12916,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#nfe">NFE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#nfe">NFE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12944,8 +12944,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#emd">EMD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#emd">EMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12970,7 +12970,7 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -12995,10 +12995,10 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#tp">TP</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#tn">TN</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#tp">TP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#tn">TN</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13023,7 +13023,7 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13077,8 +13077,8 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13104,11 +13104,11 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#overlap">Overlap</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#overlap">Overlap</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13133,11 +13133,11 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#overlap">Overlap</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#overlap">Overlap</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13162,10 +13162,10 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13191,10 +13191,10 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13219,9 +13219,9 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13246,10 +13246,10 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13275,11 +13275,11 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13304,10 +13304,10 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13334,11 +13334,11 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#or">OR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#or">OR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13363,8 +13363,8 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13389,7 +13389,7 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#epe3d">EPE3D</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#epe3d">EPE3D</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13418,8 +13418,8 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13444,11 +13444,11 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ur">UR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tri">TRI</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ur">UR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tri">TRI</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13473,12 +13473,12 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13503,8 +13503,8 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#risk">Risk</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#risk">Risk</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13530,10 +13530,10 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13558,10 +13558,10 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13589,10 +13589,10 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13617,10 +13617,10 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13645,10 +13645,10 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wfde">wFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wfde">wFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13673,9 +13673,9 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13700,8 +13700,8 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13727,9 +13727,9 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13757,8 +13757,8 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13786,9 +13786,9 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13814,9 +13814,9 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bev_ap">BEV AP</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#de">DE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bev_ap">BEV AP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#de">DE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13842,7 +13842,7 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#l2">L2</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#l2">L2</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13867,10 +13867,10 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13895,8 +13895,8 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#is">IS</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#is">IS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13921,9 +13921,9 @@ A dataset with approx. 2K driving segments and 20M+ 2D/3D bounding boxes annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#ims">ImS</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#dmse">DMSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ims">ImS</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#dmse">DMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -13975,9 +13975,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14005,9 +14005,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14032,10 +14032,10 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#ttm">TTM</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#ttm">TTM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14060,7 +14060,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14087,8 +14087,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14113,8 +14113,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14140,9 +14140,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tn">TN</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tp">TP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tn">TN</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tp">TP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14169,8 +14169,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14196,9 +14196,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#qde">QDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#qde">QDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14231,9 +14231,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14262,7 +14262,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14288,8 +14288,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14320,7 +14320,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14346,10 +14346,10 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14375,7 +14375,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14402,9 +14402,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14429,7 +14429,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14454,8 +14454,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14486,8 +14486,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14515,8 +14515,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14542,8 +14542,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14571,9 +14571,9 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14600,8 +14600,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14627,7 +14627,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14654,11 +14654,11 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmde">minMDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmde">minMDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14683,7 +14683,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14708,7 +14708,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14733,8 +14733,8 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14759,7 +14759,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14784,7 +14784,7 @@ A dataset of vehicle trajectories containing 10K+ frames of recording
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14837,8 +14837,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#l1">L1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14863,7 +14863,7 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#l1">L1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14889,11 +14889,11 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14919,11 +14919,11 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14949,10 +14949,10 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -14978,8 +14978,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15005,9 +15005,9 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15033,7 +15033,7 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15061,8 +15061,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15088,7 +15088,7 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15114,7 +15114,7 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15140,11 +15140,11 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#frb">FRB</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#arb">ARB</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#arb">ARB</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15170,8 +15170,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15198,8 +15198,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15225,7 +15225,7 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15253,10 +15253,10 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15288,12 +15288,12 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15321,7 +15321,7 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15348,8 +15348,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15375,8 +15375,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15402,7 +15402,7 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15430,8 +15430,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#psi">Psi</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#ism">ISM</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#psi">Psi</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ism">ISM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15487,9 +15487,9 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15516,8 +15516,8 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15543,8 +15543,8 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15571,9 +15571,9 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_a-d_metrics.md#csim">CSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_a-d_metrics.md#csim">CSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15599,9 +15599,9 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15627,8 +15627,8 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ms-ssim">MS-SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ms-ssim">MS-SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15655,9 +15655,9 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15684,8 +15684,8 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15712,8 +15712,8 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15740,7 +15740,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15765,8 +15765,8 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15791,11 +15791,11 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rq">RQ</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#sq">SQ</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#pq">PQ</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#rq">RQ</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#sq">SQ</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#pq">PQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15821,7 +15821,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15846,7 +15846,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15873,10 +15873,10 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ddm">DDM</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#aepe">AEPE</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#sile">SILE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ddm">DDM</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#aepe">AEPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#sile">SILE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15901,7 +15901,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15926,10 +15926,10 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#voi">VoI</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#gce">GCE</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ri">RI</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#voi">VoI</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#gce">GCE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#ri">RI</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15954,9 +15954,9 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -15981,9 +15981,9 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#miou">MIoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#miou">MIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16035,7 +16035,7 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16061,11 +16061,11 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16090,10 +16090,10 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16119,14 +16119,14 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminade">iminADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cmr">CMR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminade">iminADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cmr">CMR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16152,11 +16152,11 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16183,11 +16183,11 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16216,8 +16216,8 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16242,8 +16242,8 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16270,8 +16270,8 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16299,9 +16299,9 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16326,7 +16326,7 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16354,9 +16354,9 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16382,8 +16382,8 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16408,7 +16408,7 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16437,9 +16437,9 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16467,8 +16467,8 @@ A naturalistic dataset of motions of various traffic road users in a variety of 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16524,9 +16524,9 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16553,7 +16553,7 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16581,8 +16581,8 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16610,8 +16610,8 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16638,8 +16638,8 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16669,8 +16669,8 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16698,9 +16698,9 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16727,8 +16727,8 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16756,9 +16756,9 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16785,8 +16785,8 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16812,10 +16812,10 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mmd">MMD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mmd">MMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16846,7 +16846,7 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16874,8 +16874,8 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16900,7 +16900,7 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16925,9 +16925,9 @@ A dataset of trajectories of NBA players from games at a given season.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#human">Human</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -16981,11 +16981,11 @@ A dataset of driving sequences with more than 6 hours of footage with 1.8K+ pede
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17011,11 +17011,11 @@ A dataset of driving sequences with more than 6 hours of footage with 1.8K+ pede
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17041,10 +17041,10 @@ A dataset of driving sequences with more than 6 hours of footage with 1.8K+ pede
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17070,8 +17070,8 @@ A dataset of driving sequences with more than 6 hours of footage with 1.8K+ pede
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17097,9 +17097,9 @@ A dataset of driving sequences with more than 6 hours of footage with 1.8K+ pede
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17124,11 +17124,11 @@ A dataset of driving sequences with more than 6 hours of footage with 1.8K+ pede
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17154,11 +17154,11 @@ A dataset of driving sequences with more than 6 hours of footage with 1.8K+ pede
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#frb">FRB</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#arb">ARB</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#arb">ARB</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17184,8 +17184,8 @@ A dataset of driving sequences with more than 6 hours of footage with 1.8K+ pede
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17212,8 +17212,8 @@ A dataset of driving sequences with more than 6 hours of footage with 1.8K+ pede
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17239,7 +17239,7 @@ A dataset of driving sequences with more than 6 hours of footage with 1.8K+ pede
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17267,10 +17267,10 @@ A dataset of driving sequences with more than 6 hours of footage with 1.8K+ pede
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17302,12 +17302,12 @@ A dataset of driving sequences with more than 6 hours of footage with 1.8K+ pede
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17335,7 +17335,7 @@ A dataset of driving sequences with more than 6 hours of footage with 1.8K+ pede
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17361,8 +17361,8 @@ A dataset of driving sequences with more than 6 hours of footage with 1.8K+ pede
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17417,9 +17417,9 @@ A driving dataset with 1M+ 3D annotations for perception and 1K+ driving sequenc
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ece">ECE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ece">ECE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17444,8 +17444,8 @@ A driving dataset with 1M+ 3D annotations for perception and 1K+ driving sequenc
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17471,8 +17471,8 @@ A driving dataset with 1M+ 3D annotations for perception and 1K+ driving sequenc
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17500,8 +17500,8 @@ A driving dataset with 1M+ 3D annotations for perception and 1K+ driving sequenc
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17527,9 +17527,9 @@ A driving dataset with 1M+ 3D annotations for perception and 1K+ driving sequenc
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17555,9 +17555,9 @@ A driving dataset with 1M+ 3D annotations for perception and 1K+ driving sequenc
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ur">UR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ur">UR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17582,7 +17582,7 @@ A driving dataset with 1M+ 3D annotations for perception and 1K+ driving sequenc
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17608,9 +17608,9 @@ A driving dataset with 1M+ 3D annotations for perception and 1K+ driving sequenc
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bev_ap">BEV AP</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#de">DE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bev_ap">BEV AP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#de">DE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17638,8 +17638,8 @@ A driving dataset with 1M+ 3D annotations for perception and 1K+ driving sequenc
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17668,7 +17668,7 @@ A driving dataset with 1M+ 3D annotations for perception and 1K+ driving sequenc
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17722,8 +17722,8 @@ A driving dataset of 5K vehicle instances, 110K lane segments and 100 mins of se
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17752,8 +17752,8 @@ A driving dataset of 5K vehicle instances, 110K lane segments and 100 mins of se
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17780,8 +17780,8 @@ A driving dataset of 5K vehicle instances, 110K lane segments and 100 mins of se
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17807,8 +17807,8 @@ A driving dataset of 5K vehicle instances, 110K lane segments and 100 mins of se
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wfde">wFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wfde">wFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17839,13 +17839,13 @@ A driving dataset of 5K vehicle instances, 110K lane segments and 100 mins of se
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsade">WSADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wsade">WSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17872,9 +17872,9 @@ A driving dataset of 5K vehicle instances, 110K lane segments and 100 mins of se
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17902,8 +17902,8 @@ A driving dataset of 5K vehicle instances, 110K lane segments and 100 mins of se
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17960,11 +17960,11 @@ A dataset of simulated pedestrian trajectories with focus on interactions.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -17991,11 +17991,11 @@ A dataset of simulated pedestrian trajectories with focus on interactions.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dac">DAC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18021,9 +18021,9 @@ A dataset of simulated pedestrian trajectories with focus on interactions.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18048,11 +18048,11 @@ A dataset of simulated pedestrian trajectories with focus on interactions.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18077,10 +18077,10 @@ A dataset of simulated pedestrian trajectories with focus on interactions.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18106,8 +18106,8 @@ A dataset of simulated pedestrian trajectories with focus on interactions.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18161,7 +18161,7 @@ A dataset of 147 hours of 110K+ cars driving on German highways recorded from to
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18187,9 +18187,9 @@ A dataset of 147 hours of 110K+ cars driving on German highways recorded from to
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#qde">QDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#qde">QDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18218,7 +18218,7 @@ A dataset of 147 hours of 110K+ cars driving on German highways recorded from to
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18244,8 +18244,8 @@ A dataset of 147 hours of 110K+ cars driving on German highways recorded from to
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18271,7 +18271,7 @@ A dataset of 147 hours of 110K+ cars driving on German highways recorded from to
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18296,9 +18296,9 @@ A dataset of 147 hours of 110K+ cars driving on German highways recorded from to
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18356,8 +18356,8 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18385,9 +18385,9 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18413,8 +18413,8 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18439,8 +18439,8 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18467,8 +18467,8 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18494,8 +18494,8 @@ A trajectory dataset of pedestrians walking in the train station with 50K+ sampl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18547,7 +18547,7 @@ A dataset of multiview surveillance sequences for trajectory  prediction and act
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18572,7 +18572,7 @@ A dataset of multiview surveillance sequences for trajectory  prediction and act
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18598,10 +18598,10 @@ A dataset of multiview surveillance sequences for trajectory  prediction and act
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18628,8 +18628,8 @@ A dataset of multiview surveillance sequences for trajectory  prediction and act
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18682,10 +18682,10 @@ A physics-based simulation of particles.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mmd">MMD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mmd">MMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18715,9 +18715,9 @@ A physics-based simulation of particles.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18751,7 +18751,7 @@ A physics-based simulation of particles.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18777,7 +18777,7 @@ A physics-based simulation of particles.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18829,10 +18829,10 @@ A collection of videos from existing datasets for the purpose of object tracking
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18857,7 +18857,7 @@ A collection of videos from existing datasets for the purpose of object tracking
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18885,8 +18885,8 @@ A collection of videos from existing datasets for the purpose of object tracking
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18911,7 +18911,7 @@ A collection of videos from existing datasets for the purpose of object tracking
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18967,11 +18967,11 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -18997,8 +18997,8 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19024,9 +19024,9 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mane">MAnE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19052,8 +19052,8 @@ A dataset of surveillance recording of 2.2K pedestrians walking at the Oxford To
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19105,9 +19105,9 @@ A dataset of human tracks recorded in a shopping mall for a period of 92 days us
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19132,8 +19132,8 @@ A dataset of human tracks recorded in a shopping mall for a period of 92 days us
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19161,9 +19161,9 @@ A dataset of human tracks recorded in a shopping mall for a period of 92 days us
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nlp">NLP</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nlp">NLP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19222,9 +19222,9 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19252,7 +19252,7 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19280,9 +19280,9 @@ A dataset of 37 video clips with 30K+ frames showing abnormal events
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19335,9 +19335,9 @@ A dataset of road users’ trajectories recorded from BEV at German intersection
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19364,7 +19364,7 @@ A dataset of road users’ trajectories recorded from BEV at German intersection
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19390,8 +19390,8 @@ A dataset of road users’ trajectories recorded from BEV at German intersection
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19447,12 +19447,12 @@ A dataset of 230 video clips of driving at different intersections in San Franci
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19480,9 +19480,9 @@ A dataset of 230 video clips of driving at different intersections in San Franci
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19509,9 +19509,9 @@ A dataset of 230 video clips of driving at different intersections in San Franci
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19563,8 +19563,8 @@ A dataset of basketball players’ trajectories for 2015-16 NBA games
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19589,9 +19589,9 @@ A dataset of basketball players’ trajectories for 2015-16 NBA games
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19619,8 +19619,8 @@ A dataset of basketball players’ trajectories for 2015-16 NBA games
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19674,8 +19674,8 @@ A dataset of pedestrian trajectories recorded recorded from ego-perspective
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19700,7 +19700,7 @@ A dataset of pedestrian trajectories recorded recorded from ego-perspective
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19752,10 +19752,10 @@ A dataset of 500+ front-view sequences of pedestrian trajectories annotated at 3
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#aiou">AIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#aiou">AIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19782,8 +19782,8 @@ A dataset of 500+ front-view sequences of pedestrian trajectories annotated at 3
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19839,9 +19839,9 @@ A dataset of NFL players’ trajectories recorded from 92 games from the 2017 le
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19868,7 +19868,7 @@ A dataset of NFL players’ trajectories recorded from 92 games from the 2017 le
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19922,11 +19922,11 @@ A dataset of simulated cars and pedestrians interacting
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#emd">EMD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#emd">EMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -19952,9 +19952,9 @@ A dataset of simulated cars and pedestrians interacting
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#emd">EMD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#emd">EMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20008,10 +20008,10 @@ A dataset of driving in university of Sydney campus collected under different co
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20039,9 +20039,9 @@ A dataset of driving in university of Sydney campus collected under different co
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20096,8 +20096,8 @@ A dataset of 8 traffic objects annotated with 3D bounding boxes at 2Hz on 10Hz r
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20124,8 +20124,8 @@ A dataset of 8 traffic objects annotated with 3D bounding boxes at 2Hz on 10Hz r
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20177,7 +20177,7 @@ A dataset of 92K+ trajectories recorded with a top-down view camera capturing pe
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20203,8 +20203,8 @@ A dataset of 92K+ trajectories recorded with a top-down view camera capturing pe
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20259,9 +20259,9 @@ A dataset of vehicle trajectories containing 30 minutes of data recorded at Lank
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#al">AL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#al">AL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20287,8 +20287,8 @@ A dataset of vehicle trajectories containing 30 minutes of data recorded at Lank
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20340,9 +20340,9 @@ A dataset of 3K simulated videos of pedestrian trajectory samples from 4 differe
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ptu">PTU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ptu">PTU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20368,10 +20368,10 @@ A dataset of 3K simulated videos of pedestrian trajectory samples from 4 differe
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20424,7 +20424,7 @@ A dataset of 40+ video clips showing collective activities including  crossing, 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20450,7 +20450,7 @@ A dataset of 40+ video clips showing collective activities including  crossing, 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20503,10 +20503,10 @@ A multiview dataset of 12 events, such as a person loading an object to a vehicl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20531,9 +20531,9 @@ A multiview dataset of 12 events, such as a person loading an object to a vehicl
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20585,8 +20585,8 @@ A dataset of airplanes’ trajectories collected in a span of several month with
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20613,8 +20613,8 @@ A dataset of airplanes’ trajectories collected in a span of several month with
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20668,8 +20668,8 @@ A dataset containing 100 repetitions of a consistent route through Oxford drivin
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20696,7 +20696,7 @@ A dataset containing 100 repetitions of a consistent route through Oxford drivin
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20753,8 +20753,8 @@ A dataset of 700 front-view video clips of driving for pedestrian action and tra
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20779,10 +20779,10 @@ A dataset of 700 front-view video clips of driving for pedestrian action and tra
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20835,8 +20835,8 @@ A dataset of driving fousing on traffic interactions.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20890,7 +20890,7 @@ A dataset of road users recorded using drones at German roundabouts.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20942,8 +20942,8 @@ A dataset of 644 driving scenarios annotated at 5Hz for 8 traffic objects.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -20998,9 +20998,9 @@ A dataset of interactions between humans and robots in indoor environment with 6
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#al">AL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#al">AL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21055,7 +21055,7 @@ A dataset of over 1000 hours of driving with associated trajectories and map
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21107,9 +21107,9 @@ A dataset of pedestrians recorded using a wearable camera in 6 indoor and outdoo
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#miou">MIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#miou">MIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21162,8 +21162,8 @@ A dataset of 40K+ trajectories recorded from a parking lot for five days
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21217,7 +21217,7 @@ A simulated dataset of driving sequences recorded using CARLA with 14M frames, 2
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21272,9 +21272,9 @@ A small-scale driving dataset with automatically generated bounding box track an
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21326,9 +21326,9 @@ A dataset of 100k images of under water diving recorded in Caribbean coasts
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bnace">BNACE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#inace">INACE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bnace">BNACE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#inace">INACE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21384,8 +21384,8 @@ A dataset of various types of road intersections recorded using a drone.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21438,9 +21438,9 @@ A dataset of real-world autonomous driving comprised of 1637 scenes each 10s lon
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21492,10 +21492,10 @@ A dataset of driving sequences collected at intersections with over 106M tracks 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maps">mAPs</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maps">mAPs</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21548,8 +21548,8 @@ A dataset of 40k frames of driving with semantic segmentation, 12k frames with 3
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21601,7 +21601,7 @@ A dataset of multiview video and multimodal sensor recordings of common activiti
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21655,8 +21655,8 @@ A dataset of simulated pedestrian crowds crossing in a circular formation.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21709,7 +21709,7 @@ A dataset of 8 dyadic human interactions, e.g. approaching, departing, pushing, 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21762,7 +21762,7 @@ A dataset of 4830 frames from 55 videos with 9 player action labels and 8 team a
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21816,7 +21816,7 @@ A dataset of Ceilidh Scottish dance sequences performed by 16 dancers in two sty
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21869,8 +21869,8 @@ An RGBD dataset of objects with corresponding 3D bounding boxes collected using 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#aede">AEDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#aede">AEDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21926,8 +21926,8 @@ A dataset of 28K indoor LIDAR scans showing the surroundings of a mobile robot i
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#aede">AEDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#aede">AEDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -21979,8 +21979,8 @@ A subset of Cityscapes dataset with fine-grained annotations for pedestrians and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -22035,9 +22035,9 @@ A dataset of street-level images with the corresponding instance and semantic se
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -22093,8 +22093,8 @@ A dataset of simulated dynamic objects.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -22150,9 +22150,9 @@ A dataset of 1500 video clips of traffic accidents with start and end annotation
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -22207,9 +22207,9 @@ A dataset of 1793 pedestrian trajectories collected from top-down view using a d
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -22265,8 +22265,8 @@ A dataset of 50 driving sequences with mix front and top-down view clips annotat
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -22318,11 +22318,11 @@ A dataset of 20 videos, each with approx. 400 frames, of different football matc
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dtg">DtG</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dtg">DtG</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -22374,7 +22374,7 @@ A dataset of instance-level motions in still images containing 11K+ pedestrian i
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -22429,8 +22429,8 @@ A dataset of crowd activities, e.g. walking, running, evacuation (rapid dispersi
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -22485,8 +22485,8 @@ A dataset with over 15 months of lane occupancy rate (0 to 1) information for se
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -22540,8 +22540,8 @@ A dataset of surveillance footage of road traffic  with 90K+ frames recorded at 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -22593,9 +22593,9 @@ A dataset of vehicle data collected in Ann Arbor at 10Hz with associated GPS and
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mae">MAE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#apad">APaD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#twae">TWAE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#apad">APaD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#twae">TWAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -22647,9 +22647,9 @@ A large-scale driving dataset with 15K frames recorded in 95 scenarios for perce
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
