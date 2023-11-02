@@ -34,9 +34,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#rt">RT</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -64,11 +64,11 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_e-i_datasets.md#fid">FID</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fid">FID</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -95,8 +95,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -122,8 +122,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -152,11 +152,11 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -183,9 +183,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_a-d_datasets.md#csim">CSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_a-d_metrics.md#csim">CSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -211,9 +211,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -240,11 +240,11 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_e-i_datasets.md#human">Human</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -269,8 +269,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_e-i_datasets.md#is">IS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#is">IS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -298,10 +298,10 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -327,8 +327,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ms-ssim">MS-SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ms-ssim">MS-SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -357,9 +357,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -385,8 +385,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -413,9 +413,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -443,8 +443,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -471,9 +471,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -500,8 +500,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -529,9 +529,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -558,8 +558,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -587,9 +587,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -616,8 +616,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -643,7 +643,7 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#ap">AP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -669,8 +669,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -696,8 +696,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -723,8 +723,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -751,8 +751,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -779,7 +779,7 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -804,9 +804,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#minmsd">minMSD</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#meanmsd">meanMSD</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_a-d_datasets.md#ce">CE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ce">CE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -832,10 +832,10 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_e-i_datasets.md#ed">ED</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#mined">minED</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#maxd">maxD</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mined">minED</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -862,9 +862,9 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#absrel">AbsRel</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#l1">L1</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#nfe">NFE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#nfe">NFE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -890,8 +890,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#cd">CD</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#emd">EMD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#emd">EMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -916,7 +916,7 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#cd">CD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -941,10 +941,10 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#run_time">Run Time</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#tp">TP</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#tn">TN</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#tp">TP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#tn">TN</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -969,7 +969,7 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1021,8 +1021,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#l1">L1</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#l1">L1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1047,7 +1047,7 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#l1">L1</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#l1">L1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1073,11 +1073,11 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_j-z_datasets.md#recall">Recall</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_j-z_datasets.md#precision">Precision</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_e-i_datasets.md#f1">F1</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1103,11 +1103,11 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_j-z_datasets.md#precision">Precision</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_e-i_datasets.md#f1">F1</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_j-z_datasets.md#map">mAP</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1133,10 +1133,10 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_j-z_datasets.md#precision">Precision</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_e-i_datasets.md#f1">F1</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1162,8 +1162,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#ap">AP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1189,9 +1189,9 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_e-i_datasets.md#f1">F1</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#auc">AUC</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1217,7 +1217,7 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1245,8 +1245,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#ap">AP</a></li>
-<li><a href="../../metrics/action/action_alphabeticalaction_j-z_datasets.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1272,7 +1272,7 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1298,7 +1298,7 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action/action_alphabeticalaction_j-z_datasets.md#map">mAP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1324,11 +1324,11 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_e-i_datasets.md#fiou">FIoU</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_e-i_datasets.md#frb">FRB</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_a-d_datasets.md#arb">ARB</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#arb">ARB</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1354,8 +1354,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1382,8 +1382,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1409,7 +1409,7 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1437,10 +1437,10 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1472,12 +1472,12 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_e-i_datasets.md#fiou">FIoU</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1505,7 +1505,7 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#kde">KDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1532,8 +1532,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1559,8 +1559,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_e-i_datasets.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1586,7 +1586,7 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion/motion_alphabeticalmotion_j-z_datasets.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1614,8 +1614,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#psi">Psi</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#ism">ISM</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#psi">Psi</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ism">ISM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1671,9 +1671,9 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#rt">RT</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1700,8 +1700,8 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1727,8 +1727,8 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1755,9 +1755,9 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_a-d_datasets.md#csim">CSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_a-d_metrics.md#csim">CSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1783,9 +1783,9 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1811,8 +1811,8 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ms-ssim">MS-SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ms-ssim">MS-SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1839,9 +1839,9 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1868,8 +1868,8 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1896,8 +1896,8 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_j-z_datasets.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1924,7 +1924,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/trajectory/trajectory_alphabeticaltrajectory_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1949,8 +1949,8 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#f1">F1</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1975,11 +1975,11 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#ap">AP</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#rq">RQ</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#sq">SQ</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#pq">PQ</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#rq">RQ</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#sq">SQ</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#pq">PQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2005,7 +2005,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#ap">AP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2030,7 +2030,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2057,10 +2057,10 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#ddm">DDM</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#aepe">AEPE</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#sile">SILE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ddm">DDM</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#aepe">AEPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#sile">SILE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2085,7 +2085,7 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2110,10 +2110,10 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#voi">VoI</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#gce">GCE</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#ri">RI</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#voi">VoI</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#gce">GCE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#ri">RI</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2138,9 +2138,9 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2165,9 +2165,9 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#epe">EPE</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#miou">MIoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#miou">MIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2220,7 +2220,7 @@ A large-scale dataset 300K+ video clips of 400 human action classes, e.g. drawin
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/action/action_alphabeticalaction_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2247,7 +2247,7 @@ A large-scale dataset 300K+ video clips of 400 human action classes, e.g. drawin
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2300,8 +2300,8 @@ A dataset of 15 household scenes with 150 recordings with different object confi
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion/motion_alphabeticalmotion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="../../metrics/motion/motion_alphabeticalmotion_a-d_datasets.md#ade">ADE</a></li>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2326,7 +2326,7 @@ A dataset of 15 household scenes with 150 recordings with different object confi
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#ed">ED</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2378,11 +2378,11 @@ A dataset of 80K+ images collected from 21K+ sequences with corresponding text c
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#bleu">BLEU</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#refclipscore">RefCLIPScore</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#clipscore">CLIPScore</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#spice">SPICE</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#cider">CIDEr</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#bleu">BLEU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#refclipscore">RefCLIPScore</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#clipscore">CLIPScore</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#spice">SPICE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#cider">CIDEr</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2407,7 +2407,7 @@ A dataset of 80K+ images collected from 21K+ sequences with corresponding text c
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2460,9 +2460,9 @@ A dataset of over 140 hours of driving with corresponding camera and LIDAR frame
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#f1">F1</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#precision">Precision</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#cross-entropy">Cross-entropy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#cross-entropy">Cross-entropy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2514,7 +2514,7 @@ A dataset of simulated deformable and rigid objects with associated graph repres
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#mpe">MPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mpe">MPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2567,8 +2567,8 @@ A dataset of simulated crow flow with 87K+ samples
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#mae">MAE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2620,7 +2620,7 @@ A dataset of 900+ faces and corresponding multi-view 3D meshes
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#me">ME</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#me">ME</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2672,9 +2672,9 @@ A dataset of solar activity recordings
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#bss">BSS</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#tss">TSS</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#gmgs">GMGS</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#bss">BSS</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#tss">TSS</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#gmgs">GMGS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2727,7 +2727,7 @@ A dataset of 180 minutes of motion and gaze of humans performing 1627 pick and p
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#l2">L2</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#l2">L2</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2781,9 +2781,9 @@ A dataset of photo realistic 3D indoor environments
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#f1">F1</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2837,9 +2837,9 @@ A dataset of photo realistic 1.4K+ 3D indoor environments
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#f1">F1</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2893,7 +2893,7 @@ A dataset of wide-angle images of the sky with the corresponding temperature rec
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#nmape">nMAPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#nmape">nMAPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2947,9 +2947,9 @@ A dataset of photo realistic 194K+ RGBD images of 90 indoor environments
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#f1">F1</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3003,7 +3003,7 @@ A dataset of wide-angle images of the sky with the corresponding temperature rec
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#nmape">nMAPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#nmape">nMAPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3057,7 +3057,7 @@ A dataset of catwalks by Miss Universe contestants during the evening gown compe
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3109,8 +3109,8 @@ A dataset of 142M+ product reviews from Amazon with corresponding metadata inclu
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#mae">MAE</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#mape">MAPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mape">MAPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3162,8 +3162,8 @@ An activity dataset of 1M images and the content of the corresponding tweets col
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#mape">MAPE</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#src">SRC</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mape">MAPE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#src">SRC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3215,7 +3215,7 @@ A dataset of 10K RGB-D images of indoor environments with the corresponding 2D a
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#pcp">PCP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#pcp">PCP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3269,7 +3269,7 @@ A dataset of annotated poses and stereo pairs.
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#ap">AP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3321,10 +3321,10 @@ A dataset of LIDAR scans and IMU readings with the corresponding images collecte
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#recall">Recall</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#precision">Precision</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#auc">AUC</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#run_time">Run Time</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3379,7 +3379,7 @@ A dataset of 3.5 hours of driving with the corresponding steering angle computed
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#mae">MAE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3431,7 +3431,7 @@ A dataset of 17M+ images captured every half hour during a period of 6 months fr
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3483,9 +3483,9 @@ A dataset of 8.6M egocentric RGBD synthetic data with collision labels and heat 
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabeticalother_e-i_datasets.md#f1">F1</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_a-d_datasets.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/other/other_alphabeticalother_j-z_datasets.md#kld">KLD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#kld">KLD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>

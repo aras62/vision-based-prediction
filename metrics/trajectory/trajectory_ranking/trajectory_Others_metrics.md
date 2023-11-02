@@ -26,10 +26,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcr">TCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcc">TCC</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -56,10 +56,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcr">TCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcc">TCC</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -84,9 +84,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcr">TCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#rv">RV</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#rv">RV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -111,11 +111,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcr">TCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -141,8 +141,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#ed">ED</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcr">TCR</a></li>
+<li><a href="trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -169,8 +169,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#rmse">RMSE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcr">TCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -197,9 +197,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcr">TCR</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -225,8 +225,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcr">TCR</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -253,9 +253,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcr">TCR</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -289,11 +289,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
-<li><a href="trajectory_e-i_datasets.md#frb">FRB</a></li>
-<li><a href="trajectory_a-d_datasets.md#arb">ARB</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="trajectory_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="trajectory_a-d_metrics.md#arb">ARB</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -318,10 +318,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
-<li><a href="trajectory_e-i_datasets.md#iou">IoU</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="trajectory_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -346,9 +346,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
-<li><a href="trajectory_j-z_datasets.md#miou">MIoU</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="trajectory_j-z_metrics.md#miou">MIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -377,12 +377,12 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -411,8 +411,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
-<li><a href="trajectory_j-z_datasets.md#miou">MIoU</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="trajectory_j-z_metrics.md#miou">MIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -437,10 +437,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#rmse">RMSE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -465,10 +465,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
-<li><a href="trajectory_a-d_datasets.md#aiou">AIoU</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="trajectory_a-d_metrics.md#aiou">AIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -493,9 +493,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -522,9 +522,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -558,12 +558,12 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#cte">CTE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ate">ATE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#cte">CTE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ate">ATE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -588,10 +588,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -616,10 +616,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -645,11 +645,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#rt">RT</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -675,10 +675,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -705,10 +705,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-minade">b-minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-minade">b-minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -734,11 +734,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#map">mAP</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -763,10 +763,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -800,9 +800,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#orr">ORR</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -827,10 +827,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#orr">ORR</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -857,11 +857,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#orr">ORR</a></li>
-<li><a href="trajectory_a-d_datasets.md#dac">DAC</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="trajectory_a-d_metrics.md#dac">DAC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -887,11 +887,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#orr">ORR</a></li>
-<li><a href="trajectory_e-i_datasets.md#emd">EMD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="trajectory_e-i_metrics.md#emd">EMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -916,10 +916,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#orr">ORR</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -944,9 +944,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#orr">ORR</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -972,11 +972,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#orr">ORR</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#orr">ORR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1009,8 +1009,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#l2">L2</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#l2">L2</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1036,9 +1036,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#l2">L2</a></li>
-<li><a href="trajectory_a-d_datasets.md#comfort">Comfort</a></li>
-<li><a href="trajectory_j-z_datasets.md#safety">Safety</a></li>
+<li><a href="trajectory_j-z_metrics.md#l2">L2</a></li>
+<li><a href="trajectory_a-d_metrics.md#comfort">Comfort</a></li>
+<li><a href="trajectory_j-z_metrics.md#safety">Safety</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1064,7 +1064,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#l2">L2</a></li>
+<li><a href="trajectory_j-z_metrics.md#l2">L2</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1094,7 +1094,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#l2">L2</a></li>
+<li><a href="trajectory_j-z_metrics.md#l2">L2</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1123,8 +1123,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#l2">L2</a></li>
-<li><a href="trajectory_j-z_datasets.md#l1">L1</a></li>
+<li><a href="trajectory_j-z_metrics.md#l2">L2</a></li>
+<li><a href="trajectory_j-z_metrics.md#l1">L1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1150,7 +1150,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#l2">L2</a></li>
+<li><a href="trajectory_j-z_metrics.md#l2">L2</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1184,7 +1184,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mhd">MHD</a></li>
+<li><a href="trajectory_j-z_metrics.md#mhd">MHD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1212,9 +1212,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mhd">MHD</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mhd">MHD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1242,9 +1242,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#run_time">Run Time</a></li>
-<li><a href="trajectory_j-z_datasets.md#mhd">MHD</a></li>
-<li><a href="trajectory_j-z_datasets.md#nlp">NLP</a></li>
+<li><a href="trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="trajectory_j-z_metrics.md#nlp">NLP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1270,8 +1270,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mhd">MHD</a></li>
-<li><a href="trajectory_j-z_datasets.md#nlp">NLP</a></li>
+<li><a href="trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="trajectory_j-z_metrics.md#nlp">NLP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1297,8 +1297,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#run_time">Run Time</a></li>
-<li><a href="trajectory_j-z_datasets.md#mhd">MHD</a></li>
+<li><a href="trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="trajectory_j-z_metrics.md#mhd">MHD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1323,11 +1323,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mhd">MHD</a></li>
-<li><a href="trajectory_j-z_datasets.md#kld">KLD</a></li>
-<li><a href="trajectory_a-d_datasets.md#dtg">DtG</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="trajectory_a-d_metrics.md#dtg">DtG</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1360,8 +1360,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#rmse">RMSE</a></li>
-<li><a href="trajectory_j-z_datasets.md#run_time">Run Time</a></li>
+<li><a href="trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1386,9 +1386,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#run_time">Run Time</a></li>
-<li><a href="trajectory_j-z_datasets.md#mhd">MHD</a></li>
-<li><a href="trajectory_j-z_datasets.md#nlp">NLP</a></li>
+<li><a href="trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="trajectory_j-z_metrics.md#nlp">NLP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1414,8 +1414,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#run_time">Run Time</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1441,8 +1441,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#run_time">Run Time</a></li>
-<li><a href="trajectory_j-z_datasets.md#mhd">MHD</a></li>
+<li><a href="trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="trajectory_j-z_metrics.md#mhd">MHD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1467,9 +1467,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_j-z_datasets.md#run_time">Run Time</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1495,8 +1495,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#ed">ED</a></li>
-<li><a href="trajectory_j-z_datasets.md#run_time">Run Time</a></li>
+<li><a href="trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="trajectory_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1531,9 +1531,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#ll">LL</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#ll">LL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1559,7 +1559,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#ll">LL</a></li>
+<li><a href="trajectory_j-z_metrics.md#ll">LL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1584,8 +1584,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#ll">LL</a></li>
-<li><a href="trajectory_j-z_datasets.md#kld">KLD</a></li>
+<li><a href="trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1611,10 +1611,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#ll">LL</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#ll">LL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1640,8 +1640,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#ll">LL</a></li>
-<li><a href="trajectory_j-z_datasets.md#wrmse">WRMSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="trajectory_j-z_metrics.md#wrmse">WRMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1666,9 +1666,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#ll">LL</a></li>
-<li><a href="trajectory_e-i_datasets.md#human">Human</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="trajectory_e-i_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1701,8 +1701,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="trajectory_j-z_datasets.md#vpq">VPQ</a></li>
+<li><a href="trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="trajectory_j-z_metrics.md#vpq">VPQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1727,10 +1727,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
-<li><a href="trajectory_e-i_datasets.md#iou">IoU</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="trajectory_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1756,9 +1756,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="trajectory_j-z_datasets.md#vam">VAM</a></li>
-<li><a href="trajectory_j-z_datasets.md#vim">VIM</a></li>
+<li><a href="trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="trajectory_j-z_metrics.md#vam">VAM</a></li>
+<li><a href="trajectory_j-z_metrics.md#vim">VIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1783,9 +1783,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="trajectory_a-d_datasets.md#bnace">BNACE</a></li>
-<li><a href="trajectory_e-i_datasets.md#inace">INACE</a></li>
+<li><a href="trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="trajectory_a-d_metrics.md#bnace">BNACE</a></li>
+<li><a href="trajectory_e-i_metrics.md#inace">INACE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1813,9 +1813,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_e-i_datasets.md#iou">IoU</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1848,9 +1848,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#kld">KLD</a></li>
-<li><a href="trajectory_a-d_datasets.md#amd">AMD</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="trajectory_a-d_metrics.md#amd">AMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1878,11 +1878,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#ed">ED</a></li>
-<li><a href="trajectory_j-z_datasets.md#kld">KLD</a></li>
-<li><a href="trajectory_j-z_datasets.md#l1">L1</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="trajectory_j-z_metrics.md#l1">L1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1907,8 +1907,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#ll">LL</a></li>
-<li><a href="trajectory_j-z_datasets.md#kld">KLD</a></li>
+<li><a href="trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1934,9 +1934,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#kld">KLD</a></li>
-<li><a href="trajectory_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1961,11 +1961,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mhd">MHD</a></li>
-<li><a href="trajectory_j-z_datasets.md#kld">KLD</a></li>
-<li><a href="trajectory_a-d_datasets.md#dtg">DtG</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="trajectory_a-d_metrics.md#dtg">DtG</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1999,8 +1999,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#rmse">RMSE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mae">MAE</a></li>
+<li><a href="trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2026,7 +2026,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mae">MAE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2051,9 +2051,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mae">MAE</a></li>
-<li><a href="trajectory_a-d_datasets.md#apad">APaD</a></li>
-<li><a href="trajectory_j-z_datasets.md#twae">TWAE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="trajectory_a-d_metrics.md#apad">APaD</a></li>
+<li><a href="trajectory_j-z_metrics.md#twae">TWAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2079,9 +2079,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#rmse">RMSE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mae">MAE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mape">MAPE</a></li>
+<li><a href="trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mape">MAPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2116,10 +2116,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcr">TCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcc">TCC</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2146,9 +2146,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcc">TCC</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2175,10 +2175,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcr">TCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcc">TCC</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2205,9 +2205,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcc">TCC</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2240,10 +2240,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#map">mAP</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsfde">minSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsade">minSADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#smr">SMR</a></li>
+<li><a href="trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#smr">SMR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2270,11 +2270,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsfde">minSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsade">minSADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#or">OR</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#or">OR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2299,12 +2299,12 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#map">mAP</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsfde">minSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsade">minSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsade">minSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2331,11 +2331,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minsfde">minSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsade">minSADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#scr">SCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#meansfde">meanSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#meansade">meanSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#meansfde">meanSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#meansade">meanSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2371,10 +2371,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#wade">wADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#wade">wADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2399,10 +2399,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#wade">wADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#wfde">wFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#wade">wADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#wfde">wFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2429,8 +2429,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#wade">wADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#wade">wADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2456,8 +2456,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#wade">wADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#wfde">wFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#wade">wADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#wfde">wFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2495,11 +2495,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#orr">ORR</a></li>
-<li><a href="trajectory_a-d_datasets.md#dac">DAC</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="trajectory_a-d_metrics.md#dac">DAC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2524,10 +2524,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_datasets.md#dac">DAC</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_a-d_metrics.md#dac">DAC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2555,13 +2555,13 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#dac">DAC</a></li>
-<li><a href="trajectory_j-z_datasets.md#wsfde">WSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#wsade">WSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#wsade">WSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2586,10 +2586,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_datasets.md#dac">DAC</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_a-d_metrics.md#dac">DAC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2622,10 +2622,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#map">mAP</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsfde">minSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsade">minSADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#smr">SMR</a></li>
+<li><a href="trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#smr">SMR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2652,11 +2652,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsfde">minSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsade">minSADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#or">OR</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#or">OR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2681,12 +2681,12 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#map">mAP</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsfde">minSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsade">minSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsade">minSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2713,11 +2713,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minsfde">minSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsade">minSADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#scr">SCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#meansfde">meanSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#meansade">meanSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#meansfde">meanSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#meansade">meanSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2750,7 +2750,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2775,7 +2775,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2800,7 +2800,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2826,9 +2826,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#kld">KLD</a></li>
-<li><a href="trajectory_a-d_datasets.md#accuracy">Accuracy</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2862,11 +2862,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointfde">minJointFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointade">minJointADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2892,8 +2892,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minjointfde">minJointFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointade">minJointADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2920,11 +2920,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointfde">minJointFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointade">minJointADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2951,11 +2951,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointfde">minJointFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointade">minJointADE</a></li>
-<li><a href="trajectory_a-d_datasets.md#cd">CD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="trajectory_a-d_metrics.md#cd">CD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2989,11 +2989,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointfde">minJointFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointade">minJointADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3019,8 +3019,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minjointfde">minJointFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointade">minJointADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3047,11 +3047,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointfde">minJointFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointade">minJointADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3078,11 +3078,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointfde">minJointFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointade">minJointADE</a></li>
-<li><a href="trajectory_a-d_datasets.md#cd">CD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="trajectory_a-d_metrics.md#cd">CD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3116,14 +3116,14 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#scr">SCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#smr">SMR</a></li>
-<li><a href="trajectory_e-i_datasets.md#iminfde">iminFDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#iminade">iminADE</a></li>
-<li><a href="trajectory_a-d_datasets.md#cmr">CMR</a></li>
-<li><a href="trajectory_a-d_datasets.md#cross-col">Cross-Col</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#iminade">iminADE</a></li>
+<li><a href="trajectory_a-d_metrics.md#cmr">CMR</a></li>
+<li><a href="trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3150,11 +3150,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minsfde">minSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsade">minSADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#scr">SCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#meansfde">meanSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#meansade">meanSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#meansfde">meanSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#meansade">meanSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3180,8 +3180,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_j-z_datasets.md#scr">SCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_j-z_metrics.md#scr">SCR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3218,9 +3218,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#rt">RT</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3246,11 +3246,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#rt">RT</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3276,8 +3276,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#ed">ED</a></li>
-<li><a href="trajectory_j-z_datasets.md#rt">RT</a></li>
+<li><a href="trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="trajectory_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3310,10 +3310,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_datasets.md#bminfde">bminFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3338,9 +3338,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_a-d_datasets.md#bminfde">bminFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3365,10 +3365,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_datasets.md#bminfde">bminFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3402,8 +3402,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minmsd">minMSD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3429,8 +3429,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minmsd">minMSD</a></li>
-<li><a href="trajectory_j-z_datasets.md#meanmsd">meanMSD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
+<li><a href="trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3455,9 +3455,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minmsd">minMSD</a></li>
-<li><a href="trajectory_j-z_datasets.md#meanmsd">meanMSD</a></li>
-<li><a href="trajectory_a-d_datasets.md#ce">CE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
+<li><a href="trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
+<li><a href="trajectory_a-d_metrics.md#ce">CE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3493,11 +3493,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_j-z_datasets.md#kde">KDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#ecfl">ECFL</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#ecfl">ECFL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3523,11 +3523,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#kde">KDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#amd">AMD</a></li>
-<li><a href="trajectory_a-d_datasets.md#amv">AMV</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#amd">AMD</a></li>
+<li><a href="trajectory_a-d_metrics.md#amv">AMV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3552,7 +3552,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#kde">KDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#kde">KDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3585,9 +3585,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#maxd">MaxD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#maxd">MaxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3619,11 +3619,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#maxd">MaxD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#maxd">MaxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3648,9 +3648,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#maxd">MaxD</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#maxd">MaxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3686,11 +3686,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#ed">ED</a></li>
-<li><a href="trajectory_j-z_datasets.md#kld">KLD</a></li>
-<li><a href="trajectory_j-z_datasets.md#l1">L1</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="trajectory_j-z_metrics.md#l1">L1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3716,8 +3716,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#l2">L2</a></li>
-<li><a href="trajectory_j-z_datasets.md#l1">L1</a></li>
+<li><a href="trajectory_j-z_metrics.md#l2">L2</a></li>
+<li><a href="trajectory_j-z_metrics.md#l1">L1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3743,8 +3743,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="trajectory_j-z_datasets.md#l1">L1</a></li>
+<li><a href="trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#l1">L1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3779,11 +3779,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointfde">minJointFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minjointade">minJointADE</a></li>
-<li><a href="trajectory_a-d_datasets.md#cd">CD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="trajectory_a-d_metrics.md#cd">CD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3809,8 +3809,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#cd">CD</a></li>
-<li><a href="trajectory_j-z_datasets.md#progress">Progress</a></li>
+<li><a href="trajectory_a-d_metrics.md#cd">CD</a></li>
+<li><a href="trajectory_j-z_metrics.md#progress">Progress</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3846,9 +3846,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ande">ANDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3874,9 +3874,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ande">ANDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ande">ANDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3910,11 +3910,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
-<li><a href="trajectory_e-i_datasets.md#frb">FRB</a></li>
-<li><a href="trajectory_a-d_datasets.md#arb">ARB</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="trajectory_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="trajectory_a-d_metrics.md#arb">ARB</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3940,10 +3940,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#frb">FRB</a></li>
-<li><a href="trajectory_a-d_datasets.md#arb">ARB</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="trajectory_a-d_metrics.md#arb">ARB</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3977,11 +3977,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
-<li><a href="trajectory_e-i_datasets.md#frb">FRB</a></li>
-<li><a href="trajectory_a-d_datasets.md#arb">ARB</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="trajectory_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="trajectory_a-d_metrics.md#arb">ARB</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4007,10 +4007,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#frb">FRB</a></li>
-<li><a href="trajectory_a-d_datasets.md#arb">ARB</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="trajectory_a-d_metrics.md#arb">ARB</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4044,11 +4044,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#orr">ORR</a></li>
-<li><a href="trajectory_e-i_datasets.md#emd">EMD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#orr">ORR</a></li>
+<li><a href="trajectory_e-i_metrics.md#emd">EMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4074,9 +4074,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_e-i_datasets.md#emd">EMD</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_e-i_metrics.md#emd">EMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4109,10 +4109,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#wade">wADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#wfde">wFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#wade">wADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#wfde">wFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4138,8 +4138,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#wade">wADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#wfde">wFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#wade">wADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#wfde">wFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4175,9 +4175,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#run_time">Run Time</a></li>
-<li><a href="trajectory_j-z_datasets.md#mhd">MHD</a></li>
-<li><a href="trajectory_j-z_datasets.md#nlp">NLP</a></li>
+<li><a href="trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="trajectory_j-z_metrics.md#nlp">NLP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4203,8 +4203,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mhd">MHD</a></li>
-<li><a href="trajectory_j-z_datasets.md#nlp">NLP</a></li>
+<li><a href="trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="trajectory_j-z_metrics.md#nlp">NLP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4237,9 +4237,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ap">AP</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4265,9 +4265,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ap">AP</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ap">AP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4300,11 +4300,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#ur">UR</a></li>
-<li><a href="trajectory_j-z_datasets.md#tri">TRI</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#ur">UR</a></li>
+<li><a href="trajectory_j-z_metrics.md#tri">TRI</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4330,9 +4330,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="trajectory_j-z_datasets.md#ur">UR</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#ur">UR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4368,9 +4368,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_e-i_datasets.md#ece">ECE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_e-i_metrics.md#ece">ECE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4396,10 +4396,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_e-i_datasets.md#ece">ECE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_e-i_metrics.md#ece">ECE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4432,9 +4432,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#maxd">maxD</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#maxd">maxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4460,10 +4460,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_e-i_datasets.md#ed">ED</a></li>
-<li><a href="trajectory_j-z_datasets.md#mined">minED</a></li>
-<li><a href="trajectory_j-z_datasets.md#maxd">maxD</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="trajectory_j-z_metrics.md#mined">minED</a></li>
+<li><a href="trajectory_j-z_metrics.md#maxd">maxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4497,8 +4497,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mmd">MMD</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-ade">b-ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mmd">MMD</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-ade">b-ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4524,10 +4524,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_j-z_datasets.md#mmd">MMD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_j-z_metrics.md#mmd">MMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4560,9 +4560,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#kld">KLD</a></li>
-<li><a href="trajectory_a-d_datasets.md#amd">AMD</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="trajectory_a-d_metrics.md#amd">AMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4588,11 +4588,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#kde">KDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#amd">AMD</a></li>
-<li><a href="trajectory_a-d_datasets.md#amv">AMV</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#amd">AMD</a></li>
+<li><a href="trajectory_a-d_metrics.md#amv">AMV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4626,9 +4626,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#hit_rate">Hit Rate</a></li>
-<li><a href="trajectory_j-z_datasets.md#mined">minED</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#hit_rate">Hit Rate</a></li>
+<li><a href="trajectory_j-z_metrics.md#mined">minED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4654,10 +4654,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_e-i_datasets.md#ed">ED</a></li>
-<li><a href="trajectory_j-z_datasets.md#mined">minED</a></li>
-<li><a href="trajectory_j-z_datasets.md#maxd">maxD</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="trajectory_j-z_metrics.md#mined">minED</a></li>
+<li><a href="trajectory_j-z_metrics.md#maxd">maxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4691,8 +4691,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minmsd">minMSD</a></li>
-<li><a href="trajectory_j-z_datasets.md#meanmsd">meanMSD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
+<li><a href="trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4717,9 +4717,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minmsd">minMSD</a></li>
-<li><a href="trajectory_j-z_datasets.md#meanmsd">meanMSD</a></li>
-<li><a href="trajectory_a-d_datasets.md#ce">CE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
+<li><a href="trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
+<li><a href="trajectory_a-d_metrics.md#ce">CE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4753,11 +4753,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#map">mAP</a></li>
-<li><a href="trajectory_j-z_datasets.md#overlap">Overlap</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="trajectory_j-z_metrics.md#overlap">Overlap</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4782,11 +4782,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#map">mAP</a></li>
-<li><a href="trajectory_j-z_datasets.md#overlap">Overlap</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="trajectory_j-z_metrics.md#overlap">Overlap</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4819,8 +4819,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#ed">ED</a></li>
-<li><a href="trajectory_j-z_datasets.md#mane">MAnE</a></li>
+<li><a href="trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="trajectory_j-z_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4846,9 +4846,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mane">MAnE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mane">MAnE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4882,9 +4882,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#hit_rate">Hit Rate</a></li>
-<li><a href="trajectory_j-z_datasets.md#mined">minED</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#hit_rate">Hit Rate</a></li>
+<li><a href="trajectory_j-z_metrics.md#mined">minED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4910,7 +4910,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#hit_rate">Hit Rate</a></li>
+<li><a href="trajectory_e-i_metrics.md#hit_rate">Hit Rate</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4943,10 +4943,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#map">mAP</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsfde">minSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsade">minSADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#smr">SMR</a></li>
+<li><a href="trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#smr">SMR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4972,14 +4972,14 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#scr">SCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#smr">SMR</a></li>
-<li><a href="trajectory_e-i_datasets.md#iminfde">iminFDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#iminade">iminADE</a></li>
-<li><a href="trajectory_a-d_datasets.md#cmr">CMR</a></li>
-<li><a href="trajectory_a-d_datasets.md#cross-col">Cross-Col</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#iminade">iminADE</a></li>
+<li><a href="trajectory_a-d_metrics.md#cmr">CMR</a></li>
+<li><a href="trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5012,9 +5012,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
-<li><a href="trajectory_j-z_datasets.md#miou">MIoU</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="trajectory_j-z_metrics.md#miou">MIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5040,8 +5040,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
-<li><a href="trajectory_j-z_datasets.md#miou">MIoU</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="trajectory_j-z_metrics.md#miou">MIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5074,10 +5074,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#meanfde">meanFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#meanade">meanADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#meanade">meanADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5103,12 +5103,12 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#meanfde">meanFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#meanade">meanADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#meanade">meanADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5141,10 +5141,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#meanfde">meanFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#meanade">meanADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#meanade">meanADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5170,12 +5170,12 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#meanfde">meanFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#meanade">meanADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#meanade">meanADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5209,8 +5209,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mmd">MMD</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-ade">b-ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mmd">MMD</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-ade">b-ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5243,8 +5243,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="trajectory_j-z_datasets.md#vpq">VPQ</a></li>
+<li><a href="trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="trajectory_j-z_metrics.md#vpq">VPQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5280,11 +5280,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_j-z_datasets.md#kde">KDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#ecfl">ECFL</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#ecfl">ECFL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5318,12 +5318,12 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#cte">CTE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ate">ATE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#cte">CTE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ate">ATE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5357,12 +5357,12 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#cte">CTE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ate">ATE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#cte">CTE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ate">ATE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5395,9 +5395,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#ptu">PTU</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#ptu">PTU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5431,14 +5431,14 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#scr">SCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#smr">SMR</a></li>
-<li><a href="trajectory_e-i_datasets.md#iminfde">iminFDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#iminade">iminADE</a></li>
-<li><a href="trajectory_a-d_datasets.md#cmr">CMR</a></li>
-<li><a href="trajectory_a-d_datasets.md#cross-col">Cross-Col</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#iminade">iminADE</a></li>
+<li><a href="trajectory_a-d_metrics.md#cmr">CMR</a></li>
+<li><a href="trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5471,10 +5471,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_e-i_datasets.md#epa">EPA</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_e-i_metrics.md#epa">EPA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5508,14 +5508,14 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#scr">SCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#smr">SMR</a></li>
-<li><a href="trajectory_e-i_datasets.md#iminfde">iminFDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#iminade">iminADE</a></li>
-<li><a href="trajectory_a-d_datasets.md#cmr">CMR</a></li>
-<li><a href="trajectory_a-d_datasets.md#cross-col">Cross-Col</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#iminade">iminADE</a></li>
+<li><a href="trajectory_a-d_metrics.md#cmr">CMR</a></li>
+<li><a href="trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5548,8 +5548,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#sor">SOR</a></li>
-<li><a href="trajectory_e-i_datasets.md#hor">HOR</a></li>
+<li><a href="trajectory_j-z_metrics.md#sor">SOR</a></li>
+<li><a href="trajectory_e-i_metrics.md#hor">HOR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5582,8 +5582,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#sor">SOR</a></li>
-<li><a href="trajectory_e-i_datasets.md#hor">HOR</a></li>
+<li><a href="trajectory_j-z_metrics.md#sor">SOR</a></li>
+<li><a href="trajectory_e-i_metrics.md#hor">HOR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5618,11 +5618,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsfde">minSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsade">minSADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#or">OR</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#or">OR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5655,10 +5655,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#maps">mAPs</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#maps">mAPs</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5693,10 +5693,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-minfde">b-minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#b-minade">b-minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#b-minade">b-minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5730,11 +5730,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#rf">RF</a></li>
-<li><a href="trajectory_a-d_datasets.md#dao">DAO</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#rf">RF</a></li>
+<li><a href="trajectory_a-d_metrics.md#dao">DAO</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5768,11 +5768,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#rf">RF</a></li>
-<li><a href="trajectory_a-d_datasets.md#dao">DAO</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#rf">RF</a></li>
+<li><a href="trajectory_a-d_metrics.md#dao">DAO</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5806,14 +5806,14 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#scr">SCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#smr">SMR</a></li>
-<li><a href="trajectory_e-i_datasets.md#iminfde">iminFDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#iminade">iminADE</a></li>
-<li><a href="trajectory_a-d_datasets.md#cmr">CMR</a></li>
-<li><a href="trajectory_a-d_datasets.md#cross-col">Cross-Col</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#iminade">iminADE</a></li>
+<li><a href="trajectory_a-d_metrics.md#cmr">CMR</a></li>
+<li><a href="trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5847,14 +5847,14 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#scr">SCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#smr">SMR</a></li>
-<li><a href="trajectory_e-i_datasets.md#iminfde">iminFDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#iminade">iminADE</a></li>
-<li><a href="trajectory_a-d_datasets.md#cmr">CMR</a></li>
-<li><a href="trajectory_a-d_datasets.md#cross-col">Cross-Col</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#iminade">iminADE</a></li>
+<li><a href="trajectory_a-d_metrics.md#cmr">CMR</a></li>
+<li><a href="trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5888,11 +5888,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#kde">KDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#amd">AMD</a></li>
-<li><a href="trajectory_a-d_datasets.md#amv">AMV</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#amd">AMD</a></li>
+<li><a href="trajectory_a-d_metrics.md#amv">AMV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5926,7 +5926,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#none">None</a></li>
+<li><a href="trajectory_j-z_metrics.md#none">None</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5959,7 +5959,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#epe3d">EPE3D</a></li>
+<li><a href="trajectory_e-i_metrics.md#epe3d">EPE3D</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5993,9 +5993,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#rmse">RMSE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mae">MAE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mape">MAPE</a></li>
+<li><a href="trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mape">MAPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6029,9 +6029,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_a-d_datasets.md#bev_ap">BEV AP</a></li>
-<li><a href="trajectory_a-d_datasets.md#de">DE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_a-d_metrics.md#bev_ap">BEV AP</a></li>
+<li><a href="trajectory_a-d_metrics.md#de">DE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6066,11 +6066,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minsfde">minSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsade">minSADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#scr">SCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#meansfde">meanSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#meansade">meanSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#meansfde">meanSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#meansade">meanSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6105,11 +6105,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minsfde">minSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minsade">minSADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#scr">SCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#meansfde">meanSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#meansade">meanSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#meansfde">meanSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#meansade">meanSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6144,11 +6144,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_j-z_datasets.md#mc">MC</a></li>
-<li><a href="trajectory_e-i_datasets.md#f">F</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_j-z_metrics.md#mc">MC</a></li>
+<li><a href="trajectory_e-i_metrics.md#f">F</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6183,11 +6183,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_j-z_datasets.md#mc">MC</a></li>
-<li><a href="trajectory_e-i_datasets.md#f">F</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_j-z_metrics.md#mc">MC</a></li>
+<li><a href="trajectory_e-i_metrics.md#f">F</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6220,10 +6220,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fiou">FIoU</a></li>
-<li><a href="trajectory_a-d_datasets.md#aiou">AIoU</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="trajectory_a-d_metrics.md#aiou">AIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6257,7 +6257,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#qualitative">Qualitative</a></li>
+<li><a href="trajectory_j-z_metrics.md#qualitative">Qualitative</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6291,7 +6291,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#epe">EPE</a></li>
+<li><a href="trajectory_e-i_metrics.md#epe">EPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6326,9 +6326,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fle">FLE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fle">FLE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6361,9 +6361,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mae">MAE</a></li>
-<li><a href="trajectory_a-d_datasets.md#apad">APaD</a></li>
-<li><a href="trajectory_j-z_datasets.md#twae">TWAE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="trajectory_a-d_metrics.md#apad">APaD</a></li>
+<li><a href="trajectory_j-z_metrics.md#twae">TWAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6396,9 +6396,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mae">MAE</a></li>
-<li><a href="trajectory_a-d_datasets.md#apad">APaD</a></li>
-<li><a href="trajectory_j-z_datasets.md#twae">TWAE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="trajectory_a-d_metrics.md#apad">APaD</a></li>
+<li><a href="trajectory_j-z_metrics.md#twae">TWAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6433,11 +6433,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_j-z_datasets.md#rmse">RMSE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minmde">minMDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minmde">minMDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6470,11 +6470,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mr">MR</a></li>
-<li><a href="trajectory_j-z_datasets.md#ur">UR</a></li>
-<li><a href="trajectory_j-z_datasets.md#tri">TRI</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="trajectory_j-z_metrics.md#ur">UR</a></li>
+<li><a href="trajectory_j-z_metrics.md#tri">TRI</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6508,7 +6508,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mpg">MPG</a></li>
+<li><a href="trajectory_j-z_metrics.md#mpg">MPG</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6544,8 +6544,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#ed">ED</a></li>
-<li><a href="trajectory_a-d_datasets.md#cll">CLL</a></li>
+<li><a href="trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="trajectory_a-d_metrics.md#cll">CLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6578,9 +6578,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minmsd">minMSD</a></li>
-<li><a href="trajectory_j-z_datasets.md#meanmsd">meanMSD</a></li>
-<li><a href="trajectory_a-d_datasets.md#ce">CE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
+<li><a href="trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
+<li><a href="trajectory_a-d_metrics.md#ce">CE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6614,7 +6614,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#app">APP</a></li>
+<li><a href="trajectory_a-d_metrics.md#app">APP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6648,8 +6648,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_a-d_datasets.md#aede">AEDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_a-d_metrics.md#aede">AEDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6683,8 +6683,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#ll">LL</a></li>
-<li><a href="trajectory_j-z_datasets.md#wrmse">WRMSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="trajectory_j-z_metrics.md#wrmse">WRMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6718,7 +6718,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ct">CT</a></li>
+<li><a href="trajectory_a-d_metrics.md#ct">CT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6751,9 +6751,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#ll">LL</a></li>
-<li><a href="trajectory_e-i_datasets.md#human">Human</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="trajectory_e-i_metrics.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6787,7 +6787,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#pd">PD</a></li>
+<li><a href="trajectory_j-z_metrics.md#pd">PD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6821,8 +6821,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#precision">Precision</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#precision">Precision</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6855,11 +6855,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mhd">MHD</a></li>
-<li><a href="trajectory_j-z_datasets.md#kld">KLD</a></li>
-<li><a href="trajectory_a-d_datasets.md#dtg">DtG</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="trajectory_a-d_metrics.md#dtg">DtG</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6893,9 +6893,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_a-d_datasets.md#bev_ap">BEV AP</a></li>
-<li><a href="trajectory_a-d_datasets.md#de">DE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_a-d_metrics.md#bev_ap">BEV AP</a></li>
+<li><a href="trajectory_a-d_metrics.md#de">DE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6931,13 +6931,13 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#dac">DAC</a></li>
-<li><a href="trajectory_j-z_datasets.md#wsfde">WSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#wsade">WSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#wsade">WSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -6973,13 +6973,13 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#dac">DAC</a></li>
-<li><a href="trajectory_j-z_datasets.md#wsfde">WSFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#wsade">WSADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#dac">DAC</a></li>
+<li><a href="trajectory_j-z_metrics.md#wsfde">WSFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#wsade">WSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7012,8 +7012,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#mota">MOTA</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#mota">MOTA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7046,8 +7046,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#risk">Risk</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#risk">Risk</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7082,9 +7082,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="trajectory_a-d_datasets.md#deltaesv">DeltaESV</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="trajectory_a-d_metrics.md#deltaesv">DeltaESV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7117,9 +7117,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_e-i_datasets.md#entropy">Entropy</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_e-i_metrics.md#entropy">Entropy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7153,7 +7153,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#fnm">FNM</a></li>
+<li><a href="trajectory_e-i_metrics.md#fnm">FNM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7186,9 +7186,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tcr">TCR</a></li>
-<li><a href="trajectory_j-z_datasets.md#rv">RV</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="trajectory_j-z_metrics.md#rv">RV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7222,9 +7222,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="trajectory_j-z_datasets.md#vam">VAM</a></li>
-<li><a href="trajectory_j-z_datasets.md#vim">VIM</a></li>
+<li><a href="trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="trajectory_j-z_metrics.md#vam">VAM</a></li>
+<li><a href="trajectory_j-z_metrics.md#vim">VIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7258,9 +7258,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="trajectory_j-z_datasets.md#vam">VAM</a></li>
-<li><a href="trajectory_j-z_datasets.md#vim">VIM</a></li>
+<li><a href="trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="trajectory_j-z_metrics.md#vam">VAM</a></li>
+<li><a href="trajectory_j-z_metrics.md#vim">VIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7294,9 +7294,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tn">TN</a></li>
-<li><a href="trajectory_j-z_datasets.md#tp">TP</a></li>
+<li><a href="trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tn">TN</a></li>
+<li><a href="trajectory_j-z_metrics.md#tp">TP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7330,9 +7330,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="trajectory_j-z_datasets.md#tn">TN</a></li>
-<li><a href="trajectory_j-z_datasets.md#tp">TP</a></li>
+<li><a href="trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#tn">TN</a></li>
+<li><a href="trajectory_j-z_metrics.md#tp">TP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7366,8 +7366,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#cd">CD</a></li>
-<li><a href="trajectory_j-z_datasets.md#progress">Progress</a></li>
+<li><a href="trajectory_a-d_metrics.md#cd">CD</a></li>
+<li><a href="trajectory_j-z_metrics.md#progress">Progress</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7400,10 +7400,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfsd">minFSD</a></li>
-<li><a href="trajectory_j-z_datasets.md#minasd">minASD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfsd">minFSD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minasd">minASD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7436,10 +7436,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#minfsd">minFSD</a></li>
-<li><a href="trajectory_j-z_datasets.md#minasd">minASD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#minfsd">minFSD</a></li>
+<li><a href="trajectory_j-z_metrics.md#minasd">minASD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7473,7 +7473,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#probability">Probability</a></li>
+<li><a href="trajectory_j-z_metrics.md#probability">Probability</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7507,8 +7507,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#boxorfp">BoxORFP</a></li>
-<li><a href="trajectory_a-d_datasets.md#ctrorfp">CtrORFP</a></li>
+<li><a href="trajectory_a-d_metrics.md#boxorfp">BoxORFP</a></li>
+<li><a href="trajectory_a-d_metrics.md#ctrorfp">CtrORFP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7542,8 +7542,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#boxorfp">BoxORFP</a></li>
-<li><a href="trajectory_a-d_datasets.md#ctrorfp">CtrORFP</a></li>
+<li><a href="trajectory_a-d_metrics.md#boxorfp">BoxORFP</a></li>
+<li><a href="trajectory_a-d_metrics.md#ctrorfp">CtrORFP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7577,9 +7577,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#l2">L2</a></li>
-<li><a href="trajectory_a-d_datasets.md#comfort">Comfort</a></li>
-<li><a href="trajectory_j-z_datasets.md#safety">Safety</a></li>
+<li><a href="trajectory_j-z_metrics.md#l2">L2</a></li>
+<li><a href="trajectory_a-d_metrics.md#comfort">Comfort</a></li>
+<li><a href="trajectory_j-z_metrics.md#safety">Safety</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7613,9 +7613,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#l2">L2</a></li>
-<li><a href="trajectory_a-d_datasets.md#comfort">Comfort</a></li>
-<li><a href="trajectory_j-z_datasets.md#safety">Safety</a></li>
+<li><a href="trajectory_j-z_metrics.md#l2">L2</a></li>
+<li><a href="trajectory_a-d_metrics.md#comfort">Comfort</a></li>
+<li><a href="trajectory_j-z_metrics.md#safety">Safety</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7649,9 +7649,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_j-z_datasets.md#rmse">RMSE</a></li>
-<li><a href="trajectory_j-z_datasets.md#qde">QDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#qde">QDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7688,7 +7688,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#recall">Recall</a></li>
+<li><a href="trajectory_j-z_metrics.md#recall">Recall</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7721,9 +7721,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="trajectory_a-d_datasets.md#bnace">BNACE</a></li>
-<li><a href="trajectory_e-i_datasets.md#inace">INACE</a></li>
+<li><a href="trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="trajectory_a-d_metrics.md#bnace">BNACE</a></li>
+<li><a href="trajectory_e-i_metrics.md#inace">INACE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7756,9 +7756,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="trajectory_a-d_datasets.md#bnace">BNACE</a></li>
-<li><a href="trajectory_e-i_datasets.md#inace">INACE</a></li>
+<li><a href="trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="trajectory_a-d_metrics.md#bnace">BNACE</a></li>
+<li><a href="trajectory_e-i_metrics.md#inace">INACE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7791,9 +7791,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_j-z_datasets.md#ppei">PPEI</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_j-z_metrics.md#ppei">PPEI</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7829,9 +7829,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="trajectory_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="trajectory_a-d_datasets.md#al">AL</a></li>
+<li><a href="trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="trajectory_a-d_metrics.md#al">AL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7865,7 +7865,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="trajectory_j-z_datasets.md#rwse">RWSE</a></li>
+<li><a href="trajectory_j-z_metrics.md#rwse">RWSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>

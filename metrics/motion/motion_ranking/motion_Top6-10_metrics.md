@@ -25,13 +25,13 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
-<li><a href="motion_e-i_datasets.md#fid">FID</a></li>
-<li><a href="motion_a-d_datasets.md#cmd">CMD</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fid">FID</a></li>
+<li><a href="motion_a-d_metrics.md#cmd">CMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -59,11 +59,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -89,13 +89,13 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="motion_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="motion_j-z_datasets.md#minade">minADE</a></li>
-<li><a href="motion_j-z_datasets.md#sde">sDE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="motion_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="motion_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="motion_j-z_metrics.md#sde">sDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -120,11 +120,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -150,9 +150,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -178,11 +178,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#nll">NLL</a></li>
-<li><a href="motion_j-z_datasets.md#kde">KDE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="motion_j-z_metrics.md#kde">KDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -208,11 +208,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#minfde">minFDE</a></li>
-<li><a href="motion_j-z_datasets.md#minade">minADE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="motion_j-z_metrics.md#minade">minADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -237,11 +237,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -267,7 +267,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -293,9 +293,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -321,11 +321,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -351,7 +351,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -389,8 +389,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mpjpe">MPJPE</a></li>
-<li><a href="motion_j-z_datasets.md#mae">MAE</a></li>
+<li><a href="motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="motion_j-z_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -417,8 +417,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mpjpe">MPJPE</a></li>
-<li><a href="motion_j-z_datasets.md#mae">MAE</a></li>
+<li><a href="motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="motion_j-z_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -445,8 +445,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mpjpe">MPJPE</a></li>
-<li><a href="motion_j-z_datasets.md#mae">MAE</a></li>
+<li><a href="motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="motion_j-z_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -473,8 +473,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mpjpe">MPJPE</a></li>
-<li><a href="motion_j-z_datasets.md#mae">MAE</a></li>
+<li><a href="motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="motion_j-z_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -500,8 +500,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mae">MAE</a></li>
-<li><a href="motion_j-z_datasets.md#r2">R2</a></li>
+<li><a href="motion_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="motion_j-z_metrics.md#r2">R2</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -529,7 +529,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mae">MAE</a></li>
+<li><a href="motion_j-z_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -556,8 +556,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mpjpe">MPJPE</a></li>
-<li><a href="motion_j-z_datasets.md#mae">MAE</a></li>
+<li><a href="motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="motion_j-z_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -583,7 +583,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mae">MAE</a></li>
+<li><a href="motion_j-z_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -610,7 +610,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mae">MAE</a></li>
+<li><a href="motion_j-z_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -637,7 +637,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mae">MAE</a></li>
+<li><a href="motion_j-z_metrics.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -671,10 +671,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mpjpe">MPJPE</a></li>
-<li><a href="motion_j-z_datasets.md#pck">PCK</a></li>
-<li><a href="motion_j-z_datasets.md#mpble">MPBLE</a></li>
-<li><a href="motion_j-z_datasets.md#p-mpjpe">P-MPJPE</a></li>
+<li><a href="motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="motion_j-z_metrics.md#pck">PCK</a></li>
+<li><a href="motion_j-z_metrics.md#mpble">MPBLE</a></li>
+<li><a href="motion_j-z_metrics.md#p-mpjpe">P-MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -700,8 +700,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mpjpe">MPJPE</a></li>
-<li><a href="motion_j-z_datasets.md#pck">PCK</a></li>
+<li><a href="motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="motion_j-z_metrics.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -727,8 +727,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mpjpe">MPJPE</a></li>
-<li><a href="motion_j-z_datasets.md#pck">PCK</a></li>
+<li><a href="motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="motion_j-z_metrics.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -754,7 +754,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#pck">PCK</a></li>
+<li><a href="motion_j-z_metrics.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -781,9 +781,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mpjpe">MPJPE</a></li>
-<li><a href="motion_j-z_datasets.md#pck">PCK</a></li>
-<li><a href="motion_j-z_datasets.md#re">RE</a></li>
+<li><a href="motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="motion_j-z_metrics.md#pck">PCK</a></li>
+<li><a href="motion_j-z_metrics.md#re">RE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -809,8 +809,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mje">MJE</a></li>
-<li><a href="motion_j-z_datasets.md#pck">PCK</a></li>
+<li><a href="motion_j-z_metrics.md#mje">MJE</a></li>
+<li><a href="motion_j-z_metrics.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -836,9 +836,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#mje">MJE</a></li>
-<li><a href="motion_j-z_datasets.md#pck">PCK</a></li>
-<li><a href="motion_j-z_datasets.md#run_time">Run Time</a></li>
+<li><a href="motion_j-z_metrics.md#mje">MJE</a></li>
+<li><a href="motion_j-z_metrics.md#pck">PCK</a></li>
+<li><a href="motion_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -865,7 +865,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_j-z_datasets.md#pck">PCK</a></li>
+<li><a href="motion_j-z_metrics.md#pck">PCK</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -899,13 +899,13 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
-<li><a href="motion_e-i_datasets.md#fid">FID</a></li>
-<li><a href="motion_a-d_datasets.md#cmd">CMD</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fid">FID</a></li>
+<li><a href="motion_a-d_metrics.md#cmd">CMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -933,11 +933,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -962,11 +962,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -994,9 +994,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1021,11 +1021,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1051,11 +1051,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1089,13 +1089,13 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
-<li><a href="motion_e-i_datasets.md#fid">FID</a></li>
-<li><a href="motion_a-d_datasets.md#cmd">CMD</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fid">FID</a></li>
+<li><a href="motion_a-d_metrics.md#cmd">CMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1123,11 +1123,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1152,11 +1152,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1181,11 +1181,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1211,11 +1211,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="motion_e-i_datasets.md#fde">FDE</a></li>
-<li><a href="motion_a-d_datasets.md#ade">ADE</a></li>
-<li><a href="motion_a-d_datasets.md#apd">APD</a></li>
-<li><a href="motion_j-z_datasets.md#mmade">MMADE</a></li>
-<li><a href="motion_j-z_datasets.md#mmfde">MMFDE</a></li>
+<li><a href="motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="motion_j-z_metrics.md#mmfde">MMFDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
