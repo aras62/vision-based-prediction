@@ -1,6 +1,6 @@
 <a name=top></a>
 ---
-<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Papers</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../datasets/datasets.md#top><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics/metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Papers</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../datasets.md#top><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---
 [Home](../papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Video](../video/video_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](../action/action_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Trajectory](../trajectory/trajectory_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](../motion/motion_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](../other/other_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Papers with code&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
@@ -21,9 +21,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#rt">RT</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -53,11 +53,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_e-i_datasets.md#fid">FID</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_e-i_datasets.md#fid">FID</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -85,10 +85,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#rt">RT</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -117,10 +117,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -149,8 +149,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -180,10 +180,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -213,9 +213,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -245,11 +245,11 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#rmse">RMSE</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_a-d_datasets.md#absrel">AbsRel</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_a-d_datasets.md#absrel">AbsRel</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -278,9 +278,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_e-i_datasets.md#iou">IoU</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_a-d_datasets.md#csim">CSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_e-i_datasets.md#iou">IoU</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_a-d_datasets.md#csim">CSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -309,10 +309,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -339,8 +339,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -369,10 +369,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -399,8 +399,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_e-i_datasets.md#is">IS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_e-i_datasets.md#is">IS</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -430,9 +430,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#mae">MAE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#mae">MAE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -462,10 +462,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -495,10 +495,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -527,9 +527,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_e-i_datasets.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -559,8 +559,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -589,8 +589,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -617,9 +617,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_e-i_datasets.md#human">Human</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_e-i_datasets.md#human">Human</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -648,9 +648,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -678,8 +678,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -707,8 +707,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_a-d_datasets.md#bce">BCE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_a-d_datasets.md#bce">BCE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -737,8 +737,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -765,7 +765,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_e-i_datasets.md#human">Human</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_e-i_datasets.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -793,8 +793,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -822,9 +822,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -852,8 +852,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_e-i_datasets.md#human">Human</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_e-i_datasets.md#human">Human</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -881,8 +881,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#psnr">PSNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -910,7 +910,7 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/<built-in method lower of str object at 0x1046d39f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/<built-in method lower of str object at 0x1054d37f0>_alphabeticalvideo_j-z_datasets.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
