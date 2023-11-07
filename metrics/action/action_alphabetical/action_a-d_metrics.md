@@ -2379,9 +2379,39 @@ ___
 
 </ul><ul><a name=ade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Rasouli et al., "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161318>paper</a> <a href=https://arxiv.org/pdf/2210.07886.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#arb">ARB</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rasouli_2023_ICRA,
+    author = "Rasouli, Amir and Kotseruba, Iuliia",
+    title = "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Liu et al., "Forecasting Human Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460681.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.10967.pdf>arxiv</a> <a href=https://github.com/2020aptx4869lm/Forecasting-Human-Object-Interaction-in-FPV>code</a></summary>
 <ul>
@@ -2709,6 +2739,44 @@ ___
     title = "Anticipating Accidents In Dashcam Videos",
     booktitle = "ACCV",
     year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+</ul><ul><a name=arb></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>ARB</strong><small> [11]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Rasouli et al., "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161318>paper</a> <a href=https://arxiv.org/pdf/2210.07886.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#arb">ARB</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rasouli_2023_ICRA,
+    author = "Rasouli, Amir and Kotseruba, Iuliia",
+    title = "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning",
+    booktitle = "ICRA",
+    year = "2023"
 }
 </pre>
 </details>
