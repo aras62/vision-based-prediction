@@ -166,34 +166,34 @@ ___
 </ul>
 </details>
 
-<a name=acc></a>
+<a name=meteor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Acc</strong></l>
+<summary><em><l style="font-size:20px"><strong>METEOR</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Rasouli et al., "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161318>paper</a> <a href=https://arxiv.org/pdf/2210.07886.pdf>arxiv</a></summary>
+<summary><strong><em>Hosseinzadeh et al., "Video Captioning of Future Frames", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Hosseinzadeh_Video_Captioning_of_Future_Frames_WACV_2021_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#activitynet">ActivityNet</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#swag">SWAG</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#acc">Acc</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#cider">CIDEr</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#rouge-l">ROUGE-L</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#meteor">METEOR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#bleu@n">BLEU@N</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Rasouli_2023_ICRA,
-    author = "Rasouli, Amir and Kotseruba, Iuliia",
-    title = "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning",
-    booktitle = "ICRA",
-    year = "2023"
+@InProceedings{Hosseinzadeh_2021_WACV,
+    author = "Hosseinzadeh, Mehrdad and Wang, Yang",
+    title = "Video Captioning of Future Frames",
+    booktitle = "WACV",
+    year = "2021"
 }
 </pre>
 </details>
@@ -203,9 +203,9 @@ ___
 </ul>
 </details>
 
-<a name=cider></a>
+<a name=rouge-l></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong></l>
+<summary><em><l style="font-size:20px"><strong>ROUGE-L</strong></l>
 </em></summary>
 <ul>
 <details close>
@@ -311,46 +311,9 @@ ___
 </ul>
 </details>
 
-<a name=meteor></a>
+<a name=cider></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>METEOR</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Hosseinzadeh et al., "Video Captioning of Future Frames", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Hosseinzadeh_Video_Captioning_of_Future_Frames_WACV_2021_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#activitynet">ActivityNet</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#swag">SWAG</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#cider">CIDEr</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#rouge-l">ROUGE-L</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#meteor">METEOR</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#bleu@n">BLEU@N</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hosseinzadeh_2021_WACV,
-    author = "Hosseinzadeh, Mehrdad and Wang, Yang",
-    title = "Video Captioning of Future Frames",
-    booktitle = "WACV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=rouge-l></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>ROUGE-L</strong></l>
+<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong></l>
 </em></summary>
 <ul>
 <details close>

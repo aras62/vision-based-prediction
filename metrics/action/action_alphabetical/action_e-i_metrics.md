@@ -84,10 +84,10 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#acc">Acc</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
