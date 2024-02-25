@@ -12,7 +12,7 @@ ___
 <h2>J-Z <small>[rank]</small></h2> 
 <ul><a name=kld></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -77,7 +77,7 @@ ___
 
 </ul><ul><a name=l1></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>L1</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>L1</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -114,7 +114,7 @@ ___
 
 </ul><ul><a name=l2></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>L2</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>L2</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -339,7 +339,7 @@ ___
 
 </ul><ul><a name=map></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>mean Average Precision (mAP)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>mean Average Precision (mAP)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -406,7 +406,7 @@ ___
 
 </ul><ul><a name=mape></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -466,7 +466,7 @@ ___
 
 </ul><ul><a name=mcc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -502,7 +502,7 @@ ___
 
 </ul><ul><a name=mce></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Maximum Calibration Error (MCE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Maximum Calibration Error (MCE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -538,7 +538,7 @@ ___
 
 </ul><ul><a name=me></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Error (ME)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Error (ME)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -571,7 +571,7 @@ ___
 
 </ul><ul><a name=meteor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>METEOR</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>METEOR</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -607,7 +607,7 @@ ___
 
 </ul><ul><a name=miou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean IoU (MIoU)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean IoU (MIoU)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -642,7 +642,7 @@ ___
 
 </ul><ul><a name=mpe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Position Error (MPE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Position Error (MPE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -675,7 +675,7 @@ ___
 
 </ul><ul><a name=mre></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Relative Error (MRE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Relative Error (MRE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -909,7 +909,7 @@ ___
 
 </ul><ul><a name=nfe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Near-Field Error (NFE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Near-Field Error (NFE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -946,7 +946,7 @@ ___
 
 </ul><ul><a name=nll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -980,7 +980,7 @@ ___
 
 </ul><ul><a name=nmape></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>normalized Mean Absolute Percentage Error (nMAPE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>normalized Mean Absolute Percentage Error (nMAPE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1015,7 +1015,7 @@ ___
 
 </ul><ul><a name=nmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Normalized MSE (NMSE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Normalized MSE (NMSE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1051,7 +1051,7 @@ ___
 
 </ul><ul><a name=pcp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Percentage of Correct Predictions (PCP)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Percentage of Correct Predictions (PCP)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1085,7 +1085,7 @@ ___
 
 </ul><ul><a name=ppfe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Per-point Flow Error (PPFE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Per-point Flow Error (PPFE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1122,7 +1122,7 @@ ___
 
 </ul><ul><a name=pq></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Panoptic Quality (PQ)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Panoptic Quality (PQ)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1159,7 +1159,7 @@ ___
 
 </ul><ul><a name=precision></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Precision</strong><small> [3]</small></l>
+<summary><em><l style="font-size:20px"><strong>Precision</strong><small> [2]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1173,9 +1173,9 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1184,6 +1184,64 @@ ___
     author = "Li, Xiang and Qian, Xuelin and Liang, Litian and Kong, Lingjie and Dong, Qiaole and Chen, Jiejun and Liu, Dingxia and Yao, Xiuzhong and Fu, Yanwei",
     title = "Causally-Aware Intraoperative Imputation for Overall Survival Time Prediction",
     booktitle = "CVPR",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Li et al., "TTC4MCP: Monocular Collision Prediction Based on Self-Supervised TTC Estimation", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341966>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#time">time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Li_2023_IROS,
+    author = "Li, Changlin and Qian, Yeqiang and Sun, Cong and Yan, Weihao and Wang, Chunxiang and Yang, Ming",
+    booktitle = "IROS",
+    title = "TTC4MCP: Monocular Collision Prediction Based on Self-Supervised TTC Estimation",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Sharma et al., "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341435>paper</a> <a href=https://arxiv.org/pdf/2203.04177.pdf>arxiv</a> <a href=https://raaslab.org/projects/ProxMaP/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#hm3d">HM3D</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Sharma_2023_IROS,
+    author = "Sharma, Vishnu D. and Chen, Jingxi and Tokekar, Pratap",
+    booktitle = "IROS",
+    title = "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation",
     year = "2023"
 }
 </pre>
@@ -1479,7 +1537,7 @@ ___
 
 </ul><ul><a name=psi></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Psi</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Psi</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1513,7 +1571,7 @@ ___
 
 </ul><ul><a name=psnr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Peak Signal-to-Noise Ratio (PSNR)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Peak Signal-to-Noise Ratio (PSNR)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1576,7 +1634,7 @@ ___
 
 </ul><ul><a name=r-squared></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>R-squared</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>R-squared</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1612,7 +1670,7 @@ ___
 
 </ul><ul><a name=recall></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Recall</strong><small> [3]</small></l>
+<summary><em><l style="font-size:20px"><strong>Recall</strong><small> [2]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1626,9 +1684,9 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1665,6 +1723,64 @@ ___
     author = "Abdelsalam, Mohamed A. and Rangrej, Samrudhdhi B. and Hadji, Isma and Dvornik, Nikita and Derpanis, Konstantinos G. and Fazly, Afsaneh",
     title = "GePSAn: Generative Procedure Step Anticipation in Cooking Videos",
     booktitle = "ICCV",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Li et al., "TTC4MCP: Monocular Collision Prediction Based on Self-Supervised TTC Estimation", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341966>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#time">time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Li_2023_IROS,
+    author = "Li, Changlin and Qian, Yeqiang and Sun, Cong and Yan, Weihao and Wang, Chunxiang and Yang, Ming",
+    booktitle = "IROS",
+    title = "TTC4MCP: Monocular Collision Prediction Based on Self-Supervised TTC Estimation",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Sharma et al., "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341435>paper</a> <a href=https://arxiv.org/pdf/2203.04177.pdf>arxiv</a> <a href=https://raaslab.org/projects/ProxMaP/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#hm3d">HM3D</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Sharma_2023_IROS,
+    author = "Sharma, Vishnu D. and Chen, Jingxi and Tokekar, Pratap",
+    booktitle = "IROS",
+    title = "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation",
     year = "2023"
 }
 </pre>
@@ -1932,7 +2048,7 @@ ___
 
 </ul><ul><a name=refclipscore></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>RefCLIPScore</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>RefCLIPScore</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1969,7 +2085,7 @@ ___
 
 </ul><ul><a name=ri></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Rand Index (RI)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Rand Index (RI)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2005,7 +2121,7 @@ ___
 
 </ul><ul><a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [7]</small></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [6]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2118,7 +2234,7 @@ ___
 
 </ul><ul><a name=roc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Receiver Operator Characteristic (ROC)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Receiver Operator Characteristic (ROC)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2177,9 +2293,44 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=rov></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Retention of Vehicles (RoV)</strong><small> [9]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Asghar et al., "Vehicle Motion Forecasting Using Prior Information and Semantic-Assisted Occupancy Grid Maps", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10342507>paper</a> <a href=https://arxiv.org/pdf/2308.04303.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rov">RoV</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Asghar_2023_IROS,
+    author = "Asghar, Rabbia and Diaz-Zapata, Manuel and Rummelhard, Lukas and Spalanzani, Anne and Laugier, Christian",
+    booktitle = "IROS",
+    title = "Vehicle Motion Forecasting Using Prior Information and Semantic-Assisted Occupancy Grid Maps",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=rq></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Recognition Quality (RQ)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Recognition Quality (RQ)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2216,7 +2367,7 @@ ___
 
 </ul><ul><a name=rt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2285,7 +2436,7 @@ ___
 
 </ul><ul><a name=run_time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2377,7 +2528,7 @@ ___
 
 </ul><ul><a name=sile></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Scale-Invariant Logarithmic Error (SILE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Scale-Invariant Logarithmic Error (SILE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2415,7 +2566,7 @@ ___
 
 </ul><ul><a name=soft-iou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Soft-IoU</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Soft-IoU</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2482,7 +2633,7 @@ ___
 
 </ul><ul><a name=spice></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Semantic Propositional Image Caption Evaluation (SPICE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Semantic Propositional Image Caption Evaluation (SPICE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2519,7 +2670,7 @@ ___
 
 </ul><ul><a name=sq></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Segmentation Quality (SQ)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Segmentation Quality (SQ)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2556,7 +2707,7 @@ ___
 
 </ul><ul><a name=src></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Spearman’s Ranking Correlation (SRC)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Spearman’s Ranking Correlation (SRC)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2590,7 +2741,7 @@ ___
 
 </ul><ul><a name=ssim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2679,9 +2830,46 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=time></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>time</strong><small> [9]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Li et al., "TTC4MCP: Monocular Collision Prediction Based on Self-Supervised TTC Estimation", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341966>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#time">time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Li_2023_IROS,
+    author = "Li, Changlin and Qian, Yeqiang and Sun, Cong and Yan, Weihao and Wang, Chunxiang and Yang, Ming",
+    booktitle = "IROS",
+    title = "TTC4MCP: Monocular Collision Prediction Based on Self-Supervised TTC Estimation",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=tn></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2746,7 +2934,7 @@ ___
 
 </ul><ul><a name=tp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Positive (TP)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Positive (TP)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2811,7 +2999,7 @@ ___
 
 </ul><ul><a name=tpr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2847,7 +3035,7 @@ ___
 
 </ul><ul><a name=tss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Skill Statistics (TSS)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Skill Statistics (TSS)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2882,7 +3070,7 @@ ___
 
 </ul><ul><a name=voi></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Variation of Information (VoI)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Variation of Information (VoI)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2918,7 +3106,7 @@ ___
 
 </ul><ul><a name=vpq></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Video Panoptic Quality (VPQ)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Video Panoptic Quality (VPQ)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>

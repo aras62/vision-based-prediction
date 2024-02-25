@@ -41,6 +41,7 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 25/02/2024: Added IROS 2023 papers (16 papers, 4 datasets, 1 metric)
 * 2/11/2023: Updated metrics. They are divided based on ranking and alphabetical order
 * 2/11/2023: Updated some papers and 1 dataset is added
 * 19/10/2023: Note that this is the last year covering WACV papers due to the volume of papers in other conferences 

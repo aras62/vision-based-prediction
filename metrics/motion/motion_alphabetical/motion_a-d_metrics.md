@@ -12,7 +12,7 @@ ___
 <h2>A-D <small>[rank]</small></h2> 
 <ul><a name=accuracy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Accuracy</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Accuracy</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -72,7 +72,7 @@ ___
 
 </ul><ul><a name=ade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [3]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [2]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -276,6 +276,33 @@ ___
     author = "Saadatnejad, Saeed and Rasekh, Ali and Mofayezi, Mohammadreza and Medghalchi, Yasamin and Rajabzadeh, Sara and Mordan, Taylor and Alahi, Alexandre",
     title = "A generic diffusion-based approach for 3D human pose prediction in the wild",
     booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Lagamtzis et al., "Exploiting Spatio-Temporal Human-Object Relations Using Graph Neural Networks for Human Action Recognition and 3D Motion Forecasting", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10342491>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#bimanual_actions">Bimanual Actions</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#coax">CoAx</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Lagamtzis_2023_IROS,
+    author = "Lagamtzis, Dimitrios and Schmidt, Fabian and Seyler, Jan and Dang, Thao and Schober, Steffen",
+    booktitle = "IROS",
+    title = "Exploiting Spatio-Temporal Human-Object Relations Using Graph Neural Networks for Human Action Recognition and 3D Motion Forecasting",
     year = "2023"
 }
 </pre>
@@ -549,7 +576,7 @@ ___
 
 </ul><ul><a name=ame></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Aligned Mean Error (AME)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Aligned Mean Error (AME)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -583,7 +610,7 @@ ___
 
 </ul><ul><a name=apd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Pairwise Distance (APD)</strong><small> [5]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Pairwise Distance (APD)</strong><small> [4]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -946,7 +973,7 @@ ___
 
 </ul><ul><a name=auc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -984,7 +1011,7 @@ ___
 
 </ul><ul><a name=cma></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cumulative Matching Accuracy (CMA)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Cumulative Matching Accuracy (CMA)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1019,7 +1046,7 @@ ___
 
 </ul><ul><a name=cmd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cumulative Motion Distribution (CMD)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Cumulative Motion Distribution (CMD)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1059,7 +1086,7 @@ ___
 
 </ul><ul><a name=div></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Div</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Div</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1096,7 +1123,7 @@ ___
 
 </ul><ul><a name=dt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Diversity Test (DT)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Diversity Test (DT)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>

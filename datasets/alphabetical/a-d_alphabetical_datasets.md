@@ -2498,6 +2498,34 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </ul>
 </details>
 <details close>
+<summary><em>Fan et al., "Look Before You Drive: Boosting Trajectory Forecasting via Imagining Future", IROS, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10341509>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Fan_2023_IROS,
+    author = "Fan, Yixuan and Liu, Xin and Li, Yali and Wang, Shengjin",
+    booktitle = "IROS",
+    title = "Look Before You Drive: Boosting Trajectory Forecasting via Imagining Future",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Bahari et al., "Vehicle Trajectory Prediction Works, but Not Everywhere", CVPR, 2022.</em> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Bahari_Vehicle_Trajectory_Prediction_Works_but_Not_Everywhere_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2112.03909.pdf>arxiv</a> <a href=https://s-attack.github.io/>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -3968,6 +3996,60 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
 </details>
 
 </ul></details>
+</ul><ul><a name=argoverse-sf></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Argoverse Streaming motion Forecasting (Argoverse-SF)</strong></l> <a href=https://github.com/ziqipang/StreamingForecasting>link</a> <a href=https://ieeexplore.ieee.org/document/10341894>paper</a> <a href=https://arxiv.org/pdf/2310.01351.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of driving scenarios based on Argoverse designed for streaming motion forecasting problem.
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/trajectory/trajectory_papers.md#top>Trajectory prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, LIDAR, 3D bounding box, Map, Trajectory</li>
+<li><em><strong>Task:</strong></em> Driving</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Pang et al., "Streaming Motion Forecasting for Autonomous Driving", IROS, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10341894>paper</a> <a href=https://arxiv.org/pdf/2310.01351.pdf>arxiv</a> <a href=https://github.com/ziqipang/StreamingForecasting>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse-sf">Argoverse-SF</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Pang_2023_IROS,
+    author = "Pang, Ziqi and Ramanan, Deva and Li, Mengtian and Wang, Yu-Xiong",
+    booktitle = "IROS",
+    title = "Streaming Motion Forecasting for Autonomous Driving",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@INPROCEEDINGS{Pang_2023_IROS,
+    author = "Pang, Ziqi and Ramanan, Deva and Li, Mengtian and Wang, Yu-Xiong",
+    booktitle = "IROS",
+    title = "Streaming Motion Forecasting for Autonomous Driving",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul></details>
 </ul><ul><a name=atc></a>
 <details close>
 <summary><l style="font-size:20px"><strong>ATC</strong></l> <a href=https://irc.atr.jp/crest2010_HRI/ATC_dataset/>link</a> <a href=https://ieeexplore.ieee.org/document/6636027>paper</a></summary> 
@@ -4031,6 +4113,33 @@ A dataset of human tracks recorded in a shopping mall for a period of 92 days us
     volume = "7",
     number = "3",
     pages = "7343-7350"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Zhu et al., "CLiFF-LHMP: Using Spatial Dynamics Patterns for Long- Term Human Motion Prediction", IROS, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10342031>paper</a> <a href=https://arxiv.org/pdf/2309.07066.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#thor">THOR</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Zhu_2023_IROS,
+    author = "Zhu, Yufei and Rudenko, Andrey and Kucner, Tomasz P. and Palmieri, Luigi and Arras, Kai O. and Lilienthal, Achim J. and Magnusson, Martin",
+    booktitle = "IROS",
+    title = "CLiFF-LHMP: Using Spatial Dynamics Patterns for Long- Term Human Motion Prediction",
+    year = "2023"
 }
 </pre>
 </details>
@@ -4758,6 +4867,33 @@ A dataset of 540 recordings of 6 subjects performing 9 basic tasks
     title = "Hierarchical Video Prediction Using Relational Layouts for Human-Object Interactions",
     booktitle = "CVPR",
     year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Lagamtzis et al., "Exploiting Spatio-Temporal Human-Object Relations Using Graph Neural Networks for Human Action Recognition and 3D Motion Forecasting", IROS, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10342491>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bimanual_actions">Bimanual Actions</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#coax">CoAx</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Lagamtzis_2023_IROS,
+    author = "Lagamtzis, Dimitrios and Schmidt, Fabian and Seyler, Jan and Dang, Thao and Schober, Steffen",
+    booktitle = "IROS",
+    title = "Exploiting Spatio-Temporal Human-Object Relations Using Graph Neural Networks for Human Action Recognition and 3D Motion Forecasting",
+    year = "2023"
 }
 </pre>
 </details>
@@ -8175,6 +8311,60 @@ A dataset of  multi-view videos, 3D poses and trajectories of 20 human operators
     author = "Sampieri, Alessio and di Melendugno, Guido Maria D’Amely and Avogaro, Andrea and Cunico, Federico and Setti, Francesco and Skenderi, Geri and Cristani, Marco and Galasso, Fabio",
     title = "Pose Forecasting in Industrial Human-Robot Collaboration",
     booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul></details>
+</ul><ul><a name=coax></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Collaborative Action (CoAx)</strong></l> <a href=https://dlgmtzs.github.io/dataset-coax/>link</a> <a href=https://www.scitepress.org/Papers/2022/107756/107756.pdf>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of human robot collaboration using a robot arm.
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/other/other_papers.md#top>Other prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Depth, Activity label</li>
+<li><em><strong>Task:</strong></em> Human Robot Collaboration</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Lagamtzis et al., "Exploiting Spatio-Temporal Human-Object Relations Using Graph Neural Networks for Human Action Recognition and 3D Motion Forecasting", IROS, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10342491>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bimanual_actions">Bimanual Actions</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#coax">CoAx</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Lagamtzis_2023_IROS,
+    author = "Lagamtzis, Dimitrios and Schmidt, Fabian and Seyler, Jan and Dang, Thao and Schober, Steffen",
+    booktitle = "IROS",
+    title = "Exploiting Spatio-Temporal Human-Object Relations Using Graph Neural Networks for Human Action Recognition and 3D Motion Forecasting",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@inproceedings{lagamtzis2022coax,
+    author = "Lagamtzis, Dimitrios and Schmidt, Fabian and Seyler, Jan R and Dang, Thao",
+    title = "CoAx: Collaborative Action Dataset for Human Motion Forecasting in an Industrial Workspace.",
+    booktitle = "ICAART",
     year = "2022"
 }
 </pre>

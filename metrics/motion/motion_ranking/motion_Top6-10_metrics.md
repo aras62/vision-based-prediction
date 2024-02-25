@@ -1074,35 +1074,29 @@ ___
 </ul>
 </details>
 
-<a name=mmfde></a>
+<a name=mse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Multi-Modal FDE (MMFDE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Barquero et al., "BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Barquero_BeLFusion_Latent_Diffusion_for_Behavior-Driven_Human_Motion_Prediction_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.14304.pdf>arxiv</a> <a href=https://barquerogerman.github.io/BeLFusion/>code</a></summary>
+<summary><strong><em>Mao et al., "Masked Motion Predictors are Strong 3D Action Representation Learners", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Mao_Masked_Motion_Predictors_are_Strong_3D_Action_Representation_Learners_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2308.07092.pdf>arxiv</a> <a href=https://github.com/maoyunyao/MAMP>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#amass">AMASS</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pku-mmd">PKU-MMD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmade">MMADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmfde">MMFDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fid">FID</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#cmd">CMD</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Barquero_2023_ICCV,
-    author = "Barquero, German and Escalera, Sergio and Palmero, Cristina",
-    title = "BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction",
+@InProceedings{Mao_2023_ICCV,
+    author = "Mao, Yunyao and Deng, Jiajun and Zhou, Wengang and Fang, Yao and Ouyang, Wanli and Li, Houqiang",
+    title = "Masked Motion Predictors are Strong 3D Action Representation Learners",
     booktitle = "ICCV",
     year = "2023"
 }
@@ -1112,13 +1106,11 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Chen et al., "HumanMAC: Masked Motion Completion for Human Motion Prediction", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_HumanMAC_Masked_Motion_Completion_for_Human_Motion_Prediction_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2302.03665.pdf>arxiv</a> <a href=https://lhchen.top/Human-MAC/>code</a></summary>
+<summary><strong><em>Ahn et al., "Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160722>paper</a> <a href=https://arxiv.org/pdf/2302.14503.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#amass">AMASS</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#humaneva-i">HumanEva-I</a></li>
 </ul>
 <em>Metrics</em>
@@ -1126,44 +1118,17 @@ ___
 <li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
 <li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
 <li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmade">MMADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#sde">sDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Chen_2023_ICCV_1,
-    author = "Chen, Ling-Hao and Zhang, JiaWei and Li, Yewen and Pang, Yiren and Xia, Xiaobo and Liu, Tongliang",
-    title = "HumanMAC: Masked Motion Completion for Human Motion Prediction",
-    booktitle = "ICCV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Nikdel et al., "DMMGAN: Diverse Multi Motion Prediction of 3D Human Joints using Attention-Based Generative Adversarial Network", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160401>paper</a> <a href=https://arxiv.org/pdf/2209.09124.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmade">MMADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmfde">MMFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Nikdel_2023_ICRA,
-    author = "Nikdel, Payam and Mahdavian, Mohammad and Chen, Mo",
-    title = "DMMGAN: Diverse Multi Motion Prediction of 3D Human Joints using Attention-Based Generative Adversarial Network",
+@InProceedings{Ahn_2023_ICRA,
+    author = "Ahn, Hyemin and Mascaro, Esteve Valls and Lee, Dongheui",
+    title = "Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?",
     booktitle = "ICRA",
     year = "2023"
 }
@@ -1173,28 +1138,26 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Zhang et al., "We Are More Than Our Joints: Predicting How 3D Bodies Move", CVPR, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_We_Are_More_Than_Our_Joints_Predicting_How_3D_Bodies_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2012.00619.pdf>arxiv</a> <a href=https://yz-cnsdqz.github.io/MOJO/MOJO.html>code</a></summary>
+<summary><strong><em>Yasar et al., "VADER: Vector-Quantized Generative Adversarial Network for Motion Prediction", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10342324>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#amass">AMASS</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth-hrc">KTH-HRC</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#utd-mhad">UTD-MHAD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmade">MMADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Zhang_2021_CVPR,
-    author = "Zhang, Yan and Black, Michael J. and Tang, Siyu",
-    title = "We Are More Than Our Joints: Predicting How {3D} Bodies Move",
-    booktitle = "CVPR",
-    year = "2021"
+@INPROCEEDINGS{Yasar_2023_IROS,
+    author = "Yasar, Mohammad Samin and Iqbal, Tariq",
+    booktitle = "IROS",
+    title = "VADER: Vector-Quantized Generative Adversarial Network for Motion Prediction",
+    year = "2023"
 }
 </pre>
 </details>
@@ -1202,29 +1165,84 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Yuan et al., "DLow: Diversifying Latent Flows for Diverse Human Motion Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540324.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08386.pdf>arxiv</a> <a href=https://github.com/Khrylx/DLow>code</a></summary>
+<summary><strong><em>Mascaro et al., "Robust Human Motion Forecasting using Transformer-based Model", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9981877>paper</a> <a href=https://arxiv.org/pdf/2302.08274.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#humaneva-i">HumanEva-I</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmade">MMADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Yuan_2020_ECCV,
-    author = "Yuan, Ye and Kitani, Kris",
-    title = "{DLow}: Diversifying Latent Flows for Diverse Human Motion Prediction",
-    booktitle = "ECCV",
-    year = "2020"
+@InProceedings{Mascaro_2022_IROS,
+    author = "Mascaro, Esteve Valls and Ma, Shuo and Ahn, Hyemin and Lee, Dongheui",
+    booktitle = "IROS",
+    title = "Robust Human Motion Forecasting using Transformer-based Model",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Yasar et al., "A Scalable Approach to Predict Multi-Agent Motion for Human-Robot Collaboration", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9353218>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth-hrc">KTH-HRC</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#utd-mhad">UTD-MHAD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Yasar_2021_RAL,
+    author = "Yasar, Mohammad Samin and Iqbal, Tariq",
+    journal = "RAL",
+    title = "A Scalable Approach to Predict Multi-Agent Motion for Human-Robot Collaboration",
+    year = "2021",
+    volume = "6",
+    number = "2",
+    pages = "1686-1693"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Adeli et al., "Socially and Contextually Aware Human Motion and Pose Forecasting", RAL, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/9145701>paper</a> <a href=https://arxiv.org/pdf/2007.06843.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#posetrack">PoseTrack</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Adeli_2020_RAL,
+    author = "Adeli, V. and Adeli, E. and Reid, I. and Niebles, J. C. and Rezatofighi, H.",
+    journal = "RAL",
+    title = "Socially and Contextually Aware Human Motion and Pose Forecasting",
+    year = "2020",
+    volume = "5",
+    number = "4",
+    pages = "6033-6040"
 }
 </pre>
 </details>

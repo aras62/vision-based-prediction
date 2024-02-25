@@ -881,6 +881,35 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 </details>
 <details close>
+<summary><em>Li et al., "TTC4MCP: Monocular Collision Prediction Based on Self-Supervised TTC Estimation", IROS, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10341966>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#time">time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Li_2023_IROS,
+    author = "Li, Changlin and Qian, Yeqiang and Sun, Cong and Yan, Weihao and Wang, Chunxiang and Yang, Ming",
+    booktitle = "IROS",
+    title = "TTC4MCP: Monocular Collision Prediction Based on Self-Supervised TTC Estimation",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Weng et al., "S2Net: Stochastic Sequential Pointcloud Forecasting", ECCV, 2022.</em> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870541.pdf>paper</a> <a href=https://www.xinshuoweng.com/projects/S2Net>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -2431,6 +2460,60 @@ A dataset of 80K+ images collected from 21K+ sequences with corresponding text c
     title = "Visual Storytelling",
     booktitle = "NAACL",
     year = "2016"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=coax></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Collaborative Action (CoAx)</strong></l> <a href=https://dlgmtzs.github.io/dataset-coax/>link</a> <a href=https://www.scitepress.org/Papers/2022/107756/107756.pdf>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of human robot collaboration using a robot arm.
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/other/other_papers.md#top>Other prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Depth, Activity label</li>
+<li><em><strong>Task:</strong></em> Human Robot Collaboration</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Lagamtzis et al., "Exploiting Spatio-Temporal Human-Object Relations Using Graph Neural Networks for Human Action Recognition and 3D Motion Forecasting", IROS, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10342491>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bimanual_actions">Bimanual Actions</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#coax">CoAx</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Lagamtzis_2023_IROS,
+    author = "Lagamtzis, Dimitrios and Schmidt, Fabian and Seyler, Jan and Dang, Thao and Schober, Steffen",
+    booktitle = "IROS",
+    title = "Exploiting Spatio-Temporal Human-Object Relations Using Graph Neural Networks for Human Action Recognition and 3D Motion Forecasting",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@inproceedings{lagamtzis2022coax,
+    author = "Lagamtzis, Dimitrios and Schmidt, Fabian and Seyler, Jan R and Dang, Thao",
+    title = "CoAx: Collaborative Action Dataset for Human Motion Forecasting in an Industrial Workspace.",
+    booktitle = "ICAART",
+    year = "2022"
 }
 </pre>
 </details>

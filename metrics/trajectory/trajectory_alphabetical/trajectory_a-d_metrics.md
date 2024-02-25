@@ -489,6 +489,143 @@ ___
 </ul>
 </details>
 <details close>
+<summary><strong><em>Hsu et al., "Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341712>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Hsu_2023_IROS,
+    author = "Hsu, Kai-Chieh and Leung, Karen and Chen, Yuxiao and Fisac, Jaime F. and Pavone, Marco",
+    booktitle = "IROS",
+    title = "Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Kedia et al., "A Game-Theoretic Framework for Joint Forecasting and Planning", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341265>paper</a> <a href=https://arxiv.org/pdf/2308.06137.pdf>arxiv</a> <a href=https://github.com/portal-cornell/Game-Theoretic-Forecasting-Planning>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Kedia_2023_IROS,
+    author = "Kedia, Kushal and Dan, Prithwish and Choudhury, Sanjiban",
+    booktitle = "IROS",
+    title = "A Game-Theoretic Framework for Joint Forecasting and Planning",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Poddar et al., "From Crowd Motion Prediction to Robot Navigation in Crowds", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341464>paper</a> <a href=https://arxiv.org/pdf/2303.01424.pdf>arxiv</a> <a href=https://github.com/cmavrogiannis/Pred2Nav>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Poddar_2023_IROS,
+    author = "Poddar, Sriyash and Mavrogiannis, Christoforos and Srinivasa, Siddhartha S.",
+    booktitle = "IROS",
+    title = "From Crowd Motion Prediction to Robot Navigation in Crowds",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Stoler et al., "T2FPV: Dataset and Method for Correcting First-Person View Errors in Pedestrian Trajectory Prediction", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341874>paper</a> <a href=https://arxiv.org/pdf/2209.11294.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#t2fpv-eth">T2FPV-ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Stoler_2023_IROS,
+    author = "Stoler, Benjamin and Jana, Meghdeep and Hwang, Soonmin and Oh, Jean",
+    booktitle = "IROS",
+    title = "T2FPV: Dataset and Method for Correcting First-Person View Errors in Pedestrian Trajectory Prediction",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Zhu et al., "CLiFF-LHMP: Using Spatial Dynamics Patterns for Long- Term Human Motion Prediction", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10342031>paper</a> <a href=https://arxiv.org/pdf/2309.07066.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#thor">THOR</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Zhu_2023_IROS,
+    author = "Zhu, Yufei and Rudenko, Andrey and Kucner, Tomasz P. and Palmieri, Luigi and Arras, Kai O. and Lilienthal, Achim J. and Magnusson, Martin",
+    booktitle = "IROS",
+    title = "CLiFF-LHMP: Using Spatial Dynamics Patterns for Long- Term Human Motion Prediction",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Huynh et al., "Online Adaptive Temporal Memory With Certainty Estimation for Human Trajectory Prediction", WACV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2023/papers/Huynh_Online_Adaptive_Temporal_Memory_With_Certainty_Estimation_for_Human_Trajectory_WACV_2023_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
@@ -1654,8 +1791,8 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#thor">THOR</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 <li>Custom</li>
 
 </ul>
@@ -4420,8 +4557,8 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#thor">THOR</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 <li>Custom</li>
 
 </ul>
@@ -5208,9 +5345,37 @@ ___
 
 </ul><ul><a name=bminfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>brier-minFDE (bminFDE)</strong><small> [17]</small></l>
+<summary><em><l style="font-size:20px"><strong>brier-minFDE (bminFDE)</strong><small> [16]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Fan et al., "Look Before You Drive: Boosting Trajectory Forecasting via Imagining Future", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341509>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Fan_2023_IROS,
+    author = "Fan, Yixuan and Liu, Xin and Li, Yali and Wang, Shengjin",
+    booktitle = "IROS",
+    title = "Look Before You Drive: Boosting Trajectory Forecasting via Imagining Future",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Huang et al., "Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving", ICRA, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9812060>paper</a> <a href=https://arxiv.org/pdf/2109.06446.pdf>arxiv</a></summary>
 <ul>

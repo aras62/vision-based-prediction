@@ -6022,39 +6022,40 @@ A dataset of 180 RGBD images of 1 person and 1 scene with ground truth and 100k 
 </details>
 
 </ul></details>
-<a name=gta-im></a>
+<a name=kth-hrc></a>
 <details close>
-<summary><l style="font-size:20px"><strong>GTA Indoor Motion dataset (GTA-IM)</strong></l> <a href=https://github.com/ZheC/GTA-IM-Dataset>link</a> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460375.pdf>paper</a> <a href=https://arxiv.org/pdf/2007.03672.pdf>arxiv</a></summary> 
+<summary><l style="font-size:20px"><strong>KTH-HRC</strong></l> <a href=https://github.com/jbutepage/human_robot_interaction_data/tree/master/hh>link</a> <a href=https://www.frontiersin.org/articles/10.3389/frobt.2020.00047/full>paper</a></summary> 
 <ul><li>
 <em><strong>Summary:</strong></em> 
-A dataset of 10 indoor scenes recorded from GTA game with 21 joint pose annotations for persons
+A dataset of human-human and human-robot collaboration involving 4 basic actions.
 </li>
 <li>
 <em><strong>Applications:</strong></em> <a href=../../papers/motion/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGBD, 3D Pose, Semantic Segment, Camera Pose</li>
-<li><em><strong>Task:</strong></em> Simulation</li>
+<li><em><strong>Data type and annotations:</strong></em> 3D pose</li>
+<li><em><strong>Task:</strong></em> Interaction</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Mao et al., "Contact-aware Human Motion Forecasting", NeurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=LIKlL1Br9AT>paper</a> <a href=https://arxiv.org/pdf/2210.03954.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/ContAwareMotionPred>code</a></summary>
+<summary><em>Yasar et al., "VADER: Vector-Quantized Generative Adversarial Network for Motion Prediction", IROS, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10342324>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#gta-im">GTA-IM</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#prox">PROX</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth-hrc">KTH-HRC</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#utd-mhad">UTD-MHAD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Mao_2022_NeurIPS,
-    author = "Mao, Wei and miaomiao Liu and Hartley, Richard and Salzmann, Mathieu",
-    title = "Contact-aware Human Motion Forecasting",
-    booktitle = "NeurIPS",
-    year = "2022"
+@INPROCEEDINGS{Yasar_2023_IROS,
+    author = "Yasar, Mohammad Samin and Iqbal, Tariq",
+    booktitle = "IROS",
+    title = "VADER: Vector-Quantized Generative Adversarial Network for Motion Prediction",
+    year = "2023"
 }
 </pre>
 </details>
@@ -6062,25 +6063,30 @@ A dataset of 10 indoor scenes recorded from GTA game with 21 joint pose annotati
 </ul>
 </details>
 <details close>
-<summary><em>Cao et al., "Long-term Human Motion Prediction with Scene Context", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460375.pdf>paper</a> <a href=https://arxiv.org/pdf/2007.03672.pdf>arxiv</a></summary>
+<summary><em>Yasar et al., "A Scalable Approach to Predict Multi-Agent Motion for Human-Robot Collaboration", RAL, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9353218>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#prox">PROX</a></li>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#gta-im">GTA-IM</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth-hrc">KTH-HRC</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#utd-mhad">UTD-MHAD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Cao_2020_ECCV,
-    author = "Cao, Zhe and Gao, Hang and Mangalam, Karttikeya and Cai, Qi-Zhi and Vo, Minh and Malik, Jitendra",
-    title = "Long-term Human Motion Prediction with Scene Context",
-    booktitle = "ECCV",
-    year = "2020"
+@Article{Yasar_2021_RAL,
+    author = "Yasar, Mohammad Samin and Iqbal, Tariq",
+    journal = "RAL",
+    title = "A Scalable Approach to Predict Multi-Agent Motion for Human-Robot Collaboration",
+    year = "2021",
+    volume = "6",
+    number = "2",
+    pages = "1686-1693"
 }
 </pre>
 </details>
@@ -6091,11 +6097,98 @@ A dataset of 10 indoor scenes recorded from GTA game with 21 joint pose annotati
 <details close>
 <summary><strong>Bibtex</strong></summary>
 <pre>
-@InProceedings{Cao_2020_ECCV,
-    author = "Cao, Zhe and Gao, Hang and Mangalam, Karttikeya and Cai, Qi-Zhi and Vo, Minh and Malik, Jitendra",
-    title = "Long-term Human Motion Prediction with Scene Context",
-    booktitle = "ECCV",
-    year = "2020"
+@Article{Butepage_2020_FRAI,
+    author = "Bütepage, Judith and Ghadirzadeh, Ali and Öztimur Karadaǧ, Özge and Björkman, Mårten and Kragic, Danica",
+    journal = "Frontiers in Robotics and AI",
+    title = "Imitating by Generating: Deep Generative Models for Imitation of Interactive Tasks",
+    year = "2020",
+    volume = "7",
+    number = "2"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=utd-mhad></a>
+<details close>
+<summary><l style="font-size:20px"><strong>UTD-MHAD</strong></l> <a href=https://personal.utdallas.edu/~kehtar/UTD-MHAD.html>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/7350781>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 27 actions performed by 8 subjects collected using Kinect sensor.
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/motion/motion_papers.md#top>Motion prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Depth, 3D pose, Inertial sensor</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Yasar et al., "VADER: Vector-Quantized Generative Adversarial Network for Motion Prediction", IROS, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10342324>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth-hrc">KTH-HRC</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#utd-mhad">UTD-MHAD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Yasar_2023_IROS,
+    author = "Yasar, Mohammad Samin and Iqbal, Tariq",
+    booktitle = "IROS",
+    title = "VADER: Vector-Quantized Generative Adversarial Network for Motion Prediction",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Yasar et al., "A Scalable Approach to Predict Multi-Agent Motion for Human-Robot Collaboration", RAL, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9353218>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth-hrc">KTH-HRC</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#utd-mhad">UTD-MHAD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Yasar_2021_RAL,
+    author = "Yasar, Mohammad Samin and Iqbal, Tariq",
+    journal = "RAL",
+    title = "A Scalable Approach to Predict Multi-Agent Motion for Human-Robot Collaboration",
+    year = "2021",
+    volume = "6",
+    number = "2",
+    pages = "1686-1693"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Chen_2015_ICIP,
+    author = "Chen, Chen and Jafari, Roozbeh and Kehtarnavaz, Nasser",
+    booktitle = "ICIP",
+    title = "{UTD-MHAD}: A Multimodal Dataset for Human Action Recognition Utilizing a Depth Camera and a Wearable Inertial Sensor",
+    year = "2015"
 }
 </pre>
 </details>
@@ -6180,6 +6273,85 @@ A dataset of fishes and mice in a lab environment with corresponding 2D poses
     number = "3",
     pages = "454--478",
     year = "2017"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=gta-im></a>
+<details close>
+<summary><l style="font-size:20px"><strong>GTA Indoor Motion dataset (GTA-IM)</strong></l> <a href=https://github.com/ZheC/GTA-IM-Dataset>link</a> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460375.pdf>paper</a> <a href=https://arxiv.org/pdf/2007.03672.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 10 indoor scenes recorded from GTA game with 21 joint pose annotations for persons
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/motion/motion_papers.md#top>Motion prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, 3D Pose, Semantic Segment, Camera Pose</li>
+<li><em><strong>Task:</strong></em> Simulation</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Mao et al., "Contact-aware Human Motion Forecasting", NeurIPS, 2022.</em> <a href=https://openreview.net/pdf?id=LIKlL1Br9AT>paper</a> <a href=https://arxiv.org/pdf/2210.03954.pdf>arxiv</a> <a href=https://github.com/wei-mao-2019/ContAwareMotionPred>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#gta-im">GTA-IM</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#prox">PROX</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mao_2022_NeurIPS,
+    author = "Mao, Wei and miaomiao Liu and Hartley, Richard and Salzmann, Mathieu",
+    title = "Contact-aware Human Motion Forecasting",
+    booktitle = "NeurIPS",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Cao et al., "Long-term Human Motion Prediction with Scene Context", ECCV, 2020.</em> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460375.pdf>paper</a> <a href=https://arxiv.org/pdf/2007.03672.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#prox">PROX</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#gta-im">GTA-IM</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Cao_2020_ECCV,
+    author = "Cao, Zhe and Gao, Hang and Mangalam, Karttikeya and Cai, Qi-Zhi and Vo, Minh and Malik, Jitendra",
+    title = "Long-term Human Motion Prediction with Scene Context",
+    booktitle = "ECCV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Cao_2020_ECCV,
+    author = "Cao, Zhe and Gao, Hang and Mangalam, Karttikeya and Cai, Qi-Zhi and Vo, Minh and Malik, Jitendra",
+    title = "Long-term Human Motion Prediction with Scene Context",
+    booktitle = "ECCV",
+    year = "2020"
 }
 </pre>
 </details>
@@ -6543,66 +6715,6 @@ A dataset containing 2 couples of dancers performing 16 extreme actions, obtaini
 </details>
 
 </ul></details>
-<a name=kth-hrc></a>
-<details close>
-<summary><l style="font-size:20px"><strong>KTH-HRC</strong></l> <a href=https://github.com/jbutepage/human_robot_interaction_data/tree/master/hh>link</a> <a href=https://www.frontiersin.org/articles/10.3389/frobt.2020.00047/full>paper</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of human-human and human-robot collaboration involving 4 basic actions.
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../../papers/motion/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> 3D pose</li>
-<li><em><strong>Task:</strong></em> Interaction</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Yasar et al., "A Scalable Approach to Predict Multi-Agent Motion for Human-Robot Collaboration", RAL, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9353218>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth-hrc">KTH-HRC</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#utd-mhad">UTD-MHAD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@Article{Yasar_2021_RAL,
-    author = "Yasar, Mohammad Samin and Iqbal, Tariq",
-    journal = "RAL",
-    title = "A Scalable Approach to Predict Multi-Agent Motion for Human-Robot Collaboration",
-    year = "2021",
-    volume = "6",
-    number = "2",
-    pages = "1686-1693"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@Article{Butepage_2020_FRAI,
-    author = "Bütepage, Judith and Ghadirzadeh, Ali and Öztimur Karadaǧ, Özge and Björkman, Mårten and Kragic, Danica",
-    journal = "Frontiers in Robotics and AI",
-    title = "Imitating by Generating: Deep Generative Models for Imitation of Interactive Tasks",
-    year = "2020",
-    volume = "7",
-    number = "2"
-}
-</pre>
-</details>
-
-</ul></details>
 <a name=chico></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Cobots and Humans in Industrial COllaboration (CHICO)</strong></l> <a href=https://github.com/federicocunico/human-robot-collaboration>link</a> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980051.pdf>paper</a> <a href=https://arxiv.org/pdf/2208.07308.pdf>arxiv</a></summary> 
@@ -6649,6 +6761,58 @@ A dataset of  multi-view videos, 3D poses and trajectories of 20 human operators
 @InProceedings{Sampieri_2022_ECCV,
     author = "Sampieri, Alessio and di Melendugno, Guido Maria D’Amely and Avogaro, Andrea and Cunico, Federico and Setti, Francesco and Skenderi, Geri and Cristani, Marco and Galasso, Fabio",
     title = "Pose Forecasting in Industrial Human-Robot Collaboration",
+    booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=gimo></a>
+<details close>
+<summary><l style="font-size:20px"><strong>GIMO</strong></l> <a href=https://github.com/y-zheng18/GIMO>link</a> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730675.pdf>paper</a> <a href=https://arxiv.org/pdf/2204.09443.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 129K frames capturing human 3D poses in an environment recorded using IMU sensors.
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/motion/motion_papers.md#top>Motion prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> 3D Scene, 3D Pose, Gaze, Activity Label</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Zheng et al., "GIMO: Gaze-Informed Human Motion Prediction in Context", ECCV, 2022.</em> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730675.pdf>paper</a> <a href=https://arxiv.org/pdf/2204.09443.pdf>arxiv</a> <a href=https://github.com/y-zheng18/GIMO>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#gimo">GIMO</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhang_2022_ECCV_2,
+    author = "Zheng, Yang and Yang, Yanchao and Mo, Kaichun and Li, Jiaman and Yu, Tao and Liu, Yebin and Liu, Karen and Guibas, Leonidas J.",
+    title = "{GIMO}: Gaze-Informed Human Motion Prediction in Context",
+    booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Zhang_2022_ECCV_2,
+    author = "Zheng, Yang and Yang, Yanchao and Mo, Kaichun and Li, Jiaman and Yu, Tao and Liu, Yebin and Liu, Karen and Guibas, Leonidas J.",
+    title = "{GIMO}: Gaze-Informed Human Motion Prediction in Context",
     booktitle = "ECCV",
     year = "2022"
 }
@@ -6707,58 +6871,6 @@ A dataset of photo realistic 3D indoor environments
     title = "Habitat: A Platform for Embodied {AI} Research",
     booktitle = "ICCV",
     year = "2019"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=gimo></a>
-<details close>
-<summary><l style="font-size:20px"><strong>GIMO</strong></l> <a href=https://github.com/y-zheng18/GIMO>link</a> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730675.pdf>paper</a> <a href=https://arxiv.org/pdf/2204.09443.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 129K frames capturing human 3D poses in an environment recorded using IMU sensors.
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../../papers/motion/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> 3D Scene, 3D Pose, Gaze, Activity Label</li>
-<li><em><strong>Task:</strong></em> Activity</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Zheng et al., "GIMO: Gaze-Informed Human Motion Prediction in Context", ECCV, 2022.</em> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730675.pdf>paper</a> <a href=https://arxiv.org/pdf/2204.09443.pdf>arxiv</a> <a href=https://github.com/y-zheng18/GIMO>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#gimo">GIMO</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zhang_2022_ECCV_2,
-    author = "Zheng, Yang and Yang, Yanchao and Mo, Kaichun and Li, Jiaman and Yu, Tao and Liu, Yebin and Liu, Karen and Guibas, Leonidas J.",
-    title = "{GIMO}: Gaze-Informed Human Motion Prediction in Context",
-    booktitle = "ECCV",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Zhang_2022_ECCV_2,
-    author = "Zheng, Yang and Yang, Yanchao and Mo, Kaichun and Li, Jiaman and Yu, Tao and Liu, Yebin and Liu, Karen and Guibas, Leonidas J.",
-    title = "{GIMO}: Gaze-Informed Human Motion Prediction in Context",
-    booktitle = "ECCV",
-    year = "2022"
 }
 </pre>
 </details>
@@ -7030,64 +7142,6 @@ A motion capture dataset that contains 70+ motion classes in 10 to 50 realizatio
     month = "June",
     institution = "Universitat Bonn",
     ISSN = "1610-8892"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=utd-mhad></a>
-<details close>
-<summary><l style="font-size:20px"><strong>UTD-MHAD</strong></l> <a href=https://personal.utdallas.edu/~kehtar/UTD-MHAD.html>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/7350781>paper</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 27 actions performed by 8 subjects collected using Kinect sensor.
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../../papers/motion/motion_papers.md#top>Motion prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, Depth, 3D pose, Inertial sensor</li>
-<li><em><strong>Task:</strong></em> Activity</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Yasar et al., "A Scalable Approach to Predict Multi-Agent Motion for Human-Robot Collaboration", RAL, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9353218>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth-hrc">KTH-HRC</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#utd-mhad">UTD-MHAD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@Article{Yasar_2021_RAL,
-    author = "Yasar, Mohammad Samin and Iqbal, Tariq",
-    journal = "RAL",
-    title = "A Scalable Approach to Predict Multi-Agent Motion for Human-Robot Collaboration",
-    year = "2021",
-    volume = "6",
-    number = "2",
-    pages = "1686-1693"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Chen_2015_ICIP,
-    author = "Chen, Chen and Jafari, Roozbeh and Kehtarnavaz, Nasser",
-    booktitle = "ICIP",
-    title = "{UTD-MHAD}: A Multimodal Dataset for Human Action Recognition Utilizing a Depth Camera and a Wearable Inertial Sensor",
-    year = "2015"
 }
 </pre>
 </details>

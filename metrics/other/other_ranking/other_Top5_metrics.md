@@ -26,9 +26,9 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -91,6 +91,35 @@ ___
     author = "Looper, Samuel and Rodriguez-Puigvert, Javier and Siegwart, Roland and Cadena, Cesar and Schmid, Lukas",
     title = "3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs",
     booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Sharma et al., "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341435>paper</a> <a href=https://arxiv.org/pdf/2203.04177.pdf>arxiv</a> <a href=https://raaslab.org/projects/ProxMaP/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#hm3d">HM3D</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Sharma_2023_IROS,
+    author = "Sharma, Vishnu D. and Chen, Jingxi and Tokekar, Pratap",
+    booktitle = "IROS",
+    title = "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation",
     year = "2023"
 }
 </pre>
@@ -437,6 +466,384 @@ ___
 </ul>
 </details>
 
+<a name=recall></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Recall</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Li et al., "Causally-Aware Intraoperative Imputation for Overall Survival Time Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Causally-Aware_Intraoperative_Imputation_for_Overall_Survival_Time_Prediction_CVPR_2023_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Li_2023_CVPR_1,
+    author = "Li, Xiang and Qian, Xuelin and Liang, Litian and Kong, Lingjie and Dong, Qiaole and Chen, Jiejun and Liu, Dingxia and Yao, Xiuzhong and Fu, Yanwei",
+    title = "Causally-Aware Intraoperative Imputation for Overall Survival Time Prediction",
+    booktitle = "CVPR",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Abdelsalam et al., "GePSAn: Generative Procedure Step Anticipation in Cooking Videos", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Abdelsalam_GePSAn_Generative_Procedure_Step_Anticipation_in_Cooking_Videos_ICCV_2023_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#youcook2">YouCook2</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#recipe1m">Recipe1M</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#bleu">BLEU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#meteor">METEOR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Abdelsalam_2023_ICCV,
+    author = "Abdelsalam, Mohamed A. and Rangrej, Samrudhdhi B. and Hadji, Isma and Dvornik, Nikita and Derpanis, Konstantinos G. and Fazly, Afsaneh",
+    title = "GePSAn: Generative Procedure Step Anticipation in Cooking Videos",
+    booktitle = "ICCV",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Li et al., "TTC4MCP: Monocular Collision Prediction Based on Self-Supervised TTC Estimation", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341966>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#time">time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Li_2023_IROS,
+    author = "Li, Changlin and Qian, Yeqiang and Sun, Cong and Yan, Weihao and Wang, Chunxiang and Yang, Ming",
+    booktitle = "IROS",
+    title = "TTC4MCP: Monocular Collision Prediction Based on Self-Supervised TTC Estimation",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Sharma et al., "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341435>paper</a> <a href=https://arxiv.org/pdf/2203.04177.pdf>arxiv</a> <a href=https://raaslab.org/projects/ProxMaP/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#hm3d">HM3D</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Sharma_2023_IROS,
+    author = "Sharma, Vishnu D. and Chen, Jingxi and Tokekar, Pratap",
+    booktitle = "IROS",
+    title = "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Jia et al., "Generative Adversarial Network for Future Hand Segmentation from Egocentric Video", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730638.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.11305.pdf>arxiv</a> <a href=https://vjwq.github.io/EgoGAN/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Jia_2022_ECCV,
+    author = "Jia, Wenqi and Liu, Miao and Rehg, James M.",
+    title = "Generative Adversarial Network for Future Hand Segmentation from Egocentric Video",
+    booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Walters et al., "EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9636327>paper</a> <a href=https://arxiv.org/pdf/2109.00405.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Walters_2021_IROS,
+    author = "Walters, Celyn and Hadfield, Simon",
+    booktitle = "IROS",
+    title = "{EVReflex}: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Wang et al., "Learning-based 3D Occupancy Prediction for Autonomous Navigation in Occluded Environments", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9636333>paper</a> <a href=https://arxiv.org/pdf/2011.03981.pdf>arxiv</a> <a href=https://github.com/ZJU-FAST-Lab/OPNet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wang_2021_IROS,
+    author = "Wang, Lizi and Ye, Hongkai and Wang, Qianhao and Gao, Yuman and Xu, Chao and Gao, Fei",
+    booktitle = "IROS",
+    title = "Learning-based {3D} Occupancy Prediction for Autonomous Navigation in Occluded Environments",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Wirthmüller et al., "Predicting the Time Until a Vehicle Changes the Lane Using LSTM-Based Recurrent Neural Networks", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9353203>paper</a> <a href=https://arxiv.org/pdf/2102.01431.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#highd">highD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Wirthmuller_2021_RAL,
+    author = "Wirthmüller, Florian and Klimke, Marvin and Schlechtriemen, Julian and Hipp, Jochen and Reichert, Manfred",
+    journal = "RAL",
+    title = "Predicting the Time Until a Vehicle Changes the Lane Using {LSTM-Based} Recurrent Neural Networks",
+    year = "2021",
+    volume = "6",
+    number = "2",
+    pages = "2357-2364"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Kataoka et al., "Joint Pedestrian Detection and Risk-level Prediction with Motion-Representation-by-Detection", ICRA, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/9197399>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kataoka_2020_ICRA,
+    author = "Kataoka, H. and Suzuki, T. and Nakashima, K. and Satoh, Y. and Aoki, Y.",
+    booktitle = "ICRA",
+    title = "Joint Pedestrian Detection and Risk-level Prediction with Motion-Representation-by-Detection",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Wang et al., "Group Split and Merge Prediction With 3D Convolutional Networks", RAL, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/8972421>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Wang_2020_RAL,
+    author = "Wang, A. and Steinfeld, A.",
+    journal = "RAL",
+    title = "Group Split and Merge Prediction With 3D Convolutional Networks",
+    year = "2020",
+    volume = "5",
+    number = "2",
+    pages = "1923-1930"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8658402>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kim_2019_WACV,
+    author = "Kim, S. and Kim, H. and Lee, J. and Yoon, S. and Kahou, S. E. and Kashinath, K. and Prabhat, M.",
+    booktitle = "WACV",
+    title = "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017.</em></strong> <a href=https://ieeexplore.ieee.org/document/8206442>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mcc">MCC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Sur_2017_IROS,
+    author = "Sur, I. and Ben Amor, H.",
+    booktitle = "IROS",
+    title = "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fcvl">FCVL</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Choi_2016_IROS,
+    author = "Choi, S. and Lee, K. and Oh, S.",
+    booktitle = "IROS",
+    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=iou></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong></l>
@@ -463,6 +870,33 @@ ___
     author = "Liu, Haochen and Huang, Zhiyu and Lv, Chen",
     title = "Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving",
     booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Asghar et al., "Vehicle Motion Forecasting Using Prior Information and Semantic-Assisted Occupancy Grid Maps", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10342507>paper</a> <a href=https://arxiv.org/pdf/2308.04303.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rov">RoV</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Asghar_2023_IROS,
+    author = "Asghar, Rabbia and Diaz-Zapata, Manuel and Rummelhard, Lukas and Spalanzani, Anne and Laugier, Christian",
+    booktitle = "IROS",
+    title = "Vehicle Motion Forecasting Using Prior Information and Semantic-Assisted Occupancy Grid Maps",
     year = "2023"
 }
 </pre>
@@ -787,9 +1221,9 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -798,6 +1232,64 @@ ___
     author = "Li, Xiang and Qian, Xuelin and Liang, Litian and Kong, Lingjie and Dong, Qiaole and Chen, Jiejun and Liu, Dingxia and Yao, Xiuzhong and Fu, Yanwei",
     title = "Causally-Aware Intraoperative Imputation for Overall Survival Time Prediction",
     booktitle = "CVPR",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Li et al., "TTC4MCP: Monocular Collision Prediction Based on Self-Supervised TTC Estimation", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341966>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#time">time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Li_2023_IROS,
+    author = "Li, Changlin and Qian, Yeqiang and Sun, Cong and Yan, Weihao and Wang, Chunxiang and Yang, Ming",
+    booktitle = "IROS",
+    title = "TTC4MCP: Monocular Collision Prediction Based on Self-Supervised TTC Estimation",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Sharma et al., "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341435>paper</a> <a href=https://arxiv.org/pdf/2203.04177.pdf>arxiv</a> <a href=https://raaslab.org/projects/ProxMaP/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#hm3d">HM3D</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Sharma_2023_IROS,
+    author = "Sharma, Vishnu D. and Chen, Jingxi and Tokekar, Pratap",
+    booktitle = "IROS",
+    title = "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation",
     year = "2023"
 }
 </pre>
@@ -1107,9 +1599,9 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1386,326 +1878,6 @@ ___
     title = "Automated Facial Trait Judgment And Election Outcome Prediction: Social Dimensions Of Face",
     booktitle = "ICCV",
     year = "2015"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=recall></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Recall</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Li et al., "Causally-Aware Intraoperative Imputation for Overall Survival Time Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Causally-Aware_Intraoperative_Imputation_for_Overall_Survival_Time_Prediction_CVPR_2023_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Li_2023_CVPR_1,
-    author = "Li, Xiang and Qian, Xuelin and Liang, Litian and Kong, Lingjie and Dong, Qiaole and Chen, Jiejun and Liu, Dingxia and Yao, Xiuzhong and Fu, Yanwei",
-    title = "Causally-Aware Intraoperative Imputation for Overall Survival Time Prediction",
-    booktitle = "CVPR",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Abdelsalam et al., "GePSAn: Generative Procedure Step Anticipation in Cooking Videos", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Abdelsalam_GePSAn_Generative_Procedure_Step_Anticipation_in_Cooking_Videos_ICCV_2023_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#youcook2">YouCook2</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#recipe1m">Recipe1M</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#bleu">BLEU</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#meteor">METEOR</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Abdelsalam_2023_ICCV,
-    author = "Abdelsalam, Mohamed A. and Rangrej, Samrudhdhi B. and Hadji, Isma and Dvornik, Nikita and Derpanis, Konstantinos G. and Fazly, Afsaneh",
-    title = "GePSAn: Generative Procedure Step Anticipation in Cooking Videos",
-    booktitle = "ICCV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Jia et al., "Generative Adversarial Network for Future Hand Segmentation from Egocentric Video", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730638.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.11305.pdf>arxiv</a> <a href=https://vjwq.github.io/EgoGAN/>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Jia_2022_ECCV,
-    author = "Jia, Wenqi and Liu, Miao and Rehg, James M.",
-    title = "Generative Adversarial Network for Future Hand Segmentation from Egocentric Video",
-    booktitle = "ECCV",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Walters et al., "EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9636327>paper</a> <a href=https://arxiv.org/pdf/2109.00405.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Walters_2021_IROS,
-    author = "Walters, Celyn and Hadfield, Simon",
-    booktitle = "IROS",
-    title = "{EVReflex}: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Wang et al., "Learning-based 3D Occupancy Prediction for Autonomous Navigation in Occluded Environments", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9636333>paper</a> <a href=https://arxiv.org/pdf/2011.03981.pdf>arxiv</a> <a href=https://github.com/ZJU-FAST-Lab/OPNet>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Wang_2021_IROS,
-    author = "Wang, Lizi and Ye, Hongkai and Wang, Qianhao and Gao, Yuman and Xu, Chao and Gao, Fei",
-    booktitle = "IROS",
-    title = "Learning-based {3D} Occupancy Prediction for Autonomous Navigation in Occluded Environments",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Wirthmüller et al., "Predicting the Time Until a Vehicle Changes the Lane Using LSTM-Based Recurrent Neural Networks", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9353203>paper</a> <a href=https://arxiv.org/pdf/2102.01431.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#highd">highD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@Article{Wirthmuller_2021_RAL,
-    author = "Wirthmüller, Florian and Klimke, Marvin and Schlechtriemen, Julian and Hipp, Jochen and Reichert, Manfred",
-    journal = "RAL",
-    title = "Predicting the Time Until a Vehicle Changes the Lane Using {LSTM-Based} Recurrent Neural Networks",
-    year = "2021",
-    volume = "6",
-    number = "2",
-    pages = "2357-2364"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Kataoka et al., "Joint Pedestrian Detection and Risk-level Prediction with Motion-Representation-by-Detection", ICRA, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/9197399>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Kataoka_2020_ICRA,
-    author = "Kataoka, H. and Suzuki, T. and Nakashima, K. and Satoh, Y. and Aoki, Y.",
-    booktitle = "ICRA",
-    title = "Joint Pedestrian Detection and Risk-level Prediction with Motion-Representation-by-Detection",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Wang et al., "Group Split and Merge Prediction With 3D Convolutional Networks", RAL, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/8972421>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@Article{Wang_2020_RAL,
-    author = "Wang, A. and Steinfeld, A.",
-    journal = "RAL",
-    title = "Group Split and Merge Prediction With 3D Convolutional Networks",
-    year = "2020",
-    volume = "5",
-    number = "2",
-    pages = "1923-1930"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Kim et al., "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8658402>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Kim_2019_WACV,
-    author = "Kim, S. and Kim, H. and Lee, J. and Yoon, S. and Kahou, S. E. and Kashinath, K. and Prabhat, M.",
-    booktitle = "WACV",
-    title = "Deep-Hurricane-Tracker: Tracking And Forecasting Extreme Climate Events",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Sur et al., "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models", IROS, 2017.</em></strong> <a href=https://ieeexplore.ieee.org/document/8206442>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mcc">MCC</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Sur_2017_IROS,
-    author = "Sur, I. and Ben Amor, H.",
-    booktitle = "IROS",
-    title = "Robots That Anticipate Pain: Anticipating Physical Perturbations From Visual Cues Through Deep Predictive Models",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fcvl">FCVL</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Choi_2016_IROS,
-    author = "Choi, S. and Lee, K. and Oh, S.",
-    booktitle = "IROS",
-    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
-    year = "2016"
 }
 </pre>
 </details>

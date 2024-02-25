@@ -1247,6 +1247,64 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
 </ul>
 </details>
 <details close>
+<summary><em>Kedia et al., "A Game-Theoretic Framework for Joint Forecasting and Planning", IROS, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10341265>paper</a> <a href=https://arxiv.org/pdf/2308.06137.pdf>arxiv</a> <a href=https://github.com/portal-cornell/Game-Theoretic-Forecasting-Planning>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Kedia_2023_IROS,
+    author = "Kedia, Kushal and Dan, Prithwish and Choudhury, Sanjiban",
+    booktitle = "IROS",
+    title = "A Game-Theoretic Framework for Joint Forecasting and Planning",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Poddar et al., "From Crowd Motion Prediction to Robot Navigation in Crowds", IROS, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10341464>paper</a> <a href=https://arxiv.org/pdf/2303.01424.pdf>arxiv</a> <a href=https://github.com/cmavrogiannis/Pred2Nav>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Poddar_2023_IROS,
+    author = "Poddar, Sriyash and Mavrogiannis, Christoforos and Srinivasa, Siddhartha S.",
+    booktitle = "IROS",
+    title = "From Crowd Motion Prediction to Robot Navigation in Crowds",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Bae et al., "Non-Probability Sampling Network for Stochastic Human Trajectory Prediction", CVPR, 2022.</em> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Non-Probability_Sampling_Network_for_Stochastic_Human_Trajectory_Prediction_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.13471.pdf>arxiv</a> <a href=https://github.com/inhwanbae/NPSN>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -5667,6 +5725,62 @@ A dataset of photo realistic 3D indoor environments
     title = "Habitat: A Platform for Embodied {AI} Research",
     booktitle = "ICCV",
     year = "2019"
+}
+</pre>
+</details>
+
+</ul></details>
+</ul><ul><a name=hm3d></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Habitat Matterport Dataset (HM3D)</strong></l> <a href=https://aihabitat.org/datasets/hm3d/>link</a> <a href=https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/34173cb38f07f89ddbebc2ac9128303f-Paper-round2.pdf>paper</a> <a href=https://arxiv.org/pdf/2109.08238.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 3D indoor spaces consisting of 1,000 high-resolution 3D scans (or digital twins) of various buildings generated from real-world environments.
+</li>
+<li>
+<em><strong>Applications:</strong></em> </li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, Human</li>
+<li><em><strong>Task:</strong></em> Navigation</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Sharma et al., "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation", IROS, 2023.</em> <a href=https://ieeexplore.ieee.org/document/10341435>paper</a> <a href=https://arxiv.org/pdf/2203.04177.pdf>arxiv</a> <a href=https://raaslab.org/projects/ProxMaP/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#hm3d">HM3D</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Sharma_2023_IROS,
+    author = "Sharma, Vishnu D. and Chen, Jingxi and Tokekar, Pratap",
+    booktitle = "IROS",
+    title = "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@inproceedings{Ramakrishnan_2021_NeurIPS,
+    author = "Ramakrishnan, Santhosh Kumar and Gokaslan, Aaron and Wijmans, Erik and Maksymets, Oleksandr and Clegg, Alexander and Turner, John M and Undersander, Eric and Galuba, Wojciech and Westbury, Andrew and Chang, Angel X and Savva, Manolis and Zhao, Yili and Batra, Dhruv",
+    title = "Habitat-Matterport 3D Dataset ({HM}3D): 1000 Large-scale 3D Environments for Embodied {AI}",
+    booktitle = "NeurIPS",
+    year = "2021"
 }
 </pre>
 </details>

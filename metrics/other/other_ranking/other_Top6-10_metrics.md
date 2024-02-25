@@ -210,6 +210,180 @@ ___
 </ul>
 </details>
 
+<a name=auc></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Liu et al., "Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160855>paper</a> <a href=https://arxiv.org/pdf/2208.00394.pdf>arxiv</a> <a href=: https://github.com/georgeliu233/STrajNet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Liu_2023_ICRA,
+    author = "Liu, Haochen and Huang, Zhiyu and Lv, Chen",
+    title = "Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Asghar et al., "Vehicle Motion Forecasting Using Prior Information and Semantic-Assisted Occupancy Grid Maps", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10342507>paper</a> <a href=https://arxiv.org/pdf/2308.04303.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rov">RoV</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Asghar_2023_IROS,
+    author = "Asghar, Rabbia and Diaz-Zapata, Manuel and Rummelhard, Lukas and Spalanzani, Anne and Laugier, Christian",
+    booktitle = "IROS",
+    title = "Vehicle Motion Forecasting Using Prior Information and Semantic-Assisted Occupancy Grid Maps",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Kim et al., "StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving", ICRA, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9811830>paper</a> <a href=https://arxiv.org/pdf/2206.00991.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kim_2022_ICRA,
+    author = "Kim, Jinkyu and Mahjourian, Reza and Ettinger, Scott and Bansal, Mayank and White, Brandyn and Sapp, Ben and Anguelov, Dragomir",
+    booktitle = "ICRA",
+    title = "{StopNet}: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Fobi et al., "Predicting Levels of Household Electricity Consumption in Low-Access Settings", WACV, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2022/papers/Fobi_Predicting_Levels_of_Household_Electricity_Consumption_in_Low-Access_Settings_WACV_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2112.08497.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#tp">TP</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#tn">TN</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Fobi_2022_WACV,
+    author = "Fobi, Simone and Mugyenyi, Joel and Williams, Nathaniel J. and Modi, Vijay and Taneja, Jay",
+    title = "Predicting Levels of Household Electricity Consumption in Low-Access Settings",
+    booktitle = "WACV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Li et al., "Causal Hidden Markov Model for Time Series Disease Forecasting", CVPR, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Causal_Hidden_Markov_Model_for_Time_Series_Disease_Forecasting_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2103.16391.pdf>arxiv</a> <a href=https://github.com/LilJing/causal_hmm>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Li_2021_CVPR,
+    author = "Li, Jing and Wu, Botong and Sun, Xinwei and Wang, Yizhou",
+    title = "Causal Hidden Markov Model for Time Series Disease Forecasting",
+    booktitle = "CVPR",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fcvl">FCVL</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Choi_2016_IROS,
+    author = "Choi, S. and Lee, K. and Oh, S.",
+    booktitle = "IROS",
+    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=mae></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong></l>
@@ -376,31 +550,57 @@ ___
 </ul>
 </details>
 
-<a name=auc></a>
+<a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Liu et al., "Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160855>paper</a> <a href=https://arxiv.org/pdf/2208.00394.pdf>arxiv</a> <a href=: https://github.com/georgeliu233/STrajNet>code</a></summary>
+<summary><strong><em>Lin et al., "MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_MMST-ViT_Climate_Change-aware_Crop_Yield_Prediction_via_Multi-Modal_Spatial-Temporal_Vision_ICCV_2023_paper.pdf>paper</a> <a href=https://github.com/fudong03/MMST-ViT>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li>Custom</li>
+
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#corr">Corr</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#r-squared">R-squared</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Liu_2023_ICRA,
-    author = "Liu, Haochen and Huang, Zhiyu and Lv, Chen",
-    title = "Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving",
+@InProceedings{Lin_2023_ICCV,
+    author = "Lin, Fudong and Crawford, Summer and Guillot, Kaleb and Zhang, Yihe and Chen, Yan and Yuan, Xu and Chen, Li and Williams, Shelby and Minvielle, Robert and Xiao, Xiangming and Gholson, Drew and Ashwell, Nicolas and Setiyono, Tri and Tubana, Brenda and Peng, Lu and Bayoumi, Magdy and Tzeng, Nian-Feng",
+    title = "MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer",
+    booktitle = "ICCV",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Yu et al., "Congestion Prediction for Large Fleets of Mobile Robots", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161554>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yu_2023_ICRA,
+    author = "Yu, Ge and Wolf, Michael T",
+    title = "Congestion Prediction for Large Fleets of Mobile Robots",
     booktitle = "ICRA",
     year = "2023"
 }
@@ -410,55 +610,24 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Kim et al., "StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving", ICRA, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9811830>paper</a> <a href=https://arxiv.org/pdf/2206.00991.pdf>arxiv</a></summary>
+<summary><strong><em>Chu et al., "Visual Weather Temperature Prediction", WACV, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8354136>paper</a> <a href=https://arxiv.org/pdf/1801.08267.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li>Custom</li>
-
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#amos">AMOS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Kim_2022_ICRA,
-    author = "Kim, Jinkyu and Mahjourian, Reza and Ettinger, Scott and Bansal, Mayank and White, Brandyn and Sapp, Ben and Anguelov, Dragomir",
-    booktitle = "ICRA",
-    title = "{StopNet}: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Fobi et al., "Predicting Levels of Household Electricity Consumption in Low-Access Settings", WACV, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2022/papers/Fobi_Predicting_Levels_of_Household_Electricity_Consumption_in_Low-Access_Settings_WACV_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2112.08497.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#tp">TP</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#tn">TN</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Fobi_2022_WACV,
-    author = "Fobi, Simone and Mugyenyi, Joel and Williams, Nathaniel J. and Modi, Vijay and Taneja, Jay",
-    title = "Predicting Levels of Household Electricity Consumption in Low-Access Settings",
+@InProceedings{Chu_2018_WACV,
+    author = "Chu, W. and Ho, K. and Borji, A.",
     booktitle = "WACV",
-    year = "2022"
+    title = "Visual Weather Temperature Prediction",
+    year = "2018"
 }
 </pre>
 </details>
@@ -466,7 +635,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Li et al., "Causal Hidden Markov Model for Time Series Disease Forecasting", CVPR, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Causal_Hidden_Markov_Model_for_Time_Series_Disease_Forecasting_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2103.16391.pdf>arxiv</a> <a href=https://github.com/LilJing/causal_hmm>code</a></summary>
+<summary><strong><em>Cunningham et al., "Improving Slip Prediction on Mars using Thermal Inertia Measurements", RSS, 2017.</em></strong> <a href=http://www.roboticsproceedings.org/rss13/p38.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -475,45 +644,16 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Li_2021_CVPR,
-    author = "Li, Jing and Wu, Botong and Sun, Xinwei and Wang, Yizhou",
-    title = "Causal Hidden Markov Model for Time Series Disease Forecasting",
-    booktitle = "CVPR",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Choi et al., "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks", IROS, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/7759278>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fcvl">FCVL</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Choi_2016_IROS,
-    author = "Choi, S. and Lee, K. and Oh, S.",
-    booktitle = "IROS",
-    title = "Robust Modeling And Prediction In Dynamic Environments Using Recurrent Flow Networks",
-    year = "2016"
+@InProceedings{Cunningham_2017_RSS,
+    author = "Cunningham, Christopher and Nesnas, Issa A and Whittaker, William L",
+    title = "Improving Slip Prediction on Mars using Thermal Inertia Measurements",
+    booktitle = "RSS",
+    year = "2017"
 }
 </pre>
 </details>
@@ -628,119 +768,6 @@ ___
     booktitle = "IROS",
     title = "Pedestrian Density Prediction For Efficient Mobile Robot Exploration",
     year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=rmse></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Lin et al., "MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_MMST-ViT_Climate_Change-aware_Crop_Yield_Prediction_via_Multi-Modal_Spatial-Temporal_Vision_ICCV_2023_paper.pdf>paper</a> <a href=https://github.com/fudong03/MMST-ViT>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#corr">Corr</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#r-squared">R-squared</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Lin_2023_ICCV,
-    author = "Lin, Fudong and Crawford, Summer and Guillot, Kaleb and Zhang, Yihe and Chen, Yan and Yuan, Xu and Chen, Li and Williams, Shelby and Minvielle, Robert and Xiao, Xiangming and Gholson, Drew and Ashwell, Nicolas and Setiyono, Tri and Tubana, Brenda and Peng, Lu and Bayoumi, Magdy and Tzeng, Nian-Feng",
-    title = "MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer",
-    booktitle = "ICCV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Yu et al., "Congestion Prediction for Large Fleets of Mobile Robots", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161554>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Yu_2023_ICRA,
-    author = "Yu, Ge and Wolf, Michael T",
-    title = "Congestion Prediction for Large Fleets of Mobile Robots",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Chu et al., "Visual Weather Temperature Prediction", WACV, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8354136>paper</a> <a href=https://arxiv.org/pdf/1801.08267.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#amos">AMOS</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chu_2018_WACV,
-    author = "Chu, W. and Ho, K. and Borji, A.",
-    booktitle = "WACV",
-    title = "Visual Weather Temperature Prediction",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Cunningham et al., "Improving Slip Prediction on Mars using Thermal Inertia Measurements", RSS, 2017.</em></strong> <a href=http://www.roboticsproceedings.org/rss13/p38.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Cunningham_2017_RSS,
-    author = "Cunningham, Christopher and Nesnas, Issa A and Whittaker, William L",
-    title = "Improving Slip Prediction on Mars using Thermal Inertia Measurements",
-    booktitle = "RSS",
-    year = "2017"
 }
 </pre>
 </details>

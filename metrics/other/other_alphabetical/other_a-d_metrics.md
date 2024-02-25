@@ -12,7 +12,7 @@ ___
 <h2>A-D <small>[rank]</small></h2> 
 <ul><a name=absrel></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Absolute Relative error (AbsRel)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Absolute Relative error (AbsRel)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -63,9 +63,9 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -353,7 +353,7 @@ ___
 
 </ul><ul><a name=ace></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Calibration Error (ACE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Calibration Error (ACE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -389,7 +389,7 @@ ___
 
 </ul><ul><a name=ade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -426,7 +426,7 @@ ___
 
 </ul><ul><a name=aepe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average End-Point Error (AEPE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average End-Point Error (AEPE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -464,7 +464,7 @@ ___
 
 </ul><ul><a name=ap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -554,7 +554,7 @@ ___
 
 </ul><ul><a name=auc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> [6]</small></l>
+<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> [5]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -578,6 +578,33 @@ ___
     author = "Liu, Haochen and Huang, Zhiyu and Lv, Chen",
     title = "Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving",
     booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Asghar et al., "Vehicle Motion Forecasting Using Prior Information and Semantic-Assisted Occupancy Grid Maps", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10342507>paper</a> <a href=https://arxiv.org/pdf/2308.04303.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rov">RoV</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Asghar_2023_IROS,
+    author = "Asghar, Rabbia and Diaz-Zapata, Manuel and Rummelhard, Lukas and Spalanzani, Anne and Laugier, Christian",
+    booktitle = "IROS",
+    title = "Vehicle Motion Forecasting Using Prior Information and Semantic-Assisted Occupancy Grid Maps",
     year = "2023"
 }
 </pre>
@@ -701,7 +728,7 @@ ___
 
 </ul><ul><a name=ave></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Velocity Error (AVE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Velocity Error (AVE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -738,7 +765,7 @@ ___
 
 </ul><ul><a name=bleu></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Bilingual Evaluation Understudy (BLEU)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Bilingual Evaluation Understudy (BLEU)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -803,7 +830,7 @@ ___
 
 </ul><ul><a name=bss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Brier Skill Score (BSS)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Brier Skill Score (BSS)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -838,7 +865,7 @@ ___
 
 </ul><ul><a name=c-index></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cross-validated concordance Index (C-Index)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Cross-validated concordance Index (C-Index)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -872,7 +899,7 @@ ___
 
 </ul><ul><a name=cd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Chamfer Distance (CD)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Chamfer Distance (CD)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -960,7 +987,7 @@ ___
 
 </ul><ul><a name=cider></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -997,7 +1024,7 @@ ___
 
 </ul><ul><a name=clipscore></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Contrastive Language-Image Pre-training Score (CLIPScore)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Contrastive Language-Image Pre-training Score (CLIPScore)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1034,7 +1061,7 @@ ___
 
 </ul><ul><a name=corr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Pearson Correlation Coefficient (Corr)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Pearson Correlation Coefficient (Corr)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1070,7 +1097,7 @@ ___
 
 </ul><ul><a name=cross-entropy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cross-entropy</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Cross-entropy</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1106,7 +1133,7 @@ ___
 
 </ul><ul><a name=ddm></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Diversity Distance Metric (DDM)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Diversity Distance Metric (DDM)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1144,7 +1171,7 @@ ___
 
 </ul><ul><a name=dmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Dynamic MSE (DMSE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Dynamic MSE (DMSE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>

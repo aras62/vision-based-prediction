@@ -12,7 +12,7 @@ ___
 <h2>J-Z <small>[rank]</small></h2> 
 <ul><a name=kde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Keypoint Displacement Error (KDE)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Keypoint Displacement Error (KDE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -50,7 +50,7 @@ ___
 
 </ul><ul><a name=kl></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KL</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>KL</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -87,7 +87,7 @@ ___
 
 </ul><ul><a name=kld></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -151,7 +151,7 @@ ___
 
 </ul><ul><a name=l2></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>L2</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>L2</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -188,7 +188,7 @@ ___
 
 </ul><ul><a name=lo></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Limb Orientation (LO)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Limb Orientation (LO)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -222,7 +222,7 @@ ___
 
 </ul><ul><a name=mae></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [6]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [5]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -957,7 +957,7 @@ ___
 
 </ul><ul><a name=mape></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -995,7 +995,7 @@ ___
 
 </ul><ul><a name=minade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minADE</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>minADE</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1065,7 +1065,7 @@ ___
 
 </ul><ul><a name=minfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minFDE</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>minFDE</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1135,7 +1135,7 @@ ___
 
 </ul><ul><a name=mje></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Joint Error (MJE)</strong><small> [4]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Joint Error (MJE)</strong><small> [3]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1512,7 +1512,7 @@ ___
 
 </ul><ul><a name=mmade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Multi-Modal ADE (MMADE)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Multi-Modal ADE (MMADE)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1702,7 +1702,7 @@ ___
 
 </ul><ul><a name=mmfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Multi-Modal FDE (MMFDE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Multi-Modal FDE (MMFDE)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1862,7 +1862,7 @@ ___
 
 </ul><ul><a name=mpble></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Per-Bone Length Error (MPBLE)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Per-Bone Length Error (MPBLE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2861,7 +2861,7 @@ ___
 
 </ul><ul><a name=mse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2915,6 +2915,33 @@ ___
     author = "Ahn, Hyemin and Mascaro, Esteve Valls and Lee, Dongheui",
     title = "Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?",
     booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Yasar et al., "VADER: Vector-Quantized Generative Adversarial Network for Motion Prediction", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10342324>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth-hrc">KTH-HRC</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#utd-mhad">UTD-MHAD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Yasar_2023_IROS,
+    author = "Yasar, Mohammad Samin and Iqbal, Tariq",
+    booktitle = "IROS",
+    title = "VADER: Vector-Quantized Generative Adversarial Network for Motion Prediction",
     year = "2023"
 }
 </pre>
@@ -3012,7 +3039,7 @@ ___
 
 </ul><ul><a name=nll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3050,7 +3077,7 @@ ___
 
 </ul><ul><a name=npss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Normalized Power Spectrum Similarity (NPSS)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Normalized Power Spectrum Similarity (NPSS)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3084,7 +3111,7 @@ ___
 
 </ul><ul><a name=nss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>NSS</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>NSS</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3122,7 +3149,7 @@ ___
 
 </ul><ul><a name=p-mpjpe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Procrustes aligned MPJPE (P-MPJPE)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Procrustes aligned MPJPE (P-MPJPE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3159,7 +3186,7 @@ ___
 
 </ul><ul><a name=pck></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Percentage of Correct Keypoints (PCK)</strong><small> [7]</small></l>
+<summary><em><l style="font-size:20px"><strong>Percentage of Correct Keypoints (PCK)</strong><small> [6]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3387,7 +3414,7 @@ ___
 
 </ul><ul><a name=pcp3d></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Percentage of Correct Parts (PCP3D)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Percentage of Correct Parts (PCP3D)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3424,7 +3451,7 @@ ___
 
 </ul><ul><a name=psent></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>PoSe Entropy (PSEnt)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>PoSe Entropy (PSEnt)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3460,7 +3487,7 @@ ___
 
 </ul><ul><a name=pskl></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>PoSe KL (PSKL)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>PoSe KL (PSKL)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3496,7 +3523,7 @@ ___
 
 </ul><ul><a name=r2></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>R2</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>R2</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3534,7 +3561,7 @@ ___
 
 </ul><ul><a name=re></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Reconstruction Error (RE)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Reconstruction Error (RE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3571,7 +3598,7 @@ ___
 
 </ul><ul><a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3666,7 +3693,7 @@ ___
 
 </ul><ul><a name=run_time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3729,7 +3756,7 @@ ___
 
 </ul><ul><a name=s-mse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Sampling loss MSE (S-MSE)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Sampling loss MSE (S-MSE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3766,7 +3793,7 @@ ___
 
 </ul><ul><a name=sde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>standard Deviation of displacement Error (sDE)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>standard Deviation of displacement Error (sDE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3806,7 +3833,7 @@ ___
 
 </ul><ul><a name=si></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>SI</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>SI</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3843,7 +3870,7 @@ ___
 
 </ul><ul><a name=ssim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3881,7 +3908,7 @@ ___
 
 </ul><ul><a name=vim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>VIM</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>VIM</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>

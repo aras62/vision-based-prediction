@@ -12,7 +12,7 @@ ___
 <h2>E-I <small>[rank]</small></h2> 
 <ul><a name=ed></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -126,7 +126,7 @@ ___
 
 </ul><ul><a name=fde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong><small> [3]</small></l>
+<summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong><small> [2]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -360,6 +360,33 @@ ___
     author = "Saadatnejad, Saeed and Rasekh, Ali and Mofayezi, Mohammadreza and Medghalchi, Yasamin and Rajabzadeh, Sara and Mordan, Taylor and Alahi, Alexandre",
     title = "A generic diffusion-based approach for 3D human pose prediction in the wild",
     booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Lagamtzis et al., "Exploiting Spatio-Temporal Human-Object Relations Using Graph Neural Networks for Human Action Recognition and 3D Motion Forecasting", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10342491>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#bimanual_actions">Bimanual Actions</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#coax">CoAx</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Lagamtzis_2023_IROS,
+    author = "Lagamtzis, Dimitrios and Schmidt, Fabian and Seyler, Jan and Dang, Thao and Schober, Steffen",
+    booktitle = "IROS",
+    title = "Exploiting Spatio-Temporal Human-Object Relations Using Graph Neural Networks for Human Action Recognition and 3D Motion Forecasting",
     year = "2023"
 }
 </pre>
@@ -604,7 +631,7 @@ ___
 
 </ul><ul><a name=fid></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Frechet Instance Distance (FID)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Frechet Instance Distance (FID)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -700,7 +727,7 @@ ___
 
 </ul><ul><a name=human></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -762,7 +789,7 @@ ___
 
 </ul><ul><a name=is></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>

@@ -12,7 +12,7 @@ ___
 <h2>E-I <small>[rank]</small></h2> 
 <ul><a name=ece></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -51,7 +51,7 @@ ___
 
 </ul><ul><a name=ed></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [7]</small></l>
+<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [6]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -165,7 +165,7 @@ ___
 
 </ul><ul><a name=emd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -228,7 +228,7 @@ ___
 
 </ul><ul><a name=epe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -336,9 +336,9 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -401,6 +401,35 @@ ___
     author = "Looper, Samuel and Rodriguez-Puigvert, Javier and Siegwart, Roland and Cadena, Cesar and Schmid, Lukas",
     title = "3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs",
     booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Sharma et al., "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341435>paper</a> <a href=https://arxiv.org/pdf/2203.04177.pdf>arxiv</a> <a href=https://raaslab.org/projects/ProxMaP/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#hm3d">HM3D</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Sharma_2023_IROS,
+    author = "Sharma, Vishnu D. and Chen, Jingxi and Tokekar, Pratap",
+    booktitle = "IROS",
+    title = "ProxMaP: Proximal Occupancy Map Prediction for Efficient Indoor Robot Navigation",
     year = "2023"
 }
 </pre>
@@ -749,7 +778,7 @@ ___
 
 </ul><ul><a name=fpr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>False Positive Rate (FPR)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>False Positive Rate (FPR)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -785,7 +814,7 @@ ___
 
 </ul><ul><a name=fve></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Velocity Error (FVE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Final Velocity Error (FVE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -822,7 +851,7 @@ ___
 
 </ul><ul><a name=gce></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Global Consistency Error (GCE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Global Consistency Error (GCE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -858,7 +887,7 @@ ___
 
 </ul><ul><a name=gmgs></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Gandin-Murphy-Gerrity Score (GMGS)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Gandin-Murphy-Gerrity Score (GMGS)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -893,7 +922,7 @@ ___
 
 </ul><ul><a name=ims></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Image Similarity (ImS)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Image Similarity (ImS)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -952,6 +981,33 @@ ___
     author = "Liu, Haochen and Huang, Zhiyu and Lv, Chen",
     title = "Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving",
     booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Asghar et al., "Vehicle Motion Forecasting Using Prior Information and Semantic-Assisted Occupancy Grid Maps", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10342507>paper</a> <a href=https://arxiv.org/pdf/2308.04303.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rov">RoV</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Asghar_2023_IROS,
+    author = "Asghar, Rabbia and Diaz-Zapata, Manuel and Rummelhard, Lukas and Spalanzani, Anne and Laugier, Christian",
+    booktitle = "IROS",
+    title = "Vehicle Motion Forecasting Using Prior Information and Semantic-Assisted Occupancy Grid Maps",
     year = "2023"
 }
 </pre>
@@ -1262,7 +1318,7 @@ ___
 
 </ul><ul><a name=is></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1296,7 +1352,7 @@ ___
 
 </ul><ul><a name=ism></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ISM</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>ISM</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
