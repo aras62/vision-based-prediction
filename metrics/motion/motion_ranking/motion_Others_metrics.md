@@ -286,7 +286,7 @@ ___
 
 <a name=fid></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Frechet Instance Distance (FID)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Frechet Inception Distance (FID)</strong></l>
 </em></summary>
 <ul>
 <details close>
