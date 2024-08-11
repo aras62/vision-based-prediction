@@ -10,7 +10,298 @@ ___
 [Top5](trajectory_Top5_metrics.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Top6-10](trajectory_Top6-10_metrics.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Others&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 <h2>Others</h2> 
-<ul><a name=mse></a>
+<ul><a name=tcr></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Trajectory Collision Rate (TCR)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Bae et al., "EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Bae_EigenTrajectory_Low-Rank_Descriptors_for_Multi-Modal_Trajectory_Forecasting_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2307.09306.pdf>arxiv</a> <a href=https://github.com/inhwanbae/EigenTrajectory>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Bae_2023_ICCV,
+    author = "Bae, Inhwan and Oh, Jean and Jeon, Hae-Gon",
+    title = "EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting",
+    booktitle = "ICCV",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Sharma et al., "Hilbert Space Embedding-Based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10342490>paper</a> <a href=https://arxiv.org/pdf/2310.08270.pdf>arxiv</a> <a href=https://github.com/arunkumar-singh/RKHS_Stochastic_Traj_Opt>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Sharma_2023_IROS_1,
+    author = "Sharma, Basant and Sharma, Aditya and Krishna, K.Madhava and Singh, Arun Kumar",
+    booktitle = "IROS",
+    title = "Hilbert Space Embedding-Based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Bae et al., "Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820263.pdf>paper</a> <a href=https://arxiv.org/pdf/2207.09953.pdf>arxiv</a> <a href=https://github.com/inhwanbae/GPGraph>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Bae_2022_ECCV,
+    author = "Bae, Inhwan and Park, Jin-Hwi and Jeon, Hae-Gon",
+    title = "Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction",
+    booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Amirloo et al., "Self-Supervised Simultaneous Multi-Step Prediction of Road Dynamics and Cost Map", CVPR, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Amirloo_Self-Supervised_Simultaneous_Multi-Step_Prediction_of_Road_Dynamics_and_Cost_Map_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2103.01039.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rv">RV</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Amirloo_2021_CVPR,
+    author = "Amirloo, Elmira and Rohani, Mohsen and Banijamali, Ershad and Luo, Jun and Poupart, Pascal",
+    title = "Self-Supervised Simultaneous Multi-Step Prediction of Road Dynamics and Cost Map",
+    booktitle = "CVPR",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Kothari et al., "Interpretable Social Anchors for Human Trajectory Forecasting in Crowds", CVPR, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Kothari_Interpretable_Social_Anchors_for_Human_Trajectory_Forecasting_in_Crowds_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2105.03136.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kothari_2021_CVPR,
+    author = "Kothari, Parth and Sifringer, Brian and Alahi, Alexandre",
+    title = "Interpretable Social Anchors for Human Trajectory Forecasting in Crowds",
+    booktitle = "CVPR",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Phillips et al., "Deep Multi-Task Learning for Joint Localization, Perception, and Prediction", CVPR, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Phillips_Deep_Multi-Task_Learning_for_Joint_Localization_Perception_and_Prediction_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2101.06720.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Phillips_2021_CVPR,
+    author = "Phillips, John and Martinez, Julieta and Barsan, Ioan Andrei and Casas, Sergio and Sadat, Abbas and Urtasun, Raquel",
+    title = "Deep Multi-Task Learning for Joint Localization, Perception, and Prediction",
+    booktitle = "CVPR",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Xie et al., "Congestion-aware Multi-agent Trajectory Prediction for Collision Avoidance", ICRA, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9560994>paper</a> <a href=https://arxiv.org/pdf/2103.14231.pdf>arxiv</a> <a href=https://github.com/xuxie1031/CollisionFreeMultiAgentTrajectoryPrediciton>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Xie_2021_ICRA,
+    author = "Xie, Xu and Zhang, Chi and Zhu, Yixin and Wu, Ying Nian and Zhu, Song-Chun",
+    booktitle = "ICRA",
+    title = "Congestion-aware Multi-agent Trajectory Prediction for Collision Avoidance",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Kumar et al., "Interaction-Based Trajectory Prediction Over a Hybrid Traffic Graph", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9636143>paper</a> <a href=https://arxiv.org/pdf/2009.12916.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kumar_2021_IROS,
+    author = "Kumar, Sumit and Gu, Yiming and Hoang, Jerrick and Haynes, Galen Clark and Marchetti-Bowick, Micol",
+    booktitle = "IROS",
+    title = "Interaction-Based Trajectory Prediction Over a Hybrid Traffic Graph",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Wang et al., "V2VNet: Vehicle-to-vehicle Communication for Joint Perception and Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470596.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.07519.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wang_2020_ECCV,
+    author = "Wang, Tsun-Hsuan and Manivasagam, Sivabalan and Liang, Ming and Yang, Bin and Zeng, Wenyuan and Tu, James and Urtasun, Raquel",
+    title = "{V2VNet}: Vehicle-to-vehicle Communication for Joint Perception and Prediction",
+    booktitle = "ECCV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Li et al., "End-to-end Contextual Perception and Prediction with Interaction Transformer", IROS, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/9341392>paper</a> <a href=https://arxiv.org/pdf/2008.05927.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Li_2020_IROS,
+    author = "Li, L. L. and Yang, B. and Liang, M. and Zeng, W. and Ren, M. and Segal, S. and Urtasun, R.",
+    booktitle = "IROS",
+    title = "End-to-end Contextual Perception and Prediction with Interaction Transformer",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=mse></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong></l>
 </em></summary>
@@ -567,248 +858,6 @@ ___
 </ul>
 </details>
 
-<a name=b-minfde></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>b-minFDE</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Zhou et al., "Query-Centric Trajectory Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zhou_2023_CVPR,
-    author = "Zhou, Zikang and Wang, Jianping and Li, Yung-Hui and Huang, Yu-Kai",
-    title = "Query-Centric Trajectory Prediction",
-    booktitle = "CVPR",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Wang et al., "ProphNet: Efficient Agent-Centric Motion Forecasting With Anchor-Informed Proposals", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_ProphNet_Efficient_Agent-Centric_Motion_Forecasting_With_Anchor-Informed_Proposals_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.12071.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Wang_2023_CVPR_1,
-    author = "Wang, Xishun and Su, Tong and Da, Fang and Yang, Xiaodong",
-    title = "ProphNet: Efficient Agent-Centric Motion Forecasting With Anchor-Informed Proposals",
-    booktitle = "CVPR",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Aydemir et al., "ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Aydemir_ADAPT_Efficient_Multi-Agent_Trajectory_Prediction_with_Adaptation_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2307.14187.pdf>arxiv</a> <a href=https://kuis-ai.github.io/adapt/>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Aydemir_2023_ICCV,
-    author = "Aydemir, Gorkay and Akan, Adil Kaan and Guney, Fatma",
-    title = "ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation",
-    booktitle = "ICCV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Cheng et al., "Forecast-MAE: Self-supervised Pre-training for Motion Forecasting with Masked Autoencoders", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_Forecast-MAE_Self-supervised_Pre-training_for_Motion_Forecasting_with_Masked_Autoencoders_ICCV_2023_paper.pdf>paper</a> <a href=https://github.com/jchengai/forecast-mae>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Cheng_2023_ICCV,
-    author = "Cheng, Jie and Mei, Xiaodong and Liu, Ming",
-    title = "Forecast-MAE: Self-supervised Pre-training for Motion Forecasting with Masked Autoencoders",
-    booktitle = "ICCV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Shi et al., "Trajectory Unified Transformer for Pedestrian Trajectory Prediction", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Trajectory_Unified_Transformer_for_Pedestrian_Trajectory_Prediction_ICCV_2023_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minade">b-minADE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Shi_2023_ICCV,
-    author = "Shi, Liushuai and Wang, Le and Zhou, Sanping and Hua, Gang",
-    title = "Trajectory Unified Transformer for Pedestrian Trajectory Prediction",
-    booktitle = "ICCV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Ye et al., "Bootstrap Motion Forecasting With Self-Consistent Constraints", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Bootstrap_Motion_Forecasting_With_Self-Consistent_Constraints_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2204.05859.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ye_2023_ICCV,
-    author = "Ye, Maosheng and Xu, Jiamiao and Xu, Xunnong and Wang, Tengfei and Cao, Tongyi and Chen, Qifeng",
-    title = "Bootstrap Motion Forecasting With Self-Consistent Constraints",
-    booktitle = "ICCV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Cui et al., "GoRela: Go Relative for Viewpoint-Invariant Motion Forecasting", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160984>paper</a> <a href=https://arxiv.org/pdf/2211.02545.pdf>arxiv</a> <a href=https://waabi.ai/research/go-relative-for-viewpoint-invariant-motion-forecasting>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#highwaysim">HighwaySim</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cte">CTE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ate">ATE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Cui_2023_ICRA,
-    author = "Cui, Alexander and Casas, Sergio and Wong, Kelvin and Suo, Simon and Urtasun, Raquel",
-    title = "GoRela: Go Relative for Viewpoint-Invariant Motion Forecasting",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Wang et al., "GANet: Goal Area Network for Motion Forecasting", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160468>paper</a> <a href=https://arxiv.org/pdf/2209.09723.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Wang_2023_ICRA_1,
-    author = "Wang, Mingkun and Zhu, Xinge and Yu, Changqian and Li, Wei and Ma, Yuexin and Jin, Ruochun and Ren, Xiaoguang and Ren, Dongchun and Wang, Mingxu and Yang, Wenjing",
-    title = "GANet: Goal Area Network for Motion Forecasting",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=orr></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Off-Road Rate (ORR)</strong></l>
@@ -1191,6 +1240,175 @@ ___
 </ul>
 </details>
 
+<a name=run_time></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Run Time</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Ding et al., "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793568>paper</a> <a href=https://arxiv.org/pdf/1903.00847.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#carla">CARLA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ding_2019_ICRA_2,
+    author = "Ding, W. and Shen, S.",
+    booktitle = "ICRA",
+    title = "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8460527>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nlp">NLP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rudenko_2018_ICRA,
+    author = "Rudenko, A. and Palmieri, L. and Arras, K. O.",
+    booktitle = "ICRA",
+    title = "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Shen et al., "Transferable Pedestrian Motion Prediction Models At Intersections", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8593783>paper</a> <a href=https://arxiv.org/pdf/1804.00495.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Shen_2018_IROS,
+    author = "Shen, M. and Habibi, G. and How, J. P.",
+    booktitle = "IROS",
+    title = "Transferable Pedestrian Motion Prediction Models At Intersections",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Park et al., "Intention-Aware Motion Planning Using Learning Based Human Motion Prediction", RSS, 2017.</em></strong> <a href=http://www.roboticsproceedings.org/rss13/p45.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Park_2017_RSS,
+    author = "Park, Jae Sung and Park, Chonhyon and Manocha, Dinesh",
+    title = "Intention-Aware Motion Planning Using Learning Based Human Motion Prediction",
+    booktitle = "RSS",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Vasquez, "Novel Planning-Based Algorithms For Human Motion Prediction", ICRA, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/7487505>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Vasquez_2016_ICRA,
+    author = "Vasquez, D.",
+    booktitle = "ICRA",
+    title = "Novel Planning-Based Algorithms For Human Motion Prediction",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Akbarzadeh et al., "Kernel Density Estimation For Target Trajectory Prediction", IROS, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7353858>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gc">GC</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mitt">MITT</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Akbarzadeh_2015_IROS,
+    author = "Akbarzadeh, V. and Gagné, C. and Parizeau, M.",
+    booktitle = "IROS",
+    title = "Kernel Density Estimation For Target Trajectory Prediction",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=l2></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>L2</strong></l>
@@ -1365,31 +1583,30 @@ ___
 </ul>
 </details>
 
-<a name=run_time></a>
+<a name=iou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong></l>
+<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Ding et al., "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793568>paper</a> <a href=https://arxiv.org/pdf/1903.00847.pdf>arxiv</a></summary>
+<summary><strong><em>Pasca et al., "Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Pasca_Summarize_the_Past_to_Predict_the_Future_Natural_Language_Descriptions_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2301.09209>arxiv</a> <a href=https://github.com/algvr/transfusion>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#carla">CARLA</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Ding_2019_ICRA_2,
-    author = "Ding, W. and Shen, S.",
-    booktitle = "ICRA",
-    title = "Online Vehicle Trajectory Prediction Using Policy Anticipation Network And Optimization-Based Context Reasoning",
-    year = "2019"
+@InProceedings{Pasca_Summarize_2024_CVPR,
+    author = "Pasca, Razvan-George and Gavryushin, Alexey and Hamza, Muhammad and Kuo, Yen-Ling and Mo, Kaichun and Van Gool, Luc and Hilliges, Otmar and Wang, Xi",
+    title = "Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation",
+    booktitle = "CVPR",
+    year = "2024"
 }
 </pre>
 </details>
@@ -1397,26 +1614,25 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8460527>paper</a></summary>
+<summary><strong><em>Fang et al., "TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_TBP-Former_Learning_Temporal_Birds-Eye-View_Pyramid_for_Joint_Perception_and_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.09998.pdf>arxiv</a> <a href=https://github.com/MediaBrain-SJTU/TBP-Former>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nlp">NLP</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#vpq">VPQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Rudenko_2018_ICRA,
-    author = "Rudenko, A. and Palmieri, L. and Arras, K. O.",
-    booktitle = "ICRA",
-    title = "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach",
-    year = "2018"
+@InProceedings{Fang_2023_CVPR,
+    author = "Fang, Shaoheng and Wang, Zi and Zhong, Yiqi and Ge, Junhao and Chen, Siheng",
+    title = "TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2023"
 }
 </pre>
 </details>
@@ -1424,26 +1640,82 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Shen et al., "Transferable Pedestrian Motion Prediction Models At Intersections", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8593783>paper</a> <a href=https://arxiv.org/pdf/1804.00495.pdf>arxiv</a></summary>
+<summary><strong><em>Chen et al., "S2F2: Single-Stage Flow Forecasting for Future Multiple Trajectories Prediction", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820593.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li>Custom</li>
-
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mot">MOT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Shen_2018_IROS,
-    author = "Shen, M. and Habibi, G. and How, J. P.",
+@InProceedings{Chen_2022_ECCV,
+    author = "Chen, Yu-Wen and Yang, Hsuan-Kung and Chiu, Chu-Chi and Lee, Chun-Yi",
+    title = "{S2F2}: Single-Stage Flow Forecasting for Future Multiple Trajectories Prediction",
+    booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Adeli et al., "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild", ICCV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Adeli_TRiPOD_Human_Trajectory_and_Pose_Dynamics_Forecasting_in_the_Wild_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2104.04029.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#posetrack">PoseTrack</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#vam">VAM</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#vim">VIM</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Adeli_2021_ICCV,
+    author = "Adeli, Vida and Ehsanpour, Mahsa and Reid, Ian and Niebles, Juan Carlos and Savarese, Silvio and Adeli, Ehsan and Rezatofighi, Hamid",
+    title = "{TRiPOD}: Human Trajectory and Pose Dynamics Forecasting in the Wild",
+    booktitle = "ICCV",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Agarwal et al., "Predicting the Future Motion of Divers for Enhanced Underwater Human-Robot Collaboration", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9636374>paper</a> <a href=https://github.com/IRVLab/diver-prediction>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#vdd-c">VDD-C</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bnace">BNACE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#inace">INACE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Agarwal_2021_IROS,
+    author = "Agarwal, Tanmay and Fulton, Michael and Sattar, Junaed",
     booktitle = "IROS",
-    title = "Transferable Pedestrian Motion Prediction Models At Intersections",
-    year = "2018"
+    title = "Predicting the Future Motion of Divers for Enhanced Underwater Human-Robot Collaboration",
+    year = "2021"
 }
 </pre>
 </details>
@@ -1451,80 +1723,29 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Park et al., "Intention-Aware Motion Planning Using Learning Based Human Motion Prediction", RSS, 2017.</em></strong> <a href=http://www.roboticsproceedings.org/rss13/p45.pdf>paper</a></summary>
+<summary><strong><em>Makansi et al., "Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Makansi_Multimodal_Future_Localization_and_Emergence_Prediction_for_Objects_in_Egocentric_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.04700.pdf>arxiv</a> <a href=https://github.com/lmb-freiburg/FLN-EPN-RPN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li>Custom</li>
-
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fit">FIT</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mapillary_vistas">Mapillary Vistas</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Park_2017_RSS,
-    author = "Park, Jae Sung and Park, Chonhyon and Manocha, Dinesh",
-    title = "Intention-Aware Motion Planning Using Learning Based Human Motion Prediction",
-    booktitle = "RSS",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Vasquez, "Novel Planning-Based Algorithms For Human Motion Prediction", ICRA, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/7487505>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Vasquez_2016_ICRA,
-    author = "Vasquez, D.",
-    booktitle = "ICRA",
-    title = "Novel Planning-Based Algorithms For Human Motion Prediction",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Akbarzadeh et al., "Kernel Density Estimation For Target Trajectory Prediction", IROS, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7353858>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gc">GC</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mitt">MITT</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Akbarzadeh_2015_IROS,
-    author = "Akbarzadeh, V. and Gagné, C. and Parizeau, M.",
-    booktitle = "IROS",
-    title = "Kernel Density Estimation For Target Trajectory Prediction",
-    year = "2015"
+@InProceedings{Makansi_2020_CVPR,
+    author = "Makansi, Osama and Cicek, Ozgun and Buchicchio, Kevin and Brox, Thomas",
+    title = "Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior",
+    booktitle = "CVPR",
+    year = "2020"
 }
 </pre>
 </details>
@@ -1711,29 +1932,211 @@ ___
 </ul>
 </details>
 
-<a name=iou></a>
+<a name=kld></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong></l>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Fang et al., "TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_TBP-Former_Learning_Temporal_Birds-Eye-View_Pyramid_for_Joint_Perception_and_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.09998.pdf>arxiv</a> <a href=https://github.com/MediaBrain-SJTU/TBP-Former>code</a></summary>
+<summary><strong><em>Wakulicz et al., "Topological Trajectory Prediction with Homotopy Classes", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160250>paper</a> <a href=https://arxiv.org/pdf/2301.09821.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#vpq">VPQ</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Fang_2023_CVPR,
-    author = "Fang, Shaoheng and Wang, Zi and Zhong, Yiqi and Ge, Junhao and Chen, Siheng",
-    title = "TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving",
+@InProceedings{Wakulicz_2023_ICRA,
+    author = "Wakulicz, Jennifer and Brian Lee, Ki Myung and Vidal-Calleja, Teresa and Fitch, Robert",
+    title = "Topological Trajectory Prediction with Homotopy Classes",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Tang et al., "Collaborative Uncertainty in Multi-Agent Trajectory Forecasting", NeurIPS, 2021.</em></strong> <a href=https://papers.nips.cc/paper/2021/file/31ca0ca71184bbdb3de7b20a51e88e90-Paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2110.13947.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l1">L1</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Tang_2021_NeurIPS,
+    author = "Tang, Bohan and Zhong, Yiqi and Neumann, Ulrich and Wang, Gang and Chen, Siheng and Zhang, Ya",
+    booktitle = "NeurIPS",
+    title = "Collaborative Uncertainty in Multi-Agent Trajectory Forecasting",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Tang et al., "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8794130>paper</a> <a href=https://arxiv.org/pdf/1911.04597.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Tang_2019_ICRA,
+    author = "Tang, C. and Chen, J. and Tomizuka, M.",
+    booktitle = "ICRA",
+    title = "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Solaimanpour et al., "A Layered HMM For Predicting Motion Of A Leader In Multi-Robot Settings", ICRA, 2017.</em></strong> <a href=https://ieeexplore.ieee.org/document/7989097>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Solaimanpour_2017_ICRA,
+    author = "Solaimanpour, S. and Doshi, P.",
+    booktitle = "ICRA",
+    title = "A Layered {HMM} For Predicting Motion Of A Leader In Multi-Robot Settings",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7477732>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#osu">OSU</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dtg">DtG</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lee_2016_WACV,
+    author = "Lee, N. and Kitani, K. M.",
+    booktitle = "WACV",
+    title = "Predicting Wide Receiver Trajectories In {A}merican Football",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=minjointfde></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>minJointFDE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Tang et al., "HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_HPNet_Dynamic_Trajectory_Forecasting_with_Historical_Prediction_Attention_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.06351>arxiv</a> <a href=https://github.com/XiaolongTang23/HPNet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Tang_HPNet_2024_CVPR,
+    author = "Tang, Xiaolong and Kan, Meina and Shan, Shiguang and Ji, Zhilong and Bai, Jinfeng and Chen, Xilin",
+    title = "HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Zhu et al., "IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_IPCC-TP_Utilizing_Incremental_Pearson_Correlation_Coefficient_for_Joint_Multi-Agent_Trajectory_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.00575.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhu_2023_CVPR,
+    author = "Zhu, Dekai and Zhai, Guangyao and Di, Yan and Manhardt, Fabian and Berkemeyer, Hendrik and Tran, Tuan and Navab, Nassir and Tombari, Federico and Busam, Benjamin",
+    title = "IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction",
     booktitle = "CVPR",
     year = "2023"
 }
@@ -1743,55 +2146,30 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Chen et al., "S2F2: Single-Stage Flow Forecasting for Future Multiple Trajectories Prediction", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820593.pdf>paper</a></summary>
+<summary><strong><em>Chen et al., "Traj-MAE: Masked Autoencoders for Trajectory Prediction", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Traj-MAE_Masked_Autoencoders_for_Trajectory_Prediction_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.06697.pdf>arxiv</a> <a href=https://jiazewang.com/projects/trajmae.html>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mot">MOT</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Chen_2022_ECCV,
-    author = "Chen, Yu-Wen and Yang, Hsuan-Kung and Chiu, Chu-Chi and Lee, Chun-Yi",
-    title = "{S2F2}: Single-Stage Flow Forecasting for Future Multiple Trajectories Prediction",
-    booktitle = "ECCV",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Adeli et al., "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild", ICCV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Adeli_TRiPOD_Human_Trajectory_and_Pose_Dynamics_Forecasting_in_the_Wild_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2104.04029.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#posetrack">PoseTrack</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#vam">VAM</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#vim">VIM</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Adeli_2021_ICCV,
-    author = "Adeli, Vida and Ehsanpour, Mahsa and Reid, Ian and Niebles, Juan Carlos and Savarese, Silvio and Adeli, Ehsan and Rezatofighi, Hamid",
-    title = "{TRiPOD}: Human Trajectory and Pose Dynamics Forecasting in the Wild",
+@InProceedings{Chen_2023_ICCV,
+    author = "Chen, Hao and Wang, Jiaze and Shao, Kun and Liu, Furui and Hao, Jianye and Guan, Chenyong and Chen, Guangyong and Heng, Pheng-Ann",
+    title = "Traj-MAE: Masked Autoencoders for Trajectory Prediction",
     booktitle = "ICCV",
-    year = "2021"
+    year = "2023"
 }
 </pre>
 </details>
@@ -1799,26 +2177,30 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Agarwal et al., "Predicting the Future Motion of Divers for Enhanced Underwater Human-Robot Collaboration", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9636374>paper</a> <a href=https://github.com/IRVLab/diver-prediction>code</a></summary>
+<summary><strong><em>Weng et al., "Joint Metrics Matter: A Better Standard for Trajectory Forecasting", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Weng_Joint_Metrics_Matter_A_Better_Standard_for_Trajectory_Forecasting_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2305.06292.pdf>arxiv</a> <a href=https://github.com/ericaweng/joint-metrics-matter>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#vdd-c">VDD-C</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bnace">BNACE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#inace">INACE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Agarwal_2021_IROS,
-    author = "Agarwal, Tanmay and Fulton, Michael and Sattar, Junaed",
-    booktitle = "IROS",
-    title = "Predicting the Future Motion of Divers for Enhanced Underwater Human-Robot Collaboration",
-    year = "2021"
+@InProceedings{Weng_2023_ICCV,
+    author = "Weng, Erica and Hoshino, Hana and Ramanan, Deva and Kitani, Kris",
+    title = "Joint Metrics Matter: A Better Standard for Trajectory Forecasting",
+    booktitle = "ICCV",
+    year = "2023"
 }
 </pre>
 </details>
@@ -1826,29 +2208,342 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Makansi et al., "Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Makansi_Multimodal_Future_Localization_and_Emergence_Prediction_for_Objects_in_Egocentric_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.04700.pdf>arxiv</a> <a href=https://github.com/lmb-freiburg/FLN-EPN-RPN>code</a></summary>
+<summary><strong><em>Grimm et al., "Holistic Graph-based Motion Prediction", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161468>paper</a> <a href=https://arxiv.org/pdf/2301.13545.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Grimm_2023_ICRA,
+    author = "Grimm, Daniel and Schörner, Philip and Dreßler, Moritz and Zöllner, J.-Marius",
+    title = "Holistic Graph-based Motion Prediction",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=minjointade></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>minJointADE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Tang et al., "HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_HPNet_Dynamic_Trajectory_Forecasting_with_Historical_Prediction_Attention_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.06351>arxiv</a> <a href=https://github.com/XiaolongTang23/HPNet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Tang_HPNet_2024_CVPR,
+    author = "Tang, Xiaolong and Kan, Meina and Shan, Shiguang and Ji, Zhilong and Bai, Jinfeng and Chen, Xilin",
+    title = "HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Zhu et al., "IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_IPCC-TP_Utilizing_Incremental_Pearson_Correlation_Coefficient_for_Joint_Multi-Agent_Trajectory_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.00575.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhu_2023_CVPR,
+    author = "Zhu, Dekai and Zhai, Guangyao and Di, Yan and Manhardt, Fabian and Berkemeyer, Hendrik and Tran, Tuan and Navab, Nassir and Tombari, Federico and Busam, Benjamin",
+    title = "IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction",
+    booktitle = "CVPR",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Chen et al., "Traj-MAE: Masked Autoencoders for Trajectory Prediction", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Traj-MAE_Masked_Autoencoders_for_Trajectory_Prediction_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.06697.pdf>arxiv</a> <a href=https://jiazewang.com/projects/trajmae.html>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Chen_2023_ICCV,
+    author = "Chen, Hao and Wang, Jiaze and Shao, Kun and Liu, Furui and Hao, Jianye and Guan, Chenyong and Chen, Guangyong and Heng, Pheng-Ann",
+    title = "Traj-MAE: Masked Autoencoders for Trajectory Prediction",
+    booktitle = "ICCV",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Weng et al., "Joint Metrics Matter: A Better Standard for Trajectory Forecasting", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Weng_Joint_Metrics_Matter_A_Better_Standard_for_Trajectory_Forecasting_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2305.06292.pdf>arxiv</a> <a href=https://github.com/ericaweng/joint-metrics-matter>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Weng_2023_ICCV,
+    author = "Weng, Erica and Hoshino, Hana and Ramanan, Deva and Kitani, Kris",
+    title = "Joint Metrics Matter: A Better Standard for Trajectory Forecasting",
+    booktitle = "ICCV",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Grimm et al., "Holistic Graph-based Motion Prediction", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161468>paper</a> <a href=https://arxiv.org/pdf/2301.13545.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Grimm_2023_ICRA,
+    author = "Grimm, Daniel and Schörner, Philip and Dreßler, Moritz and Zöllner, J.-Marius",
+    title = "Holistic Graph-based Motion Prediction",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=rt></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Bae et al., "Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Bae_Can_Language_Beat_Numerical_Regression_Language-Based_Multimodal_Trajectory_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.18447>arxiv</a> <a href=https://github.com/InhwanBae/LMTrajectory>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Bae_Can_2024_CVPR,
+    author = "Bae, Inhwan and Lee, Junoh and Jeon, Hae-Gon",
+    title = "Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Park et al., "T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Park_T4P_Test-Time_Training_of_Trajectory_Prediction_via_Masked_Autoencoder_and_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.10052>arxiv</a> <a href=https://github.com/daeheepark/T4P>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fit">FIT</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mapillary_vistas">Mapillary Vistas</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Makansi_2020_CVPR,
-    author = "Makansi, Osama and Cicek, Ozgun and Buchicchio, Kevin and Brox, Thomas",
-    title = "Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior",
+@InProceedings{Park_T4P_2024_CVPR,
+    author = "Park, Daehee and Jeong, Jaeseok and Yoon, Sung-Hoon and Jeong, Jaewoo and Yoon, Kuk-Jin",
+    title = "T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory",
     booktitle = "CVPR",
-    year = "2020"
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Mao et al., "Leapfrog Diffusion Model for Stochastic Trajectory Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Mao_Leapfrog_Diffusion_Model_for_Stochastic_Trajectory_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.10895.pdf>arxiv</a> <a href=https://github.com/MediaBrain-SJTU/LED>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nfl">NFL</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mao_2023_CVPR,
+    author = "Mao, Weibo and Xu, Chenxin and Zhu, Qi and Chen, Siheng and Wang, Yanfeng",
+    title = "Leapfrog Diffusion Model for Stochastic Trajectory Prediction",
+    booktitle = "CVPR",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Aydemir et al., "ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Aydemir_ADAPT_Efficient_Multi-Agent_Trajectory_Prediction_with_Adaptation_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2307.14187.pdf>arxiv</a> <a href=https://kuis-ai.github.io/adapt/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Aydemir_2023_ICCV,
+    author = "Aydemir, Gorkay and Akan, Adil Kaan and Guney, Fatma",
+    title = "ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation",
+    booktitle = "ICCV",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Ankit et al., "Multi-Variable State Prediction: HMM Based Approach for Real-Time Trajectory Prediction", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9636556>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ankit_2021_IROS,
+    author = "Ankit and Narayanan, Karthik and Ghosh, Dibyendu and Honkote, Vinayak and Nandakumar, Ganeshram",
+    booktitle = "IROS",
+    title = "Multi-Variable State Prediction: {HMM} Based Approach for Real-Time Trajectory Prediction",
+    year = "2021"
 }
 </pre>
 </details>
@@ -2002,64 +2697,30 @@ ___
 </ul>
 </details>
 
-<a name=kld></a>
+<a name=accuracy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Accuracy</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Wakulicz et al., "Topological Trajectory Prediction with Homotopy Classes", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160250>paper</a> <a href=https://arxiv.org/pdf/2301.09821.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Wakulicz_2023_ICRA,
-    author = "Wakulicz, Jennifer and Brian Lee, Ki Myung and Vidal-Calleja, Teresa and Fitch, Robert",
-    title = "Topological Trajectory Prediction with Homotopy Classes",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Tang et al., "Collaborative Uncertainty in Multi-Agent Trajectory Forecasting", NeurIPS, 2021.</em></strong> <a href=https://papers.nips.cc/paper/2021/file/31ca0ca71184bbdb3de7b20a51e88e90-Paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2110.13947.pdf>arxiv</a></summary>
+<summary><strong><em>Wang et al., "BE-STI: Spatial-Temporal Integrated Network for Class-Agnostic Motion Prediction With Bidirectional Enhancement", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_BE-STI_Spatial-Temporal_Integrated_Network_for_Class-Agnostic_Motion_Prediction_With_Bidirectional_CVPR_2022_paper.pdf>paper</a> <a href=https://github.com/be-sti/be-sti>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li>Custom</li>
-
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Tang_2021_NeurIPS,
-    author = "Tang, Bohan and Zhong, Yiqi and Neumann, Ulrich and Wang, Gang and Chen, Siheng and Zhang, Ya",
-    booktitle = "NeurIPS",
-    title = "Collaborative Uncertainty in Multi-Agent Trajectory Forecasting",
-    year = "2021"
+@InProceedings{Wang_2022_CVPR_2,
+    author = "Wang, Yunlong and Pan, Hongyu and Zhu, Jun and Wu, Yu-Huan and Zhan, Xin and Jiang, Kun and Yang, Diange",
+    title = "{BE-STI}: Spatial-Temporal Integrated Network for Class-Agnostic Motion Prediction With Bidirectional Enhancement",
+    booktitle = "CVPR",
+    year = "2022"
 }
 </pre>
 </details>
@@ -2067,24 +2728,48 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Tang et al., "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8794130>paper</a> <a href=https://arxiv.org/pdf/1911.04597.pdf>arxiv</a></summary>
+<summary><strong><em>Wu et al., "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_MotionNet_Joint_Perception_and_Motion_Prediction_for_Autonomous_Driving_Based_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.06754.pdf>arxiv</a> <a href=https://www.merl.com/research/license#MotionNet>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Tang_2019_ICRA,
-    author = "Tang, C. and Chen, J. and Tomizuka, M.",
-    booktitle = "ICRA",
-    title = "Adaptive Probabilistic Vehicle Trajectory Prediction Through Physically Feasible Bayesian Recurrent Neural Network",
+@InProceedings{Wu_2020_CVPR_2,
+    author = "Wu, Pengxiang and Chen, Siheng and Metaxas, Dimitris N.",
+    title = "{MotionNet}: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Kim et al., "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Instance-Level_Future_Motion_Estimation_in_a_Single_Image_Based_on_ICCV_2019_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fm">FM</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kim_2019_ICCV,
+    author = "Kim, Kyung-Rae and Choi, Whan and Koh, Yeong Jun and Jeong, Seong-Gyun and Kim, Chang-Su",
+    title = "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression",
+    booktitle = "ICCV",
     year = "2019"
 }
 </pre>
@@ -2120,29 +2805,125 @@ ___
 
 </ul>
 </details>
+</ul>
+</details>
+
+<a name=wade></a>
 <details close>
-<summary><strong><em>Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7477732>paper</a></summary>
+<summary><em><l style="font-size:20px"><strong>weighted ADE (wADE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Su et al., "Narrowing the Coordinate-frame Gap in Behavior Prediction Models: Distillation for Efficient and Accurate Scene-centric Motion Forecasting", ICRA, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9812368>paper</a> <a href=https://arxiv.org/pdf/2206.03970.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#osu">OSU</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li>Custom</li>
+
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dtg">DtG</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Lee_2016_WACV,
-    author = "Lee, N. and Kitani, K. M.",
-    booktitle = "WACV",
-    title = "Predicting Wide Receiver Trajectories In {A}merican Football",
-    year = "2016"
+@InProceedings{Su_2022_ICRA,
+    author = "Su, DiJia Andy and Douillard, Bertrand and Al-Rfou, Rami and Park, Cheol and Sapp, Benjamin",
+    booktitle = "ICRA",
+    title = "Narrowing the Coordinate-frame Gap in Behavior Prediction Models: Distillation for Efficient and Accurate Scene-centric Motion Forecasting",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Huang et al., "TIP: Task-Informed Motion Prediction for Intelligent Vehicles", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9982100>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wfde">wFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Huang_2022_IROS,
+    author = "Huang, Xin and Rosman, Guy and Jasour, Ashkan and McGill, Stephen G. and Leonard, John J. and Williams, Brian C.",
+    booktitle = "IROS",
+    title = "{TIP}: Task-Informed Motion Prediction for Intelligent Vehicles",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Tolstaya et al., "Identifying Driver Interactions via Conditional Behavior Prediction", ICRA, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9561967>paper</a> <a href=https://arxiv.org/pdf/2104.09959.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Tolstaya_2021_ICRA,
+    author = "Tolstaya, Ekaterina and Mahjourian, Reza and Downey, Carlton and Vadarajan, Balakrishnan and Sapp, Benjamin and Anguelov, Dragomir",
+    booktitle = "ICRA",
+    title = "Identifying Driver Interactions via Conditional Behavior Prediction",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Wang et al., "Multiple Contextual Cues Integrated Trajectory Prediction for Autonomous Driving", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/document/9476975>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wfde">wFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Wang_2021_RAL,
+    author = "Wang, Li and Wu, Tao and Fu, Hao and Xiao, Liang and Wang, Zhiyu and Dai, Bin",
+    journal = "RAL",
+    title = "Multiple Contextual Cues Integrated Trajectory Prediction for Autonomous Driving",
+    year = "2021",
+    volume = "6",
+    number = "4",
+    pages = "6844-6851"
 }
 </pre>
 </details>
@@ -2152,34 +2933,32 @@ ___
 </ul>
 </details>
 
-<a name=tcc></a>
+<a name=minsade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Temporal Correlation Coefficient (TCC)</strong></l>
+<summary><em><l style="font-size:20px"><strong>minimum Scene ADE (minSADE)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Bae et al., "EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Bae_EigenTrajectory_Low-Rank_Descriptors_for_Multi-Modal_Trajectory_Forecasting_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2307.09306.pdf>arxiv</a> <a href=https://github.com/inhwanbae/EigenTrajectory>code</a></summary>
+<summary><strong><em>Jiang et al., "MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2306.03083.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Bae_2023_ICCV,
-    author = "Bae, Inhwan and Oh, Jean and Jeon, Hae-Gon",
-    title = "EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting",
-    booktitle = "ICCV",
+@InProceedings{Jiang_2023_CVPR,
+    author = "Jiang, Chiyu {\textquotedblleft}Max{\textquotedblright} and Cornman, Andre and Park, Cheolho and Sapp, Benjamin and Zhou, Yin and Anguelov, Dragomir",
+    title = "MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion",
+    booktitle = "CVPR",
     year = "2023"
 }
 </pre>
@@ -2188,27 +2967,59 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Bae et al., "Non-Probability Sampling Network for Stochastic Human Trajectory Prediction", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Non-Probability_Sampling_Network_for_Stochastic_Human_Trajectory_Prediction_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.13471.pdf>arxiv</a> <a href=https://github.com/inhwanbae/NPSN>code</a></summary>
+<summary><strong><em>Diehl et al., "Energy-based Potential Games for Joint Motion Forecasting and Control", CoRL, 2023.</em></strong> <a href=https://openreview.net/pdf?id=Eyb4e3GBuuR>paper</a> <a href=https://github.com/rst-tu-dortmund/diff_epo_planner>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#carla">CARLA</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#exid">exiD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#or">OR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Bae_2022_CVPR,
-    author = "Bae, Inhwan and Park, Jin-Hwi and Jeon, Hae-Gon",
-    title = "Non-Probability Sampling Network for Stochastic Human Trajectory Prediction",
-    booktitle = "CVPR",
+@InProceedings{Diehl_2023_CoRL,
+    author = "Diehl, Christopher and Klosek, Tobias and Krueger, Martin and Murzyn, Nils and Osterburg, Timo and Bertram, Torsten",
+    title = "Energy-based Potential Games for Joint Motion Forecasting and Control",
+    booktitle = "CoRL",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Luo et al., "JFP: Joint Future Prediction with Interactive Multi-Agent Modeling for Autonomous Driving", CoRL, 2022.</em></strong> <a href=https://openreview.net/pdf?id=Y42uoIekm5b>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Luo_2022_CoRL,
+    author = "Luo, Wenjie and Park, Cheol and Cornman, Andre and Sapp, Benjamin and Anguelov, Dragomir",
+    title = "{JFP}: Joint Future Prediction with Interactive Multi-Agent Modeling for Autonomous Driving",
+    booktitle = "CoRL",
     year = "2022"
 }
 </pre>
@@ -2217,56 +3028,28 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Bae et al., "Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820263.pdf>paper</a> <a href=https://arxiv.org/pdf/2207.09953.pdf>arxiv</a> <a href=https://github.com/inhwanbae/GPGraph>code</a></summary>
+<summary><strong><em>Casas et al., "Implicit Latent Variable Model for Scene-consistent Motion Forecasting", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680613.pdf>paper</a> <a href=https://arxiv.org/pdf/2007.12036.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Bae_2022_ECCV,
-    author = "Bae, Inhwan and Park, Jin-Hwi and Jeon, Hae-Gon",
-    title = "Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction",
-    booktitle = "ECCV",
-    year = "2022"
-}
-</pre>
-</details>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li>Custom</li>
 
 </ul>
-</details>
-<details close>
-<summary><strong><em>Tao et al., "Dynamic and Static Context-aware LSTM for Multi-agent Motion Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660545.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.00777.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
-</ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meansfde">meanSFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meansade">meanSADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Tao_2020_ECCV,
-    author = "Tao, Chaofan and Jiang, Qinhong and Duan, Lixin and Luo, Ping",
-    title = "Dynamic and Static Context-aware {LSTM} for Multi-agent Motion Prediction",
+@InProceedings{Casas_2020_ECCV,
+    author = "Casas, Sergio and Gulino, Cole and Suo, Simon and Luo, Katie and Liao, Renjie and Urtasun, Raquel",
+    title = "Implicit Latent Variable Model for Scene-consistent Motion Forecasting",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -2406,71 +3189,13 @@ ___
 </ul>
 </details>
 
-<a name=minjointfde></a>
+<a name=tcc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minJointFDE</strong></l>
+<summary><em><l style="font-size:20px"><strong>Temporal Correlation Coefficient (TCC)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Zhu et al., "IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_IPCC-TP_Utilizing_Incremental_Pearson_Correlation_Coefficient_for_Joint_Multi-Agent_Trajectory_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.00575.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zhu_2023_CVPR,
-    author = "Zhu, Dekai and Zhai, Guangyao and Di, Yan and Manhardt, Fabian and Berkemeyer, Hendrik and Tran, Tuan and Navab, Nassir and Tombari, Federico and Busam, Benjamin",
-    title = "IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction",
-    booktitle = "CVPR",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Chen et al., "Traj-MAE: Masked Autoencoders for Trajectory Prediction", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Traj-MAE_Masked_Autoencoders_for_Trajectory_Prediction_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.06697.pdf>arxiv</a> <a href=https://jiazewang.com/projects/trajmae.html>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chen_2023_ICCV,
-    author = "Chen, Hao and Wang, Jiaze and Shao, Kun and Liu, Furui and Hao, Jianye and Guan, Chenyong and Chen, Guangyong and Heng, Pheng-Ann",
-    title = "Traj-MAE: Masked Autoencoders for Trajectory Prediction",
-    booktitle = "ICCV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Weng et al., "Joint Metrics Matter: A Better Standard for Trajectory Forecasting", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Weng_Joint_Metrics_Matter_A_Better_Standard_for_Trajectory_Forecasting_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2305.06292.pdf>arxiv</a> <a href=https://github.com/ericaweng/joint-metrics-matter>code</a></summary>
+<summary><strong><em>Bae et al., "EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Bae_EigenTrajectory_Low-Rank_Descriptors_for_Multi-Modal_Trajectory_Forecasting_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2307.09306.pdf>arxiv</a> <a href=https://github.com/inhwanbae/EigenTrajectory>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2482,16 +3207,15 @@ ___
 <ul>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Weng_2023_ICCV,
-    author = "Weng, Erica and Hoshino, Hana and Ramanan, Deva and Kitani, Kris",
-    title = "Joint Metrics Matter: A Better Standard for Trajectory Forecasting",
+@InProceedings{Bae_2023_ICCV,
+    author = "Bae, Inhwan and Oh, Jean and Jeon, Hae-Gon",
+    title = "EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting",
     booktitle = "ICCV",
     year = "2023"
 }
@@ -2501,103 +3225,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Grimm et al., "Holistic Graph-based Motion Prediction", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161468>paper</a> <a href=https://arxiv.org/pdf/2301.13545.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Grimm_2023_ICRA,
-    author = "Grimm, Daniel and Schörner, Philip and Dreßler, Moritz and Zöllner, J.-Marius",
-    title = "Holistic Graph-based Motion Prediction",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=minjointade></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>minJointADE</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Zhu et al., "IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_IPCC-TP_Utilizing_Incremental_Pearson_Correlation_Coefficient_for_Joint_Multi-Agent_Trajectory_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.00575.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zhu_2023_CVPR,
-    author = "Zhu, Dekai and Zhai, Guangyao and Di, Yan and Manhardt, Fabian and Berkemeyer, Hendrik and Tran, Tuan and Navab, Nassir and Tombari, Federico and Busam, Benjamin",
-    title = "IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction",
-    booktitle = "CVPR",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Chen et al., "Traj-MAE: Masked Autoencoders for Trajectory Prediction", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Traj-MAE_Masked_Autoencoders_for_Trajectory_Prediction_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.06697.pdf>arxiv</a> <a href=https://jiazewang.com/projects/trajmae.html>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#trajnet++">Trajnet++</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chen_2023_ICCV,
-    author = "Chen, Hao and Wang, Jiaze and Shao, Kun and Liu, Furui and Hao, Jianye and Guan, Chenyong and Chen, Guangyong and Heng, Pheng-Ann",
-    title = "Traj-MAE: Masked Autoencoders for Trajectory Prediction",
-    booktitle = "ICCV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Weng et al., "Joint Metrics Matter: A Better Standard for Trajectory Forecasting", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Weng_Joint_Metrics_Matter_A_Better_Standard_for_Trajectory_Forecasting_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2305.06292.pdf>arxiv</a> <a href=https://github.com/ericaweng/joint-metrics-matter>code</a></summary>
+<summary><strong><em>Bae et al., "Non-Probability Sampling Network for Stochastic Human Trajectory Prediction", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Non-Probability_Sampling_Network_for_Stochastic_Human_Trajectory_Prediction_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.13471.pdf>arxiv</a> <a href=https://github.com/inhwanbae/NPSN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2609,144 +3237,15 @@ ___
 <ul>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Weng_2023_ICCV,
-    author = "Weng, Erica and Hoshino, Hana and Ramanan, Deva and Kitani, Kris",
-    title = "Joint Metrics Matter: A Better Standard for Trajectory Forecasting",
-    booktitle = "ICCV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Grimm et al., "Holistic Graph-based Motion Prediction", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161468>paper</a> <a href=https://arxiv.org/pdf/2301.13545.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Grimm_2023_ICRA,
-    author = "Grimm, Daniel and Schörner, Philip and Dreßler, Moritz and Zöllner, J.-Marius",
-    title = "Holistic Graph-based Motion Prediction",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=minsade></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>minimum Scene ADE (minSADE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Jiang et al., "MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2306.03083.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Jiang_2023_CVPR,
-    author = "Jiang, Chiyu {\textquotedblleft}Max{\textquotedblright} and Cornman, Andre and Park, Cheolho and Sapp, Benjamin and Zhou, Yin and Anguelov, Dragomir",
-    title = "MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion",
+@InProceedings{Bae_2022_CVPR,
+    author = "Bae, Inhwan and Park, Jin-Hwi and Jeon, Hae-Gon",
+    title = "Non-Probability Sampling Network for Stochastic Human Trajectory Prediction",
     booktitle = "CVPR",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Diehl et al., "Energy-based Potential Games for Joint Motion Forecasting and Control", CoRL, 2023.</em></strong> <a href=https://openreview.net/pdf?id=Eyb4e3GBuuR>paper</a> <a href=https://github.com/rst-tu-dortmund/diff_epo_planner>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#carla">CARLA</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#exid">exiD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#or">OR</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Diehl_2023_CoRL,
-    author = "Diehl, Christopher and Klosek, Tobias and Krueger, Martin and Murzyn, Nils and Osterburg, Timo and Bertram, Torsten",
-    title = "Energy-based Potential Games for Joint Motion Forecasting and Control",
-    booktitle = "CoRL",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Luo et al., "JFP: Joint Future Prediction with Interactive Multi-Agent Modeling for Autonomous Driving", CoRL, 2022.</em></strong> <a href=https://openreview.net/pdf?id=Y42uoIekm5b>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Luo_2022_CoRL,
-    author = "Luo, Wenjie and Park, Cheol and Cornman, Andre and Sapp, Benjamin and Anguelov, Dragomir",
-    title = "{JFP}: Joint Future Prediction with Interactive Multi-Agent Modeling for Autonomous Driving",
-    booktitle = "CoRL",
     year = "2022"
 }
 </pre>
@@ -2755,260 +3254,58 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Casas et al., "Implicit Latent Variable Model for Scene-consistent Motion Forecasting", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680613.pdf>paper</a> <a href=https://arxiv.org/pdf/2007.12036.pdf>arxiv</a></summary>
+<summary><strong><em>Bae et al., "Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820263.pdf>paper</a> <a href=https://arxiv.org/pdf/2207.09953.pdf>arxiv</a> <a href=https://github.com/inhwanbae/GPGraph>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li>Custom</li>
-
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meansfde">meanSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meansade">meanSADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcr">TCR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Casas_2020_ECCV,
-    author = "Casas, Sergio and Gulino, Cole and Suo, Simon and Luo, Katie and Liao, Renjie and Urtasun, Raquel",
-    title = "Implicit Latent Variable Model for Scene-consistent Motion Forecasting",
+@InProceedings{Bae_2022_ECCV,
+    author = "Bae, Inhwan and Park, Jin-Hwi and Jeon, Hae-Gon",
+    title = "Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction",
+    booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Tao et al., "Dynamic and Static Context-aware LSTM for Multi-agent Motion Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660545.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.00777.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tcc">TCC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Tao_2020_ECCV,
+    author = "Tao, Chaofan and Jiang, Qinhong and Duan, Lixin and Luo, Ping",
+    title = "Dynamic and Static Context-aware {LSTM} for Multi-agent Motion Prediction",
     booktitle = "ECCV",
     year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=bminfde></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>brier-minFDE (bminFDE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Fan et al., "Look Before You Drive: Boosting Trajectory Forecasting via Imagining Future", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341509>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@INPROCEEDINGS{Fan_2023_IROS,
-    author = "Fan, Yixuan and Liu, Xin and Li, Yali and Wang, Shengjin",
-    booktitle = "IROS",
-    title = "Look Before You Drive: Boosting Trajectory Forecasting via Imagining Future",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Huang et al., "Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving", ICRA, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9812060>paper</a> <a href=https://arxiv.org/pdf/2109.06446.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Huang_2022_ICRA,
-    author = "Huang, Zhiyu and Mo, Xiaoyu and Lv, Chen",
-    booktitle = "ICRA",
-    title = "Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Strohbeck et al., "Deep Kernel Learning for Uncertainty Estimation in Multiple Trajectory Prediction Networks", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9982167>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Strohbeck_2022_IROS,
-    author = "Strohbeck, Jan and Muller, Johannes and Herrmann, Martin and Buchholz, Michael",
-    booktitle = "IROS",
-    title = "Deep Kernel Learning for Uncertainty Estimation in Multiple Trajectory Prediction Networks",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Zhang et al., "Trajectory Prediction with Graph-based Dual-scale Context Fusion", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9981923>paper</a> <a href=https://arxiv.org/pdf/2111.01592.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zhang_2022_IROS,
-    author = "Zhang, Lu and Li, Peiliang and Chen, Jing and Shen, Shaojie",
-    booktitle = "IROS",
-    title = "Trajectory Prediction with Graph-based Dual-scale Context Fusion",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=accuracy></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Accuracy</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Wang et al., "BE-STI: Spatial-Temporal Integrated Network for Class-Agnostic Motion Prediction With Bidirectional Enhancement", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_BE-STI_Spatial-Temporal_Integrated_Network_for_Class-Agnostic_Motion_Prediction_With_Bidirectional_CVPR_2022_paper.pdf>paper</a> <a href=https://github.com/be-sti/be-sti>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Wang_2022_CVPR_2,
-    author = "Wang, Yunlong and Pan, Hongyu and Zhu, Jun and Wu, Yu-Huan and Zhan, Xin and Jiang, Kun and Yang, Diange",
-    title = "{BE-STI}: Spatial-Temporal Integrated Network for Class-Agnostic Motion Prediction With Bidirectional Enhancement",
-    booktitle = "CVPR",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Wu et al., "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_MotionNet_Joint_Perception_and_Motion_Prediction_for_Autonomous_Driving_Based_CVPR_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.06754.pdf>arxiv</a> <a href=https://www.merl.com/research/license#MotionNet>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Wu_2020_CVPR_2,
-    author = "Wu, Pengxiang and Chen, Siheng and Metaxas, Dimitris N.",
-    title = "{MotionNet}: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps",
-    booktitle = "CVPR",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Kim et al., "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Instance-Level_Future_Motion_Estimation_in_a_Single_Image_Based_on_ICCV_2019_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fm">FM</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Kim_2019_ICCV,
-    author = "Kim, Kyung-Rae and Choi, Whan and Koh, Yeong Jun and Jeong, Seong-Gyun and Kim, Chang-Su",
-    title = "Instance-Level Future Motion Estimation In A Single Image Based On Ordinal Regression",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Solaimanpour et al., "A Layered HMM For Predicting Motion Of A Leader In Multi-Robot Settings", ICRA, 2017.</em></strong> <a href=https://ieeexplore.ieee.org/document/7989097>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Solaimanpour_2017_ICRA,
-    author = "Solaimanpour, S. and Doshi, P.",
-    booktitle = "ICRA",
-    title = "A Layered {HMM} For Predicting Motion Of A Leader In Multi-Robot Settings",
-    year = "2017"
 }
 </pre>
 </details>
@@ -3147,131 +3444,6 @@ ___
 </ul>
 </details>
 
-<a name=wade></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>weighted ADE (wADE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Su et al., "Narrowing the Coordinate-frame Gap in Behavior Prediction Models: Distillation for Efficient and Accurate Scene-centric Motion Forecasting", ICRA, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9812368>paper</a> <a href=https://arxiv.org/pdf/2206.03970.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Su_2022_ICRA,
-    author = "Su, DiJia Andy and Douillard, Bertrand and Al-Rfou, Rami and Park, Cheol and Sapp, Benjamin",
-    booktitle = "ICRA",
-    title = "Narrowing the Coordinate-frame Gap in Behavior Prediction Models: Distillation for Efficient and Accurate Scene-centric Motion Forecasting",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Huang et al., "TIP: Task-Informed Motion Prediction for Intelligent Vehicles", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9982100>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wfde">wFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Huang_2022_IROS,
-    author = "Huang, Xin and Rosman, Guy and Jasour, Ashkan and McGill, Stephen G. and Leonard, John J. and Williams, Brian C.",
-    booktitle = "IROS",
-    title = "{TIP}: Task-Informed Motion Prediction for Intelligent Vehicles",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Tolstaya et al., "Identifying Driver Interactions via Conditional Behavior Prediction", ICRA, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9561967>paper</a> <a href=https://arxiv.org/pdf/2104.09959.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Tolstaya_2021_ICRA,
-    author = "Tolstaya, Ekaterina and Mahjourian, Reza and Downey, Carlton and Vadarajan, Balakrishnan and Sapp, Benjamin and Anguelov, Dragomir",
-    booktitle = "ICRA",
-    title = "Identifying Driver Interactions via Conditional Behavior Prediction",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Wang et al., "Multiple Contextual Cues Integrated Trajectory Prediction for Autonomous Driving", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/document/9476975>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wfde">wFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@Article{Wang_2021_RAL,
-    author = "Wang, Li and Wu, Tao and Fu, Hao and Xiao, Liang and Wang, Zhiyu and Dai, Bin",
-    journal = "RAL",
-    title = "Multiple Contextual Cues Integrated Trajectory Prediction for Autonomous Driving",
-    year = "2021",
-    volume = "6",
-    number = "4",
-    pages = "6844-6851"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=minmsd></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>minMSD</strong></l>
@@ -3351,6 +3523,195 @@ ___
     author = "Rhinehart, Nicholas and Kitani, Kris M. and Vernaza, Paul",
     title = "{R2P2}: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting",
     booktitle = "ECCV",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=kde></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Keypoint Displacement Error (KDE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Lee et al., "MUSE-VAE: Multi-Scale VAE for Environment-Aware Long Term Trajectory Prediction", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_MUSE-VAE_Multi-Scale_VAE_for_Environment-Aware_Long_Term_Trajectory_Prediction_CVPR_2022_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ecfl">ECFL</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lee_2022_CVPR,
+    author = "Lee, Mihee and Sohn, Samuel S. and Moon, Seonghyeon and Yoon, Sejong and Kapadia, Mubbasir and Pavlovic, Vladimir",
+    title = "{MUSE-VAE}: Multi-Scale {VAE} for Environment-Aware Long Term Trajectory Prediction",
+    booktitle = "CVPR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Mohamed et al., "Social-Implicit: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820451.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.03057.pdf>arxiv</a> <a href=https://github.com/abduallahmohamed/Social-Implicit/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amv">AMV</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mohamed_2022_ECCV,
+    author = "Mohamed, Abduallah and Zhu, Deyao and Vu, Warren and Elhoseiny, Mohamed and Claudel, Christian",
+    title = "{Social-Implicit}: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation",
+    booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Mangalam et al., "Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision", WACV, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_WACV_2020/papers/Mangalam_Disentangling_Human_Dynamics_for_Pedestrian_Locomotion_Forecasting_with_Noisy_Supervision_WACV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.01138.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mangalam_2020_WACV,
+    author = "Mangalam, Karttikeya and Adeli, Ehsan and Lee, Kuan-Hui and Gaidon, Adrien and Niebles, Juan Carlos",
+    title = "Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision",
+    booktitle = "WACV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=l1></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>L1</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Tang et al., "Collaborative Uncertainty in Multi-Agent Trajectory Forecasting", NeurIPS, 2021.</em></strong> <a href=https://papers.nips.cc/paper/2021/file/31ca0ca71184bbdb3de7b20a51e88e90-Paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2110.13947.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l1">L1</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Tang_2021_NeurIPS,
+    author = "Tang, Bohan and Zhong, Yiqi and Neumann, Ulrich and Wang, Gang and Chen, Siheng and Zhang, Ya",
+    booktitle = "NeurIPS",
+    title = "Collaborative Uncertainty in Multi-Agent Trajectory Forecasting",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Zeng et al., "End-to-end interpretable neural motion planner", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_End-To-End_Interpretable_Neural_Motion_Planner_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2101.06679.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l2">L2</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l1">L1</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zeng_2019_CVPR,
+    author = "Zeng, Wenyuan and Luo, Wenjie and Suo, Simon and Sadat, Abbas and Yang, Bin and Casas, Sergio and Urtasun, Raquel",
+    title = "End-to-end interpretable neural motion planner",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Casas et al., "IntentNet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018.</em></strong> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l1">L1</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Casas_2018_CORL,
+    author = "Casas, Sergio and Luo, Wenjie and Urtasun, Raquel",
+    title = "{IntentNet}: Learning To Predict Intention From Raw Sensor Data",
+    booktitle = "CORL",
     year = "2018"
 }
 </pre>
@@ -3459,291 +3820,6 @@ ___
 </ul>
 </details>
 
-<a name=l1></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>L1</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Tang et al., "Collaborative Uncertainty in Multi-Agent Trajectory Forecasting", NeurIPS, 2021.</em></strong> <a href=https://papers.nips.cc/paper/2021/file/31ca0ca71184bbdb3de7b20a51e88e90-Paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2110.13947.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l1">L1</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Tang_2021_NeurIPS,
-    author = "Tang, Bohan and Zhong, Yiqi and Neumann, Ulrich and Wang, Gang and Chen, Siheng and Zhang, Ya",
-    booktitle = "NeurIPS",
-    title = "Collaborative Uncertainty in Multi-Agent Trajectory Forecasting",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Zeng et al., "End-to-end interpretable neural motion planner", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_End-To-End_Interpretable_Neural_Motion_Planner_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2101.06679.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l2">L2</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l1">L1</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zeng_2019_CVPR,
-    author = "Zeng, Wenyuan and Luo, Wenjie and Suo, Simon and Sadat, Abbas and Yang, Bin and Casas, Sergio and Urtasun, Raquel",
-    title = "End-to-end interpretable neural motion planner",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Casas et al., "IntentNet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018.</em></strong> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#l1">L1</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Casas_2018_CORL,
-    author = "Casas, Sergio and Luo, Wenjie and Urtasun, Raquel",
-    title = "{IntentNet}: Learning To Predict Intention From Raw Sensor Data",
-    booktitle = "CORL",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=kde></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Keypoint Displacement Error (KDE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Lee et al., "MUSE-VAE: Multi-Scale VAE for Environment-Aware Long Term Trajectory Prediction", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_MUSE-VAE_Multi-Scale_VAE_for_Environment-Aware_Long_Term_Trajectory_Prediction_CVPR_2022_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ecfl">ECFL</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Lee_2022_CVPR,
-    author = "Lee, Mihee and Sohn, Samuel S. and Moon, Seonghyeon and Yoon, Sejong and Kapadia, Mubbasir and Pavlovic, Vladimir",
-    title = "{MUSE-VAE}: Multi-Scale {VAE} for Environment-Aware Long Term Trajectory Prediction",
-    booktitle = "CVPR",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Mohamed et al., "Social-Implicit: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820451.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.03057.pdf>arxiv</a> <a href=https://github.com/abduallahmohamed/Social-Implicit/>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amv">AMV</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mohamed_2022_ECCV,
-    author = "Mohamed, Abduallah and Zhu, Deyao and Vu, Warren and Elhoseiny, Mohamed and Claudel, Christian",
-    title = "{Social-Implicit}: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation",
-    booktitle = "ECCV",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Mangalam et al., "Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision", WACV, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_WACV_2020/papers/Mangalam_Disentangling_Human_Dynamics_for_Pedestrian_Locomotion_Forecasting_with_Noisy_Supervision_WACV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1911.01138.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mangalam_2020_WACV,
-    author = "Mangalam, Karttikeya and Adeli, Ehsan and Lee, Kuan-Hui and Gaidon, Adrien and Niebles, Juan Carlos",
-    title = "Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision",
-    booktitle = "WACV",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=rt></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Mao et al., "Leapfrog Diffusion Model for Stochastic Trajectory Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Mao_Leapfrog_Diffusion_Model_for_Stochastic_Trajectory_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.10895.pdf>arxiv</a> <a href=https://github.com/MediaBrain-SJTU/LED>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nfl">NFL</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mao_2023_CVPR,
-    author = "Mao, Weibo and Xu, Chenxin and Zhu, Qi and Chen, Siheng and Wang, Yanfeng",
-    title = "Leapfrog Diffusion Model for Stochastic Trajectory Prediction",
-    booktitle = "CVPR",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Aydemir et al., "ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Aydemir_ADAPT_Efficient_Multi-Agent_Trajectory_Prediction_with_Adaptation_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2307.14187.pdf>arxiv</a> <a href=https://kuis-ai.github.io/adapt/>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Aydemir_2023_ICCV,
-    author = "Aydemir, Gorkay and Akan, Adil Kaan and Guney, Fatma",
-    title = "ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation",
-    booktitle = "ICCV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Ankit et al., "Multi-Variable State Prediction: HMM Based Approach for Real-Time Trajectory Prediction", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9636556>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ankit_2021_IROS,
-    author = "Ankit and Narayanan, Karthik and Ghosh, Dibyendu and Honkote, Vinayak and Nandakumar, Ganeshram",
-    booktitle = "IROS",
-    title = "Multi-Variable State Prediction: {HMM} Based Approach for Real-Time Trajectory Prediction",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=scr></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>State Collision Rate (SCR)</strong></l>
@@ -3843,6 +3919,200 @@ ___
 </ul>
 </details>
 
+<a name=hit_rate></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Hit Rate</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.08945.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#hit_rate">Hit Rate</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mined">minED</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Hong_2019_CVPR,
+    author = "Hong, Joey and Sapp, Benjamin and Philbin, James",
+    title = "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Chen et al., "Augmented Dictionary Learning For Motion Prediction", ICRA, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/7487407>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#hit_rate">Hit Rate</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Chen_2016_ICRA,
+    author = "Chen, Y. F. and Liu, M. and How, J. P.",
+    booktitle = "ICRA",
+    title = "Augmented Dictionary Learning For Motion Prediction",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=frb></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>FRB</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Rasouli et al., "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161318>paper</a> <a href=https://arxiv.org/pdf/2210.07886.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#arb">ARB</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rasouli_2023_ICRA,
+    author = "Rasouli, Amir and Kotseruba, Iuliia",
+    title = "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Rasouli et al., "Bifold and Semantic Reasoning for Pedestrian Behavior Prediction", ICCV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Rasouli_Bifold_and_Semantic_Reasoning_for_Pedestrian_Behavior_Prediction_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2012.03298.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#frb">FRB</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#arb">ARB</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rasouli_2021_ICCV,
+    author = "Rasouli, Amir and Rohani, Mohsen and Luo, Jun",
+    title = "Bifold and Semantic Reasoning for Pedestrian Behavior Prediction",
+    booktitle = "ICCV",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=mined></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>minED</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.08945.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#hit_rate">Hit Rate</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mined">minED</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Hong_2019_CVPR,
+    author = "Hong, Joey and Sapp, Benjamin and Philbin, James",
+    title = "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Lee et al., "DESIRE: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.04394.pdf>arxiv</a> <a href=https://github.com/yadrimz/DESIRE>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mined">minED</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lee_2017_CVPR,
+    author = "Lee, Namhoon and Choi, Wongun and Vernaza, Paul and Choy, Christopher B. and Torr, Philip H. S. and Chandraker, Manmohan",
+    title = "{DESIRE}: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=emd></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong></l>
@@ -3909,30 +4179,30 @@ ___
 </ul>
 </details>
 
-<a name=mmd></a>
+<a name=amd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Maximum Mean Discrepancy (MMD)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Average Mahalanobis Distance (AMD)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Acharya et al., "Learning to Forecast Aleatoric and Epistemic Uncertainties over Long Horizon Trajectories", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160766>paper</a> <a href=https://arxiv.org/pdf/2302.08669.pdf>arxiv</a></summary>
+<summary><strong><em>Wakulicz et al., "Topological Trajectory Prediction with Homotopy Classes", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160250>paper</a> <a href=https://arxiv.org/pdf/2301.09821.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li>Custom</li>
-
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mmd">MMD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-ade">b-ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Acharya_2023_ICRA,
-    author = "Acharya, Aastha and Russell, Rebecca and Ahmed, Nisar R.",
-    title = "Learning to Forecast Aleatoric and Epistemic Uncertainties over Long Horizon Trajectories",
+@InProceedings{Wakulicz_2023_ICRA,
+    author = "Wakulicz, Jennifer and Brian Lee, Ki Myung and Vidal-Calleja, Teresa and Fitch, Robert",
+    title = "Topological Trajectory Prediction with Homotopy Classes",
     booktitle = "ICRA",
     year = "2023"
 }
@@ -3942,28 +4212,95 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Li et al., "GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction", NeurIPS, 2021.</em></strong> <a href=https://papers.nips.cc/paper/2021/file/e3670ce0c315396e4836d7024abcf3dd-Paper.pdf>paper</a></summary>
+<summary><strong><em>Mohamed et al., "Social-Implicit: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820451.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.03057.pdf>arxiv</a> <a href=https://github.com/abduallahmohamed/Social-Implicit/>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#charges">Charges</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mmd">MMD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amv">AMV</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Li_2021_NeurIPS,
-    author = "Li, Longyuan and Yao, Jian and Wenliang, Li and He, Tong and Xiao, Tianjun and Yan, Junchi and Wipf, David and Zhang, Zheng",
-    booktitle = "NeurIPS",
-    title = "{GRIN}: Generative Relation and Intention Network for Multi-agent Trajectory Prediction",
-    year = "2021"
+@InProceedings{Mohamed_2022_ECCV,
+    author = "Mohamed, Abduallah and Zhu, Deyao and Vu, Warren and Elhoseiny, Mohamed and Claudel, Christian",
+    title = "{Social-Implicit}: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation",
+    booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=wfde></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>weighted FDE (wFDE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Huang et al., "TIP: Task-Informed Motion Prediction for Intelligent Vehicles", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9982100>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wfde">wFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Huang_2022_IROS,
+    author = "Huang, Xin and Rosman, Guy and Jasour, Ashkan and McGill, Stephen G. and Leonard, John J. and Williams, Brian C.",
+    booktitle = "IROS",
+    title = "{TIP}: Task-Informed Motion Prediction for Intelligent Vehicles",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Wang et al., "Multiple Contextual Cues Integrated Trajectory Prediction for Autonomous Driving", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/document/9476975>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wfde">wFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Wang_2021_RAL,
+    author = "Wang, Li and Wu, Tao and Fu, Hao and Xiao, Liang and Wang, Zhiyu and Dai, Bin",
+    journal = "RAL",
+    title = "Multiple Contextual Cues Integrated Trajectory Prediction for Autonomous Driving",
+    year = "2021",
+    volume = "6",
+    number = "4",
+    pages = "6844-6851"
 }
 </pre>
 </details>
@@ -4039,32 +4376,33 @@ ___
 </ul>
 </details>
 
-<a name=maxd></a>
+<a name=meanfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>maxD</strong></l>
+<summary><em><l style="font-size:20px"><strong>meanFDE</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Felsen et al., "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf>paper</a></summary>
+<summary><strong><em>Shao et al., "Failure Detection for Motion Prediction of Autonomous Driving: An Uncertainty Perspective", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160596/>paper</a> <a href=https://arxiv.org/ftp/arxiv/papers/2301/2301.04421.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#btd">BTD</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Felsen_2018_ECCV,
-    author = "Felsen, Panna and Lucey, Patrick and Ganguly, Sujoy",
-    title = "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders",
-    booktitle = "ECCV",
-    year = "2018"
+@InProceedings{Shao_2023_ICRA,
+    author = "Shao, Wenbo and Xu, Yanchao and Peng, Liang and Li, Jun and Wang, Hong",
+    title = "Failure Detection for Motion Prediction of Autonomous Driving: An Uncertainty Perspective",
+    booktitle = "ICRA",
+    year = "2023"
 }
 </pre>
 </details>
@@ -4072,28 +4410,96 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Lee et al., "DESIRE: Distant Future Prediction In Dynamic Scenes With Interacting Agents", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1704.04394.pdf>arxiv</a> <a href=https://github.com/yadrimz/DESIRE>code</a></summary>
+<summary><strong><em>Park et al., "Diverse and Admissible Trajectory Forecasting through Multimodal Context Understanding", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560273.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.03212.pdf>arxiv</a> <a href=https://github.com/kami93/CMU-DATF>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mined">minED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Lee_2017_CVPR,
-    author = "Lee, Namhoon and Choi, Wongun and Vernaza, Paul and Choy, Christopher B. and Torr, Philip H. S. and Chandraker, Manmohan",
-    title = "{DESIRE}: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
-    booktitle = "CVPR",
-    year = "2017"
+@InProceedings{Park_2020_ECCV,
+    author = "Park, Seong Hyeon and Lee, Gyubok and Bhat, Manoj and Seo, Jimin and Kang, Minseok and Francis, Jonathan and Jadhav, Ashwin R and Liang, Paul Pu and Morency, Louis-Philippe",
+    title = "Diverse and Admissible Trajectory Forecasting through Multimodal Context Understanding",
+    booktitle = "ECCV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=cd></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Chamfer Distance (CD)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Weng et al., "Joint Metrics Matter: A Better Standard for Trajectory Forecasting", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Weng_Joint_Metrics_Matter_A_Better_Standard_for_Trajectory_Forecasting_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2305.06292.pdf>arxiv</a> <a href=https://github.com/ericaweng/joint-metrics-matter>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Weng_2023_ICCV,
+    author = "Weng, Erica and Hoshino, Hana and Ramanan, Deva and Kitani, Kris",
+    title = "Joint Metrics Matter: A Better Standard for Trajectory Forecasting",
+    booktitle = "ICCV",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Cui et al., "LookOut: Diverse Multi-Future Prediction and Planning for Self-Driving", ICCV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_LookOut_Diverse_Multi-Future_Prediction_and_Planning_for_Self-Driving_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2101.06547.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#progress">Progress</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Cui_2021_ICCV,
+    author = "Cui, Alexander and Casas, Sergio and Sadat, Abbas and Liao, Renjie and Urtasun, Raquel",
+    title = "{LookOut}: Diverse Multi-Future Prediction and Planning for Self-Driving",
+    booktitle = "ICCV",
+    year = "2021"
 }
 </pre>
 </details>
@@ -4168,40 +4574,13 @@ ___
 </ul>
 </details>
 
-<a name=nlp></a>
+<a name=mmd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Probability (NLP)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Maximum Mean Discrepancy (MMD)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8460527>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nlp">NLP</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rudenko_2018_ICRA,
-    author = "Rudenko, A. and Palmieri, L. and Arras, K. O.",
-    booktitle = "ICRA",
-    title = "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Rudenko et al., "Human Motion Prediction Under Social Grouping Constraints", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8594258>paper</a></summary>
+<summary><strong><em>Acharya et al., "Learning to Forecast Aleatoric and Epistemic Uncertainties over Long Horizon Trajectories", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160766>paper</a> <a href=https://arxiv.org/pdf/2302.08669.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -4210,17 +4589,245 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nlp">NLP</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mmd">MMD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-ade">b-ADE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Rudenko_2018_IROS,
-    author = "Rudenko, A. and Palmieri, L. and Lilienthal, A. J. and Arras, K. O.",
+@InProceedings{Acharya_2023_ICRA,
+    author = "Acharya, Aastha and Russell, Rebecca and Ahmed, Nisar R.",
+    title = "Learning to Forecast Aleatoric and Epistemic Uncertainties over Long Horizon Trajectories",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Li et al., "GRIN: Generative Relation and Intention Network for Multi-agent Trajectory Prediction", NeurIPS, 2021.</em></strong> <a href=https://papers.nips.cc/paper/2021/file/e3670ce0c315396e4836d7024abcf3dd-Paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#charges">Charges</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mmd">MMD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Li_2021_NeurIPS,
+    author = "Li, Longyuan and Yao, Jian and Wenliang, Li and He, Tong and Xiao, Tianjun and Yan, Junchi and Wipf, David and Zhang, Zheng",
+    booktitle = "NeurIPS",
+    title = "{GRIN}: Generative Relation and Intention Network for Multi-agent Trajectory Prediction",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=ap></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Peri et al., "Forecasting From LiDAR via Future Object Detection", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Peri_Forecasting_From_LiDAR_via_Future_Object_Detection_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.16297.pdf>arxiv</a> <a href=https://github.com/neeharperi/FutureDet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ap">AP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Peri_2022_CVPR,
+    author = "Peri, Neehar and Luiten, Jonathon and Li, Mengtian and O\v{s}ep, Aljo\v{s}a and Leal-Taix\'e, Laura and Ramanan, Deva",
+    title = "Forecasting From {LiDAR} via Future Object Detection",
+    booktitle = "CVPR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Bhatt et al., "MPC-PF: Social Interaction Aware Trajectory Prediction of Dynamic Objects for Autonomous Driving Using Potential Fields", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9981046>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ap">AP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Bhatt_2022_IROS,
+    author = "Bhatt, Neel P and Khajepour, Amir and Hashemi, Ehsan",
     booktitle = "IROS",
-    title = "Human Motion Prediction Under Social Grouping Constraints",
-    year = "2018"
+    title = "{MPC-PF}: Social Interaction Aware Trajectory Prediction of Dynamic Objects for Autonomous Driving Using Potential Fields",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=smr></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>SMR</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Jiang et al., "MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2306.03083.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Jiang_2023_CVPR,
+    author = "Jiang, Chiyu {\textquotedblleft}Max{\textquotedblright} and Cornman, Andre and Park, Cheolho and Sapp, Benjamin and Zhou, Yin and Anguelov, Dragomir",
+    title = "MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion",
+    booktitle = "CVPR",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Rowe et al., "FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Rowe_FJMP_Factorized_Joint_Multi-Agent_Motion_Prediction_Over_Learned_Directed_Acyclic_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.16197.pdf>arxiv</a> <a href=https://rluke22.github.io/FJMP/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminade">iminADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cmr">CMR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rowe_2023_CVPR,
+    author = "Rowe, Luke and Ethier, Martin and Dykhne, Eli-Henry and Czarnecki, Krzysztof",
+    title = "FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs",
+    booktitle = "CVPR",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=meanade></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>meanADE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Shao et al., "Failure Detection for Motion Prediction of Autonomous Driving: An Uncertainty Perspective", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160596/>paper</a> <a href=https://arxiv.org/ftp/arxiv/papers/2301/2301.04421.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Shao_2023_ICRA,
+    author = "Shao, Wenbo and Xu, Yanchao and Peng, Liang and Li, Jun and Wang, Hong",
+    title = "Failure Detection for Motion Prediction of Autonomous Driving: An Uncertainty Perspective",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Park et al., "Diverse and Admissible Trajectory Forecasting through Multimodal Context Understanding", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560273.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.03212.pdf>arxiv</a> <a href=https://github.com/kami93/CMU-DATF>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Park_2020_ECCV,
+    author = "Park, Seong Hyeon and Lee, Gyubok and Bhat, Manoj and Seo, Jimin and Kang, Minseok and Francis, Jonathan and Jadhav, Ashwin R and Liang, Paul Pu and Morency, Louis-Philippe",
+    title = "Diverse and Admissible Trajectory Forecasting through Multimodal Context Understanding",
+    booktitle = "ECCV",
+    year = "2020"
 }
 </pre>
 </details>
@@ -4431,165 +5038,32 @@ ___
 </ul>
 </details>
 
-<a name=cd></a>
+<a name=meanmsd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Chamfer Distance (CD)</strong></l>
+<summary><em><l style="font-size:20px"><strong>mean Mean Square Displacement (meanMSD)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Weng et al., "Joint Metrics Matter: A Better Standard for Trajectory Forecasting", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Weng_Joint_Metrics_Matter_A_Better_Standard_for_Trajectory_Forecasting_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2305.06292.pdf>arxiv</a> <a href=https://github.com/ericaweng/joint-metrics-matter>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Weng_2023_ICCV,
-    author = "Weng, Erica and Hoshino, Hana and Ramanan, Deva and Kitani, Kris",
-    title = "Joint Metrics Matter: A Better Standard for Trajectory Forecasting",
-    booktitle = "ICCV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Cui et al., "LookOut: Diverse Multi-Future Prediction and Planning for Self-Driving", ICCV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_LookOut_Diverse_Multi-Future_Prediction_and_Planning_for_Self-Driving_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2101.06547.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#progress">Progress</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Cui_2021_ICCV,
-    author = "Cui, Alexander and Casas, Sergio and Sadat, Abbas and Liao, Renjie and Urtasun, Raquel",
-    title = "{LookOut}: Diverse Multi-Future Prediction and Planning for Self-Driving",
-    booktitle = "ICCV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=frb></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>FRB</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Rasouli et al., "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161318>paper</a> <a href=https://arxiv.org/pdf/2210.07886.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#frb">FRB</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#arb">ARB</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rasouli_2023_ICRA,
-    author = "Rasouli, Amir and Kotseruba, Iuliia",
-    title = "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Rasouli et al., "Bifold and Semantic Reasoning for Pedestrian Behavior Prediction", ICCV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Rasouli_Bifold_and_Semantic_Reasoning_for_Pedestrian_Behavior_Prediction_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2012.03298.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#frb">FRB</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#arb">ARB</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rasouli_2021_ICCV,
-    author = "Rasouli, Amir and Rohani, Mohsen and Luo, Jun",
-    title = "Bifold and Semantic Reasoning for Pedestrian Behavior Prediction",
-    booktitle = "ICCV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=ap></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Peri et al., "Forecasting From LiDAR via Future Object Detection", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Peri_Forecasting_From_LiDAR_via_Future_Object_Detection_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.16297.pdf>arxiv</a> <a href=https://github.com/neeharperi/FutureDet>code</a></summary>
+<summary><strong><em>Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.01296.pdf>arxiv</a> <a href=https://sites.google.com/view/precog>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#carla">CARLA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Peri_2022_CVPR,
-    author = "Peri, Neehar and Luiten, Jonathon and Li, Mengtian and O\v{s}ep, Aljo\v{s}a and Leal-Taix\'e, Laura and Ramanan, Deva",
-    title = "Forecasting From {LiDAR} via Future Object Detection",
-    booktitle = "CVPR",
-    year = "2022"
+@InProceedings{Rhinehart_2019_ICCV,
+    author = "Rhinehart, Nicholas and McAllister, Rowan and Kitani, Kris and Levine, Sergey",
+    title = "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings",
+    booktitle = "ICCV",
+    year = "2019"
 }
 </pre>
 </details>
@@ -4597,94 +5071,26 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Bhatt et al., "MPC-PF: Social Interaction Aware Trajectory Prediction of Dynamic Objects for Autonomous Driving Using Potential Fields", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9981046>paper</a></summary>
+<summary><strong><em>Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li>Custom</li>
-
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ap">AP</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ce">CE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Bhatt_2022_IROS,
-    author = "Bhatt, Neel P and Khajepour, Amir and Hashemi, Ehsan",
-    booktitle = "IROS",
-    title = "{MPC-PF}: Social Interaction Aware Trajectory Prediction of Dynamic Objects for Autonomous Driving Using Potential Fields",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=meanfde></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>meanFDE</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Shao et al., "Failure Detection for Motion Prediction of Autonomous Driving: An Uncertainty Perspective", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160596/>paper</a> <a href=https://arxiv.org/ftp/arxiv/papers/2301/2301.04421.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Shao_2023_ICRA,
-    author = "Shao, Wenbo and Xu, Yanchao and Peng, Liang and Li, Jun and Wang, Hong",
-    title = "Failure Detection for Motion Prediction of Autonomous Driving: An Uncertainty Perspective",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Park et al., "Diverse and Admissible Trajectory Forecasting through Multimodal Context Understanding", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560273.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.03212.pdf>arxiv</a> <a href=https://github.com/kami93/CMU-DATF>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Park_2020_ECCV,
-    author = "Park, Seong Hyeon and Lee, Gyubok and Bhat, Manoj and Seo, Jimin and Kang, Minseok and Francis, Jonathan and Jadhav, Ashwin R and Liang, Paul Pu and Morency, Louis-Philippe",
-    title = "Diverse and Admissible Trajectory Forecasting through Multimodal Context Understanding",
+@InProceedings{Rhinehart_2018_ECCV,
+    author = "Rhinehart, Nicholas and Kitani, Kris M. and Vernaza, Paul",
+    title = "{R2P2}: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting",
     booktitle = "ECCV",
-    year = "2020"
+    year = "2018"
 }
 </pre>
 </details>
@@ -4758,33 +5164,32 @@ ___
 </ul>
 </details>
 
-<a name=mined></a>
+<a name=maxd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minED</strong></l>
+<summary><em><l style="font-size:20px"><strong>maxD</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.08945.pdf>arxiv</a></summary>
+<summary><strong><em>Felsen et al., "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li>Custom</li>
-
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#btd">BTD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#hit_rate">Hit Rate</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mined">minED</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Hong_2019_CVPR,
-    author = "Hong, Joey and Sapp, Benjamin and Philbin, James",
-    title = "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions",
-    booktitle = "CVPR",
-    year = "2019"
+@InProceedings{Felsen_2018_ECCV,
+    author = "Felsen, Panna and Lucey, Patrick and Ganguly, Sujoy",
+    title = "Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion Using Conditional Variational Autoencoders",
+    booktitle = "ECCV",
+    year = "2018"
 }
 </pre>
 </details>
@@ -4814,328 +5219,6 @@ ___
     title = "{DESIRE}: Distant Future Prediction In Dynamic Scenes With Interacting Agents",
     booktitle = "CVPR",
     year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=hit_rate></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Hit Rate</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Hong et al., "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Hong_Rules_of_the_Road_Predicting_Driving_Behavior_With_a_Convolutional_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.08945.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#hit_rate">Hit Rate</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mined">minED</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hong_2019_CVPR,
-    author = "Hong, Joey and Sapp, Benjamin and Philbin, James",
-    title = "Rules Of The Road: Predicting Driving Behavior With A Convolutional Model Of Semantic Interactions",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Chen et al., "Augmented Dictionary Learning For Motion Prediction", ICRA, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/7487407>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#hit_rate">Hit Rate</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chen_2016_ICRA,
-    author = "Chen, Y. F. and Liu, M. and How, J. P.",
-    booktitle = "ICRA",
-    title = "Augmented Dictionary Learning For Motion Prediction",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=amd></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Average Mahalanobis Distance (AMD)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Wakulicz et al., "Topological Trajectory Prediction with Homotopy Classes", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160250>paper</a> <a href=https://arxiv.org/pdf/2301.09821.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Wakulicz_2023_ICRA,
-    author = "Wakulicz, Jennifer and Brian Lee, Ki Myung and Vidal-Calleja, Teresa and Fitch, Robert",
-    title = "Topological Trajectory Prediction with Homotopy Classes",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Mohamed et al., "Social-Implicit: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820451.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.03057.pdf>arxiv</a> <a href=https://github.com/abduallahmohamed/Social-Implicit/>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amv">AMV</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mohamed_2022_ECCV,
-    author = "Mohamed, Abduallah and Zhu, Deyao and Vu, Warren and Elhoseiny, Mohamed and Claudel, Christian",
-    title = "{Social-Implicit}: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation",
-    booktitle = "ECCV",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=meanmsd></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>mean Mean Square Displacement (meanMSD)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Rhinehart et al., "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1905.01296.pdf>arxiv</a> <a href=https://sites.google.com/view/precog>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#carla">CARLA</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rhinehart_2019_ICCV,
-    author = "Rhinehart, Nicholas and McAllister, Rowan and Kitani, Kris and Levine, Sergey",
-    title = "Precog: Prediction Conditioned On Goals In Visual Multi-Agent Settings",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ce">CE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rhinehart_2018_ECCV,
-    author = "Rhinehart, Nicholas and Kitani, Kris M. and Vernaza, Paul",
-    title = "{R2P2}: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting",
-    booktitle = "ECCV",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=wfde></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>weighted FDE (wFDE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Huang et al., "TIP: Task-Informed Motion Prediction for Intelligent Vehicles", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9982100>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wfde">wFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Huang_2022_IROS,
-    author = "Huang, Xin and Rosman, Guy and Jasour, Ashkan and McGill, Stephen G. and Leonard, John J. and Williams, Brian C.",
-    booktitle = "IROS",
-    title = "{TIP}: Task-Informed Motion Prediction for Intelligent Vehicles",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Wang et al., "Multiple Contextual Cues Integrated Trajectory Prediction for Autonomous Driving", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/document/9476975>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wade">wADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wfde">wFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@Article{Wang_2021_RAL,
-    author = "Wang, Li and Wu, Tao and Fu, Hao and Xiao, Liang and Wang, Zhiyu and Dai, Bin",
-    journal = "RAL",
-    title = "Multiple Contextual Cues Integrated Trajectory Prediction for Autonomous Driving",
-    year = "2021",
-    volume = "6",
-    number = "4",
-    pages = "6844-6851"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=meanade></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>meanADE</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Shao et al., "Failure Detection for Motion Prediction of Autonomous Driving: An Uncertainty Perspective", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160596/>paper</a> <a href=https://arxiv.org/ftp/arxiv/papers/2301/2301.04421.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Shao_2023_ICRA,
-    author = "Shao, Wenbo and Xu, Yanchao and Peng, Liang and Li, Jun and Wang, Hong",
-    title = "Failure Detection for Motion Prediction of Autonomous Driving: An Uncertainty Perspective",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Park et al., "Diverse and Admissible Trajectory Forecasting through Multimodal Context Understanding", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560273.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.03212.pdf>arxiv</a> <a href=https://github.com/kami93/CMU-DATF>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanfde">meanFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanade">meanADE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Park_2020_ECCV,
-    author = "Park, Seong Hyeon and Lee, Gyubok and Bhat, Manoj and Seo, Jimin and Kang, Minseok and Francis, Jonathan and Jadhav, Ashwin R and Liang, Paul Pu and Morency, Louis-Philippe",
-    title = "Diverse and Admissible Trajectory Forecasting through Multimodal Context Understanding",
-    booktitle = "ECCV",
-    year = "2020"
 }
 </pre>
 </details>
@@ -5207,33 +5290,33 @@ ___
 </ul>
 </details>
 
-<a name=smr></a>
+<a name=epa></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>SMR</strong></l>
+<summary><em><l style="font-size:20px"><strong>End-to-end Prediction Accuracy (EPA)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Jiang et al., "MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2306.03083.pdf>arxiv</a></summary>
+<summary><strong><em>Yang et al., "Visual Point Cloud Forecasting enables Scalable Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Visual_Point_Cloud_Forecasting_enables_Scalable_Autonomous_Driving_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2312.17655>arxiv</a> <a href=https://github.com/OpenDriveLab/ViDAR>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsfde">minSFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minsade">minSADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#epa">EPA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Jiang_2023_CVPR,
-    author = "Jiang, Chiyu {\textquotedblleft}Max{\textquotedblright} and Cornman, Andre and Park, Cheolho and Sapp, Benjamin and Zhou, Yin and Anguelov, Dragomir",
-    title = "MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion",
+@InProceedings{Yang_Visual_2024_CVPR,
+    author = "Yang, Zetong and Chen, Li and Sun, Yanan and Li, Hongyang",
+    title = "Visual Point Cloud Forecasting enables Scalable Autonomous Driving",
     booktitle = "CVPR",
-    year = "2023"
+    year = "2024"
 }
 </pre>
 </details>
@@ -5241,30 +5324,25 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Rowe et al., "FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Rowe_FJMP_Factorized_Joint_Multi-Agent_Motion_Prediction_Over_Learned_Directed_Acyclic_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.16197.pdf>arxiv</a> <a href=https://rluke22.github.io/FJMP/>code</a></summary>
+<summary><strong><em>Gu et al., "ViP3D: End-to-End Visual Trajectory Prediction via 3D Agent Queries", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Gu_ViP3D_End-to-End_Visual_Trajectory_Prediction_via_3D_Agent_Queries_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2208.01582.pdf>arxiv</a> <a href=https://tsinghua-mars-lab.github.io/ViP3D/>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminade">iminADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cmr">CMR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#epa">EPA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Rowe_2023_CVPR,
-    author = "Rowe, Luke and Ethier, Martin and Dykhne, Eli-Henry and Czarnecki, Krzysztof",
-    title = "FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs",
+@InProceedings{Gu_2023_CVPR,
+    author = "Gu, Junru and Hu, Chenxu and Zhang, Tianyuan and Chen, Xuanyao and Wang, Yilun and Wang, Yue and Zhao, Hang",
+    title = "ViP3D: End-to-End Visual Trajectory Prediction via 3D Agent Queries",
     booktitle = "CVPR",
     year = "2023"
 }
@@ -5338,36 +5416,94 @@ ___
 </ul>
 </details>
 
-<a name=minmde></a>
+<a name=nlp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minMDE</strong></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Probability (NLP)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Tang et al., "Multiple futures prediction", NeurIPS, 2019.</em></strong> <a href=https://proceedings.neurips.cc/paper/2019/file/86a1fa88adb5c33bd7a68ac2f9f3f96b-Paper.pdf>paper</a></summary>
+<summary><strong><em>Rudenko et al., "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8460527>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#carla">CARLA</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#atc">ATC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmde">minMDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nlp">NLP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Tang_2019_NeurIPS,
-    author = "Tang, Charlie and Salakhutdinov, Russ R",
-    title = "Multiple futures prediction",
-    booktitle = "NeurIPS",
-    year = "2019"
+@InProceedings{Rudenko_2018_ICRA,
+    author = "Rudenko, A. and Palmieri, L. and Arras, K. O.",
+    booktitle = "ICRA",
+    title = "Joint Long-Term Prediction Of Human Motion Using A Planning-Based Social Force Approach",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Rudenko et al., "Human Motion Prediction Under Social Grouping Constraints", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8594258>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nlp">NLP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rudenko_2018_IROS,
+    author = "Rudenko, A. and Palmieri, L. and Lilienthal, A. J. and Arras, K. O.",
+    booktitle = "IROS",
+    title = "Human Motion Prediction Under Social Grouping Constraints",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=b-ade></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>b-ADE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Acharya et al., "Learning to Forecast Aleatoric and Epistemic Uncertainties over Long Horizon Trajectories", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160766>paper</a> <a href=https://arxiv.org/pdf/2302.08669.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mmd">MMD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-ade">b-ADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Acharya_2023_ICRA,
+    author = "Acharya, Aastha and Russell, Rebecca and Ahmed, Nisar R.",
+    title = "Learning to Forecast Aleatoric and Epistemic Uncertainties over Long Horizon Trajectories",
+    booktitle = "ICRA",
+    year = "2023"
 }
 </pre>
 </details>
@@ -5416,13 +5552,13 @@ ___
 </ul>
 </details>
 
-<a name=b-ade></a>
+<a name=app></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>b-ADE</strong></l>
+<summary><em><l style="font-size:20px"><strong>Average Prediction Probability (APP)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Acharya et al., "Learning to Forecast Aleatoric and Epistemic Uncertainties over Long Horizon Trajectories", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160766>paper</a> <a href=https://arxiv.org/pdf/2302.08669.pdf>arxiv</a></summary>
+<summary><strong><em>Rehder et al., "Pedestrian Prediction By Planning Using Deep Neural Networks", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8460203>paper</a> <a href=https://arxiv.org/pdf/1706.05904.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5431,53 +5567,16 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mmd">MMD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-ade">b-ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#app">APP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Acharya_2023_ICRA,
-    author = "Acharya, Aastha and Russell, Rebecca and Ahmed, Nisar R.",
-    title = "Learning to Forecast Aleatoric and Epistemic Uncertainties over Long Horizon Trajectories",
+@InProceedings{Rehder_2018_ICRA,
+    author = "Rehder, E. and Wirth, F. and Lauer, M. and Stiller, C.",
     booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=maps></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>mAPs</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Yan et al., "INT2: Interactive Trajectory Prediction at Intersections", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_INT2_Interactive_Trajectory_Prediction_at_Intersections_ICCV_2023_paper.pdf>paper</a> <a href=https://github.com/AIR-DISCOVER/INT2>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#int2">INT2</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maps">mAPs</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Yan_2023_ICCV,
-    author = "Yan, Zhijie and Li, Pengfei and Fu, Zheng and Xu, Shaocong and Shi, Yongliang and Chen, Xiaoxue and Zheng, Yuhang and Li, Yang and Liu, Tianyu and Li, Chuxuan and Luo, Nairui and Gao, Xu and Chen, Yilun and Wang, Zuoxu and Shi, Yifeng and Huang, Pengfei and Han, Zhengxiao and Yuan, Jirui and Gong, Jiangtao and Zhou, Guyue and Zhao, Hang and Zhao, Hao",
-    title = "INT2: Interactive Trajectory Prediction at Intersections",
-    booktitle = "ICCV",
-    year = "2023"
+    title = "Pedestrian Prediction By Planning Using Deep Neural Networks",
+    year = "2018"
 }
 </pre>
 </details>
@@ -5526,36 +5625,418 @@ ___
 </ul>
 </details>
 
-<a name=f></a>
+<a name=cll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Feasibility (F)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Conditional Log-Likelihood (CLL)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Dendorfer et al., "Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation", ACCV, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content/ACCV2020/papers/Dendorfer_Goal-GAN_Multimodal_Trajectory_Prediction_Based_on_Goal_Position_Estimation_ACCV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2010.01114.pdf>arxiv</a> <a href=https://github.com/dendorferpatrick/GoalGAN>code</a></summary>
+<summary><strong><em>Bhattacharyya et al., "Accurate and Diverse Sampling of Sequences based on a “best of many” Sample Objective", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Accurate_and_Diverse_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.07772.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cll">CLL</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Bhattacharyya_2018_CVPR_2,
+    author = "Bhattacharyya, Apratim and Schiele, Bernt and Fritz, Mario",
+    title = "Accurate and Diverse Sampling of Sequences based on a “best of many” Sample Objective",
+    booktitle = "CVPR",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=ce></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Cross Entropy (CE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ce">CE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rhinehart_2018_ECCV,
+    author = "Rhinehart, Nicholas and Kitani, Kris M. and Vernaza, Paul",
+    title = "{R2P2}: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting",
+    booktitle = "ECCV",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=wrmse></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>WRMSE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Schulz et al., "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>paper</a> <a href=https://arxiv.org/pdf/1804.10467.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wrmse">WRMSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Schulz_2018_IROS,
+    author = "Schulz, J. and Hubmann, C. and Löchner, J. and Burschka, D.",
+    booktitle = "IROS",
+    title = "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=ct></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Completion Time (CT)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Fisac et al., "Probabilistically Safe Robot Planning with Confidence-based Human Predictions", RSS, 2018.</em></strong> <a href=http://www.roboticsproceedings.org/rss14/p69.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.00109.pdf%3E>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ct">CT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Fisac_2018_RSS,
+    author = "Fisac, Jaime F and Bajcsy, Andrea and Herbert, Sylvia L and Fridovich-Keil, David and Wang, Steven and Tomlin, Claire J and Dragan, Anca D",
+    title = "Probabilistically Safe Robot Planning with Confidence-based Human Predictions",
+    booktitle = "RSS",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=human></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Zhan et al., "Generating Multi-agent Trajectories using Programmatic Weak Supervision", ICLR, 2017.</em></strong> <a href=https://openreview.net/pdf?id=rkxw-hAcFQ>paper</a> <a href=https://arxiv.org/pdf/1803.07612.pdf>arxiv</a> <a href=https://github.com/ezhan94/multiagent-programmatic-supervision>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#human">Human</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Zhan_2017_ICLR,
+    author = "Zhan, Eric and Zheng, Stephan and Yue, Yisong and Sha, Long and Lucey, Patrick",
+    title = "Generating Multi-agent Trajectories using Programmatic Weak Supervision",
+    booktitle = "ICLR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=pd></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Percentage Deviated (PD)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Shkurti et al., "Topologically Distinct Trajectory Predictions For Probabilistic Pursuit", IROS, 2017.</em></strong> <a href=https://ieeexplore.ieee.org/document/8206454>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#pd">PD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Shkurti_2017_IROS,
+    author = "Shkurti, F. and Dudek, G.",
+    booktitle = "IROS",
+    title = "Topologically Distinct Trajectory Predictions For Probabilistic Pursuit",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=precision></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Precision</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Yoo et al., "Visual Path Prediction In Complex Scenes With Crowded Moving Objects", CVPR, 2016.</em></strong> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yoo_Visual_Path_Prediction_CVPR_2016_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gc">GC</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#qmul">QMUL</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yoo_2016_CVPR,
+    author = "Yoo, YoungJoon and Yun, Kimin and Yun, Sangdoo and Hong, JongHee and Jeong, Hawook and Young Choi, Jin",
+    title = "Visual Path Prediction In Complex Scenes With Crowded Moving Objects",
+    booktitle = "CVPR",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=dtg></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Distance to Goal (DtG)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7477732>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#osu">OSU</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dtg">DtG</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lee_2016_WACV,
+    author = "Lee, N. and Kitani, K. M.",
+    booktitle = "WACV",
+    title = "Predicting Wide Receiver Trajectories In {A}merican Football",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=aede></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>AEDE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>paper</a> <a href=https://arxiv.org/pdf/1710.00126.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#strands">STRANDS</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#l-cas">L-CAS</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#aede">AEDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Sun_2018_ICRA,
+    author = "Sun, L. and Yan, Z. and Mellado, S. M. and Hanheide, M. and Duckett, T.",
+    booktitle = "ICRA",
+    title = "{3Dof} Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=soft-map></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>soft-mAP</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Mu et al., "MoST: Multi-Modality Scene Tokenization for Motion Prediction", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Mu_MoST_Multi-Modality_Scene_Tokenization_for_Motion_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.19531>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mc">MC</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#f">F</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#soft-map">soft-mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Dendorfer_2020_ACCV,
-    author = "Dendorfer, Patrick and Osep, Aljosa and Leal-Taixe, Laura",
-    title = "{Goal-GAN}: Multimodal Trajectory Prediction Based on Goal Position Estimation",
-    booktitle = "ACCV",
-    year = "2020"
+@InProceedings{Mu_MoST_2024_CVPR,
+    author = "Mu, Norman and Ji, Jingwei and Yang, Zhenpei and Harada, Nate and Tang, Haotian and Chen, Kan and Qi, Charles R. and Ge, Runzhou and Goel, Kratarth and Yang, Zoey and Ettinger, Scott and Al-Rfou, Rami and Anguelov, Dragomir and Zhou, Yin",
+    title = "MoST: Multi-Modality Scene Tokenization for Motion Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=maps></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>mAPs</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Yan et al., "INT2: Interactive Trajectory Prediction at Intersections", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_INT2_Interactive_Trajectory_Prediction_at_Intersections_ICCV_2023_paper.pdf>paper</a> <a href=https://github.com/AIR-DISCOVER/INT2>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#int2">INT2</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maps">mAPs</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yan_2023_ICCV,
+    author = "Yan, Zhijie and Li, Pengfei and Fu, Zheng and Xu, Shaocong and Shi, Yongliang and Chen, Xiaoxue and Zheng, Yuhang and Li, Yang and Liu, Tianyu and Li, Chuxuan and Luo, Nairui and Gao, Xu and Chen, Yilun and Wang, Zuoxu and Shi, Yifeng and Huang, Pengfei and Han, Zhengxiao and Yuan, Jirui and Gong, Jiangtao and Zhou, Guyue and Zhao, Hang and Zhao, Hao",
+    title = "INT2: Interactive Trajectory Prediction at Intersections",
+    booktitle = "ICCV",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=ra></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Retained Accuracy (RA)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Kang et al., "Continual Learning for Motion Prediction Model via Meta-Representation Learning and Optimal Memory Buffer Retention Strategy", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Kang_Continual_Learning_for_Motion_Prediction_Model_via_Meta-Representation_Learning_and_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ra">RA</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kang_Continual_2024_CVPR,
+    author = "Kang, DaeJun and Kum, Dongsuk and Kim, Sanmin",
+    title = "Continual Learning for Motion Prediction Model via Meta-Representation Learning and Optimal Memory Buffer Retention Strategy",
+    booktitle = "CVPR",
+    year = "2024"
 }
 </pre>
 </details>
@@ -5593,6 +6074,390 @@ ___
     author = "Shi, Liushuai and Wang, Le and Zhou, Sanping and Hua, Gang",
     title = "Trajectory Unified Transformer for Pedestrian Trajectory Prediction",
     booktitle = "ICCV",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=rf></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>RF</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Pourkeshavarz et al., "Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Pourkeshavarz_Learn_TAROT_with_MENTOR_A_Meta-Learned_Self-Supervised_Approach_for_Trajectory_ICCV_2023_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rf">RF</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dao">DAO</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Pourkeshavarz_2023_ICCV,
+    author = "Pourkeshavarz, Mozhgan and Chen, Changhe and Rasouli, Amir",
+    title = "Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction",
+    booktitle = "ICCV",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=dao></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>DAO</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Pourkeshavarz et al., "Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Pourkeshavarz_Learn_TAROT_with_MENTOR_A_Meta-Learned_Self-Supervised_Approach_for_Trajectory_ICCV_2023_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rf">RF</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dao">DAO</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Pourkeshavarz_2023_ICCV,
+    author = "Pourkeshavarz, Mozhgan and Chen, Changhe and Rasouli, Amir",
+    title = "Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction",
+    booktitle = "ICCV",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=minmde></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>minMDE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Tang et al., "Multiple futures prediction", NeurIPS, 2019.</em></strong> <a href=https://proceedings.neurips.cc/paper/2019/file/86a1fa88adb5c33bd7a68ac2f9f3f96b-Paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#carla">CARLA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmde">minMDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Tang_2019_NeurIPS,
+    author = "Tang, Charlie and Salakhutdinov, Russ R",
+    title = "Multiple futures prediction",
+    booktitle = "NeurIPS",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=mpg></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Maximum Prediction Gap (MPG)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Banzhaf et al., "Learning to Predict Ego-Vehicle Poses for Sampling-Based Nonholonomic Motion Planning", RAL, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8618353>paper</a> <a href=https://arxiv.org/pdf/1812.01127.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mpg">MPG</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Banzhaf_2019_RAL,
+    author = "Banzhaf, H. and Sanzenbacher, P. and Baumann, U. and Zöllner, J. M.",
+    journal = "RAL",
+    title = "Learning to Predict Ego-Vehicle Poses for Sampling-Based Nonholonomic Motion Planning",
+    year = "2019",
+    volume = "4",
+    number = "2",
+    pages = "1053-1060"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=tca></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>trajectory Clean Accuracy (tCA)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Pourkeshavarz et al., "Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Pourkeshavarz_Adversarial_Backdoor_Attack_by_Naturalistic_Data_Poisoning_on_Trajectory_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2306.15755>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tasr">tASR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tca">tCA</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Pourkeshavarz_Adversarial_2024_CVPR,
+    author = "Pourkeshavarz, Mozhgan and Sabokrou, Mohammad and Rasouli, Amir",
+    title = "Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=tasr></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>trajectory Attack Success Rate (tASR)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Pourkeshavarz et al., "Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Pourkeshavarz_Adversarial_Backdoor_Attack_by_Naturalistic_Data_Poisoning_on_Trajectory_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2306.15755>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tasr">tASR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#tca">tCA</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Pourkeshavarz_Adversarial_2024_CVPR,
+    author = "Pourkeshavarz, Mozhgan and Sabokrou, Mohammad and Rasouli, Amir",
+    title = "Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=prs></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Perturbation Resistance Score (PRS)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Pourkeshavarz et al., "CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Pourkeshavarz_CaDeT_a_Causal_Disentanglement_Approach_for_Robust_Trajectory_Prediction_in_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#absdelta">absDelta</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#prs">PRS</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Pourkeshavarz_CaDeT_2024_CVPR,
+    author = "Pourkeshavarz, Mozhgan and Zhang, Junrui and Rasouli, Amir",
+    title = "CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=iminfde></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>iminFDE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Rowe et al., "FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Rowe_FJMP_Factorized_Joint_Multi-Agent_Motion_Prediction_Over_Learned_Directed_Acyclic_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.16197.pdf>arxiv</a> <a href=https://rluke22.github.io/FJMP/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminade">iminADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cmr">CMR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rowe_2023_CVPR,
+    author = "Rowe, Luke and Ethier, Martin and Dykhne, Eli-Henry and Czarnecki, Krzysztof",
+    title = "FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs",
+    booktitle = "CVPR",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=absdelta></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>absDelta</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Pourkeshavarz et al., "CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Pourkeshavarz_CaDeT_a_Causal_Disentanglement_Approach_for_Robust_Trajectory_Prediction_in_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#absdelta">absDelta</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#prs">PRS</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Pourkeshavarz_CaDeT_2024_CVPR,
+    author = "Pourkeshavarz, Mozhgan and Zhang, Junrui and Rasouli, Amir",
+    title = "CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=cmr></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>CMR</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Rowe et al., "FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Rowe_FJMP_Factorized_Joint_Multi-Agent_Motion_Prediction_Over_Learned_Directed_Acyclic_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.16197.pdf>arxiv</a> <a href=https://rluke22.github.io/FJMP/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminade">iminADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cmr">CMR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Rowe_2023_CVPR,
+    author = "Rowe, Luke and Ethier, Martin and Dykhne, Eli-Henry and Czarnecki, Krzysztof",
+    title = "FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs",
+    booktitle = "CVPR",
     year = "2023"
 }
 </pre>
@@ -5644,78 +6509,6 @@ ___
 </ul>
 </details>
 
-<a name=dtg></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Distance to Goal (DtG)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Lee et al., "Predicting Wide Receiver Trajectories In American Football", WACV, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7477732>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#osu">OSU</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mhd">MHD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dtg">DtG</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Lee_2016_WACV,
-    author = "Lee, N. and Kitani, K. M.",
-    booktitle = "WACV",
-    title = "Predicting Wide Receiver Trajectories In {A}merican Football",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=precision></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Precision</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Yoo et al., "Visual Path Prediction In Complex Scenes With Crowded Moving Objects", CVPR, 2016.</em></strong> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yoo_Visual_Path_Prediction_CVPR_2016_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gc">GC</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#qmul">QMUL</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#precision">Precision</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Yoo_2016_CVPR,
-    author = "Yoo, YoungJoon and Yun, Kimin and Yun, Sangdoo and Hong, JongHee and Jeong, Hawook and Young Choi, Jin",
-    title = "Visual Path Prediction In Complex Scenes With Crowded Moving Objects",
-    booktitle = "CVPR",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=vpq></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Video Panoptic Quality (VPQ)</strong></l>
@@ -5740,259 +6533,6 @@ ___
     author = "Fang, Shaoheng and Wang, Zi and Zhong, Yiqi and Ge, Junhao and Chen, Siheng",
     title = "TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving",
     booktitle = "CVPR",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=pd></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Percentage Deviated (PD)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Shkurti et al., "Topologically Distinct Trajectory Predictions For Probabilistic Pursuit", IROS, 2017.</em></strong> <a href=https://ieeexplore.ieee.org/document/8206454>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#pd">PD</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Shkurti_2017_IROS,
-    author = "Shkurti, F. and Dudek, G.",
-    booktitle = "IROS",
-    title = "Topologically Distinct Trajectory Predictions For Probabilistic Pursuit",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=epa></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>End-to-end Prediction Accuracy (EPA)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Gu et al., "ViP3D: End-to-End Visual Trajectory Prediction via 3D Agent Queries", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Gu_ViP3D_End-to-End_Visual_Trajectory_Prediction_via_3D_Agent_Queries_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2208.01582.pdf>arxiv</a> <a href=https://tsinghua-mars-lab.github.io/ViP3D/>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#epa">EPA</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Gu_2023_CVPR,
-    author = "Gu, Junru and Hu, Chenxu and Zhang, Tianyuan and Chen, Xuanyao and Wang, Yilun and Wang, Yue and Zhao, Hang",
-    title = "ViP3D: End-to-End Visual Trajectory Prediction via 3D Agent Queries",
-    booktitle = "CVPR",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=human></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Zhan et al., "Generating Multi-agent Trajectories using Programmatic Weak Supervision", ICLR, 2017.</em></strong> <a href=https://openreview.net/pdf?id=rkxw-hAcFQ>paper</a> <a href=https://arxiv.org/pdf/1803.07612.pdf>arxiv</a> <a href=https://github.com/ezhan94/multiagent-programmatic-supervision>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#human">Human</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@inproceedings{Zhan_2017_ICLR,
-    author = "Zhan, Eric and Zheng, Stephan and Yue, Yisong and Sha, Long and Lucey, Patrick",
-    title = "Generating Multi-agent Trajectories using Programmatic Weak Supervision",
-    booktitle = "ICLR",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=ct></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Completion Time (CT)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Fisac et al., "Probabilistically Safe Robot Planning with Confidence-based Human Predictions", RSS, 2018.</em></strong> <a href=http://www.roboticsproceedings.org/rss14/p69.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.00109.pdf%3E>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ct">CT</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Fisac_2018_RSS,
-    author = "Fisac, Jaime F and Bajcsy, Andrea and Herbert, Sylvia L and Fridovich-Keil, David and Wang, Steven and Tomlin, Claire J and Dragan, Anca D",
-    title = "Probabilistically Safe Robot Planning with Confidence-based Human Predictions",
-    booktitle = "RSS",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=wrmse></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>WRMSE</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Schulz et al., "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments", IROS, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8594095>paper</a> <a href=https://arxiv.org/pdf/1804.10467.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#ll">LL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#wrmse">WRMSE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Schulz_2018_IROS,
-    author = "Schulz, J. and Hubmann, C. and Löchner, J. and Burschka, D.",
-    booktitle = "IROS",
-    title = "Interaction-Aware Probabilistic Behavior Prediction In Urban Environments",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=cmr></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>CMR</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Rowe et al., "FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Rowe_FJMP_Factorized_Joint_Multi-Agent_Motion_Prediction_Over_Learned_Directed_Acyclic_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.16197.pdf>arxiv</a> <a href=https://rluke22.github.io/FJMP/>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminade">iminADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cmr">CMR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rowe_2023_CVPR,
-    author = "Rowe, Luke and Ethier, Martin and Dykhne, Eli-Henry and Czarnecki, Krzysztof",
-    title = "FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs",
-    booktitle = "CVPR",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=rf></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>RF</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Pourkeshavarz et al., "Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Pourkeshavarz_Learn_TAROT_with_MENTOR_A_Meta-Learned_Self-Supervised_Approach_for_Trajectory_ICCV_2023_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rf">RF</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dao">DAO</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Pourkeshavarz_2023_ICCV,
-    author = "Pourkeshavarz, Mozhgan and Chen, Changhe and Rasouli, Amir",
-    title = "Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction",
-    booktitle = "ICCV",
     year = "2023"
 }
 </pre>
@@ -6044,213 +6584,36 @@ ___
 </ul>
 </details>
 
-<a name=iminfde></a>
+<a name=f></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>iminFDE</strong></l>
+<summary><em><l style="font-size:20px"><strong>Feasibility (F)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Rowe et al., "FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Rowe_FJMP_Factorized_Joint_Multi-Agent_Motion_Prediction_Over_Learned_Directed_Acyclic_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.16197.pdf>arxiv</a> <a href=https://rluke22.github.io/FJMP/>code</a></summary>
+<summary><strong><em>Dendorfer et al., "Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation", ACCV, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content/ACCV2020/papers/Dendorfer_Goal-GAN_Multimodal_Trajectory_Prediction_Based_on_Goal_Position_Estimation_ACCV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2010.01114.pdf>arxiv</a> <a href=https://github.com/dendorferpatrick/GoalGAN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#scr">SCR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#smr">SMR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminfde">iminFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iminade">iminADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cmr">CMR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cross-col">Cross-Col</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mc">MC</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#f">F</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Rowe_2023_CVPR,
-    author = "Rowe, Luke and Ethier, Martin and Dykhne, Eli-Henry and Czarnecki, Krzysztof",
-    title = "FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs",
-    booktitle = "CVPR",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=aede></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>AEDE</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Sun et al., "3Dof Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8461228>paper</a> <a href=https://arxiv.org/pdf/1710.00126.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#strands">STRANDS</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#l-cas">L-CAS</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#aede">AEDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Sun_2018_ICRA,
-    author = "Sun, L. and Yan, Z. and Mellado, S. M. and Hanheide, M. and Duckett, T.",
-    booktitle = "ICRA",
-    title = "{3Dof} Pedestrian Trajectory Prediction Learned From Long-Term Autonomous Mobile Robot Deployment Data",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=app></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Average Prediction Probability (APP)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Rehder et al., "Pedestrian Prediction By Planning Using Deep Neural Networks", ICRA, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8460203>paper</a> <a href=https://arxiv.org/pdf/1706.05904.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#app">APP</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rehder_2018_ICRA,
-    author = "Rehder, E. and Wirth, F. and Lauer, M. and Stiller, C.",
-    booktitle = "ICRA",
-    title = "Pedestrian Prediction By Planning Using Deep Neural Networks",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=ce></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Cross Entropy (CE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Rhinehart et al., "R2P2: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minmsd">minMSD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#meanmsd">meanMSD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ce">CE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rhinehart_2018_ECCV,
-    author = "Rhinehart, Nicholas and Kitani, Kris M. and Vernaza, Paul",
-    title = "{R2P2}: A Reparameterized Pushforward Policy For Diverse, Precise Generative Path Forecasting",
-    booktitle = "ECCV",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=cll></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Conditional Log-Likelihood (CLL)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Bhattacharyya et al., "Accurate and Diverse Sampling of Sequences based on a “best of many” Sample Objective", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Accurate_and_Diverse_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.07772.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cll">CLL</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Bhattacharyya_2018_CVPR_2,
-    author = "Bhattacharyya, Apratim and Schiele, Bernt and Fritz, Mario",
-    title = "Accurate and Diverse Sampling of Sequences based on a “best of many” Sample Objective",
-    booktitle = "CVPR",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=mpg></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Maximum Prediction Gap (MPG)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Banzhaf et al., "Learning to Predict Ego-Vehicle Poses for Sampling-Based Nonholonomic Motion Planning", RAL, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8618353>paper</a> <a href=https://arxiv.org/pdf/1812.01127.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mpg">MPG</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@Article{Banzhaf_2019_RAL,
-    author = "Banzhaf, H. and Sanzenbacher, P. and Baumann, U. and Zöllner, J. M.",
-    journal = "RAL",
-    title = "Learning to Predict Ego-Vehicle Poses for Sampling-Based Nonholonomic Motion Planning",
-    year = "2019",
-    volume = "4",
-    number = "2",
-    pages = "1053-1060"
+@InProceedings{Dendorfer_2020_ACCV,
+    author = "Dendorfer, Patrick and Osep, Aljosa and Leal-Taixe, Laura",
+    title = "{Goal-GAN}: Multimodal Trajectory Prediction Based on Goal Position Estimation",
+    booktitle = "ACCV",
+    year = "2020"
 }
 </pre>
 </details>
@@ -6286,78 +6649,6 @@ ___
     title = "Impact of Traffic Lights on Trajectory Forecasting of Human-driven Vehicles near Signalized Intersections",
     booktitle = "IROS",
     year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=dao></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>DAO</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Pourkeshavarz et al., "Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Pourkeshavarz_Learn_TAROT_with_MENTOR_A_Meta-Learned_Self-Supervised_Approach_for_Trajectory_ICCV_2023_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rf">RF</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#dao">DAO</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Pourkeshavarz_2023_ICCV,
-    author = "Pourkeshavarz, Mozhgan and Chen, Changhe and Rasouli, Amir",
-    title = "Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction",
-    booktitle = "ICCV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=sor></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Soft Off-road Rate (SOR)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Bahari et al., "Vehicle Trajectory Prediction Works, but Not Everywhere", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Bahari_Vehicle_Trajectory_Prediction_Works_but_Not_Everywhere_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2112.03909.pdf>arxiv</a> <a href=https://s-attack.github.io/>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#sor">SOR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#hor">HOR</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Bahari_2022_CVPR,
-    author = "Bahari, Mohammadhossein and Saadatnejad, Saeed and Rahimi, Ahmad and Shaverdikondori, Mohammad and Shahidzadeh, Amir Hossein and Moosavi-Dezfooli, Seyed-Mohsen and Alahi, Alexandre",
-    title = "Vehicle Trajectory Prediction Works, but Not Everywhere",
-    booktitle = "CVPR",
-    year = "2022"
 }
 </pre>
 </details>
@@ -6403,31 +6694,31 @@ ___
 </ul>
 </details>
 
-<a name=inace></a>
+<a name=progress></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Image Normalized Average Centroid Error (INACE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Progress</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Agarwal et al., "Predicting the Future Motion of Divers for Enhanced Underwater Human-Robot Collaboration", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9636374>paper</a> <a href=https://github.com/IRVLab/diver-prediction>code</a></summary>
+<summary><strong><em>Cui et al., "LookOut: Diverse Multi-Future Prediction and Planning for Self-Driving", ICCV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_LookOut_Diverse_Multi-Future_Prediction_and_Planning_for_Self-Driving_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2101.06547.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#vdd-c">VDD-C</a></li>
+<li>Custom</li>
+
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bnace">BNACE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#inace">INACE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#progress">Progress</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Agarwal_2021_IROS,
-    author = "Agarwal, Tanmay and Fulton, Michael and Sattar, Junaed",
-    booktitle = "IROS",
-    title = "Predicting the Future Motion of Divers for Enhanced Underwater Human-Robot Collaboration",
+@InProceedings{Cui_2021_ICCV,
+    author = "Cui, Alexander and Casas, Sergio and Sadat, Abbas and Liao, Renjie and Urtasun, Raquel",
+    title = "{LookOut}: Diverse Multi-Future Prediction and Planning for Self-Driving",
+    booktitle = "ICCV",
     year = "2021"
 }
 </pre>
@@ -6759,9 +7050,9 @@ ___
 </ul>
 </details>
 
-<a name=bnace></a>
+<a name=inace></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Box Normalized Average Centroid Error (BNACE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Image Normalized Average Centroid Error (INACE)</strong></l>
 </em></summary>
 <ul>
 <details close>
@@ -6794,32 +7085,32 @@ ___
 </ul>
 </details>
 
-<a name=twae></a>
+<a name=bnace></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Time Weighted Absolute Error (TWAE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Box Normalized Average Centroid Error (BNACE)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Oh et al., "Impact of Traffic Lights on Trajectory Forecasting of Human-driven Vehicles near Signalized Intersections", IROS, 2020.</em></strong> <a href=http://ras.papercept.net/images/temp/IROS/files/3159.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.00486.pdf>arxiv</a></summary>
+<summary><strong><em>Agarwal et al., "Predicting the Future Motion of Divers for Enhanced Underwater Human-Robot Collaboration", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9636374>paper</a> <a href=https://github.com/IRVLab/diver-prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#spmd">SPMD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#vdd-c">VDD-C</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mae">MAE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#apad">APaD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#twae">TWAE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bnace">BNACE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#inace">INACE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Oh_2020_IROS,
-    author = "Oh, Geunseob and Peng, Huei",
-    title = "Impact of Traffic Lights on Trajectory Forecasting of Human-driven Vehicles near Signalized Intersections",
+@InProceedings{Agarwal_2021_IROS,
+    author = "Agarwal, Tanmay and Fulton, Michael and Sattar, Junaed",
     booktitle = "IROS",
-    year = "2020"
+    title = "Predicting the Future Motion of Divers for Enhanced Underwater Human-Robot Collaboration",
+    year = "2021"
 }
 </pre>
 </details>
@@ -7170,41 +7461,6 @@ ___
 </ul>
 </details>
 
-<a name=progress></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Progress</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Cui et al., "LookOut: Diverse Multi-Future Prediction and Planning for Self-Driving", ICCV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_LookOut_Diverse_Multi-Future_Prediction_and_Planning_for_Self-Driving_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2101.06547.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cd">CD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#progress">Progress</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Cui_2021_ICCV,
-    author = "Cui, Alexander and Casas, Sergio and Sadat, Abbas and Liao, Renjie and Urtasun, Raquel",
-    title = "{LookOut}: Diverse Multi-Future Prediction and Planning for Self-Driving",
-    booktitle = "ICCV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=tn></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong></l>
@@ -7313,6 +7569,118 @@ ___
 </ul>
 </details>
 
+<a name=amv></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Average Maximum Eigenvalue (AMV)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Mohamed et al., "Social-Implicit: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820451.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.03057.pdf>arxiv</a> <a href=https://github.com/abduallahmohamed/Social-Implicit/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amv">AMV</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mohamed_2022_ECCV,
+    author = "Mohamed, Abduallah and Zhu, Deyao and Vu, Warren and Elhoseiny, Mohamed and Claudel, Christian",
+    title = "{Social-Implicit}: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation",
+    booktitle = "ECCV",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=twae></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Time Weighted Absolute Error (TWAE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Oh et al., "Impact of Traffic Lights on Trajectory Forecasting of Human-driven Vehicles near Signalized Intersections", IROS, 2020.</em></strong> <a href=http://ras.papercept.net/images/temp/IROS/files/3159.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.00486.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#spmd">SPMD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#apad">APaD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#twae">TWAE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Oh_2020_IROS,
+    author = "Oh, Geunseob and Peng, Huei",
+    title = "Impact of Traffic Lights on Trajectory Forecasting of Human-driven Vehicles near Signalized Intersections",
+    booktitle = "IROS",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=mc></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mode Coverage (MC)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Dendorfer et al., "Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation", ACCV, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content/ACCV2020/papers/Dendorfer_Goal-GAN_Multimodal_Trajectory_Prediction_Based_on_Goal_Position_Estimation_ACCV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2010.01114.pdf>arxiv</a> <a href=https://github.com/dendorferpatrick/GoalGAN>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mc">MC</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#f">F</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Dendorfer_2020_ACCV,
+    author = "Dendorfer, Patrick and Osep, Aljosa and Leal-Taixe, Laura",
+    title = "{Goal-GAN}: Multimodal Trajectory Prediction Based on Goal Position Estimation",
+    booktitle = "ACCV",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=or></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Overlap Rate (OR)</strong></l>
@@ -7386,36 +7754,31 @@ ___
 </ul>
 </details>
 
-<a name=mc></a>
+<a name=sor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mode Coverage (MC)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Soft Off-road Rate (SOR)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Dendorfer et al., "Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation", ACCV, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content/ACCV2020/papers/Dendorfer_Goal-GAN_Multimodal_Trajectory_Prediction_Based_on_Goal_Position_Estimation_ACCV_2020_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2010.01114.pdf>arxiv</a> <a href=https://github.com/dendorferpatrick/GoalGAN>code</a></summary>
+<summary><strong><em>Bahari et al., "Vehicle Trajectory Prediction Works, but Not Everywhere", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Bahari_Vehicle_Trajectory_Prediction_Works_but_Not_Everywhere_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2112.03909.pdf>arxiv</a> <a href=https://s-attack.github.io/>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mc">MC</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#f">F</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#sor">SOR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#hor">HOR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Dendorfer_2020_ACCV,
-    author = "Dendorfer, Patrick and Osep, Aljosa and Leal-Taixe, Laura",
-    title = "{Goal-GAN}: Multimodal Trajectory Prediction Based on Goal Position Estimation",
-    booktitle = "ACCV",
-    year = "2020"
+@InProceedings{Bahari_2022_CVPR,
+    author = "Bahari, Mohammadhossein and Saadatnejad, Saeed and Rahimi, Ahmad and Shaverdikondori, Mohammad and Shahidzadeh, Amir Hossein and Moosavi-Dezfooli, Seyed-Mohsen and Alahi, Alexandre",
+    title = "Vehicle Trajectory Prediction Works, but Not Everywhere",
+    booktitle = "CVPR",
+    year = "2022"
 }
 </pre>
 </details>
@@ -7571,44 +7934,6 @@ ___
 </ul>
 </details>
 
-<a name=amv></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Average Maximum Eigenvalue (AMV)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Mohamed et al., "Social-Implicit: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820451.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.03057.pdf>arxiv</a> <a href=https://github.com/abduallahmohamed/Social-Implicit/>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#kde">KDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amd">AMD</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#amv">AMV</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mohamed_2022_ECCV,
-    author = "Mohamed, Abduallah and Zhu, Deyao and Vu, Warren and Elhoseiny, Mohamed and Claudel, Christian",
-    title = "{Social-Implicit}: Rethinking Trajectory Prediction Evaluation and the Effectiveness of Implicit Maximum Likelihood Estimation",
-    booktitle = "ECCV",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=epe3d></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>3D Endpoint Error (EPE3D)</strong></l>
@@ -7633,6 +7958,42 @@ ___
     title = "Motion Inspired Unsupervised Perception and Prediction in Autonomous Driving",
     booktitle = "ECCV",
     year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=vim></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>VIM</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Adeli et al., "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild", ICCV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Adeli_TRiPOD_Human_Trajectory_and_Pose_Dynamics_Forecasting_in_the_Wild_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2104.04029.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#posetrack">PoseTrack</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#vam">VAM</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#vim">VIM</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Adeli_2021_ICCV,
+    author = "Adeli, Vida and Ehsanpour, Mahsa and Reid, Ian and Niebles, Juan Carlos and Savarese, Silvio and Adeli, Ehsan and Rezatofighi, Hamid",
+    title = "{TRiPOD}: Human Trajectory and Pose Dynamics Forecasting in the Wild",
+    booktitle = "ICCV",
+    year = "2021"
 }
 </pre>
 </details>
@@ -7713,13 +8074,13 @@ ___
 </ul>
 </details>
 
-<a name=qualitative></a>
+<a name=fnm></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Qualitative</strong></l>
+<summary><em><l style="font-size:20px"><strong>Fraction of Near Misses (FNM)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Bansal et al., "A Hamilton-Jacobi Reachability-Based Framework for Predicting and Analyzing Human Motion for Safe Planning", ICRA, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/9197257/>paper</a> <a href=https://arxiv.org/pdf/1910.13369.pdf>arxiv</a></summary>
+<summary><strong><em>Bai et al., "Intention-Aware Online POMDP Planning For Autonomous Driving In A Crowd", ICRA, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7139219>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7728,16 +8089,16 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#qualitative">Qualitative</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fnm">FNM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Bansal_2020_ICRA,
-    author = "Bansal, S. and Bajcsy, A. and Ratner, E. and Dragan, A. D. and Tomlin, C. J.",
+@InProceedings{Bai_2015_ICRA,
+    author = "Bai, Haoyu and Cai, Shaojun and Ye, Nan and Hsu, David and Lee, Wee Sun",
+    title = "Intention-Aware Online {POMDP} Planning For Autonomous Driving In A Crowd",
     booktitle = "ICRA",
-    title = "A Hamilton-Jacobi Reachability-Based Framework for Predicting and Analyzing Human Motion for Safe Planning",
-    year = "2020"
+    year = "2015"
 }
 </pre>
 </details>
@@ -7819,13 +8180,13 @@ ___
 </ul>
 </details>
 
-<a name=fnm></a>
+<a name=qualitative></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Fraction of Near Misses (FNM)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Qualitative</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Bai et al., "Intention-Aware Online POMDP Planning For Autonomous Driving In A Crowd", ICRA, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7139219>paper</a></summary>
+<summary><strong><em>Bansal et al., "A Hamilton-Jacobi Reachability-Based Framework for Predicting and Analyzing Human Motion for Safe Planning", ICRA, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/9197257/>paper</a> <a href=https://arxiv.org/pdf/1910.13369.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -7834,16 +8195,16 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fnm">FNM</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#qualitative">Qualitative</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Bai_2015_ICRA,
-    author = "Bai, Haoyu and Cai, Shaojun and Ye, Nan and Hsu, David and Lee, Wee Sun",
-    title = "Intention-Aware Online {POMDP} Planning For Autonomous Driving In A Crowd",
+@InProceedings{Bansal_2020_ICRA,
+    author = "Bansal, S. and Bajcsy, A. and Ratner, E. and Dragan, A. D. and Tomlin, C. J.",
     booktitle = "ICRA",
-    year = "2015"
+    title = "A Hamilton-Jacobi Reachability-Based Framework for Predicting and Analyzing Human Motion for Safe Planning",
+    year = "2020"
 }
 </pre>
 </details>
@@ -7948,42 +8309,6 @@ ___
     author = "Amirloo, Elmira and Rohani, Mohsen and Banijamali, Ershad and Luo, Jun and Poupart, Pascal",
     title = "Self-Supervised Simultaneous Multi-Step Prediction of Road Dynamics and Cost Map",
     booktitle = "CVPR",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=vim></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>VIM</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Adeli et al., "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild", ICCV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Adeli_TRiPOD_Human_Trajectory_and_Pose_Dynamics_Forecasting_in_the_Wild_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2104.04029.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#posetrack">PoseTrack</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#vam">VAM</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#vim">VIM</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Adeli_2021_ICCV,
-    author = "Adeli, Vida and Ehsanpour, Mahsa and Reid, Ian and Niebles, Juan Carlos and Savarese, Silvio and Adeli, Ehsan and Rezatofighi, Hamid",
-    title = "{TRiPOD}: Human Trajectory and Pose Dynamics Forecasting in the Wild",
-    booktitle = "ICCV",
     year = "2021"
 }
 </pre>

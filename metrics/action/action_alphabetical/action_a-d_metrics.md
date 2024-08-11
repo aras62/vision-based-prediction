@@ -16,14 +16,70 @@ ___
 </em></summary>
 <ul>
 <details close>
+<summary><strong><em>Guo et al., "Uncertainty-aware Action Decoupling Transformer for Action Anticipation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_Uncertainty-aware_Action_Decoupling_Transformer_for_Action_Anticipation_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Guo_Uncertainty_2024_CVPR,
+    author = "Guo, Hongji and Agarwal, Nakul and Lo, Shao-Yuan and Lee, Kwonjoon and Ji, Qiang",
+    title = "Uncertainty-aware Action Decoupling Transformer for Action Anticipation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Diller et al., "FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Diller_FutureHuman3D_Forecasting_Complex_Long-Term_3D_Human_Behavior_from_Video_Observations_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.14309>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ikea_asm">IKEA ASM</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#quality">Quality</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Diller_FutureHuman3D_2024_CVPR,
+    author = "Diller, Christian and Funkhouser, Thomas and Dai, Angela",
+    title = "FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Girase et al., "Latency Matters: Real-Time Action Forecasting Transformer", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Girase_Latency_Matters_Real-Time_Action_Forecasting_Transformer_CVPR_2023_paper.pdf>paper</a> <a href=https://karttikeya.github.io/publication/RAFTformer/>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 <li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -306,8 +362,8 @@ ___
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1772,8 +1828,8 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1833,8 +1889,8 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2408,7 +2464,7 @@ ___
 
 </ul><ul><a name=ade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2448,7 +2504,7 @@ ___
 
 </ul><ul><a name=ap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [7]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [6]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2749,7 +2805,7 @@ ___
 
 </ul><ul><a name=attc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ATTC</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>ATTC</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2917,8 +2973,8 @@ ___
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3142,8 +3198,8 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3192,7 +3248,7 @@ ___
 
 </ul><ul><a name=bleu@n></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>BLEU@N</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>BLEU@N</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3229,7 +3285,7 @@ ___
 
 </ul><ul><a name=cap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>calibrated Average Precision (cAP)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>calibrated Average Precision (cAP)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3265,7 +3321,7 @@ ___
 
 </ul><ul><a name=cider></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>

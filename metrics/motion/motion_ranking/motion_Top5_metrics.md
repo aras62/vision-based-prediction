@@ -16,6 +16,141 @@ ___
 </em></summary>
 <ul>
 <details close>
+<summary><strong><em>Sun et al., "MoML: Online Meta Adaptation for 3D Human Motion Prediction", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_MoML_Online_Meta_Adaptation_for_3D_Human_Motion_Prediction_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Sun_MoML_2024_CVPR,
+    author = "Sun, Xiaoning and Sun, Huaijiang and Li, Bin and Wei, Dong and Li, Weiqing and Lu, Jianfeng",
+    title = "MoML: Online Meta Adaptation for 3D Human Motion Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Yue et al., "Human Motion Prediction Under Unexpected Perturbation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_Human_Motion_Prediction_Under_Unexpected_Perturbation_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fzj_push">FZJ Push</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fse">FSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mble">MBLE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yue_Human_2024_CVPR,
+    author = "Yue, Jiangbei and Li, Baiyi and Pettr\'e, Julien and Seyfried, Armin and Wang, He",
+    title = "Human Motion Prediction Under Unexpected Perturbation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Chen et al., "Rethinking Human Motion Prediction with Symplectic Integral", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Rethinking_Human_Motion_Prediction_with_Symplectic_Integral_CVPR_2024_paper.pdf>paper</a> <a href=https://github.com/adamlyu789/SINN>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Chen_Rethinking_2024_CVPR,
+    author = "Chen, Haipeng and Lyu, Kedi and Liu, Zhenguang and Yin, Yifang and Yang, Xun and Lyu, Yingda",
+    title = "Rethinking Human Motion Prediction with Symplectic Integral",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Yan et al., "Forecasting of 3D Whole-body Human Poses with Grasping Objects", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_Forecasting_of_3D_Whole-body_Human_Poses_with_Grasping_Objects_CVPR_2024_paper.pdf>paper</a> <a href=https://sites.google.com/view/c3host>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#grab">GRAB</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#behave">BEHAVE</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yan_Forecasting_2024_CVPR,
+    author = "Yan, Haitao and Cui, Qiongjie and Xie, Jiexin and Guo, Shijie",
+    title = "Forecasting of 3D Whole-body Human Poses with Grasping Objects",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Lou et al., "Multimodal Sense-Informed Forecasting of 3D Human Motions", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Lou_Multimodal_Sense-Informed_Forecasting_of_3D_Human_Motions_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.02911>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gta-im">GTA-IM</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gimo">GIMO</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lou_Multimodal_2024_CVPR,
+    author = "Lou, Zhenyu and Cui, Qiongjie and Wang, Haofan and Tang, Xu and Zhou, Hong",
+    title = "Multimodal Sense-Informed Forecasting of 3D Human Motions",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Gao et al., "Decompose More and Aggregate Better: Two Closer Looks at Frequency Representation Learning for Human Motion Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Decompose_More_and_Aggregate_Better_Two_Closer_Looks_at_Frequency_CVPR_2023_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
@@ -807,8 +942,8 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#prox">PROX</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gta-im">GTA-IM</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#prox">PROX</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -977,6 +1112,64 @@ ___
 <summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Yue et al., "Human Motion Prediction Under Unexpected Perturbation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_Human_Motion_Prediction_Under_Unexpected_Perturbation_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fzj_push">FZJ Push</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fse">FSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mble">MBLE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yue_Human_2024_CVPR,
+    author = "Yue, Jiangbei and Li, Baiyi and Pettr\'e, Julien and Seyfried, Armin and Wang, He",
+    title = "Human Motion Prediction Under Unexpected Perturbation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Jeong et al., "Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Jeong_Multi-agent_Long-term_3D_Human_Pose_Forecasting_via_Interaction-aware_Trajectory_Conditioning_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.05218>arxiv</a> <a href=https://github.com/Jaewoo97/T2P>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jrdb">JRDB</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#jpe">JPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ape">APE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Jeong_Multi_2024_CVPR,
+    author = "Jeong, Jaewoo and Park, Daehee and Yoon, Kuk-Jin",
+    title = "Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Peng et al., "Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Trajectory-Aware_Body_Interaction_Transformer_for_Multi-Person_Pose_Forecasting_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.05095.pdf>arxiv</a> <a href=https://github.com/xiaogangpeng/TBIFormer>code</a></summary>
 <ul>
@@ -1482,6 +1675,35 @@ ___
 <summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Yue et al., "Human Motion Prediction Under Unexpected Perturbation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_Human_Motion_Prediction_Under_Unexpected_Perturbation_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fzj_push">FZJ Push</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fse">FSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mble">MBLE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yue_Human_2024_CVPR,
+    author = "Yue, Jiangbei and Li, Baiyi and Pettr\'e, Julien and Seyfried, Armin and Wang, He",
+    title = "Human Motion Prediction Under Unexpected Perturbation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Bao et al., "Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Bao_Uncertainty-aware_State_Space_Transformer_for_Egocentric_3D_Hand_Trajectory_Forecasting_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2307.08243.pdf>arxiv</a> <a href=https://actionlab-cv.github.io/EgoHandTrajPred/>code</a></summary>
 <ul>

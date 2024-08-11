@@ -1,7 +1,7 @@
 <a name=top></a>
 <a name=top></a>
 ---
-<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../papers/papers.md#top><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Datasets</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics/metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../papers/papers.md#top><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Datasets</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---
 [Home](../datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Alphabetical](../alphabetical/alphabetical_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Year](../year/year_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Application&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Task](../task/task_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Annotation](../annotation_datasets.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
@@ -22,6 +22,36 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
+<summary><em>Shrivastava et al., "Video Prediction by Modeling Videos as Continuous Multi-Dimensional Processes", CVPR, 2024.</em> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Shrivastava_Video_Prediction_by_Modeling_Videos_as_Continuous_Multi-Dimensional_Processes_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair_push">BAIR Push</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Shrivastava_Video_2024_CVPR,
+    author = "Shrivastava, Gaurav and Shrivastava, Abhinav",
+    title = "Video Prediction by Modeling Videos as Continuous Multi-Dimensional Processes",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Chang et al., "STRPM: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction", CVPR, 2022.</em> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_STRPM_A_Spatiotemporal_Residual_Predictive_Model_for_High-Resolution_Video_Prediction_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.16084.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
@@ -698,6 +728,60 @@ A large-scale dataset of 3D human poses with 3M+ images captured using 11 profes
     title = "DMMGAN: Diverse Multi Motion Prediction of 3D Human Joints using Attention-Based Generative Adversarial Network",
     booktitle = "ICRA",
     year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Sun et al., "MoML: Online Meta Adaptation for 3D Human Motion Prediction", CVPR, 2024.</em> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_MoML_Online_Meta_Adaptation_for_3D_Human_Motion_Prediction_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Sun_MoML_2024_CVPR,
+    author = "Sun, Xiaoning and Sun, Huaijiang and Li, Bin and Wei, Dong and Li, Weiqing and Lu, Jianfeng",
+    title = "MoML: Online Meta Adaptation for 3D Human Motion Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Chen et al., "Rethinking Human Motion Prediction with Symplectic Integral", CVPR, 2024.</em> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Rethinking_Human_Motion_Prediction_with_Symplectic_Integral_CVPR_2024_paper.pdf>paper</a> <a href=https://github.com/adamlyu789/SINN>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Chen_Rethinking_2024_CVPR,
+    author = "Chen, Haipeng and Lyu, Kedi and Liu, Zhenguang and Yin, Yifang and Yang, Xun and Lyu, Yingda",
+    title = "Rethinking Human Motion Prediction with Symplectic Integral",
+    booktitle = "CVPR",
+    year = "2024"
 }
 </pre>
 </details>
@@ -2293,6 +2377,32 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
+<summary><em>Dong et al., "MemFlow: Optical Flow Estimation and Prediction with Memory", CVPR, 2024.</em> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Dong_MemFlow_Optical_Flow_Estimation_and_Prediction_with_Memory_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.04808>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Dong_MemFlow_2024_CVPR,
+    author = "Dong, Qiaole and Fu, Yanwei",
+    title = "MemFlow: Optical Flow Estimation and Prediction with Memory",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Hu et al., "A Dynamic Multi-Scale Voxel Flow Network for Video Prediction", CVPR, 2023.</em> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_A_Dynamic_Multi-Scale_Voxel_Flow_Network_for_Video_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.09875.pdf>arxiv</a> <a href=https://huxiaotaostasy.github.io/DMVFN/>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -3123,6 +3233,35 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 </details>
 <details close>
+<summary><em>Agro et al., "UnO: Unsupervised Occupancy Fields for Perception and Forecasting", CVPR, 2024.</em> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Agro_UnO_Unsupervised_Occupancy_Fields_for_Perception_and_Forecasting_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/abs/2406.08691>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#nfcd">NFCD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Agro_UnO_2024_CVPR,
+    author = "Agro, Ben and Sykora, Quinlan and Casas, Sergio and Gilles, Thomas and Urtasun, Raquel",
+    title = "UnO: Unsupervised Occupancy Fields for Perception and Forecasting",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Khurana et al., "Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting", CVPR, 2023.</em> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Khurana_Point_Cloud_Forecasting_as_a_Proxy_for_4D_Occupancy_Forecasting_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2302.13130.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
@@ -3133,8 +3272,8 @@ A large-scale driving dataset recorded with different modalities including stere
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
 <li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
 <li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#nfe">NFE</a></li>
 </ul>
 <details close>
@@ -3313,6 +3452,69 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
+<summary><em>Shrivastava et al., "Video Prediction by Modeling Videos as Continuous Multi-Dimensional Processes", CVPR, 2024.</em> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Shrivastava_Video_Prediction_by_Modeling_Videos_as_Continuous_Multi-Dimensional_Processes_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair_push">BAIR Push</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Shrivastava_Video_2024_CVPR,
+    author = "Shrivastava, Gaurav and Shrivastava, Abhinav",
+    title = "Video Prediction by Modeling Videos as Continuous Multi-Dimensional Processes",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Zhang et al., "ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction", CVPR, 2024.</em> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ExtDM_Distribution_Extrapolation_Diffusion_Model_for_Video_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://github.com/nku-zhichengzhang/ExtDM>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair">BAIR</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhang_ExtDM_2024_CVPR,
+    author = "Zhang, Zhicheng and Hu, Junyao and Cheng, Wentao and Paudel, Danda and Yang, Jufeng",
+    title = "ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Hu et al., "A Dynamic Multi-Scale Voxel Flow Network for Video Prediction", CVPR, 2023.</em> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_A_Dynamic_Multi-Scale_Voxel_Flow_Network_for_Video_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.09875.pdf>arxiv</a> <a href=https://huxiaotaostasy.github.io/DMVFN/>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -4140,8 +4342,8 @@ A large-scale dataset of 101 actions with 13K+ video clips divided into 5 groups
 <em>Metrics</em>
 <ul>
 <li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4238,6 +4440,39 @@ A dataset of moving digits on a simple uniform background
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
+<summary><em>Zhang et al., "ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction", CVPR, 2024.</em> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ExtDM_Distribution_Extrapolation_Diffusion_Model_for_Video_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://github.com/nku-zhichengzhang/ExtDM>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair">BAIR</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhang_ExtDM_2024_CVPR,
+    author = "Zhang, Zhicheng and Hu, Junyao and Cheng, Wentao and Paudel, Danda and Yang, Jufeng",
+    title = "ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Zhong et al., "MMVP: Motion-Matrix-Based Video Prediction", ICCV, 2023.</em> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Zhong_MMVP_Motion-Matrix-Based_Video_Prediction_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2308.16154.pdf>arxiv</a> <a href=https://github.com/Kay1794/MMVP-motion-matrix-based-video-prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -5083,8 +5318,8 @@ A dataset of pedestrians with 346 video sequences showing pedestrians at the tim
 <li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -5606,6 +5841,69 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
+<summary><em>Shrivastava et al., "Video Prediction by Modeling Videos as Continuous Multi-Dimensional Processes", CVPR, 2024.</em> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Shrivastava_Video_Prediction_by_Modeling_Videos_as_Continuous_Multi-Dimensional_Processes_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair_push">BAIR Push</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Shrivastava_Video_2024_CVPR,
+    author = "Shrivastava, Gaurav and Shrivastava, Abhinav",
+    title = "Video Prediction by Modeling Videos as Continuous Multi-Dimensional Processes",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Zhang et al., "ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction", CVPR, 2024.</em> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ExtDM_Distribution_Extrapolation_Diffusion_Model_for_Video_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://github.com/nku-zhichengzhang/ExtDM>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair">BAIR</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhang_ExtDM_2024_CVPR,
+    author = "Zhang, Zhicheng and Hu, Junyao and Cheng, Wentao and Paudel, Danda and Yang, Jufeng",
+    title = "ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Sun et al., "MOSO: Decomposing MOtion, Scene and Object for Video Prediction", CVPR, 2023.</em> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_MOSO_Decomposing_MOtion_Scene_and_Object_for_Video_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.03684.pdf>arxiv</a> <a href=https://github.com/iva-mzsun/MOSO>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -6190,6 +6488,39 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
+<summary><em>Zhang et al., "ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction", CVPR, 2024.</em> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ExtDM_Distribution_Extrapolation_Diffusion_Model_for_Video_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://github.com/nku-zhichengzhang/ExtDM>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair">BAIR</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhang_ExtDM_2024_CVPR,
+    author = "Zhang, Zhicheng and Hu, Junyao and Cheng, Wentao and Paudel, Danda and Yang, Jufeng",
+    title = "ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Hu et al., "A Dynamic Multi-Scale Voxel Flow Network for Video Prediction", CVPR, 2023.</em> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_A_Dynamic_Multi-Scale_Voxel_Flow_Network_for_Video_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.09875.pdf>arxiv</a> <a href=https://huxiaotaostasy.github.io/DMVFN/>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -6508,9 +6839,9 @@ A driving dataset of street images with annotations for 30 traffic objects in 5k
 <ul>
 <li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 <li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
-<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#rq">RQ</a></li>
 <li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#sq">SQ</a></li>
 <li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#pq">PQ</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#rq">RQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -7494,7 +7825,7 @@ A dataset of 2.3K+ video clips of 15 actions with the corresponding human joint 
 </details>
 
 </ul></details>
-<a name=bair></a>
+<a name=bair_push></a>
 <details close>
 <summary><l style="font-size:20px"><strong>BAIR Push</strong></l> <a href=https://sites.google.com/site/brainrobotdata/home/push-dataset>link</a> <a href=https://papers.nips.cc/paper/6161-unsupervised-learning-for-physical-interaction-through-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1605.07157.pdf>arxiv</a></summary> 
 <ul><li>
@@ -7508,6 +7839,69 @@ A dataset of object manipulation using a robot arm with 59k object pushing motio
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
+<summary><em>Shrivastava et al., "Video Prediction by Modeling Videos as Continuous Multi-Dimensional Processes", CVPR, 2024.</em> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Shrivastava_Video_Prediction_by_Modeling_Videos_as_Continuous_Multi-Dimensional_Processes_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair_push">BAIR Push</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Shrivastava_Video_2024_CVPR,
+    author = "Shrivastava, Gaurav and Shrivastava, Abhinav",
+    title = "Video Prediction by Modeling Videos as Continuous Multi-Dimensional Processes",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Zhang et al., "ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction", CVPR, 2024.</em> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ExtDM_Distribution_Extrapolation_Diffusion_Model_for_Video_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://github.com/nku-zhichengzhang/ExtDM>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bair">BAIR</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhang_ExtDM_2024_CVPR,
+    author = "Zhang, Zhicheng and Hu, Junyao and Cheng, Wentao and Paudel, Danda and Yang, Jufeng",
+    title = "ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><em>Davtyan et al., "Efficient Video Prediction via Sparsely Conditioned Flow Matching", ICCV, 2023.</em> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Davtyan_Efficient_Video_Prediction_via_Sparsely_Conditioned_Flow_Matching_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.14575.pdf>arxiv</a> <a href=https://araachie.github.io/river/>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -7938,8 +8332,8 @@ A dataset of 928 video clips of 21 actions with corresponding flow maps and pose
 <em>Metrics</em>
 <ul>
 <li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -8279,6 +8673,118 @@ A dataset of GPS data collected from 10K+ taxis in Beijing with a sampling rate 
     booktitle = "International Conference on Advances in Geographic Information Systems",
     pages = "99--108",
     year = "2010"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=yuv></a>
+<details close>
+<summary><l style="font-size:20px"><strong>YUV Videos</strong></l> <a href=http://trace.kom.aau.dk/yuv/index.html>link</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A collection of color video clips with different subjects and resolutions
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB</li>
+<li><em><strong>Task:</strong></em> Mix videos</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Ho et al., "Deep Video Prediction Through Sparse Motion Regularization", ICIP, 2020.</em> <a href=https://ieeexplore.ieee.org/document/9191154>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#yuv">YUV</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ho_2020_ICIP,
+    author = "Ho, Yung-Han and Chan, Chih-Chun and Peng, Wen-Hsiao",
+    booktitle = "ICIP",
+    title = "Deep Video Prediction Through Sparse Motion Regularization",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Ho et al., "SME-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#yuv">YUV</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ho_2019_ICCV,
+    author = "Ho, Yung-Han and Cho, Chuan-Yuan and Peng, Wen-Hsiao and Jin, Guo-Lun",
+    title = "{SME-Net}: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning",
+    booktitle = "ICCV",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Ho et al., "Deep Reinforcement Learning For Video Prediction", ICIP, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8803825>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#yuv">YUV</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ho_2019_ICIP,
+    author = "Ho, Y. and Cho, C. and Peng, W.",
+    booktitle = "ICIP",
+    title = "Deep Reinforcement Learning For Video Prediction",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@Misc{ASU_2009_YUV,
+    author = "Library, ASU Video Trace",
+    title = "{YUV} Video Sequences",
+    year = "2009",
+    howpublished = "http://trace.kom.aau.dk/yuv/index.html"
 }
 </pre>
 </details>
@@ -8628,83 +9134,29 @@ A large-scale dataset of 1M sports videos with 487 classes
 </details>
 
 </ul></details>
-<a name=yuv></a>
+<a name=shanghaitech_campus></a>
 <details close>
-<summary><l style="font-size:20px"><strong>YUV Videos</strong></l> <a href=http://trace.kom.aau.dk/yuv/index.html>link</a></summary> 
+<summary><l style="font-size:20px"><strong>ShanghaiTech Campus (STC)</strong></l> <a href=https://svip-lab.github.io/dataset/campus_dataset.html>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Future_Frame_Prediction_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1712.09867.pdf>arxiv</a></summary> 
 <ul><li>
 <em><strong>Summary:</strong></em> 
-A collection of color video clips with different subjects and resolutions
+An anomaly detection dataset with 300K+ frames surveillance footage with 130 abnormal events in 13 scenes
 </li>
 <li>
 <em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB</li>
-<li><em><strong>Task:</strong></em> Mix videos</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, anomaly</li>
+<li><em><strong>Task:</strong></em> Surveillance, Anomaly</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Ho et al., "Deep Video Prediction Through Sparse Motion Regularization", ICIP, 2020.</em> <a href=https://ieeexplore.ieee.org/document/9191154>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#yuv">YUV</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ho_2020_ICIP,
-    author = "Ho, Yung-Han and Chan, Chih-Chun and Peng, Wen-Hsiao",
-    booktitle = "ICIP",
-    title = "Deep Video Prediction Through Sparse Motion Regularization",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Ho et al., "SME-Net: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#yuv">YUV</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ho_2019_ICCV,
-    author = "Ho, Yung-Han and Cho, Chuan-Yuan and Peng, Wen-Hsiao and Jin, Guo-Lun",
-    title = "{SME-Net}: Sparse Motion Estimation For Parametric Video Prediction Through Reinforcement Learning",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Ho et al., "Deep Reinforcement Learning For Video Prediction", ICIP, 2019.</em> <a href=https://ieeexplore.ieee.org/document/8803825>paper</a></summary>
+<summary><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle GAN", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
 <li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
 <li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#yuv">YUV</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cuhk_avenue">CUHK Avenue</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -8715,11 +9167,39 @@ A collection of color video clips with different subjects and resolutions
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Ho_2019_ICIP,
-    author = "Ho, Y. and Cho, C. and Peng, W.",
-    booktitle = "ICIP",
-    title = "Deep Reinforcement Learning For Video Prediction",
+@InProceedings{Kwon_2019_CVPR,
+    author = "Kwon, Yong-Hoon and Park, Min-Gyu",
+    title = "Predicting Future Frames Using Retrospective Cycle {GAN}",
+    booktitle = "CVPR",
     year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Cao et al., "A New Comprehensive Benchmark for Semi-Supervised Video Anomaly Detection and Anticipation", CVPR, 2023.</em> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_A_New_Comprehensive_Benchmark_for_Semi-Supervised_Video_Anomaly_Detection_and_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2305.13611.pdf>arxiv</a> <a href=https://github.com/zugexiaodui/campus_vad_code>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cuhk_avenue">CUHK Avenue</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#stc">STC</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nwpu_campus">NWPU Campus</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#iitb-corridor">IITB-Corridor</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Cao_2023_CVPR,
+    author = "Cao, Congqi and Lu, Yue and Wang, Peng and Zhang, Yanning",
+    title = "A New Comprehensive Benchmark for Semi-Supervised Video Anomaly Detection and Anticipation",
+    booktitle = "CVPR",
+    year = "2023"
 }
 </pre>
 </details>
@@ -8730,11 +9210,11 @@ A collection of color video clips with different subjects and resolutions
 <details close>
 <summary><strong>Bibtex</strong></summary>
 <pre>
-@Misc{ASU_2009_YUV,
-    author = "Library, ASU Video Trace",
-    title = "{YUV} Video Sequences",
-    year = "2009",
-    howpublished = "http://trace.kom.aau.dk/yuv/index.html"
+@InProceedings{Liu_2018_CVPR,
+    author = "Liu, Wen and Luo, Weixin and Lian, Dongze and Gao, Shenghua",
+    title = "Future Frame Prediction For Anomaly Detection – A New Baseline",
+    booktitle = "CVPR",
+    year = "2018"
 }
 </pre>
 </details>
@@ -8820,171 +9300,6 @@ A dataset 150 sequences with the resolution of 720 x 480 depicting 10 sport acti
     title = "Action {MACH} a Spatio-temporal Maximum Average Correlation Height Filter for Action Recognition",
     booktitle = "CVPR",
     year = "2008"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=shapestack></a>
-<details close>
-<summary><l style="font-size:20px"><strong>ShapeStack</strong></l> <a href=https://shapestacks.robots.ox.ac.uk/>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.08522.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A simulated dataset of 20K stack configurations composed of a variety of elementary geometric primitives annotated with semantics and structural stability
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGBD, mask, stability</li>
-<li><em><strong>Task:</strong></em> Object (simulation)</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Schmeckpeper et al., "Object-centric Video Prediction without Annotation", ICRA, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9561541>paper</a> <a href=https://arxiv.org/pdf/2105.02799.pdf>arxiv</a> <a href=https://github.com/kschmeckpeper/opa>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#shapestack">ShapeStack</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Schmeckpeper_2021_ICRA,
-    author = "Schmeckpeper, Karl and Georgakis, Georgios and Daniilidis, Kostas",
-    booktitle = "ICRA",
-    title = "Object-centric Video Prediction without Annotation",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Ye et al., "Compositional Video Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.08522.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#shapestack">ShapeStack</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ye_2019_ICCV,
-    author = "Ye, Yufei and Singh, Maneesh and Gupta, Abhinav and Tulsiani, Shubham",
-    title = "Compositional Video Prediction",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Groth_2018_arxiv,
-    author = "Groth, Oliver and Fuchs, Fabian B and Posner, Ingmar and Vedaldi, Andrea",
-    title = "{ShapeStacks}: Learning Vision-Based Physical Intuition For Generalised Object Stacking",
-    booktitle = "ECCV",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=shanghaitech_campus></a>
-<details close>
-<summary><l style="font-size:20px"><strong>ShanghaiTech Campus (STC)</strong></l> <a href=https://svip-lab.github.io/dataset/campus_dataset.html>link</a> <a href=https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Future_Frame_Prediction_CVPR_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1712.09867.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-An anomaly detection dataset with 300K+ frames surveillance footage with 130 abnormal events in 13 scenes
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, anomaly</li>
-<li><em><strong>Task:</strong></em> Surveillance, Anomaly</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Kwon et al., "Predicting Future Frames Using Retrospective Cycle GAN", CVPR, 2019.</em> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cuhk_avenue">CUHK Avenue</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#shanghaitech_campus">ShanghaiTech Campus</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Kwon_2019_CVPR,
-    author = "Kwon, Yong-Hoon and Park, Min-Gyu",
-    title = "Predicting Future Frames Using Retrospective Cycle {GAN}",
-    booktitle = "CVPR",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><em>Cao et al., "A New Comprehensive Benchmark for Semi-Supervised Video Anomaly Detection and Anticipation", CVPR, 2023.</em> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_A_New_Comprehensive_Benchmark_for_Semi-Supervised_Video_Anomaly_Detection_and_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2305.13611.pdf>arxiv</a> <a href=https://github.com/zugexiaodui/campus_vad_code>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#cuhk_avenue">CUHK Avenue</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#stc">STC</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nwpu_campus">NWPU Campus</a></li>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#iitb-corridor">IITB-Corridor</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Cao_2023_CVPR,
-    author = "Cao, Congqi and Lu, Yue and Wang, Peng and Zhang, Yanning",
-    title = "A New Comprehensive Benchmark for Semi-Supervised Video Anomaly Detection and Anticipation",
-    booktitle = "CVPR",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Liu_2018_CVPR,
-    author = "Liu, Wen and Luo, Weixin and Lian, Dongze and Gao, Shenghua",
-    title = "Future Frame Prediction For Anomaly Detection – A New Baseline",
-    booktitle = "CVPR",
-    year = "2018"
 }
 </pre>
 </details>
@@ -9248,6 +9563,85 @@ A dataset of 648 hours of video with 100 videos per 200 different activity class
     title = "{ActivityNet}: A Large-Scale Video Benchmark for Human Activity Understanding",
     booktitle = "CVPR",
     year = "2015"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=shapestack></a>
+<details close>
+<summary><l style="font-size:20px"><strong>ShapeStack</strong></l> <a href=https://shapestacks.robots.ox.ac.uk/>link</a> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.08522.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A simulated dataset of 20K stack configurations composed of a variety of elementary geometric primitives annotated with semantics and structural stability
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGBD, mask, stability</li>
+<li><em><strong>Task:</strong></em> Object (simulation)</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Schmeckpeper et al., "Object-centric Video Prediction without Annotation", ICRA, 2021.</em> <a href=https://ieeexplore.ieee.org/abstract/document/9561541>paper</a> <a href=https://arxiv.org/pdf/2105.02799.pdf>arxiv</a> <a href=https://github.com/kschmeckpeper/opa>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#shapestack">ShapeStack</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Schmeckpeper_2021_ICRA,
+    author = "Schmeckpeper, Karl and Georgakis, Georgios and Daniilidis, Kostas",
+    booktitle = "ICRA",
+    title = "Object-centric Video Prediction without Annotation",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Ye et al., "Compositional Video Prediction", ICCV, 2019.</em> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1908.08522.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#shapestack">ShapeStack</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ye_2019_ICCV,
+    author = "Ye, Yufei and Singh, Maneesh and Gupta, Abhinav and Tulsiani, Shubham",
+    title = "Compositional Video Prediction",
+    booktitle = "ICCV",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Groth_2018_arxiv,
+    author = "Groth, Oliver and Fuchs, Fabian B and Posner, Ingmar and Vedaldi, Andrea",
+    title = "{ShapeStacks}: Learning Vision-Based Physical Intuition For Generalised Object Stacking",
+    booktitle = "ECCV",
+    year = "2018"
 }
 </pre>
 </details>
@@ -9564,6 +9958,178 @@ A dataset of 1000 videos of a human using different tools to push objects
 </details>
 
 </ul></details>
+<a name=calvin></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Composing Actions from Language and Vision (CALVIN)</strong></l> <a href=https://github.com/mees/calvin>link</a> <a href=https://ieeexplore.ieee.org/document/9788026>paper</a> <a href=https://arxiv.org/pdf/2112.03227.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of a simulated robotic arm manipulating basic objects.
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Depth, State</li>
+<li><em><strong>Task:</strong></em> Simulation</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Nematollahi et al., "T3VIP: Transformation-based $3\mathrmD$ Video Prediction", IROS, 2022.</em> <a href=https://ieeexplore.ieee.org/document/9981187>paper</a> <a href=https://arxiv.org/pdf/2209.11693.pdf>arxiv</a> <a href=https://github.com/nematoli/t3vip>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#omnipush">Omnipush</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#calvin">CALVIN</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_a-d_metrics.md#absrel">AbsRel</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Nematollahi_2022_IROS,
+    author = "Nematollahi, Iman and Rosete-Beas, Erick and Azad, Seyed Mahdi B. and Rajan, Raghu and Hutter, Frank and Burgard, Wolfram",
+    booktitle = "IROS",
+    title = "{T3VIP}: Transformation-based $3\mathrm{D}$ Video Prediction",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@Article{Mees_2022_RAL,
+    author = "Mees, Oier and Hermann, Lukas and Rosete-Beas, Erick and Burgard, Wolfram",
+    journal = "RAL",
+    title = "{CALVIN}: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks",
+    volume = "7",
+    number = "3",
+    pages = "7327-7334",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=prost></a>
+<details close>
+<summary><l style="font-size:20px"><strong>PROST</strong></l> <a href=https://www.gpu4vision.com>link</a> <a href=https://ieeexplore.ieee.org/document/5540145>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 4K+ frames for tracking objects in the presences of camera motion
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box</li>
+<li><em><strong>Task:</strong></em> Object</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Lu et al., "Flexible Spatio-Temporal Networks For Video Prediction", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lu_Flexible_Spatio-Temporal_Networks_CVPR_2017_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sports-1m">Sports-1M</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#visor">ViSOR</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#prost">PROST</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lu_2017_CVPR,
+    author = "Lu, Chaochao and Hirsch, Michael and Scholkopf, Bernhard",
+    title = "Flexible Spatio-Temporal Networks For Video Prediction",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Santner_2010_CVPR,
+    author = "Santner, Jakob and Leistner, Christian and Saffari, Amir and Pock, Thomas and Bischof, Horst",
+    title = "{PROST}: Parallel Robust Online Simple Tracking",
+    booktitle = "CVPR",
+    year = "2010"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=bouncing_ball></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Bouncing Ball (BB)</strong></l> <a href=https://github.com/mbchang/dynamics>link</a> <a href=https://openreview.net/pdf?id=Bkab5dqxe>paper</a> <a href=https://arxiv.org/pdf/1612.00341.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A simulated dataset of bounding balls generated using Neural Physics Engine
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB</li>
+<li><em><strong>Task:</strong></em> Object (simulation)</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018.</em> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.04166.pdf>arxiv</a> <a href=https://github.com/jthsieh/DDPAE-video-prediction>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bouncing_ball">Bouncing Ball</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_a-d_metrics.md#bce">BCE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Hsieh_2018_NeurIPS,
+    author = "Hsieh, Jun-Ting and Liu, Bingbin and Huang, De-An and Fei-Fei, Li F and Niebles, Juan Carlos",
+    title = "Learning To Decompose And Disentangle Representations For Video Prediction",
+    booktitle = "NeurIPS",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@Article{Chang_2016_arxiv,
+    author = "Chang, Michael B and Ullman, Tomer and Torralba, Antonio and Tenenbaum, Joshua B",
+    title = "A Compositional Object-Based Approach To Learning Physical Dynamics",
+    journal = "arXiv:1612.00341",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul></details>
 <a name=davis17></a>
 <details close>
 <summary><l style="font-size:20px"><strong>DAVIS17</strong></l> <a href=https://davischallenge.org/davis2017/code.html>link</a> <a href=https://arxiv.org/pdf/1704.00675.pdf>arxiv</a></summary> 
@@ -9617,61 +10183,6 @@ A dataset consisting of 150 video sequences with over 10K frames and 376 objects
     title = "The 2017 davis challenge on video object segmentation",
     journal = "arXiv:1704.00675",
     year = "2017"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=uva-nemo></a>
-<details close>
-<summary><l style="font-size:20px"><strong>UvA-NEMO</strong></l> <a href=https://www.uva-nemo.org/>link</a> <a href=https://link.springer.com/content/pdf/10.1007%2F978-3-642-33712-3_38.pdf>paper</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A large-scale dataset of smiles with 1240 video clips with both spontaneous and posed actions recorded at 50fps from 400 subjects with ages between 8 to 76 years
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB</li>
-<li><em><strong>Task:</strong></em> Face (smile)</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Kim et al., "Unsupervised Keypoint Learning For Guiding Class-Conditional Video Prediction", NeurIPS, 2019.</em> <a href=https://papers.nips.cc/paper/8637-unsupervised-keypoint-learning-for-guiding-class-conditional-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1910.02027.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#uva-nemo">UvA-NEMO</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mgif">MGIF</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Kim_2019_NeurIPS,
-    author = "Kim, Yunji and Nam, Seonghyeon and Cho, In and Kim, Seon Joo",
-    title = "Unsupervised Keypoint Learning For Guiding Class-Conditional Video Prediction",
-    booktitle = "NeurIPS",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Dibeklio_2012_ECCV,
-    author = "Dibeklio\uglu, Hamdi and Salah, Albert Ali and Gevers, Theo",
-    editor = "Fitzgibbon, Andrew and Lazebnik, Svetlana and Perona, Pietro and Sato, Yoichi and Schmid, Cordelia",
-    title = "Are You Really Smiling At Me? Spontaneous Versus Posed Enjoyment Smiles",
-    booktitle = "ECCV",
-    year = "2012"
 }
 </pre>
 </details>
@@ -9789,39 +10300,39 @@ A dataset of 100K driving sequences with annotations fo 10 traffic objects annot
 </details>
 
 </ul></details>
-<a name=bouncing_ball></a>
+<a name=mug></a>
 <details close>
-<summary><l style="font-size:20px"><strong>Bouncing Ball (BB)</strong></l> <a href=https://github.com/mbchang/dynamics>link</a> <a href=https://openreview.net/pdf?id=Bkab5dqxe>paper</a> <a href=https://arxiv.org/pdf/1612.00341.pdf>arxiv</a></summary> 
+<summary><l style="font-size:20px"><strong>MUG</strong></l> <a href=https://mug.ee.auth.gr/fed/>link</a> <a href=https://ieeexplore.ieee.org/document/5617662>paper</a></summary> 
 <ul><li>
 <em><strong>Summary:</strong></em> 
-A simulated dataset of bounding balls generated using Neural Physics Engine
+A dataset of 86 human subjects performing 6 types of basic expressions including anger, disgust, fear, happiness, sadness, and surprise recorded at 19fps for a total of 1462 sequences
 </li>
 <li>
 <em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB</li>
-<li><em><strong>Task:</strong></em> Object (simulation)</li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, keypoints, motion label</li>
+<li><em><strong>Task:</strong></em> Face (expression)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Hsieh et al., "Learning To Decompose And Disentangle Representations For Video Prediction", NeurIPS, 2018.</em> <a href=https://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1806.04166.pdf>arxiv</a> <a href=https://github.com/jthsieh/DDPAE-video-prediction>code</a></summary>
+<summary><em>Zhao et al., "Learning To Forecast And Refine Residual Motion For Image-To-Video Generation", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Long_Zhao_Learning_to_Forecast_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1807.09951.pdf>arxiv</a> <a href=https://github.com/garyzhao/FRGAN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bouncing_ball">Bouncing Ball</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mug">MUG</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
 <li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_a-d_metrics.md#bce">BCE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Hsieh_2018_NeurIPS,
-    author = "Hsieh, Jun-Ting and Liu, Bingbin and Huang, De-An and Fei-Fei, Li F and Niebles, Juan Carlos",
-    title = "Learning To Decompose And Disentangle Representations For Video Prediction",
-    booktitle = "NeurIPS",
+@InProceedings{Zhao_2018_ECCV,
+    author = "Zhao, Long and Peng, Xi and Tian, Yu and Kapadia, Mubbasir and Metaxas, Dimitris",
+    title = "Learning To Forecast And Refine Residual Motion For Image-To-Video Generation",
+    booktitle = "ECCV",
     year = "2018"
 }
 </pre>
@@ -9833,11 +10344,178 @@ A simulated dataset of bounding balls generated using Neural Physics Engine
 <details close>
 <summary><strong>Bibtex</strong></summary>
 <pre>
-@Article{Chang_2016_arxiv,
-    author = "Chang, Michael B and Ullman, Tomer and Torralba, Antonio and Tenenbaum, Joshua B",
-    title = "A Compositional Object-Based Approach To Learning Physical Dynamics",
-    journal = "arXiv:1612.00341",
+@Article{Aifanti_2010_WIAMIS,
+    author = "Aifanti, Niki and Papachristou, Christos and Delopoulos, Anastasios",
+    title = "The Mug Facial Expression Database",
+    journal = "WIAMIS",
+    year = "2010"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=youtube-8m></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Youtube-8M</strong></l> <a href=https://research.google.com/youtube8m/>link</a> <a href=https://arxiv.org/pdf/1609.08675.pdf>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A large-scale dataset of videos collected from YouTube with corresponding machine-generated annotations from a vocabulary of 3.8K+ visual entities
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, activity label, temporal segment</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Reda et al., "SDC-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1811.00684.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#youtube-8m">Youtube-8M</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#l1">L1</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Reda_2018_ECCV,
+    author = "Reda, Fitsum A. and Liu, Guilin and Shih, Kevin J. and Kirby, Robert and Barker, Jon and Tarjan, David and Tao, Andrew and Catanzaro, Bryan",
+    title = "{SDC-Net}: Video Prediction Using Spatially-Displaced Convolution",
+    booktitle = "ECCV",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@Article{Abu_2016_arxiv,
+    author = "Abu-El-Haija, Sami and Kothari, Nisarg and Lee, Joonseok and Natsev, Paul and Toderici, George and Varadarajan, Balakrishnan and Vijayanarasimhan, Sudheendra",
+    title = "{YouTube-8M}: A Large-Scale Video Classification Benchmark",
+    journal = "arXiv:1609.08675",
     year = "2016"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=weizmann></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Weizmann</strong></l> <a href=http://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/1544882>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of actions in RGB video sequence with corresponding binary masks and activity labels
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Activity label, Mask</li>
+<li><em><strong>Task:</strong></em> Activity</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Yao et al., "Unsupervised Transfer Learning for Spatiotemporal Predictive Networks", ICML, 2020.</em> <a href=http://proceedings.mlr.press/v119/yao20a/yao20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2009.11763.pdf>arxiv</a> <a href=https://github.com/thuml/transferable-memory>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#weizmann">Weizmann</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yao_2020_ICML,
+    author = "Yao, Zhiyu and Wang, Yunbo and Long, Mingsheng and Wang, Jianmin",
+    title = "Unsupervised Transfer Learning for Spatiotemporal Predictive Networks",
+    booktitle = "ICML",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Blank_2005_ICCV,
+    author = "Blank, Moshe and Gorelick, Lena and Shechtman, Eli and Irani, Michal and Basri, Ronen",
+    title = "Actions as Space-Time Shapes",
+    booktitle = "ICCV",
+    year = "2005"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=sjtu4k></a>
+<details close>
+<summary><l style="font-size:20px"><strong>SJTU4K</strong></l> <a href=https://qualinet.github.io/databases/video/sjtu_4k_video_sequence_dataset/>link</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset containing 15 new 4K resolution ultra-high definition (UHD) video sequences.
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB</li>
+<li><em><strong>Task:</strong></em> Action</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Chang et al., "STRPM: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction", CVPR, 2022.</em> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_STRPM_A_Spatiotemporal_Residual_Predictive_Model_for_High-Resolution_Video_Prediction_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.16084.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf_sports">UCF Sports</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sjtu4k">SJTU4K</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Chang_2022_CVPR,
+    author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Gao, Wen",
+    title = "{STRPM}: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction",
+    booktitle = "CVPR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@InProceedings{Song_2013_QoMEX,
+    author = "Song, Li and Tang, Xun and Zhang, Wei and Yang, Xiaokang and Xia, Pingjian",
+    title = "The {SJTU 4K} Video Sequence Dataset",
+    booktitle = "QoMEX",
+    year = "2013"
 }
 </pre>
 </details>
@@ -9902,263 +10580,40 @@ A repository of various surveillance footage of pedestrians in indoor and outdoo
 </details>
 
 </ul></details>
-<a name=youtube-8m></a>
+<a name=uva-nemo></a>
 <details close>
-<summary><l style="font-size:20px"><strong>Youtube-8M</strong></l> <a href=https://research.google.com/youtube8m/>link</a> <a href=https://arxiv.org/pdf/1609.08675.pdf>arxiv</a></summary> 
+<summary><l style="font-size:20px"><strong>UvA-NEMO</strong></l> <a href=https://www.uva-nemo.org/>link</a> <a href=https://link.springer.com/content/pdf/10.1007%2F978-3-642-33712-3_38.pdf>paper</a></summary> 
 <ul><li>
 <em><strong>Summary:</strong></em> 
-A large-scale dataset of videos collected from YouTube with corresponding machine-generated annotations from a vocabulary of 3.8K+ visual entities
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, activity label, temporal segment</li>
-<li><em><strong>Task:</strong></em> Activity</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Reda et al., "SDC-Net: Video Prediction Using Spatially-Displaced Convolution", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1811.00684.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#youtube-8m">Youtube-8M</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#l1">L1</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Reda_2018_ECCV,
-    author = "Reda, Fitsum A. and Liu, Guilin and Shih, Kevin J. and Kirby, Robert and Barker, Jon and Tarjan, David and Tao, Andrew and Catanzaro, Bryan",
-    title = "{SDC-Net}: Video Prediction Using Spatially-Displaced Convolution",
-    booktitle = "ECCV",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@Article{Abu_2016_arxiv,
-    author = "Abu-El-Haija, Sami and Kothari, Nisarg and Lee, Joonseok and Natsev, Paul and Toderici, George and Varadarajan, Balakrishnan and Vijayanarasimhan, Sudheendra",
-    title = "{YouTube-8M}: A Large-Scale Video Classification Benchmark",
-    journal = "arXiv:1609.08675",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=prost></a>
-<details close>
-<summary><l style="font-size:20px"><strong>PROST</strong></l> <a href=https://www.gpu4vision.com>link</a> <a href=https://ieeexplore.ieee.org/document/5540145>paper</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 4K+ frames for tracking objects in the presences of camera motion
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, bounding box</li>
-<li><em><strong>Task:</strong></em> Object</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Lu et al., "Flexible Spatio-Temporal Networks For Video Prediction", CVPR, 2017.</em> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Lu_Flexible_Spatio-Temporal_Networks_CVPR_2017_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sports-1m">Sports-1M</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#visor">ViSOR</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#prost">PROST</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Lu_2017_CVPR,
-    author = "Lu, Chaochao and Hirsch, Michael and Scholkopf, Bernhard",
-    title = "Flexible Spatio-Temporal Networks For Video Prediction",
-    booktitle = "CVPR",
-    year = "2017"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Santner_2010_CVPR,
-    author = "Santner, Jakob and Leistner, Christian and Saffari, Amir and Pock, Thomas and Bischof, Horst",
-    title = "{PROST}: Parallel Robust Online Simple Tracking",
-    booktitle = "CVPR",
-    year = "2010"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=weizmann></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Weizmann</strong></l> <a href=http://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/1544882>paper</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of actions in RGB video sequence with corresponding binary masks and activity labels
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, Activity label, Mask</li>
-<li><em><strong>Task:</strong></em> Activity</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Yao et al., "Unsupervised Transfer Learning for Spatiotemporal Predictive Networks", ICML, 2020.</em> <a href=http://proceedings.mlr.press/v119/yao20a/yao20a.pdf>paper</a> <a href=https://arxiv.org/pdf/2009.11763.pdf>arxiv</a> <a href=https://github.com/thuml/transferable-memory>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#weizmann">Weizmann</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Yao_2020_ICML,
-    author = "Yao, Zhiyu and Wang, Yunbo and Long, Mingsheng and Wang, Jianmin",
-    title = "Unsupervised Transfer Learning for Spatiotemporal Predictive Networks",
-    booktitle = "ICML",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Blank_2005_ICCV,
-    author = "Blank, Moshe and Gorelick, Lena and Shechtman, Eli and Irani, Michal and Basri, Ronen",
-    title = "Actions as Space-Time Shapes",
-    booktitle = "ICCV",
-    year = "2005"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=mug></a>
-<details close>
-<summary><l style="font-size:20px"><strong>MUG</strong></l> <a href=https://mug.ee.auth.gr/fed/>link</a> <a href=https://ieeexplore.ieee.org/document/5617662>paper</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 86 human subjects performing 6 types of basic expressions including anger, disgust, fear, happiness, sadness, and surprise recorded at 19fps for a total of 1462 sequences
-</li>
-<li>
-<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, keypoints, motion label</li>
-<li><em><strong>Task:</strong></em> Face (expression)</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong><em>Used in papers</em></strong></summary>
-<ul><details close>
-<summary><em>Zhao et al., "Learning To Forecast And Refine Residual Motion For Image-To-Video Generation", ECCV, 2018.</em> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Long_Zhao_Learning_to_Forecast_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1807.09951.pdf>arxiv</a> <a href=https://github.com/garyzhao/FRGAN>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mug">MUG</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#mse">MSE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zhao_2018_ECCV,
-    author = "Zhao, Long and Peng, Xi and Tian, Yu and Kapadia, Mubbasir and Metaxas, Dimitris",
-    title = "Learning To Forecast And Refine Residual Motion For Image-To-Video Generation",
-    booktitle = "ECCV",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul></details>
-<details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@Article{Aifanti_2010_WIAMIS,
-    author = "Aifanti, Niki and Papachristou, Christos and Delopoulos, Anastasios",
-    title = "The Mug Facial Expression Database",
-    journal = "WIAMIS",
-    year = "2010"
-}
-</pre>
-</details>
-
-</ul></details>
-<a name=sjtu4k></a>
-<details close>
-<summary><l style="font-size:20px"><strong>SJTU4K</strong></l> <a href=https://qualinet.github.io/databases/video/sjtu_4k_video_sequence_dataset/>link</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset containing 15 new 4K resolution ultra-high definition (UHD) video sequences.
+A large-scale dataset of smiles with 1240 video clips with both spontaneous and posed actions recorded at 50fps from 400 subjects with ages between 8 to 76 years
 </li>
 <li>
 <em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
 <li><em><strong>Data type and annotations:</strong></em> RGB</li>
-<li><em><strong>Task:</strong></em> Action</li>
+<li><em><strong>Task:</strong></em> Face (smile)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Chang et al., "STRPM: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction", CVPR, 2022.</em> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_STRPM_A_Spatiotemporal_Residual_Predictive_Model_for_High-Resolution_Video_Prediction_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.16084.pdf>arxiv</a></summary>
+<summary><em>Kim et al., "Unsupervised Keypoint Learning For Guiding Class-Conditional Video Prediction", NeurIPS, 2019.</em> <a href=https://papers.nips.cc/paper/8637-unsupervised-keypoint-learning-for-guiding-class-conditional-video-prediction.pdf>paper</a> <a href=https://arxiv.org/pdf/1910.02027.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf_sports">UCF Sports</a></li>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sjtu4k">SJTU4K</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#penn_action">Penn Action</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#uva-nemo">UvA-NEMO</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mgif">MGIF</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Chang_2022_CVPR,
-    author = "Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Gao, Wen",
-    title = "{STRPM}: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction",
-    booktitle = "CVPR",
-    year = "2022"
+@InProceedings{Kim_2019_NeurIPS,
+    author = "Kim, Yunji and Nam, Seonghyeon and Cho, In and Kim, Seon Joo",
+    title = "Unsupervised Keypoint Learning For Guiding Class-Conditional Video Prediction",
+    booktitle = "NeurIPS",
+    year = "2019"
 }
 </pre>
 </details>
@@ -10169,11 +10624,12 @@ A dataset containing 15 new 4K resolution ultra-high definition (UHD) video sequ
 <details close>
 <summary><strong>Bibtex</strong></summary>
 <pre>
-@InProceedings{Song_2013_QoMEX,
-    author = "Song, Li and Tang, Xun and Zhang, Wei and Yang, Xiaokang and Xia, Pingjian",
-    title = "The {SJTU 4K} Video Sequence Dataset",
-    booktitle = "QoMEX",
-    year = "2013"
+@InProceedings{Dibeklio_2012_ECCV,
+    author = "Dibeklio\uglu, Hamdi and Salah, Albert Ali and Gevers, Theo",
+    editor = "Fitzgibbon, Andrew and Lazebnik, Svetlana and Perona, Pietro and Sato, Yoichi and Schmid, Cordelia",
+    title = "Are You Really Smiling At Me? Spontaneous Versus Posed Enjoyment Smiles",
+    booktitle = "ECCV",
+    year = "2012"
 }
 </pre>
 </details>
@@ -10234,45 +10690,40 @@ A dataset 20 actions, such as high arm wave, horizontal arm wave, hammer, forwar
 </details>
 
 </ul></details>
-<a name=calvin></a>
+<a name=opendv-2k></a>
 <details close>
-<summary><l style="font-size:20px"><strong>Composing Actions from Language and Vision (CALVIN)</strong></l> <a href=https://github.com/mees/calvin>link</a> <a href=https://ieeexplore.ieee.org/document/9788026>paper</a> <a href=https://arxiv.org/pdf/2112.03227.pdf>arxiv</a></summary> 
+<summary><l style="font-size:20px"><strong>OpenDV-2K</strong></l> <a href=https://github.com/OpenDriveLab/DriveAGI>link</a> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Generalized_Predictive_Model_for_Autonomous_Driving_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.09630>arxiv</a></summary> 
 <ul><li>
 <em><strong>Summary:</strong></em> 
-A dataset of a simulated robotic arm manipulating basic objects.
+A dataset of 1700 hours of real driving videos
 </li>
 <li>
-<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, Depth, State</li>
-<li><em><strong>Task:</strong></em> Simulation</li>
+<em><strong>Applications:</strong></em> <a href=../../papers/video/video_papers.md#top>Video prediction<application></a>, <a href=../../papers/trajectory/trajectory_papers.md#top>Trajectory prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB</li>
+<li><em><strong>Task:</strong></em> Driving</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>
 <ul><details close>
-<summary><em>Nematollahi et al., "T3VIP: Transformation-based $3\mathrmD$ Video Prediction", IROS, 2022.</em> <a href=https://ieeexplore.ieee.org/document/9981187>paper</a> <a href=https://arxiv.org/pdf/2209.11693.pdf>arxiv</a> <a href=https://github.com/nematoli/t3vip>code</a></summary>
+<summary><em>Yang et al., "Generalized Predictive Model for Autonomous Driving", CVPR, 2024.</em> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Generalized_Predictive_Model_for_Autonomous_Driving_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.09630>arxiv</a> <a href=https://github.com/OpenDriveLab/DriveAGI>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#omnipush">Omnipush</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#calvin">CALVIN</a></li>
-<li>Custom</li>
-
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#opendv-2k">OpenDV-2K</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../metrics/video/video_alphabetical/video_a-d_metrics.md#absrel">AbsRel</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fid">FID</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_a-d_metrics.md#clipsim">CLIPSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Nematollahi_2022_IROS,
-    author = "Nematollahi, Iman and Rosete-Beas, Erick and Azad, Seyed Mahdi B. and Rajan, Raghu and Hutter, Frank and Burgard, Wolfram",
-    booktitle = "IROS",
-    title = "{T3VIP}: Transformation-based $3\mathrm{D}$ Video Prediction",
-    year = "2022"
+@InProceedings{Yang_Generalized_2024_CVPR,
+    author = "Yang, Jiazhi and Gao, Shenyuan and Qiu, Yihang and Chen, Li and Li, Tianyu and Dai, Bo and Chitta, Kashyap and Wu, Penghao and Zeng, Jia and Luo, Ping and Zhang, Jun and Geiger, Andreas and Qiao, Yu and Li, Hongyang",
+    title = "Generalized Predictive Model for Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
 }
 </pre>
 </details>
@@ -10283,14 +10734,11 @@ A dataset of a simulated robotic arm manipulating basic objects.
 <details close>
 <summary><strong>Bibtex</strong></summary>
 <pre>
-@Article{Mees_2022_RAL,
-    author = "Mees, Oier and Hermann, Lukas and Rosete-Beas, Erick and Burgard, Wolfram",
-    journal = "RAL",
-    title = "{CALVIN}: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks",
-    volume = "7",
-    number = "3",
-    pages = "7327-7334",
-    year = "2022"
+@InProceedings{Yang_Generalized_2024_CVPR,
+    author = "Yang, Jiazhi and Gao, Shenyuan and Qiu, Yihang and Chen, Li and Li, Tianyu and Dai, Bo and Chitta, Kashyap and Wu, Penghao and Zeng, Jia and Luo, Ping and Zhang, Jun and Geiger, Andreas and Qiao, Yu and Li, Hongyang",
+    title = "Generalized Predictive Model for Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
 }
 </pre>
 </details>

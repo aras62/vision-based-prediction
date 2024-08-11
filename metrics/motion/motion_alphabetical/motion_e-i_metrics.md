@@ -12,7 +12,7 @@ ___
 <h2>E-I <small>[rank]</small></h2> 
 <ul><a name=ed></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -129,6 +129,64 @@ ___
 <summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong><small> [2]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Yue et al., "Human Motion Prediction Under Unexpected Perturbation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_Human_Motion_Prediction_Under_Unexpected_Perturbation_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fzj_push">FZJ Push</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fse">FSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mble">MBLE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yue_Human_2024_CVPR,
+    author = "Yue, Jiangbei and Li, Baiyi and Pettr\'e, Julien and Seyfried, Armin and Wang, He",
+    title = "Human Motion Prediction Under Unexpected Perturbation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Jeong et al., "Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Jeong_Multi-agent_Long-term_3D_Human_Pose_Forecasting_via_Interaction-aware_Trajectory_Conditioning_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.05218>arxiv</a> <a href=https://github.com/Jaewoo97/T2P>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jrdb">JRDB</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#jpe">JPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ape">APE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Jeong_Multi_2024_CVPR,
+    author = "Jeong, Jaewoo and Park, Daehee and Yoon, Kuk-Jin",
+    title = "Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Peng et al., "Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Trajectory-Aware_Body_Interaction_Transformer_for_Multi-Person_Pose_Forecasting_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.05095.pdf>arxiv</a> <a href=https://github.com/xiaogangpeng/TBIFormer>code</a></summary>
 <ul>
@@ -631,7 +689,7 @@ ___
 
 </ul><ul><a name=fid></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Frechet Instance Distance (FID)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Frechet Instance Distance (FID)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -725,9 +783,46 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=fse></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Foot Skating Error (FSE) (FSE)</strong><small> [15]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Yue et al., "Human Motion Prediction Under Unexpected Perturbation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_Human_Motion_Prediction_Under_Unexpected_Perturbation_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fzj_push">FZJ Push</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fse">FSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mble">MBLE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yue_Human_2024_CVPR,
+    author = "Yue, Jiangbei and Li, Baiyi and Pettr\'e, Julien and Seyfried, Armin and Wang, He",
+    title = "Human Motion Prediction Under Unexpected Perturbation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=human></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -789,7 +884,7 @@ ___
 
 </ul><ul><a name=is></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>

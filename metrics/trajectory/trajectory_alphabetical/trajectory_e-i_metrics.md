@@ -1006,9 +1006,37 @@ ___
 
 </ul><ul><a name=epa></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>End-to-end Prediction Accuracy (EPA)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>End-to-end Prediction Accuracy (EPA)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Yang et al., "Visual Point Cloud Forecasting enables Scalable Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Visual_Point_Cloud_Forecasting_enables_Scalable_Autonomous_Driving_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2312.17655>arxiv</a> <a href=https://github.com/OpenDriveLab/ViDAR>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#epa">EPA</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yang_Visual_2024_CVPR,
+    author = "Yang, Zetong and Chen, Li and Sun, Yanan and Li, Hongyang",
+    title = "Visual Point Cloud Forecasting enables Scalable Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Gu et al., "ViP3D: End-to-End Visual Trajectory Prediction via 3D Agent Queries", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Gu_ViP3D_End-to-End_Visual_Trajectory_Prediction_via_3D_Agent_Queries_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2208.01582.pdf>arxiv</a> <a href=https://tsinghua-mars-lab.github.io/ViP3D/>code</a></summary>
 <ul>
@@ -1151,6 +1179,62 @@ ___
 <summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong><small> [4]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Lou et al., "Multimodal Sense-Informed Forecasting of 3D Human Motions", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Lou_Multimodal_Sense-Informed_Forecasting_of_3D_Human_Motions_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.02911>arxiv</a> <a href=https://github.com/kjle6/SIF3D-master>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gta-im">GTA-IM</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gimo">GIMO</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lou_Multimodal_2024_CVPR,
+    author = "Lou, Zhenyu and Cui, Qiongjie and Wang, Haofan and Tang, Xu and Zhou, Hong",
+    title = "Multimodal Sense-Informed Forecasting of 3D Human Motions",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Bae et al., "SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Bae_SingularTrajectory_Universal_Trajectory_Predictor_Using_Diffusion_Model_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.18452>arxiv</a> <a href=https://github.com/inhwanbae/SingularTrajectory>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Bae_SingularTrajectory_2024_CVPR,
+    author = "Bae, Inhwan and Park, Young-Jae and Jeon, Hae-Gon",
+    title = "SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Wang et al., "FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-Tail Trajectory Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_FEND_A_Future_Enhanced_Distribution-Aware_Contrastive_Learning_Framework_for_Long-Tail_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.16574.pdf>arxiv</a></summary>
 <ul>
@@ -4689,7 +4773,7 @@ ___
 
 </ul><ul><a name=fiou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final IoU (FIoU)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Final IoU (FIoU)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5344,9 +5428,34 @@ ___
 
 </ul><ul><a name=iou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Pasca et al., "Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Pasca_Summarize_the_Past_to_Predict_the_Future_Natural_Language_Descriptions_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2301.09209>arxiv</a> <a href=https://github.com/algvr/transfusion>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Pasca_Summarize_2024_CVPR,
+    author = "Pasca, Razvan-George and Gavryushin, Alexey and Hamza, Muhammad and Kuo, Yen-Ling and Mo, Kaichun and Van Gool, Luc and Hilliges, Otmar and Wang, Xi",
+    title = "Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Fang et al., "TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_TBP-Former_Learning_Temporal_Birds-Eye-View_Pyramid_for_Joint_Perception_and_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.09998.pdf>arxiv</a> <a href=https://github.com/MediaBrain-SJTU/TBP-Former>code</a></summary>
 <ul>

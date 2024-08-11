@@ -1,13 +1,401 @@
 <a name=top></a>
 ---
-<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Papers</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../datasets/datasets.md#top><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics/metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href=../../README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Papers</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../datasets.md#top><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=../../metrics.md#top><l style="font-size:30px">Metrics</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---
 [Home](../papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Video](../video/video_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](../action/action_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Trajectory](../trajectory/trajectory_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](../motion/motion_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](../other/other_papers.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Papers with code&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 [Video](video_code.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Action](action_code.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Trajectory&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Motion](motion_code.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other](other_code.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 <h2>Trajectory Papers with Code</h2> 
-<ul><a name=Chen_2023_CVPR/>
+<ul><a name=Bae_Can_2024_CVPR/>
+<details close>
+<summary><strong><em>Bae et al., "Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Bae_Can_Language_Beat_Numerical_Regression_Language-Based_Multimodal_Trajectory_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.18447>arxiv</a> <a href=https://github.com/InhwanBae/LMTrajectory>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Bae_Can_2024_CVPR,
+    author = "Bae, Inhwan and Lee, Junoh and Jeon, Hae-Gon",
+    title = "Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Lou_Multimodal_2024_CVPR/>
+<details close>
+<summary><strong><em>Lou et al., "Multimodal Sense-Informed Forecasting of 3D Human Motions", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Lou_Multimodal_Sense-Informed_Forecasting_of_3D_Human_Motions_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.02911>arxiv</a> <a href=https://github.com/kjle6/SIF3D-master>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#gta-im">GTA-IM</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#gimo">GIMO</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lou_Multimodal_2024_CVPR,
+    author = "Lou, Zhenyu and Cui, Qiongjie and Wang, Haofan and Tang, Xu and Zhou, Hong",
+    title = "Multimodal Sense-Informed Forecasting of 3D Human Motions",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Wang_Self_2024_CVPR/>
+<details close>
+<summary><strong><em>Wang et al., "Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Self-Supervised_Class-Agnostic_Motion_Prediction_with_Spatial_and_Temporal_Consistency_Regularizations_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.13261>arxiv</a> <a href=https://github.com/kwwcv/SelfMotion>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wang_Self_2024_CVPR,
+    author = "Wang, Kewei and Wu, Yizheng and Cen, Jun and Pan, Zhiyu and Li, Xingyi and Wang, Zhe and Cao, Zhiguo and Lin, Guosheng",
+    title = "Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Zhou_SmartRefine_2024_CVPR/>
+<details close>
+<summary><strong><em>Zhou et al., "SmartRefine: A Scenario-Adaptive Refinement Framework for Efficient Motion Prediction", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_SmartRefine_A_Scenario-Adaptive_Refinement_Framework_for_Efficient_Motion_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.11492>arxiv</a> <a href=https://github.com/opendilab/SmartRefine/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhou_SmartRefine_2024_CVPR,
+    author = "Zhou, Yang and Shao, Hao and Wang, Letian and Waslander, Steven L. and Li, Hongsheng and Liu, Yu",
+    title = "SmartRefine: A Scenario-Adaptive Refinement Framework for Efficient Motion Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Pasca_Summarize_2024_CVPR/>
+<details close>
+<summary><strong><em>Pasca et al., "Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Pasca_Summarize_the_Past_to_Predict_the_Future_Natural_Language_Descriptions_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2301.09209>arxiv</a> <a href=https://github.com/algvr/transfusion>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Pasca_Summarize_2024_CVPR,
+    author = "Pasca, Razvan-George and Gavryushin, Alexey and Hamza, Muhammad and Kuo, Yen-Ling and Mo, Kaichun and Van Gool, Luc and Hilliges, Otmar and Wang, Xi",
+    title = "Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Tang_HPNet_2024_CVPR/>
+<details close>
+<summary><strong><em>Tang et al., "HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_HPNet_Dynamic_Trajectory_Forecasting_with_Historical_Prediction_Attention_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.06351>arxiv</a> <a href=https://github.com/XiaolongTang23/HPNet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Tang_HPNet_2024_CVPR,
+    author = "Tang, Xiaolong and Kan, Meina and Shan, Shiguang and Ji, Zhilong and Bai, Jinfeng and Chen, Xilin",
+    title = "HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Yang_Generalized_2024_CVPR/>
+<details close>
+<summary><strong><em>Yang et al., "Generalized Predictive Model for Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Generalized_Predictive_Model_for_Autonomous_Driving_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.09630>arxiv</a> <a href=https://github.com/OpenDriveLab/DriveAGI>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#opendv-2k">OpenDV-2K</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yang_Generalized_2024_CVPR,
+    author = "Yang, Jiazhi and Gao, Shenyuan and Qiu, Yihang and Chen, Li and Li, Tianyu and Dai, Bo and Chitta, Kashyap and Wu, Penghao and Zeng, Jia and Luo, Ping and Zhang, Jun and Geiger, Andreas and Qiao, Yu and Li, Hongyang",
+    title = "Generalized Predictive Model for Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Park_T4P_2024_CVPR/>
+<details close>
+<summary><strong><em>Park et al., "T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Park_T4P_Test-Time_Training_of_Trajectory_Prediction_via_Masked_Autoencoder_and_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.10052>arxiv</a> <a href=https://github.com/daeheepark/T4P>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Park_T4P_2024_CVPR,
+    author = "Park, Daehee and Jeong, Jaeseok and Yoon, Sung-Hoon and Jeong, Jaewoo and Yoon, Kuk-Jin",
+    title = "T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Wong_SocialCircle_2024_CVPR/>
+<details close>
+<summary><strong><em>Wong et al., "SocialCircle: Learning the Angle-based Social Interaction Representation for Pedestrian Trajectory Prediction", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Wong_SocialCircle_Learning_the_Angle-based_Social_Interaction_Representation_for_Pedestrian_Trajectory_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2310.05370>arxiv</a> <a href=https://github.com/cocoon2wong/SocialCircle>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wong_SocialCircle_2024_CVPR,
+    author = "Wong, Conghao and Xia, Beihao and Zou, Ziqian and Wang, Yulong and You, Xinge",
+    title = "SocialCircle: Learning the Angle-based Social Interaction Representation for Pedestrian Trajectory Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Lu_Quantifying_2024_CVPR/>
+<details close>
+<summary><strong><em>Lu et al., "Quantifying Uncertainty in Motion Prediction with Variational Bayesian Mixture", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Quantifying_Uncertainty_in_Motion_Prediction_with_Variational_Bayesian_Mixture_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.03789>arxiv</a> <a href=https://github.com/PurdueDigitalTwin/seneva>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lu_Quantifying_2024_CVPR,
+    author = "Lu, Juanwu and Cui, Can and Ma, Yunsheng and Bera, Aniket and Wang, Ziran",
+    title = "Quantifying Uncertainty in Motion Prediction with Variational Bayesian Mixture",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Bae_SingularTrajectory_2024_CVPR/>
+<details close>
+<summary><strong><em>Bae et al., "SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Bae_SingularTrajectory_Universal_Trajectory_Predictor_Using_Diffusion_Model_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.18452>arxiv</a> <a href=https://github.com/inhwanbae/SingularTrajectory>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Bae_SingularTrajectory_2024_CVPR,
+    author = "Bae, Inhwan and Park, Young-Jae and Jeon, Hae-Gon",
+    title = "SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Gu_Producing_2024_CVPR/>
+<details close>
+<summary><strong><em>Gu et al., "Producing and Leveraging Online Map Uncertainty in Trajectory Prediction", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Gu_Producing_and_Leveraging_Online_Map_Uncertainty_in_Trajectory_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.16439>arxiv</a> <a href=https://github.com/alfredgu001324/MapUncertaintyPrediction>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Gu_Producing_2024_CVPR,
+    author = "Gu, Xunjiang and Song, Guanyu and Gilitschenski, Igor and Pavone, Marco and Ivanovic, Boris",
+    title = "Producing and Leveraging Online Map Uncertainty in Trajectory Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Yang_Visual_2024_CVPR/>
+<details close>
+<summary><strong><em>Yang et al., "Visual Point Cloud Forecasting enables Scalable Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Visual_Point_Cloud_Forecasting_enables_Scalable_Autonomous_Driving_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2312.17655>arxiv</a> <a href=https://github.com/OpenDriveLab/ViDAR>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#epa">EPA</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yang_Visual_2024_CVPR,
+    author = "Yang, Zetong and Chen, Li and Sun, Yanan and Li, Hongyang",
+    title = "Visual Point Cloud Forecasting enables Scalable Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Chen_2023_CVPR/>
 <details close>
 <summary><strong><em>Chen et al., "Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Unsupervised_Sampling_Promoting_for_Stochastic_Human_Trajectory_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2304.04298.pdf>arxiv</a> <a href=https://github.com/viewsetting/Unsupervised_sampling_promoting>code</a></summary>
 <ul>

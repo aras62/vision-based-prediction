@@ -16,14 +16,70 @@ ___
 </em></summary>
 <ul>
 <details close>
+<summary><strong><em>Guo et al., "Uncertainty-aware Action Decoupling Transformer for Action Anticipation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_Uncertainty-aware_Action_Decoupling_Transformer_for_Action_Anticipation_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Guo_Uncertainty_2024_CVPR,
+    author = "Guo, Hongji and Agarwal, Nakul and Lo, Shao-Yuan and Lee, Kwonjoon and Ji, Qiang",
+    title = "Uncertainty-aware Action Decoupling Transformer for Action Anticipation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Diller et al., "FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Diller_FutureHuman3D_Forecasting_Complex_Long-Term_3D_Human_Behavior_from_Video_Observations_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.14309>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ikea_asm">IKEA ASM</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#quality">Quality</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Diller_FutureHuman3D_2024_CVPR,
+    author = "Diller, Christian and Funkhouser, Thomas and Dai, Angela",
+    title = "FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Girase et al., "Latency Matters: Real-Time Action Forecasting Transformer", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Girase_Latency_Matters_Real-Time_Action_Forecasting_Transformer_CVPR_2023_paper.pdf>paper</a> <a href=https://karttikeya.github.io/publication/RAFTformer/>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 <li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -306,8 +362,8 @@ ___
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1772,8 +1828,8 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1833,8 +1889,8 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2412,14 +2468,69 @@ ___
 </em></summary>
 <ul>
 <details close>
+<summary><strong><em>Guo et al., "Uncertainty-aware Action Decoupling Transformer for Action Anticipation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_Uncertainty-aware_Action_Decoupling_Transformer_for_Action_Anticipation_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Guo_Uncertainty_2024_CVPR,
+    author = "Guo, Hongji and Agarwal, Nakul and Lo, Shao-Yuan and Lee, Kwonjoon and Ji, Qiang",
+    title = "Uncertainty-aware Action Decoupling Transformer for Action Anticipation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Mittal et al., "Can't Make an Omelette Without Breaking Some Eggs: Plausible Action Anticipation Using Large Video-Language Models", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Mittal_Cant_Make_an_Omelette_Without_Breaking_Some_Eggs_Plausible_Action_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.20305>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#ed">ED</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mittal_Cant_2024_CVPR,
+    author = "Mittal, Himangi and Agarwal, Nakul and Lo, Shao-Yuan and Lee, Kwonjoon",
+    title = "Can't Make an Omelette Without Breaking Some Eggs: Plausible Action Anticipation Using Large Video-Language Models",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Girase et al., "Latency Matters: Real-Time Action Forecasting Transformer", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Girase_Latency_Matters_Real-Time_Action_Forecasting_Transformer_CVPR_2023_paper.pdf>paper</a> <a href=https://karttikeya.github.io/publication/RAFTformer/>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 <li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2958,8 +3069,8 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3288,8 +3399,8 @@ ___
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3688,8 +3799,8 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4097,8 +4208,8 @@ ___
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4549,33 +4660,30 @@ ___
 </ul>
 </details>
 
-<a name=auc></a>
+<a name=map></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong></l>
+<summary><em><l style="font-size:20px"><strong>mean Average Precision (mAP)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Cao et al., "A New Comprehensive Benchmark for Semi-Supervised Video Anomaly Detection and Anticipation", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_A_New_Comprehensive_Benchmark_for_Semi-Supervised_Video_Anomaly_Detection_and_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2305.13611.pdf>arxiv</a> <a href=https://github.com/zugexiaodui/campus_vad_code>code</a></summary>
+<summary><strong><em>Pasca et al., "Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Pasca_Summarize_the_Past_to_Predict_the_Future_Natural_Language_Descriptions_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2301.09209>arxiv</a> <a href=https://github.com/algvr/transfusion>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cuhk_avenue">CUHK Avenue</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#stc">STC</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nwpu_campus">NWPU Campus</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#iitb-corridor">IITB-Corridor</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Cao_2023_CVPR,
-    author = "Cao, Congqi and Lu, Yue and Wang, Peng and Zhang, Yanning",
-    title = "A New Comprehensive Benchmark for Semi-Supervised Video Anomaly Detection and Anticipation",
+@InProceedings{Pasca_Summarize_2024_CVPR,
+    author = "Pasca, Razvan-George and Gavryushin, Alexey and Hamza, Muhammad and Kuo, Yen-Ling and Mo, Kaichun and Van Gool, Luc and Hilliges, Otmar and Wang, Xi",
+    title = "Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation",
     booktitle = "CVPR",
-    year = "2023"
+    year = "2024"
 }
 </pre>
 </details>
@@ -4583,68 +4691,11 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Rasouli et al., "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161318>paper</a> <a href=https://arxiv.org/pdf/2210.07886.pdf>arxiv</a></summary>
+<summary><strong><em>Mascaro et al., "HOI4ABOT: Human-Object Interaction Anticipation for Human Intention Reading Collaborative roBOTs", CoRL, 2023.</em></strong> <a href=https://openreview.net/pdf?id=rYZBdBytxBx>paper</a> <a href=https://arxiv.org/pdf/2309.16524.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rasouli_2023_ICRA,
-    author = "Rasouli, Amir and Kotseruba, Iuliia",
-    title = "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning",
-    booktitle = "ICRA",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Foo et al., "ERA: Expert Retrieval and Assembly for Early Action Prediction", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940657.pdf>paper</a> <a href=https://arxiv.org/pdf/2207.09675.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sysu_3dhoi">SYSU 3DHOI</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Foo_2022_ECCV,
-    author = "Foo, Lin Geng and Li, Tianjiao and Rahmani, Hossein and Ke, Qiuhong and Liu, Jun",
-    title = "{ERA}: Expert Retrieval and Assembly for Early Action Prediction",
-    booktitle = "ECCV",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Song et al., "Pedestrian Intention Prediction Based on Traffic-Aware Scene Graph Model", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9981690>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#vidhoi">VidHOI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4652,15 +4703,43 @@ ___
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Song_2022_IROS,
-    author = "Song, Xingchen and Kang, Miao and Zhou, Sanping and Wang, Jianji and Mao, Yishu and Zheng, Nanning",
-    booktitle = "IROS",
-    title = "Pedestrian Intention Prediction Based on Traffic-Aware Scene Graph Model",
+@InProceedings{Mascaro_2023_CoRL,
+    author = "Mascaro, Esteve Valls and Sliwowski, Daniel and Lee, Dongheui",
+    title = "HOI4ABOT: Human-Object Interaction Anticipation for Human Intention Reading Collaborative ro{BOT}s",
+    booktitle = "CoRL",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Nawhal et al., "Rethinking Learning Approaches for Long-Term Action Anticipation", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940547.pdf>paper</a> <a href=https://arxiv.org/pdf/2210.11566.pdf>arxiv</a> <a href=https://github.com/Nmegha2601/anticipatr>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Nawhal_2022_ECCV,
+    author = "Nawhal, Megha and Jyothi, Akash Abdu and Mori, Greg",
+    title = "Rethinking Learning Approaches for Long-Term Action Anticipation",
+    booktitle = "ECCV",
     year = "2022"
 }
 </pre>
@@ -4681,8 +4760,8 @@ ___
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4699,25 +4778,23 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Bao et al., "DRIVE: Deep Reinforced Accident Anticipation With Visual Explanation", ICCV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Bao_DRIVE_Deep_Reinforced_Accident_Anticipation_With_Visual_Explanation_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2107.10189.pdf>arxiv</a> <a href=https://github.com/Cogito2012/DRIVE>code</a></summary>
+<summary><strong><em>Chen et al., "Simultaneous Prediction of Pedestrian Trajectory and Actions based on Context Information Iterative Reasoning", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9636252>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#dada-2000">DADA-2000</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat/actev">VIRAT/ActEV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tta">TTA</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Bao_2021_ICCV,
-    author = "Bao, Wentao and Yu, Qi and Kong, Yu",
-    title = "{DRIVE}: Deep Reinforced Accident Anticipation With Visual Explanation",
-    booktitle = "ICCV",
+@InProceedings{Chen_2021_IROS,
+    author = "Chen, Bo and Li, Decai and He, Yuqing",
+    booktitle = "IROS",
+    title = "Simultaneous Prediction of Pedestrian Trajectory and Actions based on Context Information Iterative Reasoning",
     year = "2021"
 }
 </pre>
@@ -4726,138 +4803,25 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Rasouli et al., "Bifold and Semantic Reasoning for Pedestrian Behavior Prediction", ICCV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Rasouli_Bifold_and_Semantic_Reasoning_for_Pedestrian_Behavior_Prediction_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2012.03298.pdf>arxiv</a></summary>
+<summary><strong><em>Piergiovanni et al., "Adversarial Generative Grammars for Human Activity Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470494.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.04888.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Rasouli_2021_ICCV,
-    author = "Rasouli, Amir and Rohani, Mohsen and Luo, Jun",
-    title = "Bifold and Semantic Reasoning for Pedestrian Behavior Prediction",
-    booktitle = "ICCV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Yau et al., "Graph-SIM: A Graph-based Spatiotemporal Interaction Modelling for Pedestrian Action Prediction", ICRA, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9561107>paper</a> <a href=https://arxiv.org/pdf/2012.02148.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pepscenes">PepScenes</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Yau_2021_ICRA,
-    author = "Yau, Tiffany and Malekmohammadi, Saber and Rasouli, Amir and Lakner, Peter and Rohani, Mohsen and Luo, Jun",
-    booktitle = "ICRA",
-    title = "{Graph-SIM}: A Graph-based Spatiotemporal Interaction Modelling for Pedestrian Action Prediction",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Ke et al., "Future Moment Assessment for Action Query", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Ke_Future_Moment_Assessment_for_Action_Query_WACV_2021_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 <li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#charades">Charades</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Ke_2021_WACV,
-    author = "Ke, Qiuhong and Fritz, Mario and Schiele, Bernt",
-    title = "Future Moment Assessment for Action Query",
-    booktitle = "WACV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Kotseruba et al., "Benchmark for Evaluating Pedestrian Action Prediction", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Kotseruba_Benchmark_for_Evaluating_Pedestrian_Action_Prediction_WACV_2021_paper.pdf>paper</a> <a href=https://github.com/ykotseruba/PedestrianActionBenchmark>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Kotseruba_2021_WACV,
-    author = "Kotseruba, Iuliia and Rasouli, Amir and Tsotsos, John K.",
-    title = "Benchmark for Evaluating Pedestrian Action Prediction",
-    booktitle = "WACV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Li et al., "HARD-Net: Hardness-AwaRe Discrimination Network for 3D Early Activity Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560409.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ntu_rgb-d">NTU RGB-D</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fpha">FPHA</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Li_2020_ECCV,
-    author = "Li, Tianjiao and Liu, Jun and Zhang, Wei and Duan, Lingyu",
-    title = "{HARD-Net}: Hardness-AwaRe Discrimination Network for {3D} Early Activity Prediction",
+@InProceedings{Piergiovanni_2020_ECCV,
+    author = "Piergiovanni, AJ and Angelova, Anelia and Toshev, Alexander and Ryoo, Michael S",
+    title = "Adversarial Generative Grammars for Human Activity Prediction",
     booktitle = "ECCV",
     year = "2020"
 }
@@ -4867,11 +4831,66 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Rasouli et al., "Pedestrian Action Anticipation Using Contextual Feature Fusion In Stacked Rnns", BMVC, 2019.</em></strong> <a href=https://bmvc2019.org/wp-content/uploads/papers/0283-paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2005.06582.pdf>arxiv</a> <a href=https://github.com/aras62/SF-GRU>code</a></summary>
+<summary><strong><em>Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1902.03748.pdf>arxiv</a> <a href=https://github.com/google/next-prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat/actev">VIRAT/ActEV</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Liang_2019_CVPR,
+    author = "Liang, Junwei and Jiang, Lu and Niebles, Juan Carlos and Hauptmann, Alexander G. and Fei-Fei, Li",
+    title = "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Safaei et al., "Still Image Action Recognition By Predicting Spatial-Temporal Pixel Evolution", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8658386>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#willow_action">Willow Action</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wider">WIDER</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#stanford-40">Stanford-40</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#bu_action">BU Action</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Safaei_2019_WACV,
+    author = "Safaei, M. and Foroosh, H.",
+    booktitle = "WACV",
+    title = "Still Image Action Recognition By Predicting Spatial-Temporal Pixel Evolution",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Suzuki et al., "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db", CVPR, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0494.pdf>paper</a> <a href=https://arxiv.org/pdf/1804.02675.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4879,16 +4898,71 @@ ___
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#attc">ATTC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Rasouli_2019_BMVC,
-    author = "Rasouli, Amir and Kotseruba, Iuliia and Tsotsos, John K",
-    title = "Pedestrian Action Anticipation Using Contextual Feature Fusion In Stacked Rnns",
-    year = "2019",
-    booktitle = "BMVC"
+@InProceedings{Suzuki_2018_CVPR,
+    author = "Suzuki, Tomoyuki and Kataoka, Hirokatsu and Aoki, Yoshimitsu and Satoh, Yutaka",
+    title = "Anticipating Traffic Accidents With Adaptive Loss And Large-Scale Incident Db",
+    booktitle = "CVPR",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Casas et al., "IntentNet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018.</em></strong> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Casas_2018_CORL,
+    author = "Casas, Sergio and Luo, Wenjie and Urtasun, Raquel",
+    title = "{IntentNet}: Learning To Predict Intention From Raw Sensor Data",
+    booktitle = "CORL",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06560.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-fail">Epic-Fail</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tta">TTA</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zeng_2017_CVPR,
+    author = "Zeng, Kuo-Hao and Chou, Shih-Han and Chan, Fu-Hsiang and Carlos Niebles, Juan and Sun, Min",
+    title = "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization",
+    booktitle = "CVPR",
+    year = "2017"
 }
 </pre>
 </details>
@@ -4906,8 +4980,8 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -4924,27 +4998,52 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Hariyono et al., "Estimation Of Collision Risk For Improving Driver's Safety", IECON, 2016.</em></strong> <a href=https://ieeexplore.ieee.org/document/7793743>paper</a></summary>
+<summary><strong><em>Rasouli et al., "Are They Going To Cross? A Benchmark Dataset And Baseline For Pedestrian Crosswalk Behavior", ICCVW, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w3/Rasouli_Are_They_Going_ICCV_2017_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#caltech_pedestrian">Caltech Pedestrian</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth_pedestrian">ETH Pedestrian</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#daimler">Daimler</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Hariyono_2016_IES,
-    author = "Hariyono, Joko and Shahbaz, Ajmal and Kurnianggoro, Laksono and Jo, Kang-Hyun",
-    title = "Estimation Of Collision Risk For Improving Driver's Safety",
-    booktitle = "IECON",
-    year = "2016"
+@InProceedings{Rasouli_2017_ICCVW,
+    author = "Rasouli, Amir and Kotseruba, Iuliia and Tsotsos, John K.",
+    title = "Are They Going To Cross? A Benchmark Dataset And Baseline For Pedestrian Crosswalk Behavior",
+    booktitle = "ICCVW",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Gao et al., "RED: Reinforced Encoder-Decoder Networks For Action Anticipation", BMVC, 2017.</em></strong> <a href=http://www.bmva.org/bmvc/2017/papers/paper092/paper092.pdf>paper</a> <a href=https://arxiv.org/pdf/1707.04818.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#tv_human_interaction">TV Human Interaction</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#thumos">THUMOS</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#tv_series">TV Series</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#cap">cAP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Gao_2017_BMVC,
+    author = "Gao, Jiyang and Yang, Zhenheng and Nevatia, Ram",
+    title = "{RED}: Reinforced Encoder-Decoder Networks For Action Anticipation",
+    year = "2017",
+    booktitle = "BMVC"
 }
 </pre>
 </details>

@@ -12,7 +12,7 @@ ___
 <h2>E-I <small>[rank]</small></h2> 
 <ul><a name=ece></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -51,7 +51,7 @@ ___
 
 </ul><ul><a name=ed></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [6]</small></l>
+<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -165,7 +165,7 @@ ___
 
 </ul><ul><a name=emd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -231,6 +231,33 @@ ___
 <summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Dong et al., "MemFlow: Optical Flow Estimation and Prediction with Memory", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Dong_MemFlow_Optical_Flow_Estimation_and_Prediction_with_Memory_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.04808>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sintel">Sintel</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#flyingthings3d">FlyingThings3D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Dong_MemFlow_2024_CVPR,
+    author = "Dong, Qiaole and Fu, Yanwei",
+    title = "MemFlow: Optical Flow Estimation and Prediction with Memory",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Agro et al., "Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Agro_Implicit_Occupancy_Flow_Fields_for_Perception_and_Prediction_in_Self-Driving_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2308.01471.pdf>arxiv</a></summary>
 <ul>
@@ -644,8 +671,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
@@ -778,7 +805,7 @@ ___
 
 </ul><ul><a name=fpr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>False Positive Rate (FPR)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>False Positive Rate (FPR)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -814,7 +841,7 @@ ___
 
 </ul><ul><a name=fve></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Velocity Error (FVE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Final Velocity Error (FVE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -851,7 +878,7 @@ ___
 
 </ul><ul><a name=gce></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Global Consistency Error (GCE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Global Consistency Error (GCE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -887,7 +914,7 @@ ___
 
 </ul><ul><a name=gmgs></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Gandin-Murphy-Gerrity Score (GMGS)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Gandin-Murphy-Gerrity Score (GMGS)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -922,7 +949,7 @@ ___
 
 </ul><ul><a name=ims></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Image Similarity (ImS)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Image Similarity (ImS)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -957,9 +984,92 @@ ___
 
 </ul><ul><a name=iou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong><small> [2]</small></l>
+<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong><small> [1]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Yang et al., "Visual Point Cloud Forecasting enables Scalable Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Visual_Point_Cloud_Forecasting_enables_Scalable_Autonomous_Driving_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2312.17655>arxiv</a> <a href=https://github.com/OpenDriveLab/ViDAR>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yang_Visual_2024_CVPR,
+    author = "Yang, Zetong and Chen, Li and Sun, Yanan and Li, Hongyang",
+    title = "Visual Point Cloud Forecasting enables Scalable Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Shi et al., "StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_StreamingFlow_Streaming_Occupancy_Forecasting_with_Asynchronous_Multi-modal_Data_Streams_via_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2302.09585>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#sq">SQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#pq">PQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cq">CQ</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Shi_StreamingFlow_2024_CVPR,
+    author = "Shi, Yining and Jiang, Kun and Wang, Ke and Li, Jiusi and Wang, Yunlong and Yang, Mengmeng and Yang, Diange",
+    title = "StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Ma et al., "Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Cam4DOcc_Benchmark_for_Camera-Only_4D_Occupancy_Forecasting_in_Autonomous_Driving_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2311.17663>arxiv</a> <a href=https://github.com/haomo-ai/Cam4DOcc>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ma_Cam4DOcc_2024_CVPR,
+    author = "Ma, Junyi and Chen, Xieyuanli and Huang, Jiawei and Xu, Jingyi and Luo, Zhen and Xu, Jintao and Gu, Weihao and Ai, Rui and Wang, Hesheng",
+    title = "Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Liu et al., "Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160855>paper</a> <a href=https://arxiv.org/pdf/2208.00394.pdf>arxiv</a> <a href=: https://github.com/georgeliu233/STrajNet>code</a></summary>
 <ul>
@@ -1105,9 +1215,9 @@ ___
 <ul>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rq">RQ</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#sq">SQ</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#pq">PQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rq">RQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1215,8 +1325,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
@@ -1318,7 +1428,7 @@ ___
 
 </ul><ul><a name=is></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1352,7 +1462,7 @@ ___
 
 </ul><ul><a name=ism></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ISM</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>ISM</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>

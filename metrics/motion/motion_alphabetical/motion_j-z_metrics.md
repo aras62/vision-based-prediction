@@ -10,9 +10,46 @@ ___
 [A-D](motion_a-d_metrics.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[E-I](motion_e-i_metrics.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;J-Z&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 <h2>J-Z <small>[rank]</small></h2> 
-<ul><a name=kde></a>
+<ul><a name=jpe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Keypoint Displacement Error (KDE)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>JPE</strong><small> [15]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Jeong et al., "Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Jeong_Multi-agent_Long-term_3D_Human_Pose_Forecasting_via_Interaction-aware_Trajectory_Conditioning_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.05218>arxiv</a> <a href=https://github.com/Jaewoo97/T2P>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jrdb">JRDB</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#jpe">JPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ape">APE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Jeong_Multi_2024_CVPR,
+    author = "Jeong, Jaewoo and Park, Daehee and Yoon, Kuk-Jin",
+    title = "Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+</ul><ul><a name=kde></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Keypoint Displacement Error (KDE)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -50,7 +87,7 @@ ___
 
 </ul><ul><a name=kl></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KL</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>KL</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -87,7 +124,7 @@ ___
 
 </ul><ul><a name=kld></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -151,7 +188,7 @@ ___
 
 </ul><ul><a name=l2></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>L2</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>L2</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -188,7 +225,7 @@ ___
 
 </ul><ul><a name=lo></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Limb Orientation (LO)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Limb Orientation (LO)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -222,7 +259,7 @@ ___
 
 </ul><ul><a name=mae></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [5]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -505,7 +542,7 @@ ___
 
 </ul><ul><a name=mane></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean angular error (MAnE)</strong><small> [2]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean angular error (MAnE)</strong><small> [4]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -957,7 +994,7 @@ ___
 
 </ul><ul><a name=mape></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -993,9 +1030,46 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=mble></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mean Bone Length Error (MBLE)</strong><small> [15]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Yue et al., "Human Motion Prediction Under Unexpected Perturbation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_Human_Motion_Prediction_Under_Unexpected_Perturbation_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fzj_push">FZJ Push</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fse">FSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mble">MBLE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yue_Human_2024_CVPR,
+    author = "Yue, Jiangbei and Li, Baiyi and Pettr\'e, Julien and Seyfried, Armin and Wang, He",
+    title = "Human Motion Prediction Under Unexpected Perturbation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=minade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minADE</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>minADE</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1065,7 +1139,7 @@ ___
 
 </ul><ul><a name=minfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minFDE</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>minFDE</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1135,7 +1209,7 @@ ___
 
 </ul><ul><a name=mje></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Joint Error (MJE)</strong><small> [3]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Joint Error (MJE)</strong><small> [5]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1512,7 +1586,7 @@ ___
 
 </ul><ul><a name=mmade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Multi-Modal ADE (MMADE)</strong><small> [7]</small></l>
+<summary><em><l style="font-size:20px"><strong>Multi-Modal ADE (MMADE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1702,7 +1776,7 @@ ___
 
 </ul><ul><a name=mmfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Multi-Modal FDE (MMFDE)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Multi-Modal FDE (MMFDE)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1862,7 +1936,7 @@ ___
 
 </ul><ul><a name=mpble></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Per-Bone Length Error (MPBLE)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Per-Bone Length Error (MPBLE)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1902,6 +1976,141 @@ ___
 <summary><em><l style="font-size:20px"><strong>Mean Per Joint Prediction Error (MPJPE)</strong><small> [1]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Sun et al., "MoML: Online Meta Adaptation for 3D Human Motion Prediction", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_MoML_Online_Meta_Adaptation_for_3D_Human_Motion_Prediction_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Sun_MoML_2024_CVPR,
+    author = "Sun, Xiaoning and Sun, Huaijiang and Li, Bin and Wei, Dong and Li, Weiqing and Lu, Jianfeng",
+    title = "MoML: Online Meta Adaptation for 3D Human Motion Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Yue et al., "Human Motion Prediction Under Unexpected Perturbation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_Human_Motion_Prediction_Under_Unexpected_Perturbation_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fzj_push">FZJ Push</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fse">FSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mble">MBLE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yue_Human_2024_CVPR,
+    author = "Yue, Jiangbei and Li, Baiyi and Pettr\'e, Julien and Seyfried, Armin and Wang, He",
+    title = "Human Motion Prediction Under Unexpected Perturbation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Chen et al., "Rethinking Human Motion Prediction with Symplectic Integral", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Rethinking_Human_Motion_Prediction_with_Symplectic_Integral_CVPR_2024_paper.pdf>paper</a> <a href=https://github.com/adamlyu789/SINN>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Chen_Rethinking_2024_CVPR,
+    author = "Chen, Haipeng and Lyu, Kedi and Liu, Zhenguang and Yin, Yifang and Yang, Xun and Lyu, Yingda",
+    title = "Rethinking Human Motion Prediction with Symplectic Integral",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Yan et al., "Forecasting of 3D Whole-body Human Poses with Grasping Objects", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_Forecasting_of_3D_Whole-body_Human_Poses_with_Grasping_Objects_CVPR_2024_paper.pdf>paper</a> <a href=https://sites.google.com/view/c3host>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#grab">GRAB</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#behave">BEHAVE</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yan_Forecasting_2024_CVPR,
+    author = "Yan, Haitao and Cui, Qiongjie and Xie, Jiexin and Guo, Shijie",
+    title = "Forecasting of 3D Whole-body Human Poses with Grasping Objects",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Lou et al., "Multimodal Sense-Informed Forecasting of 3D Human Motions", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Lou_Multimodal_Sense-Informed_Forecasting_of_3D_Human_Motions_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.02911>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gta-im">GTA-IM</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gimo">GIMO</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lou_Multimodal_2024_CVPR,
+    author = "Lou, Zhenyu and Cui, Qiongjie and Wang, Haofan and Tang, Xu and Zhou, Hong",
+    title = "Multimodal Sense-Informed Forecasting of 3D Human Motions",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Gao et al., "Decompose More and Aggregate Better: Two Closer Looks at Frequency Representation Learning for Human Motion Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Decompose_More_and_Aggregate_Better_Two_Closer_Looks_at_Frequency_CVPR_2023_paper.pdf>paper</a></summary>
 <ul>
@@ -2694,8 +2903,8 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#prox">PROX</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gta-im">GTA-IM</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#prox">PROX</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2861,9 +3070,38 @@ ___
 
 </ul><ul><a name=mse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong><small> [7]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Yu et al., "Pose-Transformed Equivariant Network for 3D Point Trajectory Prediction", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Pose-Transformed_Equivariant_Network_for_3D_Point_Trajectory_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://github.com/yuruixuan/PTEvNet.>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#md17">MD17</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yu_Pose_2024_CVPR,
+    author = "Yu, Ruixuan and Sun, Jian",
+    title = "Pose-Transformed Equivariant Network for 3D Point Trajectory Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Mao et al., "Masked Motion Predictors are Strong 3D Action Representation Learners", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Mao_Masked_Motion_Predictors_are_Strong_3D_Action_Representation_Learners_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2308.07092.pdf>arxiv</a> <a href=https://github.com/maoyunyao/MAMP>code</a></summary>
 <ul>
@@ -3039,7 +3277,7 @@ ___
 
 </ul><ul><a name=nll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3077,7 +3315,7 @@ ___
 
 </ul><ul><a name=npss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Normalized Power Spectrum Similarity (NPSS)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Normalized Power Spectrum Similarity (NPSS)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3111,7 +3349,7 @@ ___
 
 </ul><ul><a name=nss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>NSS</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>NSS</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3149,7 +3387,7 @@ ___
 
 </ul><ul><a name=p-mpjpe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Procrustes aligned MPJPE (P-MPJPE)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Procrustes aligned MPJPE (P-MPJPE)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3186,7 +3424,7 @@ ___
 
 </ul><ul><a name=pck></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Percentage of Correct Keypoints (PCK)</strong><small> [6]</small></l>
+<summary><em><l style="font-size:20px"><strong>Percentage of Correct Keypoints (PCK)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3414,7 +3652,7 @@ ___
 
 </ul><ul><a name=pcp3d></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Percentage of Correct Parts (PCP3D)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Percentage of Correct Parts (PCP3D)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3451,7 +3689,7 @@ ___
 
 </ul><ul><a name=psent></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>PoSe Entropy (PSEnt)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>PoSe Entropy (PSEnt)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3487,7 +3725,7 @@ ___
 
 </ul><ul><a name=pskl></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>PoSe KL (PSKL)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>PoSe KL (PSKL)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3523,7 +3761,7 @@ ___
 
 </ul><ul><a name=r2></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>R2</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>R2</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3561,7 +3799,7 @@ ___
 
 </ul><ul><a name=re></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Reconstruction Error (RE)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Reconstruction Error (RE)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3598,7 +3836,7 @@ ___
 
 </ul><ul><a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3691,9 +3929,46 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=rt></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [15]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Yu et al., "Pose-Transformed Equivariant Network for 3D Point Trajectory Prediction", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Pose-Transformed_Equivariant_Network_for_3D_Point_Trajectory_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://github.com/yuruixuan/PTEvNet.>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#md17">MD17</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yu_Pose_2024_CVPR,
+    author = "Yu, Ruixuan and Sun, Jian",
+    title = "Pose-Transformed Equivariant Network for 3D Point Trajectory Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=run_time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3756,7 +4031,7 @@ ___
 
 </ul><ul><a name=s-mse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Sampling loss MSE (S-MSE)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Sampling loss MSE (S-MSE)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3793,7 +4068,7 @@ ___
 
 </ul><ul><a name=sde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>standard Deviation of displacement Error (sDE)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>standard Deviation of displacement Error (sDE)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3833,7 +4108,7 @@ ___
 
 </ul><ul><a name=si></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>SI</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>SI</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3870,7 +4145,7 @@ ___
 
 </ul><ul><a name=ssim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3908,7 +4183,7 @@ ___
 
 </ul><ul><a name=vim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>VIM</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>VIM</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>

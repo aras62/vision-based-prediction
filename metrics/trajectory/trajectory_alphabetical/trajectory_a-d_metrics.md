@@ -10,7 +10,45 @@ ___
 A-D&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[E-I](trajectory_e-i_metrics.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[J-Z](trajectory_j-z_metrics.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 <h2>A-D <small>[rank]</small></h2> 
-<ul><a name=accuracy></a>
+<ul><a name=absdelta></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>absDelta</strong><small> [19]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Pourkeshavarz et al., "CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Pourkeshavarz_CaDeT_a_Causal_Disentanglement_Approach_for_Robust_Trajectory_Prediction_in_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#absdelta">absDelta</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#prs">PRS</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Pourkeshavarz_CaDeT_2024_CVPR,
+    author = "Pourkeshavarz, Mozhgan and Zhang, Junrui and Rasouli, Amir",
+    title = "CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+</ul><ul><a name=accuracy></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Accuracy</strong><small> [16]</small></l>
 </em></summary>
@@ -126,6 +164,140 @@ ___
 <summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [3]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Lou et al., "Multimodal Sense-Informed Forecasting of 3D Human Motions", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Lou_Multimodal_Sense-Informed_Forecasting_of_3D_Human_Motions_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.02911>arxiv</a> <a href=https://github.com/kjle6/SIF3D-master>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gta-im">GTA-IM</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gimo">GIMO</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Lou_Multimodal_2024_CVPR,
+    author = "Lou, Zhenyu and Cui, Qiongjie and Wang, Haofan and Tang, Xu and Zhou, Hong",
+    title = "Multimodal Sense-Informed Forecasting of 3D Human Motions",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Wang et al., "Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Self-Supervised_Class-Agnostic_Motion_Prediction_with_Spatial_and_Temporal_Consistency_Regularizations_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.13261>arxiv</a> <a href=https://github.com/kwwcv/SelfMotion>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wang_Self_2024_CVPR,
+    author = "Wang, Kewei and Wu, Yizheng and Cen, Jun and Pan, Zhiyu and Li, Xingyi and Wang, Zhe and Cao, Zhiguo and Lin, Guosheng",
+    title = "Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Yang et al., "Generalized Predictive Model for Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Generalized_Predictive_Model_for_Autonomous_Driving_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.09630>arxiv</a> <a href=https://github.com/OpenDriveLab/DriveAGI>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#opendv-2k">OpenDV-2K</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yang_Generalized_2024_CVPR,
+    author = "Yang, Jiazhi and Gao, Shenyuan and Qiu, Yihang and Chen, Li and Li, Tianyu and Dai, Bo and Chitta, Kashyap and Wu, Penghao and Zeng, Jia and Luo, Ping and Zhang, Jun and Geiger, Andreas and Qiao, Yu and Li, Hongyang",
+    title = "Generalized Predictive Model for Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Zhang et al., "OOSTraj: Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_OOSTraj_Out-of-Sight_Trajectory_Prediction_With_Vision-Positioning_Denoising_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.02227>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jrdb">JRDB</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#vi-fi">Vi-Fi</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhang_OOSTraj_2024_CVPR,
+    author = "Zhang, Haichao and Xu, Yi and Lu, Hongsheng and Shimizu, Takayuki and Fu, Yun",
+    title = "OOSTraj: Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Bae et al., "SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Bae_SingularTrajectory_Universal_Trajectory_Predictor_Using_Diffusion_Model_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.18452>arxiv</a> <a href=https://github.com/inhwanbae/SingularTrajectory>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Bae_SingularTrajectory_2024_CVPR,
+    author = "Bae, Inhwan and Park, Young-Jae and Jeon, Hae-Gon",
+    title = "SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Wang et al., "FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-Tail Trajectory Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_FEND_A_Future_Enhanced_Distribution-Aware_Contrastive_Learning_Framework_for_Long-Tail_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.16574.pdf>arxiv</a></summary>
 <ul>
@@ -5067,9 +5239,40 @@ ___
 
 </ul><ul><a name=b-minfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>b-minFDE</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>brier-minFDE (b-minFDE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Tang et al., "HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_HPNet_Dynamic_Trajectory_Forecasting_with_Historical_Prediction_Attention_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.06351>arxiv</a> <a href=https://github.com/XiaolongTang23/HPNet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointfde">minJointFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minjointade">minJointADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Tang_HPNet_2024_CVPR,
+    author = "Tang, Xiaolong and Kan, Meina and Shan, Shiguang and Ji, Zhilong and Bai, Jinfeng and Chen, Xilin",
+    title = "HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Zhou et al., "Query-Centric Trajectory Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf>paper</a></summary>
 <ul>
@@ -5304,6 +5507,117 @@ ___
 
 </ul>
 </details>
+<details close>
+<summary><strong><em>Fan et al., "Look Before You Drive: Boosting Trajectory Forecasting via Imagining Future", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341509>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Fan_2023_IROS,
+    author = "Fan, Yixuan and Liu, Xin and Li, Yali and Wang, Shengjin",
+    booktitle = "IROS",
+    title = "Look Before You Drive: Boosting Trajectory Forecasting via Imagining Future",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Huang et al., "Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving", ICRA, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9812060>paper</a> <a href=https://arxiv.org/pdf/2109.06446.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Huang_2022_ICRA,
+    author = "Huang, Zhiyu and Mo, Xiaoyu and Lv, Chen",
+    booktitle = "ICRA",
+    title = "Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Strohbeck et al., "Deep Kernel Learning for Uncertainty Estimation in Multiple Trajectory Prediction Networks", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9982167>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Strohbeck_2022_IROS,
+    author = "Strohbeck, Jan and Muller, Johannes and Herrmann, Martin and Buchholz, Michael",
+    booktitle = "IROS",
+    title = "Deep Kernel Learning for Uncertainty Estimation in Multiple Trajectory Prediction Networks",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Zhang et al., "Trajectory Prediction with Graph-based Dual-scale Context Fusion", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9981923>paper</a> <a href=https://arxiv.org/pdf/2111.01592.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Zhang_2022_IROS,
+    author = "Zhang, Lu and Li, Peiliang and Chen, Jing and Shen, Shaojie",
+    booktitle = "IROS",
+    title = "Trajectory Prediction with Graph-based Dual-scale Context Fusion",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 </ul>
 </details>
 
@@ -5334,125 +5648,6 @@ ___
     title = "{STINet}: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction",
     booktitle = "CVPR",
     year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-</ul><ul><a name=bminfde></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>brier-minFDE (bminFDE)</strong><small> [16]</small></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Fan et al., "Look Before You Drive: Boosting Trajectory Forecasting via Imagining Future", IROS, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10341509>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@INPROCEEDINGS{Fan_2023_IROS,
-    author = "Fan, Yixuan and Liu, Xin and Li, Yali and Wang, Shengjin",
-    booktitle = "IROS",
-    title = "Look Before You Drive: Boosting Trajectory Forecasting via Imagining Future",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Huang et al., "Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving", ICRA, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9812060>paper</a> <a href=https://arxiv.org/pdf/2109.06446.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Huang_2022_ICRA,
-    author = "Huang, Zhiyu and Mo, Xiaoyu and Lv, Chen",
-    booktitle = "ICRA",
-    title = "Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Strohbeck et al., "Deep Kernel Learning for Uncertainty Estimation in Multiple Trajectory Prediction Networks", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9982167>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Strohbeck_2022_IROS,
-    author = "Strohbeck, Jan and Muller, Johannes and Herrmann, Martin and Buchholz, Michael",
-    booktitle = "IROS",
-    title = "Deep Kernel Learning for Uncertainty Estimation in Multiple Trajectory Prediction Networks",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Zhang et al., "Trajectory Prediction with Graph-based Dual-scale Context Fusion", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9981923>paper</a> <a href=https://arxiv.org/pdf/2111.01592.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#bminfde">bminFDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Zhang_2022_IROS,
-    author = "Zhang, Lu and Li, Peiliang and Chen, Jing and Shen, Shaojie",
-    booktitle = "IROS",
-    title = "Trajectory Prediction with Graph-based Dual-scale Context Fusion",
-    year = "2022"
 }
 </pre>
 </details>

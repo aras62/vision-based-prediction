@@ -85,6 +85,41 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=clipsim></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>CLIPSIM</strong><small> [9]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Yang et al., "Generalized Predictive Model for Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Generalized_Predictive_Model_for_Autonomous_Driving_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.09630>arxiv</a> <a href=https://github.com/OpenDriveLab/DriveAGI>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#opendv-2k">OpenDV-2K</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fid">FID</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_a-d_metrics.md#clipsim">CLIPSIM</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yang_Generalized_2024_CVPR,
+    author = "Yang, Jiazhi and Gao, Shenyuan and Qiu, Yihang and Chen, Li and Li, Tianyu and Dai, Bo and Chitta, Kashyap and Wu, Penghao and Zeng, Jia and Luo, Ping and Zhang, Jun and Geiger, Andreas and Qiao, Yu and Li, Hongyang",
+    title = "Generalized Predictive Model for Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=csi></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Critical Success Index (CSI)</strong><small> [9]</small></l>

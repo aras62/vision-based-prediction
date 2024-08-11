@@ -284,6 +284,101 @@ ___
 </ul>
 </details>
 
+<a name=rmse></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Du et al., "Unsupervised Pedestrian Pose Prediction: A Deep Predictive Coding Network-Based Approach for Autonomous Vehicle Perception", RAL, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/9042808>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pedx">PedX</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#rmse">RMSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Du_2020_RAL,
+    author = "Du, X. and Vasudevan, R. and Johnson-Roberson, M.",
+    journal = "RAL",
+    title = "Unsupervised Pedestrian Pose Prediction: A Deep Predictive Coding Network-Based Approach for Autonomous Vehicle Perception",
+    year = "2020",
+    volume = "27",
+    number = "2",
+    pages = "129-138"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Du et al., "Bio-LSTM: A Biomechanically Inspired Recurrent Neural Network for 3-D Pedestrian Pose and Gait Prediction", RAL, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8626436>paper</a> <a href=https://arxiv.org/pdf/1809.03705.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pedx">PedX</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#rmse">RMSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Du_2019_RAL,
+    author = "Du, X. and Vasudevan, R. and Johnson-Roberson, M.",
+    journal = "RAL",
+    title = "{Bio-LSTM}: A Biomechanically Inspired Recurrent Neural Network for 3-D Pedestrian Pose and Gait Prediction",
+    year = "2019",
+    volume = "4",
+    number = "2",
+    pages = "1501-1508"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Aykut et al., "Delay Compensation for a Telepresence System With 3D 360 Degree Vision Based on Deep Head Motion Prediction and Dynamic FoV Adaptation", RAL, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8429079>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#rmse">RMSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Aykut_2018_RAL,
+    author = "Aykut, T. and Karimi, M. and Burgmair, C. and Finkenzeller, A. and Bachhuber, C. and Steinbach, E.",
+    journal = "RAL",
+    title = "Delay Compensation for a Telepresence System With {3D} 360 Degree Vision Based on Deep Head Motion Prediction and Dynamic {FoV} Adaptation",
+    year = "2018",
+    volume = "3",
+    number = "4",
+    pages = "4343-4350"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=fid></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Frechet Instance Distance (FID)</strong></l>
@@ -380,71 +475,13 @@ ___
 </ul>
 </details>
 
-<a name=rmse></a>
+<a name=accuracy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Accuracy</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Du et al., "Unsupervised Pedestrian Pose Prediction: A Deep Predictive Coding Network-Based Approach for Autonomous Vehicle Perception", RAL, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/9042808>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pedx">PedX</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#rmse">RMSE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@Article{Du_2020_RAL,
-    author = "Du, X. and Vasudevan, R. and Johnson-Roberson, M.",
-    journal = "RAL",
-    title = "Unsupervised Pedestrian Pose Prediction: A Deep Predictive Coding Network-Based Approach for Autonomous Vehicle Perception",
-    year = "2020",
-    volume = "27",
-    number = "2",
-    pages = "129-138"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Du et al., "Bio-LSTM: A Biomechanically Inspired Recurrent Neural Network for 3-D Pedestrian Pose and Gait Prediction", RAL, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8626436>paper</a> <a href=https://arxiv.org/pdf/1809.03705.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pedx">PedX</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#rmse">RMSE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@Article{Du_2019_RAL,
-    author = "Du, X. and Vasudevan, R. and Johnson-Roberson, M.",
-    journal = "RAL",
-    title = "{Bio-LSTM}: A Biomechanically Inspired Recurrent Neural Network for 3-D Pedestrian Pose and Gait Prediction",
-    year = "2019",
-    volume = "4",
-    number = "2",
-    pages = "1501-1508"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Aykut et al., "Delay Compensation for a Telepresence System With 3D 360 Degree Vision Based on Deep Head Motion Prediction and Dynamic FoV Adaptation", RAL, 2018.</em></strong> <a href=https://ieeexplore.ieee.org/document/8429079>paper</a></summary>
+<summary><strong><em>Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968192>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -453,59 +490,16 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@Article{Aykut_2018_RAL,
-    author = "Aykut, T. and Karimi, M. and Burgmair, C. and Finkenzeller, A. and Bachhuber, C. and Steinbach, E.",
-    journal = "RAL",
-    title = "Delay Compensation for a Telepresence System With {3D} 360 Degree Vision Based on Deep Head Motion Prediction and Dynamic {FoV} Adaptation",
-    year = "2018",
-    volume = "3",
-    number = "4",
-    pages = "4343-4350"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=minade></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>minADE</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Ahn et al., "Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160722>paper</a> <a href=https://arxiv.org/pdf/2302.14503.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#humaneva-i">HumanEva-I</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#sde">sDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ahn_2023_ICRA,
-    author = "Ahn, Hyemin and Mascaro, Esteve Valls and Lee, Dongheui",
-    title = "Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?",
-    booktitle = "ICRA",
-    year = "2023"
+@InProceedings{Luo_2019_IROS,
+    author = "Luo, Ren C. and Mai, Lincong",
+    booktitle = "IROS",
+    title = "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration",
+    year = "2019"
 }
 </pre>
 </details>
@@ -513,29 +507,25 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Xu et al., "Diverse Human Motion Prediction Guided by Multi-level Spatial-Temporal Anchors", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820244.pdf>paper</a> <a href=https://github.com/Sirui-Xu/STARS>code</a></summary>
+<summary><strong><em>Fragkiadaki et al., "Recurrent Network Models For Human Dynamics", ICCV, 2015.</em></strong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Fragkiadaki_Recurrent_Network_Models_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1508.00271.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#humaneva-i">HumanEva-I</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mane">MAnE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#accuracy">Accuracy</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Xu_2022_ECCV_2,
-    author = "Xu, Sirui and Wang, Yu-Xiong and Gui, Liang-Yan",
-    title = "Diverse Human Motion Prediction Guided by Multi-level Spatial-Temporal Anchors",
-    booktitle = "ECCV",
-    year = "2022"
+@InProceedings{Fragkiadaki_2015_ICCV,
+    author = "Fragkiadaki, Katerina and Levine, Sergey and Felsen, Panna and Malik, Jitendra",
+    title = "Recurrent Network Models For Human Dynamics",
+    booktitle = "ICCV",
+    year = "2015"
 }
 </pre>
 </details>
@@ -615,128 +605,6 @@ ___
 </ul>
 </details>
 
-<a name=accuracy></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Accuracy</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Luo et al., "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8968192>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Luo_2019_IROS,
-    author = "Luo, Ren C. and Mai, Lincong",
-    booktitle = "IROS",
-    title = "Human Intention Inference And On-Line Human Hand Motion Prediction For Human-Robot Collaboration",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Fragkiadaki et al., "Recurrent Network Models For Human Dynamics", ICCV, 2015.</em></strong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Fragkiadaki_Recurrent_Network_Models_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1508.00271.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mane">MAnE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#accuracy">Accuracy</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Fragkiadaki_2015_ICCV,
-    author = "Fragkiadaki, Katerina and Levine, Sergey and Felsen, Panna and Malik, Jitendra",
-    title = "Recurrent Network Models For Human Dynamics",
-    booktitle = "ICCV",
-    year = "2015"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=human></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.05478.pdf>arxiv</a> <a href=https://github.com/magnux/MotionGAN>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mane">MAnE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#human">Human</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#pskl">PSKL</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#psent">PSEnt</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hernandez_2019_ICCV,
-    author = "Hernandez, Alejandro and Gall, Jurgen and Moreno-Noguer, Francesc",
-    title = "Human Motion Prediction Via Spatio-Temporal Inpainting",
-    booktitle = "ICCV",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Gui et al., "Adversarial Geometry-Aware Human Motion Prediction", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangyan_Gui_Adversarial_Geometry-Aware_Human_ECCV_2018_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mane">MAnE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#human">Human</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Gui_2018_ECCV_2,
-    author = "Gui, Liang-Yan and Wang, Yu-Xiong and Liang, Xiaodan and Moura, Jose M. F.",
-    title = "Adversarial Geometry-Aware Human Motion Prediction",
-    booktitle = "ECCV",
-    year = "2018"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=run_time></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Run Time</strong></l>
@@ -791,6 +659,76 @@ ___
     booktitle = "WACV",
     title = "Futurepose - Mixed Reality Martial Arts Training Using Real-Time 3D Human Pose Forecasting With A {RGB} Camera",
     year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=minade></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>minADE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Ahn et al., "Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160722>paper</a> <a href=https://arxiv.org/pdf/2302.14503.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#humaneva-i">HumanEva-I</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#sde">sDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Ahn_2023_ICRA,
+    author = "Ahn, Hyemin and Mascaro, Esteve Valls and Lee, Dongheui",
+    title = "Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?",
+    booktitle = "ICRA",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Xu et al., "Diverse Human Motion Prediction Guided by Multi-level Spatial-Temporal Anchors", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820244.pdf>paper</a> <a href=https://github.com/Sirui-Xu/STARS>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#humaneva-i">HumanEva-I</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#minade">minADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Xu_2022_ECCV_2,
+    author = "Xu, Sirui and Wang, Yu-Xiong and Gui, Liang-Yan",
+    title = "Diverse Human Motion Prediction Guided by Multi-level Spatial-Temporal Anchors",
+    booktitle = "ECCV",
+    year = "2022"
 }
 </pre>
 </details>
@@ -864,121 +802,9 @@ ___
 </ul>
 </details>
 
-<a name=l2></a>
+<a name=human></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>L2</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Lei et al., "An Intention Prediction Based Shared Control System for Point-to-point Navigation of a Robotic Wheelchair", RAL, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9817650>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#l2">L2</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@Article{Lei_2022_RAL,
-    author = "Lei, Zhen and Tan, Bang Yi and Garg, Neha P and Li, Lei and Sidarta, Ananda and Ang, Wei Tech",
-    journal = "RAL",
-    title = "An Intention Prediction Based Shared Control System for Point-to-point Navigation of a Robotic Wheelchair",
-    volume = "7",
-    number = "4",
-    pages = "8893--8900",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=si></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>SI</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Aliakbarian et al., "A Stochastic Conditioning Scheme for Diverse Human Motion Prediction", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Aliakbarian_A_Stochastic_Conditioning_Scheme_for_Diverse_Human_Motion_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://github.com/mix-and-match/mix-and-match-tutorial>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#kld">KLD</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#si">SI</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#kl">KL</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#s-mse">S-MSE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Aliakbarian_2020_CVPR,
-    author = "Aliakbarian, Sadegh and Saleh, Fatemeh Sadat and Salzmann, Mathieu and Petersson, Lars and Gould, Stephen",
-    title = "A Stochastic Conditioning Scheme for Diverse Human Motion Prediction",
-    booktitle = "CVPR",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=mape></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Peng et al., "Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Trajectory-Aware_Body_Interaction_Transformer_for_Multi-Person_Pose_Forecasting_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.05095.pdf>arxiv</a> <a href=https://github.com/xiaogangpeng/TBIFormer>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mupots-3d">MuPoTS-3D</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#umpm">UMPM</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mape">MAPE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Peng_2023_CVPR,
-    author = "Peng, Xiaogang and Mao, Siyuan and Wu, Zizhao",
-    title = "Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting",
-    booktitle = "CVPR",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=pskl></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>PoSe KL (PSKL)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong></l>
 </em></summary>
 <ul>
 <details close>
@@ -1003,6 +829,106 @@ ___
     title = "Human Motion Prediction Via Spatio-Temporal Inpainting",
     booktitle = "ICCV",
     year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Gui et al., "Adversarial Geometry-Aware Human Motion Prediction", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangyan_Gui_Adversarial_Geometry-Aware_Human_ECCV_2018_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mane">MAnE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#human">Human</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Gui_2018_ECCV_2,
+    author = "Gui, Liang-Yan and Wang, Yu-Xiong and Liang, Xiaodan and Moura, Jose M. F.",
+    title = "Adversarial Geometry-Aware Human Motion Prediction",
+    booktitle = "ECCV",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=jpe></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>JPE</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Jeong et al., "Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Jeong_Multi-agent_Long-term_3D_Human_Pose_Forecasting_via_Interaction-aware_Trajectory_Conditioning_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.05218>arxiv</a> <a href=https://github.com/Jaewoo97/T2P>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jrdb">JRDB</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#jpe">JPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ape">APE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Jeong_Multi_2024_CVPR,
+    author = "Jeong, Jaewoo and Park, Daehee and Yoon, Kuk-Jin",
+    title = "Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=mpble></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mean Per-Bone Length Error (MPBLE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Cui et al., "Test-time Personalizable Forecasting of 3D Human Poses", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_Test-time_Personalizable_Forecasting_of_3D_Human_Poses_ICCV_2023_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#grab">GRAB</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#pck">PCK</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpble">MPBLE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#p-mpjpe">P-MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Cui_2023_ICCV,
+    author = "Cui, Qiongjie and Sun, Huaijiang and Lu, Jianfeng and Li, Weiqing and Li, Bin and Yi, Hongwei and Wang, Haofan",
+    title = "Test-time Personalizable Forecasting of 3D Human Poses",
+    booktitle = "ICCV",
+    year = "2023"
 }
 </pre>
 </details>
@@ -1048,31 +974,34 @@ ___
 </ul>
 </details>
 
-<a name=lo></a>
+<a name=ape></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Limb Orientation (LO)</strong></l>
+<summary><em><l style="font-size:20px"><strong>APE</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.04158.pdf>arxiv</a></summary>
+<summary><strong><em>Jeong et al., "Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Jeong_Multi-agent_Long-term_3D_Human_Pose_Forecasting_via_Interaction-aware_Trajectory_Conditioning_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.05218>arxiv</a> <a href=https://github.com/Jaewoo97/T2P>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jrdb">JRDB</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mje">MJE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#lo">LO</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#jpe">JPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ape">APE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Joo_2019_CVPR,
-    author = "Joo, Hanbyul and Simon, Tomas and Cikara, Mina and Sheikh, Yaser",
-    title = "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction",
+@InProceedings{Jeong_Multi_2024_CVPR,
+    author = "Jeong, Jaewoo and Park, Daehee and Yoon, Kuk-Jin",
+    title = "Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning",
     booktitle = "CVPR",
-    year = "2019"
+    year = "2024"
 }
 </pre>
 </details>
@@ -1082,31 +1011,34 @@ ___
 </ul>
 </details>
 
-<a name=npss></a>
+<a name=fse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Normalized Power Spectrum Similarity (NPSS)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Foot Skating Error (FSE) (FSE)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Gopalakrishnan et al., "A Neural Temporal Model For Human Motion Prediction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1809.03036.pdf>arxiv</a> <a href=https://github.com/cr7anand/neural_temporal_models>code</a></summary>
+<summary><strong><em>Yue et al., "Human Motion Prediction Under Unexpected Perturbation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_Human_Motion_Prediction_Under_Unexpected_Perturbation_CVPR_2024_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fzj_push">FZJ Push</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mane">MAnE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#npss">NPSS</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fse">FSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mble">MBLE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Gopalakrishnan_2019_CVPR,
-    author = "Gopalakrishnan, Anand and Mali, Ankur and Kifer, Dan and Giles, Lee and Ororbia, Alexander G.",
-    title = "A Neural Temporal Model For Human Motion Prediction",
+@InProceedings{Yue_Human_2024_CVPR,
+    author = "Yue, Jiangbei and Li, Baiyi and Pettr\'e, Julien and Seyfried, Armin and Wang, He",
+    title = "Human Motion Prediction Under Unexpected Perturbation",
     booktitle = "CVPR",
-    year = "2019"
+    year = "2024"
 }
 </pre>
 </details>
@@ -1156,6 +1088,43 @@ ___
 </ul>
 </details>
 
+<a name=mble></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mean Bone Length Error (MBLE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Yue et al., "Human Motion Prediction Under Unexpected Perturbation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_Human_Motion_Prediction_Under_Unexpected_Perturbation_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fzj_push">FZJ Push</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fse">FSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mble">MBLE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yue_Human_2024_CVPR,
+    author = "Yue, Jiangbei and Li, Baiyi and Pettr\'e, Julien and Seyfried, Armin and Wang, He",
+    title = "Human Motion Prediction Under Unexpected Perturbation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 <a name=pcp3d></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Percentage of Correct Parts (PCP3D)</strong></l>
@@ -1193,32 +1162,33 @@ ___
 </ul>
 </details>
 
-<a name=cma></a>
+<a name=pskl></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cumulative Matching Accuracy (CMA)</strong></l>
+<summary><em><l style="font-size:20px"><strong>PoSe KL (PSKL)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Yuan et al., "3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction", IROS, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/9341671>paper</a> <a href=https://arxiv.org/pdf/2006.13906.pdf>arxiv</a></summary>
+<summary><strong><em>Hernandez et al., "Human Motion Prediction Via Spatio-Temporal Inpainting", ICCV, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.05478.pdf>arxiv</a> <a href=https://github.com/magnux/MotionGAN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#tosca">TOSCA</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#scape">SCAPE</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#dfaust">DFAUST</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#cma">CMA</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mane">MAnE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#human">Human</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#pskl">PSKL</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#psent">PSEnt</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Yuan_2020_IROS,
-    author = "Yuan, S. and Li, X. and Tzes, A. and Fang, Y.",
-    booktitle = "IROS",
-    title = "{3DMotion-Net}: Learning Continuous Flow Function for {3D} Motion Prediction",
-    year = "2020"
+@InProceedings{Hernandez_2019_ICCV,
+    author = "Hernandez, Alejandro and Gall, Jurgen and Moreno-Noguer, Francesc",
+    title = "Human Motion Prediction Via Spatio-Temporal Inpainting",
+    booktitle = "ICCV",
+    year = "2019"
 }
 </pre>
 </details>
@@ -1265,34 +1235,106 @@ ___
 </ul>
 </details>
 
-<a name=mpble></a>
+<a name=rt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Per-Bone Length Error (MPBLE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Cui et al., "Test-time Personalizable Forecasting of 3D Human Poses", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_Test-time_Personalizable_Forecasting_of_3D_Human_Poses_ICCV_2023_paper.pdf>paper</a></summary>
+<summary><strong><em>Yu et al., "Pose-Transformed Equivariant Network for 3D Point Trajectory Prediction", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Pose-Transformed_Equivariant_Network_for_3D_Point_Trajectory_Prediction_CVPR_2024_paper.pdf>paper</a> <a href=https://github.com/yuruixuan/PTEvNet.>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#grab">GRAB</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#md17">MD17</a></li>
+<li>Custom</li>
+
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#pck">PCK</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpble">MPBLE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#p-mpjpe">P-MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#rt">RT</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Cui_2023_ICCV,
-    author = "Cui, Qiongjie and Sun, Huaijiang and Lu, Jianfeng and Li, Weiqing and Li, Bin and Yi, Hongwei and Wang, Haofan",
-    title = "Test-time Personalizable Forecasting of 3D Human Poses",
-    booktitle = "ICCV",
+@InProceedings{Yu_Pose_2024_CVPR,
+    author = "Yu, Ruixuan and Sun, Jian",
+    title = "Pose-Transformed Equivariant Network for 3D Point Trajectory Prediction",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=mape></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Peng et al., "Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Trajectory-Aware_Body_Interaction_Transformer_for_Multi-Person_Pose_Forecasting_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.05095.pdf>arxiv</a> <a href=https://github.com/xiaogangpeng/TBIFormer>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mupots-3d">MuPoTS-3D</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#umpm">UMPM</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mape">MAPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Peng_2023_CVPR,
+    author = "Peng, Xiaogang and Mao, Siyuan and Wu, Zizhao",
+    title = "Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting",
+    booktitle = "CVPR",
     year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=npss></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Normalized Power Spectrum Similarity (NPSS)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Gopalakrishnan et al., "A Neural Temporal Model For Human Motion Prediction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1809.03036.pdf>arxiv</a> <a href=https://github.com/cr7anand/neural_temporal_models>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mane">MAnE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#npss">NPSS</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Gopalakrishnan_2019_CVPR,
+    author = "Gopalakrishnan, Anand and Mali, Ankur and Kifer, Dan and Giles, Lee and Ororbia, Alexander G.",
+    title = "A Neural Temporal Model For Human Motion Prediction",
+    booktitle = "CVPR",
+    year = "2019"
 }
 </pre>
 </details>
@@ -1364,6 +1406,78 @@ ___
     title = "Rethinking Learning Approaches for Long-Term Action Anticipation",
     booktitle = "ECCV",
     year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=cma></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Cumulative Matching Accuracy (CMA)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Yuan et al., "3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction", IROS, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/9341671>paper</a> <a href=https://arxiv.org/pdf/2006.13906.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#tosca">TOSCA</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#scape">SCAPE</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#dfaust">DFAUST</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#cma">CMA</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yuan_2020_IROS,
+    author = "Yuan, S. and Li, X. and Tzes, A. and Fang, Y.",
+    booktitle = "IROS",
+    title = "{3DMotion-Net}: Learning Continuous Flow Function for {3D} Motion Prediction",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=si></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>SI</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Aliakbarian et al., "A Stochastic Conditioning Scheme for Diverse Human Motion Prediction", CVPR, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2020/papers/Aliakbarian_A_Stochastic_Conditioning_Scheme_for_Diverse_Human_Motion_Prediction_CVPR_2020_paper.pdf>paper</a> <a href=https://github.com/mix-and-match/mix-and-match-tutorial>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#kld">KLD</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#si">SI</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#kl">KL</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#s-mse">S-MSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Aliakbarian_2020_CVPR,
+    author = "Aliakbarian, Sadegh and Saleh, Fatemeh Sadat and Salzmann, Mathieu and Petersson, Lars and Gould, Stephen",
+    title = "A Stochastic Conditioning Scheme for Diverse Human Motion Prediction",
+    booktitle = "CVPR",
+    year = "2020"
 }
 </pre>
 </details>
@@ -1447,37 +1561,144 @@ ___
 </ul>
 </details>
 
-<a name=sde></a>
+<a name=lo></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>standard Deviation of displacement Error (sDE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Limb Orientation (LO)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Ahn et al., "Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160722>paper</a> <a href=https://arxiv.org/pdf/2302.14503.pdf>arxiv</a></summary>
+<summary><strong><em>Joo et al., "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1906.04158.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#humaneva-i">HumanEva-I</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_panoptic">CMU Panoptic</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mje">MJE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#lo">LO</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Joo_2019_CVPR,
+    author = "Joo, Hanbyul and Simon, Tomas and Cikara, Mina and Sheikh, Yaser",
+    title = "Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction In A Triadic Interaction",
+    booktitle = "CVPR",
+    year = "2019"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=r2></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>R2</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Wang et al., "Prediction of Whole-Body Velocity and Direction From Local Leg Joint Movements in Insect Walking via LSTM Neural Networks", RAL, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9832735>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#r2">R2</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Wang_2022_RAL,
+    author = "Wang, Yuchen and Hayashibe, Mitsuhiro and Owaki, Dai",
+    journal = "RAL",
+    title = "Prediction of Whole-Body Velocity and Direction From Local Leg Joint Movements in Insect Walking via {LSTM} Neural Networks",
+    volume = "7",
+    number = "4",
+    pages = "9389--9396",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=l2></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>L2</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Lei et al., "An Intention Prediction Based Shared Control System for Point-to-point Navigation of a Robotic Wheelchair", RAL, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9817650>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#l2">L2</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Lei_2022_RAL,
+    author = "Lei, Zhen and Tan, Bang Yi and Garg, Neha P and Li, Lei and Sidarta, Ananda and Ang, Wei Tech",
+    journal = "RAL",
+    title = "An Intention Prediction Based Shared Control System for Point-to-point Navigation of a Robotic Wheelchair",
+    volume = "7",
+    number = "4",
+    pages = "8893--8900",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=auc></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Liu et al., "Joint Hand Motion and Interaction Hotspots Prediction From Egocentric Videos", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Joint_Hand_Motion_and_Interaction_Hotspots_Prediction_From_Egocentric_Videos_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2204.01696.pdf>arxiv</a> <a href=https://stevenlsw.github.io/hoi-forecast/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
 <li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#minfde">minFDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#sde">sDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#nss">NSS</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#ssim">SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Ahn_2023_ICRA,
-    author = "Ahn, Hyemin and Mascaro, Esteve Valls and Lee, Dongheui",
-    title = "Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?",
-    booktitle = "ICRA",
-    year = "2023"
+@InProceedings{Liu_2022_CVPR_3,
+    author = "Liu, Shaowei and Tripathi, Subarna and Majumdar, Somdeb and Wang, Xiaolong",
+    title = "Joint Hand Motion and Interaction Hotspots Prediction From Egocentric Videos",
+    booktitle = "CVPR",
+    year = "2022"
 }
 </pre>
 </details>
@@ -1521,30 +1742,33 @@ ___
 </ul>
 </details>
 
-<a name=is></a>
+<a name=nss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong></l>
+<summary><em><l style="font-size:20px"><strong>NSS</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Diller et al., "Forecasting Characteristic 3D Poses of Human Actions", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Diller_Forecasting_Characteristic_3D_Poses_of_Human_Actions_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2011.15079.pdf>arxiv</a> <a href=https://github.com/chrdiller/characteristic3dposes>code</a></summary>
+<summary><strong><em>Liu et al., "Joint Hand Motion and Interaction Hotspots Prediction From Egocentric Videos", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Joint_Hand_Motion_and_Interaction_Hotspots_Prediction_From_Egocentric_Videos_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2204.01696.pdf>arxiv</a> <a href=https://stevenlsw.github.io/hoi-forecast/>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#grab">GRAB</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#is">IS</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#nss">NSS</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#ssim">SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Diller_2022_CVPR,
-    author = "Diller, Christian and Funkhouser, Thomas and Dai, Angela",
-    title = "Forecasting Characteristic {3D} Poses of Human Actions",
+@InProceedings{Liu_2022_CVPR_3,
+    author = "Liu, Shaowei and Tripathi, Subarna and Majumdar, Somdeb and Wang, Xiaolong",
+    title = "Joint Hand Motion and Interaction Hotspots Prediction From Egocentric Videos",
     booktitle = "CVPR",
     year = "2022"
 }
@@ -1556,34 +1780,110 @@ ___
 </ul>
 </details>
 
-<a name=r2></a>
+<a name=ssim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>R2</strong></l>
+<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Wang et al., "Prediction of Whole-Body Velocity and Direction From Local Leg Joint Movements in Insect Walking via LSTM Neural Networks", RAL, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9832735>paper</a></summary>
+<summary><strong><em>Liu et al., "Joint Hand Motion and Interaction Hotspots Prediction From Egocentric Videos", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Joint_Hand_Motion_and_Interaction_Hotspots_Prediction_From_Egocentric_Videos_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2204.01696.pdf>arxiv</a> <a href=https://stevenlsw.github.io/hoi-forecast/>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li>Custom</li>
-
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mae">MAE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#r2">R2</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#nss">NSS</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#ssim">SSIM</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@Article{Wang_2022_RAL,
-    author = "Wang, Yuchen and Hayashibe, Mitsuhiro and Owaki, Dai",
-    journal = "RAL",
-    title = "Prediction of Whole-Body Velocity and Direction From Local Leg Joint Movements in Insect Walking via {LSTM} Neural Networks",
-    volume = "7",
-    number = "4",
-    pages = "9389--9396",
+@InProceedings{Liu_2022_CVPR_3,
+    author = "Liu, Shaowei and Tripathi, Subarna and Majumdar, Somdeb and Wang, Xiaolong",
+    title = "Joint Hand Motion and Interaction Hotspots Prediction From Egocentric Videos",
+    booktitle = "CVPR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=nll></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Salzmann et al., "Motron: Multimodal Probabilistic Human Motion Forecasting", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Salzmann_Motron_Multimodal_Probabilistic_Human_Motion_Forecasting_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.04132.pdf>arxiv</a> <a href=https://github.com/TUM-AAS/motron-cvpr22>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#amass">AMASS</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#kde">KDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Salzmann_2022_CVPR,
+    author = "Salzmann, Tim and Pavone, Marco and Ryll, Markus",
+    title = "Motron: Multimodal Probabilistic Human Motion Forecasting",
+    booktitle = "CVPR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=kde></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Keypoint Displacement Error (KDE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Salzmann et al., "Motron: Multimodal Probabilistic Human Motion Forecasting", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Salzmann_Motron_Multimodal_Probabilistic_Human_Motion_Forecasting_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.04132.pdf>arxiv</a> <a href=https://github.com/TUM-AAS/motron-cvpr22>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#amass">AMASS</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#kde">KDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Salzmann_2022_CVPR,
+    author = "Salzmann, Tim and Pavone, Marco and Ryll, Markus",
+    title = "Motron: Multimodal Probabilistic Human Motion Forecasting",
+    booktitle = "CVPR",
     year = "2022"
 }
 </pre>
@@ -1668,187 +1968,72 @@ ___
 </ul>
 </details>
 
-<a name=nll></a>
+<a name=is></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Salzmann et al., "Motron: Multimodal Probabilistic Human Motion Forecasting", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Salzmann_Motron_Multimodal_Probabilistic_Human_Motion_Forecasting_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.04132.pdf>arxiv</a> <a href=https://github.com/TUM-AAS/motron-cvpr22>code</a></summary>
+<summary><strong><em>Diller et al., "Forecasting Characteristic 3D Poses of Human Actions", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Diller_Forecasting_Characteristic_3D_Poses_of_Human_Actions_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2011.15079.pdf>arxiv</a> <a href=https://github.com/chrdiller/characteristic3dposes>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#amass">AMASS</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#grab">GRAB</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#is">IS</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Diller_2022_CVPR,
+    author = "Diller, Christian and Funkhouser, Thomas and Dai, Angela",
+    title = "Forecasting Characteristic {3D} Poses of Human Actions",
+    booktitle = "CVPR",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=sde></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>standard Deviation of displacement Error (sDE)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Ahn et al., "Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160722>paper</a> <a href=https://arxiv.org/pdf/2302.14503.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#humaneva-i">HumanEva-I</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
 <li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
 <li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#kde">KDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#sde">sDE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Salzmann_2022_CVPR,
-    author = "Salzmann, Tim and Pavone, Marco and Ryll, Markus",
-    title = "Motron: Multimodal Probabilistic Human Motion Forecasting",
-    booktitle = "CVPR",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=ssim></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Liu et al., "Joint Hand Motion and Interaction Hotspots Prediction From Egocentric Videos", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Joint_Hand_Motion_and_Interaction_Hotspots_Prediction_From_Egocentric_Videos_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2204.01696.pdf>arxiv</a> <a href=https://stevenlsw.github.io/hoi-forecast/>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#nss">NSS</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#ssim">SSIM</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Liu_2022_CVPR_3,
-    author = "Liu, Shaowei and Tripathi, Subarna and Majumdar, Somdeb and Wang, Xiaolong",
-    title = "Joint Hand Motion and Interaction Hotspots Prediction From Egocentric Videos",
-    booktitle = "CVPR",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=nss></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>NSS</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Liu et al., "Joint Hand Motion and Interaction Hotspots Prediction From Egocentric Videos", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Joint_Hand_Motion_and_Interaction_Hotspots_Prediction_From_Egocentric_Videos_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2204.01696.pdf>arxiv</a> <a href=https://stevenlsw.github.io/hoi-forecast/>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#nss">NSS</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#ssim">SSIM</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Liu_2022_CVPR_3,
-    author = "Liu, Shaowei and Tripathi, Subarna and Majumdar, Somdeb and Wang, Xiaolong",
-    title = "Joint Hand Motion and Interaction Hotspots Prediction From Egocentric Videos",
-    booktitle = "CVPR",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=auc></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Liu et al., "Joint Hand Motion and Interaction Hotspots Prediction From Egocentric Videos", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Joint_Hand_Motion_and_Interaction_Hotspots_Prediction_From_Egocentric_Videos_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2204.01696.pdf>arxiv</a> <a href=https://stevenlsw.github.io/hoi-forecast/>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#nss">NSS</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#ssim">SSIM</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Liu_2022_CVPR_3,
-    author = "Liu, Shaowei and Tripathi, Subarna and Majumdar, Somdeb and Wang, Xiaolong",
-    title = "Joint Hand Motion and Interaction Hotspots Prediction From Egocentric Videos",
-    booktitle = "CVPR",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=kde></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Keypoint Displacement Error (KDE)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Salzmann et al., "Motron: Multimodal Probabilistic Human Motion Forecasting", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Salzmann_Motron_Multimodal_Probabilistic_Human_Motion_Forecasting_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.04132.pdf>arxiv</a> <a href=https://github.com/TUM-AAS/motron-cvpr22>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#amass">AMASS</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#nll">NLL</a></li>
-<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#kde">KDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Salzmann_2022_CVPR,
-    author = "Salzmann, Tim and Pavone, Marco and Ryll, Markus",
-    title = "Motron: Multimodal Probabilistic Human Motion Forecasting",
-    booktitle = "CVPR",
-    year = "2022"
+@InProceedings{Ahn_2023_ICRA,
+    author = "Ahn, Hyemin and Mascaro, Esteve Valls and Lee, Dongheui",
+    title = "Can We Use Diffusion Probabilistic Models for 3D Motion Prediction?",
+    booktitle = "ICRA",
+    year = "2023"
 }
 </pre>
 </details>

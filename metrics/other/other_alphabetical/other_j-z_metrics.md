@@ -12,7 +12,7 @@ ___
 <h2>J-Z <small>[rank]</small></h2> 
 <ul><a name=kld></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -81,6 +81,35 @@ ___
 </em></summary>
 <ul>
 <details close>
+<summary><strong><em>Agro et al., "UnO: Unsupervised Occupancy Fields for Perception and Forecasting", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Agro_UnO_Unsupervised_Occupancy_Fields_for_Perception_and_Forecasting_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/abs/2406.08691>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#nfcd">NFCD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Agro_UnO_2024_CVPR,
+    author = "Agro, Ben and Sykora, Quinlan and Casas, Sergio and Gilles, Thomas and Urtasun, Raquel",
+    title = "UnO: Unsupervised Occupancy Fields for Perception and Forecasting",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Khurana et al., "Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Khurana_Point_Cloud_Forecasting_as_a_Proxy_for_4D_Occupancy_Forecasting_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2302.13130.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
@@ -91,8 +120,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#nfe">NFE</a></li>
 </ul>
 <details close>
@@ -114,7 +143,7 @@ ___
 
 </ul><ul><a name=l2></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>L2</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>L2</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -173,9 +202,36 @@ ___
 
 </ul><ul><a name=mae></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [5]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [4]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Kalble et al., "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Kalble_Accurate_Training_Data_for_Occupancy_Map_Prediction_in_Automated_Driving_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.10575>arxiv</a> <a href=https://github.com/boschresearch/evidential-occupancy>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kalble_Accurate_2024_CVPR,
+    author = "Kalble, Jonas and Wirges, Sascha and Tatarchenko, Maxim and Ilg, Eddy",
+    title = "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Oota et al., "HealTech - A System for Predicting Patient Hospitalization Risk and Wound Progression in Old Patients", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Oota_HealTech_-_A_System_for_Predicting_Patient_Hospitalization_Risk_and_WACV_2021_paper.pdf>paper</a></summary>
 <ul>
@@ -339,7 +395,7 @@ ___
 
 </ul><ul><a name=map></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>mean Average Precision (mAP)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>mean Average Precision (mAP)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -406,7 +462,7 @@ ___
 
 </ul><ul><a name=mape></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -466,7 +522,7 @@ ___
 
 </ul><ul><a name=mcc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -502,7 +558,7 @@ ___
 
 </ul><ul><a name=mce></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Maximum Calibration Error (MCE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Maximum Calibration Error (MCE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -538,7 +594,7 @@ ___
 
 </ul><ul><a name=me></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Error (ME)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Error (ME)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -571,7 +627,7 @@ ___
 
 </ul><ul><a name=meteor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>METEOR</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>METEOR</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -607,7 +663,7 @@ ___
 
 </ul><ul><a name=miou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean IoU (MIoU)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean IoU (MIoU)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -642,7 +698,7 @@ ___
 
 </ul><ul><a name=mpe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Position Error (MPE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Position Error (MPE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -675,7 +731,7 @@ ___
 
 </ul><ul><a name=mre></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Relative Error (MRE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Relative Error (MRE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -907,9 +963,46 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=nfcd></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Near-Field Chamfer Distance (NFCD)</strong><small> [10]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Agro et al., "UnO: Unsupervised Occupancy Fields for Perception and Forecasting", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Agro_UnO_Unsupervised_Occupancy_Fields_for_Perception_and_Forecasting_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/abs/2406.08691>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#nfcd">NFCD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Agro_UnO_2024_CVPR,
+    author = "Agro, Ben and Sykora, Quinlan and Casas, Sergio and Gilles, Thomas and Urtasun, Raquel",
+    title = "UnO: Unsupervised Occupancy Fields for Perception and Forecasting",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=nfe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Near-Field Error (NFE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Near-Field Error (NFE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -923,8 +1016,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#nfe">NFE</a></li>
 </ul>
 <details close>
@@ -946,7 +1039,7 @@ ___
 
 </ul><ul><a name=nll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -980,7 +1073,7 @@ ___
 
 </ul><ul><a name=nmape></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>normalized Mean Absolute Percentage Error (nMAPE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>normalized Mean Absolute Percentage Error (nMAPE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1015,7 +1108,7 @@ ___
 
 </ul><ul><a name=nmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Normalized MSE (NMSE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Normalized MSE (NMSE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1049,9 +1142,44 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=nse></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Nash-Sutcliffe Efficiency (NSE)</strong><small> [10]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Benson et al., "Multi-modal Learning for Geospatial Vegetation Forecasting", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Benson_Multi-modal_Learning_for_Geospatial_Vegetation_Forecasting_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.16198>arxiv</a> <a href=https://github.com/vitusbenson/greenearthnet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#greenearthnet">GreenEarthNet</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#corr">Corr</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#nse">NSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Benson_Multimodal_2024_CVPR,
+    author = "Benson, Vitus and Robin, Claire and Requena-Mesa, Christian and Alonso, Lazaro and Carvalhais, Nuno and Cort\'es, Jos\'e and Gao, Zhihan and Linscheid, Nora and Weynants, M\'elanie and Reichstein, Markus",
+    title = "Multi-modal Learning for Geospatial Vegetation Forecasting",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=pcp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Percentage of Correct Predictions (PCP)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Percentage of Correct Predictions (PCP)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1085,7 +1213,7 @@ ___
 
 </ul><ul><a name=ppfe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Per-point Flow Error (PPFE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Per-point Flow Error (PPFE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1126,6 +1254,36 @@ ___
 </em></summary>
 <ul>
 <details close>
+<summary><strong><em>Shi et al., "StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_StreamingFlow_Streaming_Occupancy_Forecasting_with_Asynchronous_Multi-modal_Data_Streams_via_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2302.09585>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#sq">SQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#pq">PQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cq">CQ</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Shi_StreamingFlow_2024_CVPR,
+    author = "Shi, Yining and Jiang, Kun and Wang, Ke and Li, Jiusi and Wang, Yunlong and Yang, Mengmeng and Yang, Diange",
+    title = "StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Graber et al., "Panoptic Segmentation Forecasting", CVPR, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Graber_Panoptic_Segmentation_Forecasting_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2104.03962.pdf>arxiv</a> <a href=https://github.com/nianticlabs/ panoptic-forecasting>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -1136,9 +1294,9 @@ ___
 <ul>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rq">RQ</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#sq">SQ</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#pq">PQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rq">RQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1537,7 +1695,7 @@ ___
 
 </ul><ul><a name=psi></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Psi</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Psi</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1571,7 +1729,7 @@ ___
 
 </ul><ul><a name=psnr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Peak Signal-to-Noise Ratio (PSNR)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Peak Signal-to-Noise Ratio (PSNR)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1634,7 +1792,7 @@ ___
 
 </ul><ul><a name=r-squared></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>R-squared</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>R-squared</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2048,7 +2206,7 @@ ___
 
 </ul><ul><a name=refclipscore></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>RefCLIPScore</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>RefCLIPScore</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2085,7 +2243,7 @@ ___
 
 </ul><ul><a name=ri></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Rand Index (RI)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Rand Index (RI)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2121,9 +2279,63 @@ ___
 
 </ul><ul><a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [6]</small></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [5]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Kalble et al., "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Kalble_Accurate_Training_Data_for_Occupancy_Map_Prediction_in_Automated_Driving_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.10575>arxiv</a> <a href=https://github.com/boschresearch/evidential-occupancy>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Kalble_Accurate_2024_CVPR,
+    author = "Kalble, Jonas and Wirges, Sascha and Tatarchenko, Maxim and Ilg, Eddy",
+    title = "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Benson et al., "Multi-modal Learning for Geospatial Vegetation Forecasting", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Benson_Multi-modal_Learning_for_Geospatial_Vegetation_Forecasting_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.16198>arxiv</a> <a href=https://github.com/vitusbenson/greenearthnet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#greenearthnet">GreenEarthNet</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#corr">Corr</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#nse">NSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Benson_Multimodal_2024_CVPR,
+    author = "Benson, Vitus and Robin, Claire and Requena-Mesa, Christian and Alonso, Lazaro and Carvalhais, Nuno and Cort\'es, Jos\'e and Gao, Zhihan and Linscheid, Nora and Weynants, M\'elanie and Reichstein, Markus",
+    title = "Multi-modal Learning for Geospatial Vegetation Forecasting",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Lin et al., "MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_MMST-ViT_Climate_Change-aware_Crop_Yield_Prediction_via_Multi-Modal_Spatial-Temporal_Vision_ICCV_2023_paper.pdf>paper</a> <a href=https://github.com/fudong03/MMST-ViT>code</a></summary>
 <ul>
@@ -2234,7 +2446,7 @@ ___
 
 </ul><ul><a name=roc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Receiver Operator Characteristic (ROC)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Receiver Operator Characteristic (ROC)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2295,7 +2507,7 @@ ___
 
 </ul><ul><a name=rov></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Retention of Vehicles (RoV)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Retention of Vehicles (RoV)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2330,7 +2542,7 @@ ___
 
 </ul><ul><a name=rq></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Recognition Quality (RQ)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Recognition Quality (RQ)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2344,9 +2556,9 @@ ___
 <ul>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rq">RQ</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#sq">SQ</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#pq">PQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rq">RQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2365,9 +2577,44 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=rs></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Repetition Score (RS)</strong><small> [10]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Mittal et al., "Can't Make an Omelette Without Breaking Some Eggs: Plausible Action Anticipation Using Large Video-Language Models", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Mittal_Cant_Make_an_Omelette_Without_Breaking_Some_Eggs_Plausible_Action_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.20305>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#bleu">BLEU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rs">RS</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mittal_Cant_2024_CVPR,
+    author = "Mittal, Himangi and Agarwal, Nakul and Lo, Shao-Yuan and Lee, Kwonjoon",
+    title = "Can't Make an Omelette Without Breaking Some Eggs: Plausible Action Anticipation Using Large Video-Language Models",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=rt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2436,7 +2683,7 @@ ___
 
 </ul><ul><a name=run_time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [7]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2528,7 +2775,7 @@ ___
 
 </ul><ul><a name=sile></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Scale-Invariant Logarithmic Error (SILE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Scale-Invariant Logarithmic Error (SILE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2566,7 +2813,7 @@ ___
 
 </ul><ul><a name=soft-iou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Soft-IoU</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Soft-IoU</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2633,7 +2880,7 @@ ___
 
 </ul><ul><a name=spice></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Semantic Propositional Image Caption Evaluation (SPICE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Semantic Propositional Image Caption Evaluation (SPICE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2674,6 +2921,36 @@ ___
 </em></summary>
 <ul>
 <details close>
+<summary><strong><em>Shi et al., "StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_StreamingFlow_Streaming_Occupancy_Forecasting_with_Asynchronous_Multi-modal_Data_Streams_via_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2302.09585>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#sq">SQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#pq">PQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cq">CQ</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Shi_StreamingFlow_2024_CVPR,
+    author = "Shi, Yining and Jiang, Kun and Wang, Ke and Li, Jiusi and Wang, Yunlong and Yang, Mengmeng and Yang, Diange",
+    title = "StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Graber et al., "Panoptic Segmentation Forecasting", CVPR, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2021/papers/Graber_Panoptic_Segmentation_Forecasting_CVPR_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2104.03962.pdf>arxiv</a> <a href=https://github.com/nianticlabs/ panoptic-forecasting>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -2684,9 +2961,9 @@ ___
 <ul>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ap">AP</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rq">RQ</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#sq">SQ</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#pq">PQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rq">RQ</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2707,7 +2984,7 @@ ___
 
 </ul><ul><a name=src></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Spearman’s Ranking Correlation (SRC)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Spearman’s Ranking Correlation (SRC)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2741,7 +3018,7 @@ ___
 
 </ul><ul><a name=ssim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong><small> [7]</small></l>
+<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2832,7 +3109,7 @@ ___
 
 </ul><ul><a name=time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>time</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>time</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2869,7 +3146,7 @@ ___
 
 </ul><ul><a name=tn></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2934,7 +3211,7 @@ ___
 
 </ul><ul><a name=tp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Positive (TP)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Positive (TP)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2999,7 +3276,7 @@ ___
 
 </ul><ul><a name=tpr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3035,7 +3312,7 @@ ___
 
 </ul><ul><a name=tss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Skill Statistics (TSS)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Skill Statistics (TSS)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3068,9 +3345,42 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=ttc></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>TTC</strong><small> [10]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Pasca et al., "Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Pasca_Summarize_the_Past_to_Predict_the_Future_Natural_Language_Descriptions_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2301.09209>arxiv</a> <a href=https://github.com/algvr/transfusion>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ttc">TTC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Pasca_Summarize_2024_CVPR,
+    author = "Pasca, Razvan-George and Gavryushin, Alexey and Hamza, Muhammad and Kuo, Yen-Ling and Mo, Kaichun and Van Gool, Luc and Hilliges, Otmar and Wang, Xi",
+    title = "Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=voi></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Variation of Information (VoI)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Variation of Information (VoI)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3106,9 +3416,66 @@ ___
 
 </ul><ul><a name=vpq></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Video Panoptic Quality (VPQ)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Video Panoptic Quality (VPQ)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Yang et al., "Visual Point Cloud Forecasting enables Scalable Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Visual_Point_Cloud_Forecasting_enables_Scalable_Autonomous_Driving_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2312.17655>arxiv</a> <a href=https://github.com/OpenDriveLab/ViDAR>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yang_Visual_2024_CVPR,
+    author = "Yang, Zetong and Chen, Li and Sun, Yanan and Li, Hongyang",
+    title = "Visual Point Cloud Forecasting enables Scalable Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Shi et al., "StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_StreamingFlow_Streaming_Occupancy_Forecasting_with_Asynchronous_Multi-modal_Data_Streams_via_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2302.09585>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#sq">SQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#pq">PQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cq">CQ</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Shi_StreamingFlow_2024_CVPR,
+    author = "Shi, Yining and Jiang, Kun and Wang, Ke and Li, Jiusi and Wang, Yunlong and Yang, Mengmeng and Yang, Diange",
+    title = "StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Akan et al., "StretchBEV: Stretching Future Instance Prediction Spatially and Temporally", ECCV, 2022.</em></strong> <a href=https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980436.pdf>paper</a> <a href=https://arxiv.org/pdf/2203.13641.pdf>arxiv</a> <a href=https://kuis-ai.github.io/stretchbev/>code</a></summary>
 <ul>

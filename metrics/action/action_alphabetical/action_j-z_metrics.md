@@ -12,7 +12,7 @@ ___
 <h2>J-Z <small>[rank]</small></h2> 
 <ul><a name=kld></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -52,7 +52,7 @@ ___
 
 </ul><ul><a name=mae></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -85,9 +85,34 @@ ___
 
 </ul><ul><a name=map></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>mean Average Precision (mAP)</strong><small> [6]</small></l>
+<summary><em><l style="font-size:20px"><strong>mean Average Precision (mAP)</strong><small> [5]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Pasca et al., "Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Pasca_Summarize_the_Past_to_Predict_the_Future_Natural_Language_Descriptions_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2301.09209>arxiv</a> <a href=https://github.com/algvr/transfusion>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Pasca_Summarize_2024_CVPR,
+    author = "Pasca, Razvan-George and Gavryushin, Alexey and Hamza, Muhammad and Kuo, Yen-Ling and Mo, Kaichun and Van Gool, Luc and Hilliges, Otmar and Wang, Xi",
+    title = "Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Mascaro et al., "HOI4ABOT: Human-Object Interaction Anticipation for Human Intention Reading Collaborative roBOTs", CoRL, 2023.</em></strong> <a href=https://openreview.net/pdf?id=rYZBdBytxBx>paper</a> <a href=https://arxiv.org/pdf/2309.16524.pdf>arxiv</a></summary>
 <ul>
@@ -158,8 +183,8 @@ ___
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -378,8 +403,8 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -453,7 +478,7 @@ ___
 
 </ul><ul><a name=mcc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -488,7 +513,7 @@ ___
 
 </ul><ul><a name=meteor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>METEOR</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>METEOR</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -525,7 +550,7 @@ ___
 
 </ul><ul><a name=moc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean-over-class (MoC)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean-over-class (MoC)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -559,7 +584,7 @@ ___
 
 </ul><ul><a name=mof></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean-over-frame (MoF)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean-over-frame (MoF)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -591,9 +616,45 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=mpjpe></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mean Per Joint Prediction Error (MPJPE)</strong><small> [11]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Diller et al., "FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Diller_FutureHuman3D_Forecasting_Complex_Long-Term_3D_Human_Behavior_from_Video_Observations_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.14309>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ikea_asm">IKEA ASM</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#quality">Quality</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Diller_FutureHuman3D_2024_CVPR,
+    author = "Diller, Christian and Funkhouser, Thomas and Dai, Angela",
+    title = "FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=mrr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Reciprocal Rank (MRR)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Reciprocal Rank (MRR)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -627,7 +688,7 @@ ___
 
 </ul><ul><a name=nll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -664,7 +725,7 @@ ___
 
 </ul><ul><a name=pp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Prediction Power (PP)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Prediction Power (PP)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -801,8 +862,8 @@ ___
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1201,8 +1262,8 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1452,11 +1513,102 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=quality></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Quality</strong><small> [11]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Diller et al., "FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Diller_FutureHuman3D_Forecasting_Complex_Long-Term_3D_Human_Behavior_from_Video_Observations_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.14309>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ikea_asm">IKEA ASM</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#quality">Quality</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Diller_FutureHuman3D_2024_CVPR,
+    author = "Diller, Christian and Funkhouser, Thomas and Dai, Angela",
+    title = "FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=recall></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Recall</strong><small> [2]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Guo et al., "Uncertainty-aware Action Decoupling Transformer for Action Anticipation", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_Uncertainty-aware_Action_Decoupling_Transformer_for_Action_Anticipation_CVPR_2024_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Guo_Uncertainty_2024_CVPR,
+    author = "Guo, Hongji and Agarwal, Nakul and Lo, Shao-Yuan and Lee, Kwonjoon and Ji, Qiang",
+    title = "Uncertainty-aware Action Decoupling Transformer for Action Anticipation",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Mittal et al., "Can't Make an Omelette Without Breaking Some Eggs: Plausible Action Anticipation Using Large Video-Language Models", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Mittal_Cant_Make_an_Omelette_Without_Breaking_Some_Eggs_Plausible_Action_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.20305>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#ed">ED</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mittal_Cant_2024_CVPR,
+    author = "Mittal, Himangi and Agarwal, Nakul and Lo, Shao-Yuan and Lee, Kwonjoon",
+    title = "Can't Make an Omelette Without Breaking Some Eggs: Plausible Action Anticipation Using Large Video-Language Models",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Girase et al., "Latency Matters: Real-Time Action Forecasting Transformer", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Girase_Latency_Matters_Real-Time_Action_Forecasting_Transformer_CVPR_2023_paper.pdf>paper</a> <a href=https://karttikeya.github.io/publication/RAFTformer/>code</a></summary>
 <ul>
@@ -1464,8 +1616,8 @@ ___
 <ul>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 <li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2004,8 +2156,8 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2230,7 +2382,7 @@ ___
 
 </ul><ul><a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2267,8 +2419,8 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2348,7 +2500,7 @@ ___
 
 </ul><ul><a name=rouge-l></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ROUGE-L</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>ROUGE-L</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2385,7 +2537,7 @@ ___
 
 </ul><ul><a name=rt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2395,8 +2547,8 @@ ___
 <ul>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
 <li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2450,7 +2602,7 @@ ___
 
 </ul><ul><a name=run_time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2540,7 +2692,7 @@ ___
 
 </ul><ul><a name=tnr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>TNR</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>TNR</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2576,7 +2728,7 @@ ___
 
 </ul><ul><a name=tpr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2612,7 +2764,7 @@ ___
 
 </ul><ul><a name=tta></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Time To Accident (TTA)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Time To Accident (TTA)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2703,7 +2855,7 @@ ___
 
 </ul><ul><a name=ttm></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Time To Maneuver (TTM)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Time To Maneuver (TTM)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>

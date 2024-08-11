@@ -71,37 +71,134 @@ ___
 </ul>
 </details>
 
-<a name=fid></a>
+<a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Frechet Instance Distance (FID)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Sun et al., "MOSO: Decomposing MOtion, Scene and Object for Video Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_MOSO_Decomposing_MOtion_Scene_and_Object_for_Video_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.03684.pdf>arxiv</a> <a href=https://github.com/iva-mzsun/MOSO>code</a></summary>
+<summary><strong><em>Nematollahi et al., "T3VIP: Transformation-based $3\mathrmD$ Video Prediction", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9981187>paper</a> <a href=https://arxiv.org/pdf/2209.11693.pdf>arxiv</a> <a href=https://github.com/nematoli/t3vip>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucf-101">UCF-101</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#robonet">RoboNet</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#omnipush">Omnipush</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#calvin">CALVIN</a></li>
+<li>Custom</li>
+
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
 <li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
 <li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fid">FID</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_a-d_metrics.md#absrel">AbsRel</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Sun_2023_CVPR_1,
-    author = "Sun, Mingzhen and Wang, Weining and Zhu, Xinxin and Liu, Jing",
-    title = "MOSO: Decomposing MOtion, Scene and Object for Video Prediction",
+@InProceedings{Nematollahi_2022_IROS,
+    author = "Nematollahi, Iman and Rosete-Beas, Erick and Azad, Seyed Mahdi B. and Rajan, Raghu and Hutter, Frank and Burgard, Wolfram",
+    booktitle = "IROS",
+    title = "{T3VIP}: Transformation-based $3\mathrm{D}$ Video Prediction",
+    year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Li et al., "Flow-Grounded Spatial-Temporal Video Prediction From Still Images", ECCV, 2018.</em></strong> <a href=https://openaccess.thecvf.com/content_ECCV_2018/papers/Yijun_Li_Flow-Grounded_Spatial-Temporal_Video_ECCV_2018_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1807.09755.pdf>arxiv</a> <a href=https://github.com/Yijunmaverick/FlowGrounded-VideoPrediction>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#human">Human</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#rmse">RMSE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Li_2018_ECCV,
+    author = "Li, Yijun and Fang, Chen and Yang, Jimei and Wang, Zhaowen and Lu, Xin and Yang, Ming-Hsuan",
+    title = "Flow-Grounded Spatial-Temporal Video Prediction From Still Images",
+    booktitle = "ECCV",
+    year = "2018"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=clipsim></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>CLIPSIM</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Yang et al., "Generalized Predictive Model for Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Generalized_Predictive_Model_for_Autonomous_Driving_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.09630>arxiv</a> <a href=https://github.com/OpenDriveLab/DriveAGI>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#opendv-2k">OpenDV-2K</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fid">FID</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_a-d_metrics.md#clipsim">CLIPSIM</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Yang_Generalized_2024_CVPR,
+    author = "Yang, Jiazhi and Gao, Shenyuan and Qiu, Yihang and Chen, Li and Li, Tianyu and Dai, Bo and Chitta, Kashyap and Wu, Penghao and Zeng, Jia and Luo, Ping and Zhang, Jun and Geiger, Andreas and Qiao, Yu and Li, Hongyang",
+    title = "Generalized Predictive Model for Autonomous Driving",
     booktitle = "CVPR",
-    year = "2023"
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=kpm></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Key Points Matching (KPM)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Wang et al., "Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Driving_into_the_Future_Multiview_Visual_Forecasting_and_Planning_with_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2311.17918>arxiv</a> <a href=https://github.com/BraveGroup/Drive-WM>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fid">FID</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#kpm">KPM</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wang_Driving_2024_CVPR,
+    author = "Wang, Yuqi and He, Jiawei and Fan, Lue and Li, Hongxin and Chen, Yuntao and Zhang, Zhaoxiang",
+    title = "Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving",
+    booktitle = "CVPR",
+    year = "2024"
 }
 </pre>
 </details>
@@ -146,46 +243,6 @@ ___
 </ul>
 </details>
 
-<a name=absrel></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Absolute Relative error (AbsRel)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Nematollahi et al., "T3VIP: Transformation-based $3\mathrmD$ Video Prediction", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9981187>paper</a> <a href=https://arxiv.org/pdf/2209.11693.pdf>arxiv</a> <a href=https://github.com/nematoli/t3vip>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#omnipush">Omnipush</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#calvin">CALVIN</a></li>
-<li>Custom</li>
-
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_a-d_metrics.md#absrel">AbsRel</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Nematollahi_2022_IROS,
-    author = "Nematollahi, Iman and Rosete-Beas, Erick and Azad, Seyed Mahdi B. and Rajan, Raghu and Hutter, Frank and Burgard, Wolfram",
-    booktitle = "IROS",
-    title = "{T3VIP}: Transformation-based $3\mathrm{D}$ Video Prediction",
-    year = "2022"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=sharpness></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Sharpness</strong></l>
@@ -213,6 +270,43 @@ ___
     title = "Learning in an Uncertain World: Representing Ambiguity Through Multiple Hypotheses",
     booktitle = "ICCV",
     year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=csim></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Cosine Similarity (CSIM)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Lee et al., "Revisiting Hierarchical Approach for Persistent Long-Term Video Prediction", ICLR, 2021.</em></strong> <a href=https://openreview.net/pdf?id=3RLN4EPMdYd>paper</a> <a href=https://arxiv.org/pdf/2104.06697.pdf>arxiv</a> <a href=https://github.com/1Konny/HVP>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#dancing">Dancing</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_a-d_metrics.md#csim">CSIM</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Wonkwang_2021_ICLR,
+    author = "Lee, Wonkwang and Jung, Whie and Zhang, Han and Chen, Ting and Koh, Jing Yu and Huang, Thomas and Yoon, Hyungsuk and Lee, Honglak and Hong, Seunghoon",
+    booktitle = "ICLR",
+    title = "Revisiting Hierarchical Approach for Persistent Long-Term Video Prediction",
+    year = "2021"
 }
 </pre>
 </details>
@@ -409,34 +503,37 @@ ___
 </ul>
 </details>
 
-<a name=csim></a>
+<a name=absrel></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cosine Similarity (CSIM)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Absolute Relative error (AbsRel)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Lee et al., "Revisiting Hierarchical Approach for Persistent Long-Term Video Prediction", ICLR, 2021.</em></strong> <a href=https://openreview.net/pdf?id=3RLN4EPMdYd>paper</a> <a href=https://arxiv.org/pdf/2104.06697.pdf>arxiv</a> <a href=https://github.com/1Konny/HVP>code</a></summary>
+<summary><strong><em>Nematollahi et al., "T3VIP: Transformation-based $3\mathrmD$ Video Prediction", IROS, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9981187>paper</a> <a href=https://arxiv.org/pdf/2209.11693.pdf>arxiv</a> <a href=https://github.com/nematoli/t3vip>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#dancing">Dancing</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#omnipush">Omnipush</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#calvin">CALVIN</a></li>
+<li>Custom</li>
+
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#iou">IoU</a></li>
-<li><a href="../../../metrics/video/video_alphabetical/video_a-d_metrics.md#csim">CSIM</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#lpips">LPIPS</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_a-d_metrics.md#absrel">AbsRel</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Wonkwang_2021_ICLR,
-    author = "Lee, Wonkwang and Jung, Whie and Zhang, Han and Chen, Ting and Koh, Jing Yu and Huang, Thomas and Yoon, Hyungsuk and Lee, Honglak and Hong, Seunghoon",
-    booktitle = "ICLR",
-    title = "Revisiting Hierarchical Approach for Persistent Long-Term Video Prediction",
-    year = "2021"
+@InProceedings{Nematollahi_2022_IROS,
+    author = "Nematollahi, Iman and Rosete-Beas, Erick and Azad, Seyed Mahdi B. and Rajan, Raghu and Hutter, Frank and Burgard, Wolfram",
+    booktitle = "IROS",
+    title = "{T3VIP}: Transformation-based $3\mathrm{D}$ Video Prediction",
+    year = "2022"
 }
 </pre>
 </details>
