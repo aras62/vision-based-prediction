@@ -440,8 +440,8 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <em>Datasets</em>
 <ul>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
@@ -4423,6 +4423,63 @@ A dataset of 35 video sequences with associated ground-truth optical flow.
 </details>
 
 </ul></details>
+<a name=um></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Unified Model (UM)</strong></l> <a href=https://catalogue.ceda.ac.uk/uuid/104e586395d1cc4af88f5b69d5501745/>link</a> <a href=https://journals.ametsoc.org/view/journals/bams/93/12/bams-d-12-00018.1.xml>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of weather prediction recorded over 25 years.
+</li>
+<li>
+<em><strong>Applications:</strong></em> </li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Trajectory, Weather</li>
+<li><em><strong>Task:</strong></em> Weather</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Park et al., "Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data", ICLR, 2024.</em> <a href=https://openreview.net/pdf?id=ziDFH8TPPK>paper</a> <a href=https://arxiv.org/pdf/2401.15726>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#era5">ERA5</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#um">UM</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#best_track">Best Track</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Park_longterm_2024_ICLR,
+    author = "Park, Young-Jae and Seo, Minseok and Kim, Doyi and Kim, Hyeri and Choi, Sanghoon and Choi, Beomkyu and Ryu, Jeongwon and Son, Sohee and Jeon, Hae-Gon and Choi, Yeji",
+    title = "Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data",
+    booktitle = "ICLR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@article{Brown_unified_2012_BMAS,
+    author = "Brown, Andrew and Milton, Sean and Cullen, Mike and Golding, Brian and Mitchell, John and Shelly, Ann",
+    title = "Unified modeling and prediction of weather and climate: A 25-year journey",
+    journal = "Bulletin of the American Meteorological Society",
+    volume = "93",
+    number = "12",
+    pages = "1865--1877",
+    year = "2012"
+}
+</pre>
+</details>
+
+</ul></details>
 </ul><h2>2011</h2>
 <ul><a name=town_center></a>
 <details close>
@@ -4923,6 +4980,63 @@ A dataset of 400K frames (36 sequences) recorded at 50 FPS with 4 cameras using 
     author = "Van der Aa, NP and Luo, Xinghan and Giezeman, Geert-Jan and Tan, Robby T and Veltkamp, Remco C",
     title = "Umpm benchmark: A multi-person dataset with synchronized video and motion capture data for evaluation of articulated human motion and interaction",
     booktitle = "ICCVW",
+    year = "2011"
+}
+</pre>
+</details>
+
+</ul></details>
+<a name=era5></a>
+<details close>
+<summary><l style="font-size:20px"><strong>ERA5</strong></l> <a href=https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview>link</a> <a href=https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.828>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of climate recorded hourly since 1940.
+</li>
+<li>
+<em><strong>Applications:</strong></em> </li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Trajectory, Weather</li>
+<li><em><strong>Task:</strong></em> Weather</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Park et al., "Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data", ICLR, 2024.</em> <a href=https://openreview.net/pdf?id=ziDFH8TPPK>paper</a> <a href=https://arxiv.org/pdf/2401.15726>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#era5">ERA5</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#um">UM</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#best_track">Best Track</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Park_longterm_2024_ICLR,
+    author = "Park, Young-Jae and Seo, Minseok and Kim, Doyi and Kim, Hyeri and Choi, Sanghoon and Choi, Beomkyu and Ryu, Jeongwon and Son, Sohee and Jeon, Hae-Gon and Choi, Yeji",
+    title = "Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data",
+    booktitle = "ICLR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@article{Dee_Era_2011_QJRMS,
+    author = "Dee, Dick P and Uppala, S Mꎬ and Simmons, Adrian J and Berrisford, Paul and Poli, Paul and Kobayashi, Shinya and Andrae, U and Balmaseda, MA and Balsamo, G and Bauer, d P and others",
+    title = "The ERA-Interim reanalysis: Configuration and performance of the data assimilation system",
+    journal = "Quarterly Journal of the Royal Meteorological Society",
+    volume = "137",
+    number = "656",
+    pages = "553--597",
     year = "2011"
 }
 </pre>
@@ -6025,6 +6139,63 @@ A dataset of 3.5 hours of driving with the corresponding steering angle computed
 </details>
 
 </ul></details>
+<a name=best_track></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Best Track</strong></l> <a href=https://www.ncei.noaa.gov/products/international-best-track-archive>link</a> <a href=https://journals.ametsoc.org/view/journals/bams/91/3/2009bams2755_1.xml>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of global tropical cyclones collected over 20 years.
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/trajectory/trajectory_papers.md#top>Trajectory prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Trajectory</li>
+<li><em><strong>Task:</strong></em> Weather</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Park et al., "Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data", ICLR, 2024.</em> <a href=https://openreview.net/pdf?id=ziDFH8TPPK>paper</a> <a href=https://arxiv.org/pdf/2401.15726>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#era5">ERA5</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#um">UM</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#best_track">Best Track</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Park_longterm_2024_ICLR,
+    author = "Park, Young-Jae and Seo, Minseok and Kim, Doyi and Kim, Hyeri and Choi, Sanghoon and Choi, Beomkyu and Ryu, Jeongwon and Son, Sohee and Jeon, Hae-Gon and Choi, Yeji",
+    title = "Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data",
+    booktitle = "ICLR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@article{Knapp_international_2010_BAMS,
+    author = "Knapp, Kenneth R and Kruk, Michael C and Levinson, David H and Diamond, Howard J and Neumann, Charles J",
+    title = "The international best track archive for climate stewardship (IBTrACS) unifying tropical cyclone data",
+    journal = "Bulletin of the American Meteorological Society",
+    volume = "91",
+    number = "3",
+    pages = "363--376",
+    year = "2010"
+}
+</pre>
+</details>
+
+</ul></details>
 </ul><h2>2009</h2>
 <ul><a name=eth></a>
 <details close>
@@ -6176,6 +6347,119 @@ A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video foota
     author = "Kim, Sungjune and Chi, Hyung-gun and Lim, Hyerin and Ramani, Karthik and Kim, Jinkyu and Kim, Sangpil",
     title = "Higher-order Relational Reasoning for Pedestrian Trajectory Prediction",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>chib et al., "MS-TIP: Imputation Aware Pedestrian Trajectory Prediction", ICML, 2024.</em> <a href=https://openreview.net/pdf?id=s4Hy0L4mml>paper</a> <a href=https://github.com/Pranav-chib/MS-TIP>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Chip_MSTIP_2024_ICML,
+    author = "singh chib, Pranav and Nath, Achintya and Kabra, Paritosh and Gupta, Ishu and Singh, Pravendra",
+    title = "{MS}-{TIP}: Imputation Aware Pedestrian Trajectory Prediction",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>chib et al., "Enhancing Trajectory Prediction through Self-Supervised Waypoint Distortion Prediction", ICML, 2024.</em> <a href=https://openreview.net/pdf?id=OQ7TlOphGX>paper</a> <a href=https://arxiv.org/pdf/2312.09466>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Chib_Enhancing_2024_ICML,
+    author = "singh chib, Pranav and Singh, Pravendra",
+    title = "Enhancing Trajectory Prediction through Self-Supervised Waypoint Distortion Prediction",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Shahroudi et al., "Evaluation of Trajectory Distribution Predictions with Energy Score", ICML, 2024.</em> <a href=https://openreview.net/pdf?id=FCmWhJQ14I>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#es">ES</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Shahroudi_evaluation_2024_ICML,
+    author = "Shahroudi, Novin and Lepson, Mihkel and Kull, Meelis",
+    title = "Evaluation of Trajectory Distribution Predictions with Energy Score",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Saadatnejad et al., "Social-Transmotion: Promptable Human Trajectory Prediction", ICLR, 2024.</em> <a href=https://openreview.net/pdf?id=SQpnEfv9WH>paper</a> <a href=https://arxiv.org/pdf/2312.16168>arxiv</a> <a href=https://github.com/vita-epfl/social-transmotion>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jrdb">JRDB</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jta">JTA</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pcrt">PCRT</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Saadatnejad_socialtransmotion_2024_ICLR,
+    author = "Saadatnejad, Saeed and Gao, Yang and Messaoud, Kaouther and Alahi, Alexandre",
+    title = "Social-Transmotion: Promptable Human Trajectory Prediction",
+    booktitle = "ICLR",
     year = "2024"
 }
 </pre>
@@ -10712,6 +10996,119 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
     author = "Kim, Sungjune and Chi, Hyung-gun and Lim, Hyerin and Ramani, Karthik and Kim, Jinkyu and Kim, Sangpil",
     title = "Higher-order Relational Reasoning for Pedestrian Trajectory Prediction",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>chib et al., "MS-TIP: Imputation Aware Pedestrian Trajectory Prediction", ICML, 2024.</em> <a href=https://openreview.net/pdf?id=s4Hy0L4mml>paper</a> <a href=https://github.com/Pranav-chib/MS-TIP>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Chip_MSTIP_2024_ICML,
+    author = "singh chib, Pranav and Nath, Achintya and Kabra, Paritosh and Gupta, Ishu and Singh, Pravendra",
+    title = "{MS}-{TIP}: Imputation Aware Pedestrian Trajectory Prediction",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>chib et al., "Enhancing Trajectory Prediction through Self-Supervised Waypoint Distortion Prediction", ICML, 2024.</em> <a href=https://openreview.net/pdf?id=OQ7TlOphGX>paper</a> <a href=https://arxiv.org/pdf/2312.09466>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Chib_Enhancing_2024_ICML,
+    author = "singh chib, Pranav and Singh, Pravendra",
+    title = "Enhancing Trajectory Prediction through Self-Supervised Waypoint Distortion Prediction",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Shahroudi et al., "Evaluation of Trajectory Distribution Predictions with Energy Score", ICML, 2024.</em> <a href=https://openreview.net/pdf?id=FCmWhJQ14I>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#es">ES</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Shahroudi_evaluation_2024_ICML,
+    author = "Shahroudi, Novin and Lepson, Mihkel and Kull, Meelis",
+    title = "Evaluation of Trajectory Distribution Predictions with Energy Score",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Saadatnejad et al., "Social-Transmotion: Promptable Human Trajectory Prediction", ICLR, 2024.</em> <a href=https://openreview.net/pdf?id=SQpnEfv9WH>paper</a> <a href=https://arxiv.org/pdf/2312.16168>arxiv</a> <a href=https://github.com/vita-epfl/social-transmotion>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jrdb">JRDB</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#jta">JTA</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pcrt">PCRT</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Saadatnejad_socialtransmotion_2024_ICLR,
+    author = "Saadatnejad, Saeed and Gao, Yang and Messaoud, Kaouther and Alahi, Alexandre",
+    title = "Social-Transmotion: Promptable Human Trajectory Prediction",
+    booktitle = "ICLR",
     year = "2024"
 }
 </pre>
@@ -15428,6 +15825,32 @@ A dataset of 6 basic actions, e.g. walking, jogging, running, recorded from 25 s
     author = "Zhang, Zhicheng and Hu, Junyao and Cheng, Wentao and Paudel, Danda and Yang, Jufeng",
     title = "ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Chen et al., "Probabilistic Forecasting with Stochastic Interpolants and Follmer Processes", ICML, 2024.</em> <a href=https://openreview.net/pdf?id=UQYXZdca92>paper</a> <a href=https://arxiv.org/abs/2403.13724>arxiv</a> <a href=https://github.com/interpolants/forecasting>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#clevrer">CLEVRER</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Chen_probabilistic_ICML,
+    author = "Chen, Yifan and Goldstein, Mark and Hua, Mengjian and Albergo, Michael Samuel and Boffi, Nicholas Matthew and Vanden-Eijnden, Eric",
+    title = "Probabilistic Forecasting with Stochastic Interpolants and Follmer Processes",
+    booktitle = "ICML",
     year = "2024"
 }
 </pre>

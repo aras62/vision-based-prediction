@@ -227,6 +227,60 @@ ___
 </ul>
 </details>
 <details close>
+<summary><strong><em>Chen et al., "Probabilistic Forecasting with Stochastic Interpolants and Follmer Processes", ICML, 2024.</em></strong> <a href=https://openreview.net/pdf?id=UQYXZdca92>paper</a> <a href=https://arxiv.org/abs/2403.13724>arxiv</a> <a href=https://github.com/interpolants/forecasting>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#clevrer">CLEVRER</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Chen_probabilistic_ICML,
+    author = "Chen, Yifan and Goldstein, Mark and Hua, Mengjian and Albergo, Michael Samuel and Boffi, Nicholas Matthew and Vanden-Eijnden, Eric",
+    title = "Probabilistic Forecasting with Stochastic Interpolants and Follmer Processes",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Gu et al., "Seer: Language Instructed Video Prediction with Latent Diffusion Models", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=qHGgNyQk31>paper</a> <a href=https://arxiv.org/pdf/2303.14897>arxiv</a> <a href=https://seervideodiffusion.github.io/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#smtsmt">SmtSmt</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#bridgedata">BridgeData</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../../metrics/video/video_alphabetical/video_j-z_metrics.md#kvd">KVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Gu_seer_2024_ICLR,
+    author = "Gu, Xianfan and Wen, Chuan and Ye, Weirui and Song, Jiaming and Gao, Yang",
+    title = "Seer: Language Instructed Video Prediction with Latent Diffusion Models",
+    booktitle = "ICLR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Sun et al., "MOSO: Decomposing MOtion, Scene and Object for Video Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_MOSO_Decomposing_MOtion_Scene_and_Object_for_Video_Prediction_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.03684.pdf>arxiv</a> <a href=https://github.com/iva-mzsun/MOSO>code</a></summary>
 <ul>
 <em>Datasets</em>

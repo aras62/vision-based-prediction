@@ -2464,7 +2464,7 @@ ___
 
 </ul><ul><a name=ade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2504,7 +2504,7 @@ ___
 
 </ul><ul><a name=ap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [6]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2805,7 +2805,7 @@ ___
 
 </ul><ul><a name=attc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ATTC</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>ATTC</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2843,7 +2843,7 @@ ___
 
 </ul><ul><a name=auc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> [5]</small></l>
+<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> [6]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3248,7 +3248,7 @@ ___
 
 </ul><ul><a name=bleu@n></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>BLEU@N</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>BLEU@N</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3285,7 +3285,7 @@ ___
 
 </ul><ul><a name=cap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>calibrated Average Precision (cAP)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>calibrated Average Precision (cAP)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3321,7 +3321,7 @@ ___
 
 </ul><ul><a name=cider></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>

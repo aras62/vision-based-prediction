@@ -969,8 +969,8 @@ A dataset of 25 human subjects preparing 2 mixed salads each with 4h+ of annotat
 <em>Datasets</em>
 <ul>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
@@ -2309,6 +2309,34 @@ A dataset with 100+ driving segments and 10K+ 3D bounding boxes for tracking and
     author = "Pourkeshavarz, Mozhgan and Zhang, Junrui and Rasouli, Amir",
     title = "CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Lan et al., "SEPT: Towards Efficient Scene Representation Learning for Motion Prediction", ICLR, 2024.</em> <a href=https://openreview.net/pdf?id=efeBC1sQj9>paper</a> <a href=https://arxiv.org/pdf/2309.15289>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Lan_SEPT_2024_ICLR,
+    author = "Lan, Zhiqian and Jiang, Yuxuan and Mu, Yao and Chen, Chen and Li, Shengbo Eben",
+    title = "{SEPT}: Towards Efficient Scene Representation Learning for Motion Prediction",
+    booktitle = "ICLR",
     year = "2024"
 }
 </pre>
@@ -5288,6 +5316,63 @@ A dataset of 100K driving sequences with annotations fo 10 traffic objects annot
 </details>
 
 </ul></details>
+</ul><ul><a name=best_track></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Best Track</strong></l> <a href=https://www.ncei.noaa.gov/products/international-best-track-archive>link</a> <a href=https://journals.ametsoc.org/view/journals/bams/91/3/2009bams2755_1.xml>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of global tropical cyclones collected over 20 years.
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/trajectory/trajectory_papers.md#top>Trajectory prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Trajectory</li>
+<li><em><strong>Task:</strong></em> Weather</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Park et al., "Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data", ICLR, 2024.</em> <a href=https://openreview.net/pdf?id=ziDFH8TPPK>paper</a> <a href=https://arxiv.org/pdf/2401.15726>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#era5">ERA5</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#um">UM</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#best_track">Best Track</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Park_longterm_2024_ICLR,
+    author = "Park, Young-Jae and Seo, Minseok and Kim, Doyi and Kim, Hyeri and Choi, Sanghoon and Choi, Beomkyu and Ryu, Jeongwon and Son, Sohee and Jeon, Hae-Gon and Choi, Yeji",
+    title = "Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data",
+    booktitle = "ICLR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@article{Knapp_international_2010_BAMS,
+    author = "Knapp, Kenneth R and Kruk, Michael C and Levinson, David H and Diamond, Howard J and Neumann, Charles J",
+    title = "The international best track archive for climate stewardship (IBTrACS) unifying tropical cyclone data",
+    journal = "Bulletin of the American Meteorological Society",
+    volume = "91",
+    number = "3",
+    pages = "363--376",
+    year = "2010"
+}
+</pre>
+</details>
+
+</ul></details>
 </ul><ul><a name=bimanual_actions></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Bimanual Actions</strong></l> <a href=https://bimanual-actions.humanoids.kit.edu/>link</a> <a href=https://ieeexplore.ieee.org/abstract/document/8880484>paper</a> <a href=https://arxiv.org/pdf/1908.08391.pdf>arxiv</a></summary> 
@@ -5722,8 +5807,8 @@ A dataset of 77 hours of a video recording showing 10 breakfast preparation acti
 <em>Datasets</em>
 <ul>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
@@ -5914,6 +5999,61 @@ A dataset of 77 hours of a video recording showing 10 breakfast preparation acti
     title = "The Language Of Actions: Recovering The Syntax And Semantics Of Goal-Directed Human Activities",
     booktitle = "CVPR",
     year = "2014"
+}
+</pre>
+</details>
+
+</ul></details>
+</ul><ul><a name=bridgedata></a>
+<details close>
+<summary><l style="font-size:20px"><strong>BridgeData</strong></l> <a href=https://rail-berkeley.github.io/bridgedata/>link</a> <a href=https://openreview.net/pdf?id=f55MlAT1Lu>paper</a> <a href=https://arxiv.org/pdf/2308.12952>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of robot manipulation with 60K+ trajectories consisting of 13 skills performed in 24 environments.
+</li>
+<li>
+<em><strong>Applications:</strong></em> </li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Activity label</li>
+<li><em><strong>Task:</strong></em> Robot object manipulation</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Gu et al., "Seer: Language Instructed Video Prediction with Latent Diffusion Models", ICLR, 2024.</em> <a href=https://openreview.net/pdf?id=qHGgNyQk31>paper</a> <a href=https://arxiv.org/pdf/2303.14897>arxiv</a> <a href=https://seervideodiffusion.github.io/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#smtsmt">SmtSmt</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#bridgedata">BridgeData</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+<li><a href="../../metrics/video/video_alphabetical/video_j-z_metrics.md#kvd">KVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Gu_seer_2024_ICLR,
+    author = "Gu, Xianfan and Wen, Chuan and Ye, Weirui and Song, Jiaming and Gao, Yang",
+    title = "Seer: Language Instructed Video Prediction with Latent Diffusion Models",
+    booktitle = "ICLR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@inproceedings{Walke_bridgedata_2023_CoRL,
+    author = "Walke, Homer Rich and Black, Kevin and Zhao, Tony Z. and Vuong, Quan and Zheng, Chongyi and Hansen-Estruch, Philippe and He, Andre Wang and Myers, Vivek and Kim, Moo Jin and Du, Max and Lee, Abraham and Fang, Kuan and Finn, Chelsea and Levine, Sergey",
+    title = "BridgeData V2: A Dataset for Robot Learning at Scale",
+    booktitle = "CoRL",
+    year = "2023"
 }
 </pre>
 </details>
@@ -9047,6 +9187,59 @@ A dataset of 40+ video clips showing collective activities including  crossing, 
     title = "What Are They Doing?: Collective Activity Classification Using Spatio-Temporal Relationship Among People",
     booktitle = "ICCVW",
     year = "2009"
+}
+</pre>
+</details>
+
+</ul></details>
+</ul><ul><a name=clevrer></a>
+<details close>
+<summary><l style="font-size:20px"><strong>Collision Events for Video Representation and Reasoning (CLEVRER)</strong></l> <a href=http://clevrer.csail.mit.edu/>link</a> <a href=https://openreview.net/pdf?id=HkxYzANYDB>paper</a> <a href=https://arxiv.org/pdf/1910.01442>arxiv</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 10000 videos of 5s each generated using physics engine containing various shapes with different colors for evaluation of reasoning tasks.
+</li>
+<li>
+<em><strong>Applications:</strong></em> </li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Q&A</li>
+<li><em><strong>Task:</strong></em> Object (simulation)</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Chen et al., "Probabilistic Forecasting with Stochastic Interpolants and Follmer Processes", ICML, 2024.</em> <a href=https://openreview.net/pdf?id=UQYXZdca92>paper</a> <a href=https://arxiv.org/abs/2403.13724>arxiv</a> <a href=https://github.com/interpolants/forecasting>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#kth">KTH</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#clevrer">CLEVRER</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/video/video_alphabetical/video_e-i_metrics.md#fvd">FVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Chen_probabilistic_ICML,
+    author = "Chen, Yifan and Goldstein, Mark and Hua, Mengjian and Albergo, Michael Samuel and Boffi, Nicholas Matthew and Vanden-Eijnden, Eric",
+    title = "Probabilistic Forecasting with Stochastic Interpolants and Follmer Processes",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@inproceedings{Yi_CLEVRER_2020_ICLR,
+    author = "Yi*, Kexin and Gan*, Chuang and Li, Yunzhu and Kohli, Pushmeet and Wu, Jiajun and Torralba, Antonio and Tenenbaum, Joshua B.",
+    title = "CLEVRER: Collision Events for Video Representation and Reasoning",
+    booktitle = "ICLR",
+    year = "2020"
 }
 </pre>
 </details>

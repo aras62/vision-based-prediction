@@ -1177,6 +1177,40 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=p-value></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>p-value</strong><small> [10]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Song et al., "Multimodal Prototyping for cancer survival prediction", ICML, 2024.</em></strong> <a href=https://openreview.net/pdf?id=3MfvxH3Gia>paper</a> <a href=https://arxiv.org/pdf/2407.00224>arxiv</a> <a href=https://github.com/mahmoodlab/MMP>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#tcga">TCGA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#c-index">C-index</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#p-value">p-value</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Song_Multimodal_2024_ICML,
+    author = "Song, Andrew H. and Chen, Richard J. and Jaume, Guillaume and Vaidya, Anurag Jayant and Baras, Alexander and Mahmood, Faisal",
+    title = "Multimodal Prototyping for cancer survival prediction",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=pcp></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Percentage of Correct Predictions (PCP)</strong><small> [10]</small></l>
@@ -2279,7 +2313,7 @@ ___
 
 </ul><ul><a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [5]</small></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [4]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2329,6 +2363,32 @@ ___
     author = "Benson, Vitus and Robin, Claire and Requena-Mesa, Christian and Alonso, Lazaro and Carvalhais, Nuno and Cort\'es, Jos\'e and Gao, Zhihan and Linscheid, Nora and Weynants, M\'elanie and Reichstein, Markus",
     title = "Multi-modal Learning for Geospatial Vegetation Forecasting",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Verma et al., "ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=xuY33XhEGR>paper</a> <a href=https://arxiv.org/pdf/2404.10024>arxiv</a> <a href=https://github.com/Aalto-QuML/ClimODE>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#weatherbench">WeatherBench</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#acc">ACC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{VermaCliMOD_2024_ICLR,
+    author = "Verma, Yogesh and Heinonen, Markus and Garg, Vikas",
+    title = "Clim{ODE}: Climate and Weather Forecasting with Physics-informed Neural {ODE}s",
+    booktitle = "ICLR",
     year = "2024"
 }
 </pre>

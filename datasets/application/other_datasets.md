@@ -2553,6 +2553,85 @@ A dataset of 80K+ images collected from 21K+ sequences with corresponding text c
 </details>
 
 </ul></details>
+<a name=tcga></a>
+<details close>
+<summary><l style="font-size:20px"><strong>The Cancer Genome Atlas Program (TCGA)</strong></l> <a href=https://www.cancer.gov/ccg/research/genome-sequencing/tcga>link</a> <a href=https://link.springer.com/protocol/10.1007/978-1-4939-3578-9_6>paper</a></summary> 
+<ul><li>
+<em><strong>Summary:</strong></em> 
+A dataset of 20K genomics for 33 types of cancers.
+</li>
+<li>
+<em><strong>Applications:</strong></em> <a href=../../papers/other/other_papers.md#top>Other prediction<application></a></li>
+<li><em><strong>Data type and annotations:</strong></em> RGB, Label</li>
+<li><em><strong>Task:</strong></em> Risk assessment</li>
+</ul><ul style="margin-left:-15px"><details close>
+<summary><strong><em>Used in papers</em></strong></summary>
+<ul><details close>
+<summary><em>Song et al., "Multimodal Prototyping for cancer survival prediction", ICML, 2024.</em> <a href=https://openreview.net/pdf?id=3MfvxH3Gia>paper</a> <a href=https://arxiv.org/pdf/2407.00224>arxiv</a> <a href=https://github.com/mahmoodlab/MMP>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#tcga">TCGA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#c-index">C-index</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#p-value">p-value</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Song_Multimodal_2024_ICML,
+    author = "Song, Andrew H. and Chen, Richard J. and Jaume, Guillaume and Vaidya, Anurag Jayant and Baras, Alexander and Mahmood, Faisal",
+    title = "Multimodal Prototyping for cancer survival prediction",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><em>Zhang et al., "Prototypical Information Bottlenecking and Disentangling for Multimodal Cancer Survival Prediction", ICLR, 2024.</em> <a href=https://openreview.net/pdf?id=otHZ8JAIgh>paper</a> <a href=https://arxiv.org/pdf/2401.01646>arxiv</a> <a href=https://github.com/zylbuaa/PIBD.git>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#tcga">TCGA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#c-index">C-index</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Zhang_prototypical_2024_ICLR,
+    author = "Zhang, Yilan and Xu, Yingxue and Chen, Jianqi and Xie, Fengying and Chen, Hao",
+    title = "Prototypical Information Bottlenecking and Disentangling for Multimodal Cancer Survival Prediction",
+    booktitle = "ICLR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul></details>
+<details close>
+<summary><strong>Bibtex</strong></summary>
+<pre>
+@article{Wang_practical_2024_SGMP,
+    author = "Wang, Zhining and Jensen, Mark A and Zenklusen, Jean Claude",
+    title = "A practical guide to the cancer genome atlas (TCGA)",
+    journal = "Statistical Genomics: Methods and Protocols",
+    pages = "111--141",
+    year = "2016"
+}
+</pre>
+</details>
+
+</ul></details>
 <a name=coax></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Collaborative Action (CoAx)</strong></l> <a href=https://dlgmtzs.github.io/dataset-coax/>link</a> <a href=https://www.scitepress.org/Papers/2022/107756/107756.pdf>paper</a></summary> 
@@ -2723,7 +2802,7 @@ A dataset of simulated crow flow with 87K+ samples
 </li>
 <li>
 <em><strong>Applications:</strong></em> <a href=../../papers/other/other_papers.md#top>Other prediction<application></a></li>
-<li><em><strong>Data type and annotations:</strong></em> Grascale, Trajectory</li>
+<li><em><strong>Data type and annotations:</strong></em> Grayscale, Trajectory</li>
 <li><em><strong>Task:</strong></em> Crowd (Simulation)</li>
 </ul><ul style="margin-left:-15px"><details close>
 <summary><strong><em>Used in papers</em></strong></summary>

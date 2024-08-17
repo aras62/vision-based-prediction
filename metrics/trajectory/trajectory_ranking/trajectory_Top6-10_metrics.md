@@ -2749,6 +2749,34 @@ ___
 </ul>
 </details>
 <details close>
+<summary><strong><em>Lan et al., "SEPT: Towards Efficient Scene Representation Learning for Motion Prediction", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=efeBC1sQj9>paper</a> <a href=https://arxiv.org/pdf/2309.15289>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Lan_SEPT_2024_ICLR,
+    author = "Lan, Zhiqian and Jiang, Yuxuan and Mu, Yao and Chen, Chen and Li, Shengbo Eben",
+    title = "{SEPT}: Towards Efficient Scene Representation Learning for Motion Prediction",
+    booktitle = "ICLR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Zhou et al., "Query-Centric Trajectory Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>

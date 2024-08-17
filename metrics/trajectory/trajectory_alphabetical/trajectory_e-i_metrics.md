@@ -12,7 +12,7 @@ ___
 <h2>E-I <small>[rank]</small></h2> 
 <ul><a name=ece></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -79,7 +79,7 @@ ___
 
 </ul><ul><a name=ecfl></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Environment Collision-Free Likelihood (ECFL)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Environment Collision-Free Likelihood (ECFL)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -905,7 +905,7 @@ ___
 
 </ul><ul><a name=emd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -971,7 +971,7 @@ ___
 
 </ul><ul><a name=entropy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Entropy</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Entropy</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1006,7 +1006,7 @@ ___
 
 </ul><ul><a name=epa></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>End-to-end Prediction Accuracy (EPA)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>End-to-end Prediction Accuracy (EPA)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1070,7 +1070,7 @@ ___
 
 </ul><ul><a name=epe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1104,7 +1104,7 @@ ___
 
 </ul><ul><a name=epe3d></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>3D Endpoint Error (EPE3D)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>3D Endpoint Error (EPE3D)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1135,9 +1135,44 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=es></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Energy Score (ES)</strong><small> [18]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Shahroudi et al., "Evaluation of Trajectory Distribution Predictions with Energy Score", ICML, 2024.</em></strong> <a href=https://openreview.net/pdf?id=FCmWhJQ14I>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#es">ES</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Shahroudi_evaluation_2024_ICML,
+    author = "Shahroudi, Novin and Lepson, Mihkel and Kull, Meelis",
+    title = "Evaluation of Trajectory Distribution Predictions with Energy Score",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=f></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Feasibility (F)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Feasibility (F)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1228,6 +1263,119 @@ ___
     author = "Bae, Inhwan and Park, Young-Jae and Jeon, Hae-Gon",
     title = "SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>chib et al., "MS-TIP: Imputation Aware Pedestrian Trajectory Prediction", ICML, 2024.</em></strong> <a href=https://openreview.net/pdf?id=s4Hy0L4mml>paper</a> <a href=https://github.com/Pranav-chib/MS-TIP>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Chip_MSTIP_2024_ICML,
+    author = "singh chib, Pranav and Nath, Achintya and Kabra, Paritosh and Gupta, Ishu and Singh, Pravendra",
+    title = "{MS}-{TIP}: Imputation Aware Pedestrian Trajectory Prediction",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>chib et al., "Enhancing Trajectory Prediction through Self-Supervised Waypoint Distortion Prediction", ICML, 2024.</em></strong> <a href=https://openreview.net/pdf?id=OQ7TlOphGX>paper</a> <a href=https://arxiv.org/pdf/2312.09466>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Chib_Enhancing_2024_ICML,
+    author = "singh chib, Pranav and Singh, Pravendra",
+    title = "Enhancing Trajectory Prediction through Self-Supervised Waypoint Distortion Prediction",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Park et al., "Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=ziDFH8TPPK>paper</a> <a href=https://arxiv.org/pdf/2401.15726>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#era5">ERA5</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#um">UM</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#best_track">Best Track</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Park_longterm_2024_ICLR,
+    author = "Park, Young-Jae and Seo, Minseok and Kim, Doyi and Kim, Hyeri and Choi, Sanghoon and Choi, Beomkyu and Ryu, Jeongwon and Son, Sohee and Jeon, Hae-Gon and Choi, Yeji",
+    title = "Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data",
+    booktitle = "ICLR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Saadatnejad et al., "Social-Transmotion: Promptable Human Trajectory Prediction", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=SQpnEfv9WH>paper</a> <a href=https://arxiv.org/pdf/2312.16168>arxiv</a> <a href=https://github.com/vita-epfl/social-transmotion>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jrdb">JRDB</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jta">JTA</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pcrt">PCRT</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Saadatnejad_socialtransmotion_2024_ICLR,
+    author = "Saadatnejad, Saeed and Gao, Yang and Messaoud, Kaouther and Alahi, Alexandre",
+    title = "Social-Transmotion: Promptable Human Trajectory Prediction",
+    booktitle = "ICLR",
     year = "2024"
 }
 </pre>
@@ -4773,7 +4921,7 @@ ___
 
 </ul><ul><a name=fiou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final IoU (FIoU)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Final IoU (FIoU)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5042,7 +5190,7 @@ ___
 
 </ul><ul><a name=fle></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Lane Error (FLE)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Final Lane Error (FLE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5079,7 +5227,7 @@ ___
 
 </ul><ul><a name=fnm></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Fraction of Near Misses (FNM)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Fraction of Near Misses (FNM)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5113,7 +5261,7 @@ ___
 
 </ul><ul><a name=frb></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>FRB</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>FRB</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5180,7 +5328,7 @@ ___
 
 </ul><ul><a name=hit_rate></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Hit Rate</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Hit Rate</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5242,7 +5390,7 @@ ___
 
 </ul><ul><a name=hor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Hard Off-road Rate (HOR)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Hard Off-road Rate (HOR)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5276,7 +5424,7 @@ ___
 
 </ul><ul><a name=human></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5311,7 +5459,7 @@ ___
 
 </ul><ul><a name=iminade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>iminADE</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>iminADE</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5352,7 +5500,7 @@ ___
 
 </ul><ul><a name=iminfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>iminFDE</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>iminFDE</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5393,7 +5541,7 @@ ___
 
 </ul><ul><a name=inace></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Image Normalized Average Centroid Error (INACE)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Image Normalized Average Centroid Error (INACE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5428,7 +5576,7 @@ ___
 
 </ul><ul><a name=iou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong><small> [14]</small></l>
+<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>

@@ -42,12 +42,40 @@ ___
 
 </ul>
 </details>
+<details close>
+<summary><strong><em>Zhao et al., "AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=Bb21JPnhhr>paper</a> <a href=https://arxiv.org/pdf/2307.16368>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#ed">ED</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Zhao_AntGPT_2024_ICLR,
+    author = "Zhao, Qi and Wang, Shijie and Zhang, Ce and Fu, Changcheng and Do, Minh Quan and Agarwal, Nakul and Lee, Kwonjoon and Sun, Chen",
+    title = "Ant{GPT}: Can Large Language Models Help Long-term Action Anticipation from Videos?",
+    booktitle = "ICLR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 </ul>
 </details>
 
 </ul><ul><a name=eid></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Edit Distance (EiD)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Edit Distance (EiD)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -691,7 +719,7 @@ ___
 
 </ul><ul><a name=fde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -731,7 +759,7 @@ ___
 
 </ul><ul><a name=fp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>False positive (FP)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>False positive (FP)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>

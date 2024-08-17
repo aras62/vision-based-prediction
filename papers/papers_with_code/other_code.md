@@ -177,6 +177,89 @@ ___
 </ul>
 </details>
 
+<a name=Song_Multimodal_2024_ICML/>
+<details close>
+<summary><strong><em>Song et al., "Multimodal Prototyping for cancer survival prediction", ICML, 2024.</em></strong> <a href=https://openreview.net/pdf?id=3MfvxH3Gia>paper</a> <a href=https://arxiv.org/pdf/2407.00224>arxiv</a> <a href=https://github.com/mahmoodlab/MMP>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#tcga">TCGA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#c-index">C-index</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#p-value">p-value</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Song_Multimodal_2024_ICML,
+    author = "Song, Andrew H. and Chen, Richard J. and Jaume, Guillaume and Vaidya, Anurag Jayant and Baras, Alexander and Mahmood, Faisal",
+    title = "Multimodal Prototyping for cancer survival prediction",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=VermaCliMOD_2024_ICLR/>
+<details close>
+<summary><strong><em>Verma et al., "ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=xuY33XhEGR>paper</a> <a href=https://arxiv.org/pdf/2404.10024>arxiv</a> <a href=https://github.com/Aalto-QuML/ClimODE>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#weatherbench">WeatherBench</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#acc">ACC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{VermaCliMOD_2024_ICLR,
+    author = "Verma, Yogesh and Heinonen, Markus and Garg, Vikas",
+    title = "Clim{ODE}: Climate and Weather Forecasting with Physics-informed Neural {ODE}s",
+    booktitle = "ICLR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Zhang_prototypical_2024_ICLR/>
+<details close>
+<summary><strong><em>Zhang et al., "Prototypical Information Bottlenecking and Disentangling for Multimodal Cancer Survival Prediction", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=otHZ8JAIgh>paper</a> <a href=https://arxiv.org/pdf/2401.01646>arxiv</a> <a href=https://github.com/zylbuaa/PIBD.git>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#tcga">TCGA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#c-index">C-index</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Zhang_prototypical_2024_ICLR,
+    author = "Zhang, Yilan and Xu, Yingxue and Chen, Jianqi and Xie, Fengying and Chen, Hao",
+    title = "Prototypical Information Bottlenecking and Disentangling for Multimodal Cancer Survival Prediction",
+    booktitle = "ICLR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Lin_2023_ICCV/>
 <details close>
 <summary><strong><em>Lin et al., "MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_MMST-ViT_Climate_Change-aware_Crop_Yield_Prediction_via_Multi-Modal_Spatial-Temporal_Vision_ICCV_2023_paper.pdf>paper</a> <a href=https://github.com/fudong03/MMST-ViT>code</a></summary>

@@ -12,7 +12,7 @@ ___
 <h2>A-D <small>[rank]</small></h2> 
 <ul><a name=absdelta></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>absDelta</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>absDelta</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -50,7 +50,7 @@ ___
 
 </ul><ul><a name=accuracy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Accuracy</strong><small> [16]</small></l>
+<summary><em><l style="font-size:20px"><strong>Accuracy</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -291,6 +291,92 @@ ___
     author = "Bae, Inhwan and Park, Young-Jae and Jeon, Hae-Gon",
     title = "SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>chib et al., "MS-TIP: Imputation Aware Pedestrian Trajectory Prediction", ICML, 2024.</em></strong> <a href=https://openreview.net/pdf?id=s4Hy0L4mml>paper</a> <a href=https://github.com/Pranav-chib/MS-TIP>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Chip_MSTIP_2024_ICML,
+    author = "singh chib, Pranav and Nath, Achintya and Kabra, Paritosh and Gupta, Ishu and Singh, Pravendra",
+    title = "{MS}-{TIP}: Imputation Aware Pedestrian Trajectory Prediction",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>chib et al., "Enhancing Trajectory Prediction through Self-Supervised Waypoint Distortion Prediction", ICML, 2024.</em></strong> <a href=https://openreview.net/pdf?id=OQ7TlOphGX>paper</a> <a href=https://arxiv.org/pdf/2312.09466>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Chib_Enhancing_2024_ICML,
+    author = "singh chib, Pranav and Singh, Pravendra",
+    title = "Enhancing Trajectory Prediction through Self-Supervised Waypoint Distortion Prediction",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Saadatnejad et al., "Social-Transmotion: Promptable Human Trajectory Prediction", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=SQpnEfv9WH>paper</a> <a href=https://arxiv.org/pdf/2312.16168>arxiv</a> <a href=https://github.com/vita-epfl/social-transmotion>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jrdb">JRDB</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jta">JTA</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pcrt">PCRT</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Saadatnejad_socialtransmotion_2024_ICLR,
+    author = "Saadatnejad, Saeed and Gao, Yang and Messaoud, Kaouther and Alahi, Alexandre",
+    title = "Social-Transmotion: Promptable Human Trajectory Prediction",
+    booktitle = "ICLR",
     year = "2024"
 }
 </pre>
@@ -4650,7 +4736,7 @@ ___
 
 </ul><ul><a name=aede></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>AEDE</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>AEDE</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4685,7 +4771,7 @@ ___
 
 </ul><ul><a name=aiou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>AIoU</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>AIoU</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4721,7 +4807,7 @@ ___
 
 </ul><ul><a name=al></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Likelihood (AL)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Likelihood (AL)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4759,7 +4845,7 @@ ___
 
 </ul><ul><a name=amd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Mahalanobis Distance (AMD)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Mahalanobis Distance (AMD)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4824,7 +4910,7 @@ ___
 
 </ul><ul><a name=amv></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Maximum Eigenvalue (AMV)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Maximum Eigenvalue (AMV)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4862,7 +4948,7 @@ ___
 
 </ul><ul><a name=ande></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Nonlinear Displacement Error (ANDE)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Nonlinear Displacement Error (ANDE)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4928,7 +5014,7 @@ ___
 
 </ul><ul><a name=ap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4991,7 +5077,7 @@ ___
 
 </ul><ul><a name=apad></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Path Deviation (APaD)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Path Deviation (APaD)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5026,7 +5112,7 @@ ___
 
 </ul><ul><a name=app></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Prediction Probability (APP)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Prediction Probability (APP)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5060,7 +5146,7 @@ ___
 
 </ul><ul><a name=arb></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ARB</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>ARB</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5127,7 +5213,7 @@ ___
 
 </ul><ul><a name=ate></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Along Track Error (ATE)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Along Track Error (ATE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5166,7 +5252,7 @@ ___
 
 </ul><ul><a name=b-ade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>b-ADE</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>b-ADE</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5201,7 +5287,7 @@ ___
 
 </ul><ul><a name=b-minade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>b-minADE</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>b-minADE</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5239,7 +5325,7 @@ ___
 
 </ul><ul><a name=b-minfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>brier-minFDE (b-minFDE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>brier-minFDE (b-minFDE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5266,6 +5352,34 @@ ___
     author = "Tang, Xiaolong and Kan, Meina and Shan, Shiguang and Ji, Zhilong and Bai, Jinfeng and Chen, Xilin",
     title = "HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Lan et al., "SEPT: Towards Efficient Scene Representation Learning for Motion Prediction", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=efeBC1sQj9>paper</a> <a href=https://arxiv.org/pdf/2309.15289>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Lan_SEPT_2024_ICLR,
+    author = "Lan, Zhiqian and Jiang, Yuxuan and Mu, Yao and Chen, Chen and Li, Shengbo Eben",
+    title = "{SEPT}: Towards Efficient Scene Representation Learning for Motion Prediction",
+    booktitle = "ICLR",
     year = "2024"
 }
 </pre>
@@ -5623,7 +5737,7 @@ ___
 
 </ul><ul><a name=bev_ap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Bird's Eye View Average Precision (BEV AP)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Bird's Eye View Average Precision (BEV AP)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5659,7 +5773,7 @@ ___
 
 </ul><ul><a name=bnace></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Box Normalized Average Centroid Error (BNACE)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Box Normalized Average Centroid Error (BNACE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5694,7 +5808,7 @@ ___
 
 </ul><ul><a name=boxorfp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Box Off-Road False Positive (BoxORFP)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Box Off-Road False Positive (BoxORFP)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5729,7 +5843,7 @@ ___
 
 </ul><ul><a name=cd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Chamfer Distance (CD)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Chamfer Distance (CD)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5795,7 +5909,7 @@ ___
 
 </ul><ul><a name=ce></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cross Entropy (CE)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Cross Entropy (CE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5830,7 +5944,7 @@ ___
 
 </ul><ul><a name=cll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Conditional Log-Likelihood (CLL)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Conditional Log-Likelihood (CLL)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5864,7 +5978,7 @@ ___
 
 </ul><ul><a name=cmr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>CMR</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>CMR</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5905,7 +6019,7 @@ ___
 
 </ul><ul><a name=comfort></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Comfort</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Comfort</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5941,7 +6055,7 @@ ___
 
 </ul><ul><a name=cross-col></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cross-Col</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Cross-Col</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5982,7 +6096,7 @@ ___
 
 </ul><ul><a name=ct></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Completion Time (CT)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Completion Time (CT)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -6016,7 +6130,7 @@ ___
 
 </ul><ul><a name=cte></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cross Track Error (CTE)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Cross Track Error (CTE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -6055,7 +6169,7 @@ ___
 
 </ul><ul><a name=ctrorfp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Center Off-Road False Positive (CtrORFP)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Center Off-Road False Positive (CtrORFP)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -6090,7 +6204,7 @@ ___
 
 </ul><ul><a name=dac></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Drivable Area Compliance (DAC)</strong><small> [16]</small></l>
+<summary><em><l style="font-size:20px"><strong>Drivable Area Compliance (DAC)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -6219,7 +6333,7 @@ ___
 
 </ul><ul><a name=dao></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>DAO</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>DAO</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -6257,7 +6371,7 @@ ___
 
 </ul><ul><a name=de></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Displacement Error (DE)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Displacement Error (DE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -6293,7 +6407,7 @@ ___
 
 </ul><ul><a name=deltaesv></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Delta Empirical Sigma Value (DeltaESV)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Delta Empirical Sigma Value (DeltaESV)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -6330,7 +6444,7 @@ ___
 
 </ul><ul><a name=dtg></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Distance to Goal (DtG)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Distance to Goal (DtG)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>

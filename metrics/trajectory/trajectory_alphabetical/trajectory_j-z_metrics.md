@@ -12,7 +12,7 @@ ___
 <h2>J-Z <small>[rank]</small></h2> 
 <ul><a name=kde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Keypoint Displacement Error (KDE)</strong><small> [17]</small></l>
+<summary><em><l style="font-size:20px"><strong>Keypoint Displacement Error (KDE)</strong><small> [16]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -107,7 +107,7 @@ ___
 
 </ul><ul><a name=kld></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -257,7 +257,7 @@ ___
 
 </ul><ul><a name=l1></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>L1</strong><small> [17]</small></l>
+<summary><em><l style="font-size:20px"><strong>L1</strong><small> [16]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -351,7 +351,7 @@ ___
 
 </ul><ul><a name=l2></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>L2</strong><small> [14]</small></l>
+<summary><em><l style="font-size:20px"><strong>L2</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -525,7 +525,7 @@ ___
 
 </ul><ul><a name=ll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Log-Likelihood (LL)</strong><small> [14]</small></l>
+<summary><em><l style="font-size:20px"><strong>Log-Likelihood (LL)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -697,7 +697,7 @@ ___
 
 </ul><ul><a name=mae></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -841,7 +841,7 @@ ___
 
 </ul><ul><a name=mane></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean angular error (MAnE)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean angular error (MAnE)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1308,7 +1308,7 @@ ___
 
 </ul><ul><a name=mape></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1372,7 +1372,7 @@ ___
 
 </ul><ul><a name=maps></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>mAPs</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>mAPs</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1408,7 +1408,7 @@ ___
 
 </ul><ul><a name=maxd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Maximum Distance (MaxD)</strong><small> [17]</small></l>
+<summary><em><l style="font-size:20px"><strong>Maximum Distance (MaxD)</strong><small> [16]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1506,7 +1506,7 @@ ___
 
 </ul><ul><a name=maxd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>maxD</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>maxD</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1570,7 +1570,7 @@ ___
 
 </ul><ul><a name=mc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mode Coverage (MC)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mode Coverage (MC)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1609,7 +1609,7 @@ ___
 
 </ul><ul><a name=meanade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>meanADE</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>meanADE</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1676,7 +1676,7 @@ ___
 
 </ul><ul><a name=meanfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>meanFDE</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>meanFDE</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1743,7 +1743,7 @@ ___
 
 </ul><ul><a name=meanmsd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>mean Mean Square Displacement (meanMSD)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>mean Mean Square Displacement (meanMSD)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1805,7 +1805,7 @@ ___
 
 </ul><ul><a name=meansade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>meanSADE</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>meanSADE</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1844,7 +1844,7 @@ ___
 
 </ul><ul><a name=meansfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>meanSFDE</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>meanSFDE</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1883,7 +1883,7 @@ ___
 
 </ul><ul><a name=mhd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Modified Hausdorff Distance (MHD)</strong><small> [14]</small></l>
+<summary><em><l style="font-size:20px"><strong>Modified Hausdorff Distance (MHD)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2512,6 +2512,34 @@ ___
     author = "Yang, Zetong and Chen, Li and Sun, Yanan and Li, Hongyang",
     title = "Visual Point Cloud Forecasting enables Scalable Autonomous Driving",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Lan et al., "SEPT: Towards Efficient Scene Representation Learning for Motion Prediction", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=efeBC1sQj9>paper</a> <a href=https://arxiv.org/pdf/2309.15289>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Lan_SEPT_2024_ICLR,
+    author = "Lan, Zhiqian and Jiang, Yuxuan and Mu, Yao and Chen, Chen and Li, Shengbo Eben",
+    title = "{SEPT}: Towards Efficient Scene Representation Learning for Motion Prediction",
+    booktitle = "ICLR",
     year = "2024"
 }
 </pre>
@@ -7795,7 +7823,7 @@ ___
 
 </ul><ul><a name=minasd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minASD</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>minASD</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -7831,7 +7859,7 @@ ___
 
 </ul><ul><a name=mined></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minED</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>minED</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -8348,6 +8376,61 @@ ___
     author = "Yang, Zetong and Chen, Li and Sun, Yanan and Li, Hongyang",
     title = "Visual Point Cloud Forecasting enables Scalable Autonomous Driving",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Shahroudi et al., "Evaluation of Trajectory Distribution Predictions with Energy Score", ICML, 2024.</em></strong> <a href=https://openreview.net/pdf?id=FCmWhJQ14I>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#es">ES</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Shahroudi_evaluation_2024_ICML,
+    author = "Shahroudi, Novin and Lepson, Mihkel and Kull, Meelis",
+    title = "Evaluation of Trajectory Distribution Predictions with Energy Score",
+    booktitle = "ICML",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Lan et al., "SEPT: Towards Efficient Scene Representation Learning for Motion Prediction", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=efeBC1sQj9>paper</a> <a href=https://arxiv.org/pdf/2309.15289>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Lan_SEPT_2024_ICLR,
+    author = "Lan, Zhiqian and Jiang, Yuxuan and Mu, Yao and Chen, Chen and Li, Shengbo Eben",
+    title = "{SEPT}: Towards Efficient Scene Representation Learning for Motion Prediction",
+    booktitle = "ICLR",
     year = "2024"
 }
 </pre>
@@ -13408,7 +13491,7 @@ ___
 
 </ul><ul><a name=minfsd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minFSD</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>minFSD</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -13444,7 +13527,7 @@ ___
 
 </ul><ul><a name=minjointade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minJointADE</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>minJointADE</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -13602,7 +13685,7 @@ ___
 
 </ul><ul><a name=minjointfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minJointFDE</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>minJointFDE</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -13760,7 +13843,7 @@ ___
 
 </ul><ul><a name=minmde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minMDE</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>minMDE</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -13799,7 +13882,7 @@ ___
 
 </ul><ul><a name=minmsd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minMSD</strong><small> [17]</small></l>
+<summary><em><l style="font-size:20px"><strong>minMSD</strong><small> [16]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -13888,7 +13971,7 @@ ___
 
 </ul><ul><a name=minsade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minimum Scene ADE (minSADE)</strong><small> [16]</small></l>
+<summary><em><l style="font-size:20px"><strong>minimum Scene ADE (minSADE)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -14016,7 +14099,7 @@ ___
 
 </ul><ul><a name=minsfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minimum Scene FDE (minSFDE)</strong><small> [16]</small></l>
+<summary><em><l style="font-size:20px"><strong>minimum Scene FDE (minSFDE)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -14144,7 +14227,7 @@ ___
 
 </ul><ul><a name=miou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean IoU (MIoU)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean IoU (MIoU)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -14206,7 +14289,7 @@ ___
 
 </ul><ul><a name=mmd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Maximum Mean Discrepancy (MMD)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Maximum Mean Discrepancy (MMD)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -14270,7 +14353,7 @@ ___
 
 </ul><ul><a name=mota></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>MOTA</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>MOTA</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -14304,7 +14387,7 @@ ___
 
 </ul><ul><a name=mpg></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Maximum Prediction Gap (MPG)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Maximum Prediction Gap (MPG)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -14537,6 +14620,34 @@ ___
     author = "Yang, Zetong and Chen, Li and Sun, Yanan and Li, Hongyang",
     title = "Visual Point Cloud Forecasting enables Scalable Autonomous Driving",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Lan et al., "SEPT: Towards Efficient Scene Representation Learning for Motion Prediction", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=efeBC1sQj9>paper</a> <a href=https://arxiv.org/pdf/2309.15289>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#b-minfde">b-minFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Lan_SEPT_2024_ICLR,
+    author = "Lan, Zhiqian and Jiang, Yuxuan and Mu, Yao and Chen, Chen and Li, Shengbo Eben",
+    title = "{SEPT}: Towards Efficient Scene Representation Learning for Motion Prediction",
+    booktitle = "ICLR",
     year = "2024"
 }
 </pre>
@@ -16165,7 +16276,7 @@ ___
 
 </ul><ul><a name=mse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17231,7 +17342,7 @@ ___
 
 </ul><ul><a name=nlp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Probability (NLP)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Probability (NLP)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17293,7 +17404,7 @@ ___
 
 </ul><ul><a name=none></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>None</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>None</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17327,7 +17438,7 @@ ___
 
 </ul><ul><a name=or></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Overlap Rate (OR)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Overlap Rate (OR)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17366,7 +17477,7 @@ ___
 
 </ul><ul><a name=orr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Off-Road Rate (ORR)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Off-Road Rate (ORR)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17576,7 +17687,7 @@ ___
 
 </ul><ul><a name=overlap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Overlap</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Overlap</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17643,7 +17754,7 @@ ___
 
 </ul><ul><a name=pd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Percentage Deviated (PD)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Percentage Deviated (PD)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17677,7 +17788,7 @@ ___
 
 </ul><ul><a name=ppei></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Part of Prediction Error Inside (PPEI)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Part of Prediction Error Inside (PPEI)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17712,7 +17823,7 @@ ___
 
 </ul><ul><a name=precision></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Precision</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Precision</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17747,7 +17858,7 @@ ___
 
 </ul><ul><a name=probability></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Probability</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Probability</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17781,7 +17892,7 @@ ___
 
 </ul><ul><a name=progress></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Progress</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Progress</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17816,7 +17927,7 @@ ___
 
 </ul><ul><a name=prs></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Perturbation Resistance Score (PRS)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Perturbation Resistance Score (PRS)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17854,7 +17965,7 @@ ___
 
 </ul><ul><a name=ptu></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Percentage of Trajectory Usage (PTU)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Percentage of Trajectory Usage (PTU)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17889,7 +18000,7 @@ ___
 
 </ul><ul><a name=qde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Quantile Distance Error (QDE)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Quantile Distance Error (QDE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17928,7 +18039,7 @@ ___
 
 </ul><ul><a name=qualitative></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Qualitative</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Qualitative</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17962,7 +18073,7 @@ ___
 
 </ul><ul><a name=ra></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Retained Accuracy (RA)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Retained Accuracy (RA)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -17996,7 +18107,7 @@ ___
 
 </ul><ul><a name=recall></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Recall</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Recall</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18030,7 +18141,7 @@ ___
 
 </ul><ul><a name=rf></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>RF</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>RF</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18068,7 +18179,7 @@ ___
 
 </ul><ul><a name=risk></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Risk</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Risk</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18835,7 +18946,7 @@ ___
 
 </ul><ul><a name=rt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -18890,6 +19001,35 @@ ___
     author = "Park, Daehee and Jeong, Jaeseok and Yoon, Sung-Hoon and Jeong, Jaewoo and Yoon, Kuk-Jin",
     title = "T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>chib et al., "Enhancing Trajectory Prediction through Self-Supervised Waypoint Distortion Prediction", ICML, 2024.</em></strong> <a href=https://openreview.net/pdf?id=OQ7TlOphGX>paper</a> <a href=https://arxiv.org/pdf/2312.09466>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Chib_Enhancing_2024_ICML,
+    author = "singh chib, Pranav and Singh, Pravendra",
+    title = "Enhancing Trajectory Prediction through Self-Supervised Waypoint Distortion Prediction",
+    booktitle = "ICML",
     year = "2024"
 }
 </pre>
@@ -18990,7 +19130,7 @@ ___
 
 </ul><ul><a name=run_time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [14]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -19159,7 +19299,7 @@ ___
 
 </ul><ul><a name=rv></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Road Violation (RV)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Road Violation (RV)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -19194,7 +19334,7 @@ ___
 
 </ul><ul><a name=rwse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>RWSE</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>RWSE</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -19228,7 +19368,7 @@ ___
 
 </ul><ul><a name=safety></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Safety</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Safety</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -19264,7 +19404,7 @@ ___
 
 </ul><ul><a name=scr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>State Collision Rate (SCR)</strong><small> [17]</small></l>
+<summary><em><l style="font-size:20px"><strong>State Collision Rate (SCR)</strong><small> [16]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -19363,7 +19503,7 @@ ___
 
 </ul><ul><a name=smr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>SMR</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>SMR</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -19432,7 +19572,7 @@ ___
 
 </ul><ul><a name=soft-map></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>soft-mAP</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>soft-mAP</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -19469,7 +19609,7 @@ ___
 
 </ul><ul><a name=sor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Soft Off-road Rate (SOR)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Soft Off-road Rate (SOR)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -19503,7 +19643,7 @@ ___
 
 </ul><ul><a name=tasr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>trajectory Attack Success Rate (tASR)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>trajectory Attack Success Rate (tASR)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -19540,7 +19680,7 @@ ___
 
 </ul><ul><a name=tca></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>trajectory Clean Accuracy (tCA)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>trajectory Clean Accuracy (tCA)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -19577,7 +19717,7 @@ ___
 
 </ul><ul><a name=tcc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Temporal Correlation Coefficient (TCC)</strong><small> [16]</small></l>
+<summary><em><l style="font-size:20px"><strong>Temporal Correlation Coefficient (TCC)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -19703,7 +19843,7 @@ ___
 
 </ul><ul><a name=tcr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Trajectory Collision Rate (TCR)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Trajectory Collision Rate (TCR)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -19994,7 +20134,7 @@ ___
 
 </ul><ul><a name=time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Time</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Time</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -20030,7 +20170,7 @@ ___
 
 </ul><ul><a name=tn></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -20066,7 +20206,7 @@ ___
 
 </ul><ul><a name=tp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Positive (TP)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Positive (TP)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -20102,7 +20242,7 @@ ___
 
 </ul><ul><a name=tri></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Turning Radius Infeasibility (TRI)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Turning Radius Infeasibility (TRI)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -20139,7 +20279,7 @@ ___
 
 </ul><ul><a name=twae></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Time Weighted Absolute Error (TWAE)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Time Weighted Absolute Error (TWAE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -20174,7 +20314,7 @@ ___
 
 </ul><ul><a name=ur></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Unsmooth Ratio (UR)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Unsmooth Ratio (UR)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -20239,7 +20379,7 @@ ___
 
 </ul><ul><a name=vam></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>VAM</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>VAM</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -20275,7 +20415,7 @@ ___
 
 </ul><ul><a name=vim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>VIM</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>VIM</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -20311,7 +20451,7 @@ ___
 
 </ul><ul><a name=vpq></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Video Panoptic Quality (VPQ)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Video Panoptic Quality (VPQ)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -20345,7 +20485,7 @@ ___
 
 </ul><ul><a name=wade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>weighted ADE (wADE)</strong><small> [16]</small></l>
+<summary><em><l style="font-size:20px"><strong>weighted ADE (wADE)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -20470,7 +20610,7 @@ ___
 
 </ul><ul><a name=wfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>weighted FDE (wFDE)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>weighted FDE (wFDE)</strong><small> [17]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -20536,7 +20676,7 @@ ___
 
 </ul><ul><a name=wrmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>WRMSE</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>WRMSE</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -20571,7 +20711,7 @@ ___
 
 </ul><ul><a name=wsade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Weighted Sum ADE (WSADE)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Weighted Sum ADE (WSADE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -20613,7 +20753,7 @@ ___
 
 </ul><ul><a name=wsfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Weighted Sum FDE (WSFDE)</strong><small> [19]</small></l>
+<summary><em><l style="font-size:20px"><strong>Weighted Sum FDE (WSFDE)</strong><small> [18]</small></l>
 </em></summary>
 <ul>
 <details close>
