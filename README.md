@@ -41,6 +41,7 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 17/08/2024: Added ICLR and ICML 2024 papers (12 papers, 9 datasets, 4 metrics)
 * 11/08/2024: Added CVPR 2024 papers (48 papers, 10 datasets, 13 metrics)
 * 11/08/2024: Note that this is the last year covering ACCV and BMVC papers due to the volume of papers in other conferences 
 * 25/02/2024: Added IROS 2023 papers (16 papers, 4 datasets, 1 metric)
