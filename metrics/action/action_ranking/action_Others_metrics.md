@@ -10,13 +10,40 @@ ___
 [Top5](action_Top5_metrics.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Top6-10](action_Top6-10_metrics.md#top)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Others&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ___
 <h2>Others</h2> 
-<ul><a name=run_time></a>
+<ul><a name=tta></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong></l>
+<summary><em><l style="font-size:20px"><strong>Time To Accident (TTA)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Driess et al., "Deep Visual Reasoning: Learning to Predict Action Sequences for Task and Motion Planning from an Initial Scene Image", RSS, 2020.</em></strong> <a href=http://www.roboticsproceedings.org/rss16/p003.pdf>paper</a> <a href=https://arxiv.org/pdf/2006.05398.pdf>arxiv</a></summary>
+<summary><strong><em>Bao et al., "DRIVE: Deep Reinforced Accident Anticipation With Visual Explanation", ICCV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Bao_DRIVE_Deep_Reinforced_Accident_Anticipation_With_Visual_Explanation_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2107.10189.pdf>arxiv</a> <a href=https://github.com/Cogito2012/DRIVE>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#dada-2000">DADA-2000</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tta">TTA</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Bao_2021_ICCV,
+    author = "Bao, Wentao and Yu, Qi and Kong, Yu",
+    title = "{DRIVE}: Deep Reinforced Accident Anticipation With Visual Explanation",
+    booktitle = "ICCV",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Wang et al., "A Learning-Based Prediction Model For Baby Accidents", ICIP, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8803820>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -25,45 +52,18 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#run_time">Run Time</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Driess_2020_RSS,
-    author = "Driess, Danny and Ha, Jung-Su and Toussaint, Marc",
-    title = "Deep Visual Reasoning: Learning to Predict Action Sequences for Task and Motion Planning from an Initial Scene Image",
-    booktitle = "RSS",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Gujjar et al., "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8794278>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#run_time">Run Time</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tta">TTA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Gujjar_2019_ICRA,
-    author = "Gujjar, P. and Vaughan, R.",
-    booktitle = "ICRA",
-    title = "Classifying Pedestrian Actions In Advance Using Predicted Video Of Urban Driving Scenes",
+@InProceedings{Wang_2019_ICIP,
+    author = "Wang, P. and Lien, S. and Lee, M.",
+    booktitle = "ICIP",
+    title = "A Learning-Based Prediction Model For Baby Accidents",
     year = "2019"
 }
 </pre>
@@ -72,88 +72,92 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Saleh et al., "Real-Time Intent Prediction Of Pedestrians For Autonomous Ground Vehicles Via Spatio-Temporal DenseNet", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793991>paper</a> <a href=https://arxiv.org/pdf/1904.09862.pdf>arxiv</a></summary>
+<summary><strong><em>Zeng et al., "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization", CVPR, 2017.</em></strong> <a href=https://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_Agent-Centric_Risk_Assessment_CVPR_2017_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1705.06560.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#ap">AP</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#run_time">Run Time</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Saleh_2019_ICRA,
-    author = "Saleh, K. and Hossny, M. and Nahavandi, S.",
-    booktitle = "ICRA",
-    title = "Real-Time Intent Prediction Of Pedestrians For Autonomous Ground Vehicles Via Spatio-Temporal {DenseNet}",
-    year = "2019"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=ed></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Mittal et al., "Can't Make an Omelette Without Breaking Some Eggs: Plausible Action Anticipation Using Large Video-Language Models", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Mittal_Cant_Make_an_Omelette_Without_Breaking_Some_Eggs_Plausible_Action_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.20305>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#ed">ED</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mittal_Cant_2024_CVPR,
-    author = "Mittal, Himangi and Agarwal, Nakul and Lo, Shao-Yuan and Lee, Kwonjoon",
-    title = "Can't Make an Omelette Without Breaking Some Eggs: Plausible Action Anticipation Using Large Video-Language Models",
-    booktitle = "CVPR",
-    year = "2024"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Zhao et al., "AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=Bb21JPnhhr>paper</a> <a href=https://arxiv.org/pdf/2307.16368>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#dad">DAD</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-fail">Epic-Fail</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#ed">ED</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tta">TTA</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@inproceedings{Zhao_AntGPT_2024_ICLR,
-    author = "Zhao, Qi and Wang, Shijie and Zhang, Ce and Fu, Changcheng and Do, Minh Quan and Agarwal, Nakul and Lee, Kwonjoon and Sun, Chen",
-    title = "Ant{GPT}: Can Large Language Models Help Long-term Action Anticipation from Videos?",
-    booktitle = "ICLR",
+@InProceedings{Zeng_2017_CVPR,
+    author = "Zeng, Kuo-Hao and Chou, Shih-Han and Chan, Fu-Hsiang and Carlos Niebles, Juan and Sun, Min",
+    title = "Agent-Centric Risk Assessment: Accident Anticipation And Risky Region Localization",
+    booktitle = "CVPR",
+    year = "2017"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=tpr></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Arreghini et al., "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610289>paper</a> <a href=https://arxiv.org/pdf/2404.01986>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#time">Time</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#madd">MADD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Arreghini_Predicting_2024_ICRA,
+    author = "Arreghini, Simone and Abbate, Gabriele and Giusti, Alessandro and Paolillo, Antonio",
+    booktitle = "ICRA",
+    title = "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues",
     year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Volz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7313236>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tnr">TNR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Volz_2015_ITSC,
+    author = "Volz, Benjamin and Mielenz, Holger and Agamennoni, Gabriel and Siegwart, Roland",
+    title = "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks",
+    booktitle = "ITSC",
+    year = "2015"
 }
 </pre>
 </details>
@@ -228,31 +232,60 @@ ___
 </ul>
 </details>
 
-<a name=mrr></a>
+<a name=ed></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Reciprocal Rank (MRR)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Xu et al., "Activity Auto-Completion: Predicting Human Activities From Partial Videos", ICCV, 2015.</em></strong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Activity_Auto-Completion_Predicting_ICCV_2015_paper.pdf>paper</a></summary>
+<summary><strong><em>Mittal et al., "Can't Make an Omelette Without Breaking Some Eggs: Plausible Action Anticipation Using Large Video-Language Models", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Mittal_Cant_Make_an_Omelette_Without_Breaking_Some_Eggs_Plausible_Action_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.20305>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#uti">UTI</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#mrr">MRR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#ed">ED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Xu_2015_ICCV,
-    author = "Xu, Zhen and Qing, Laiyun and Miao, Jun",
-    title = "Activity Auto-Completion: Predicting Human Activities From Partial Videos",
-    booktitle = "ICCV",
-    year = "2015"
+@InProceedings{Mittal_Cant_2024_CVPR,
+    author = "Mittal, Himangi and Agarwal, Nakul and Lo, Shao-Yuan and Lee, Kwonjoon",
+    title = "Can't Make an Omelette Without Breaking Some Eggs: Plausible Action Anticipation Using Large Video-Language Models",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Zhao et al., "AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?", ICLR, 2024.</em></strong> <a href=https://openreview.net/pdf?id=Bb21JPnhhr>paper</a> <a href=https://arxiv.org/pdf/2307.16368>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#ed">ED</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Zhao_AntGPT_2024_ICLR,
+    author = "Zhao, Qi and Wang, Shijie and Zhang, Ce and Fu, Changcheng and Do, Minh Quan and Agarwal, Nakul and Lee, Kwonjoon and Sun, Chen",
+    title = "Ant{GPT}: Can Large Language Models Help Long-term Action Anticipation from Videos?",
+    booktitle = "ICLR",
+    year = "2024"
 }
 </pre>
 </details>
@@ -262,33 +295,71 @@ ___
 </ul>
 </details>
 
-<a name=fp></a>
+<a name=quality></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>False positive (FP)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Quality</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Jain et al., "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models", ICCV, 2015.</em></strong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1504.02789.pdf>arxiv</a></summary>
+<summary><strong><em>Diller et al., "FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Diller_FutureHuman3D_Forecasting_Complex_Long-Term_3D_Human_Behavior_from_Video_Observations_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.14309>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#brain4cars">Brain4Cars</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mpii_cooking">MPII Cooking</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ikea_asm">IKEA ASM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#ttm">TTM</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#fp">FP</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#quality">Quality</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#mpjpe">MPJPE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Jain_2015_ICCV,
-    author = "Jain, Ashesh and Koppula, Hema S. and Raghavan, Bharad and Soh, Shane and Saxena, Ashutosh",
-    title = "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models",
-    booktitle = "ICCV",
-    year = "2015"
+@InProceedings{Diller_FutureHuman3D_2024_CVPR,
+    author = "Diller, Christian and Funkhouser, Thomas and Dai, Angela",
+    title = "FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations",
+    booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=time></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Time</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Arreghini et al., "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610289>paper</a> <a href=https://arxiv.org/pdf/2404.01986>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#time">Time</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#madd">MADD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Arreghini_Predicting_2024_ICRA,
+    author = "Arreghini, Simone and Abbate, Gabriele and Giusti, Alessandro and Paolillo, Antonio",
+    booktitle = "ICRA",
+    title = "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues",
+    year = "2024"
 }
 </pre>
 </details>
@@ -334,33 +405,247 @@ ___
 </ul>
 </details>
 
-<a name=quality></a>
+<a name=edist></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Quality</strong></l>
+<summary><em><l style="font-size:20px"><strong>EDist</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Diller et al., "FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations", CVPR, 2024.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2024/papers/Diller_FutureHuman3D_Forecasting_Complex_Long-Term_3D_Human_Behavior_from_Video_Observations_CVPR_2024_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.14309>arxiv</a></summary>
+<summary><strong><em>Weerasinghe et al., "Multimodal Transformers for Real-Time Surgical Activity Prediction", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611048>paper</a> <a href=https://arxiv.org/pdf/2403.06705>arxiv</a> <a href=https://github.com/UVA-DSA/MTRSAP>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mpii_cooking">MPII Cooking</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ikea_asm">IKEA ASM</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jigsaws">JIGSAWS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#quality">Quality</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#edist">EDist</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Diller_FutureHuman3D_2024_CVPR,
-    author = "Diller, Christian and Funkhouser, Thomas and Dai, Angela",
-    title = "FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations",
-    booktitle = "CVPR",
+@inproceedings{Weerasinghe_Multimodal_2024_ICRA,
+    author = "Weerasinghe, Keshara and Reza Roodabeh, Seyed Hamid and Hutchinson, Kay and Alemzadeh, Homa",
+    booktitle = "ICRA",
+    title = "Multimodal Transformers for Real-Time Surgical Activity Prediction",
     year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=eid></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Edit Distance (EiD)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Mascaro et al., "Intention-Conditioned Long-Term Human Egocentric Action Anticipation", WACV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2023/papers/Mascaro_Intention-Conditioned_Long-Term_Human_Egocentric_Action_Anticipation_WACV_2023_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#eid">EiD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Mascaro_2023_WACV,
+    author = "Mascaro, Esteve Valls and Ahn, Hyemin and Lee, Dongheui",
+    title = "Intention-Conditioned Long-Term Human Egocentric Action Anticipation",
+    booktitle = "WACV",
+    year = "2023"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=madd></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mean Advance Detection Distance (MADD)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Arreghini et al., "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610289>paper</a> <a href=https://arxiv.org/pdf/2404.01986>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#time">Time</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#madd">MADD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Arreghini_Predicting_2024_ICRA,
+    author = "Arreghini, Simone and Abbate, Gabriele and Giusti, Alessandro and Paolillo, Antonio",
+    booktitle = "ICRA",
+    title = "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=tnr></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>TNR</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Volz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7313236>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tnr">TNR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Volz_2015_ITSC,
+    author = "Volz, Benjamin and Mielenz, Holger and Agamennoni, Gabriel and Siegwart, Roland",
+    title = "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks",
+    booktitle = "ITSC",
+    year = "2015"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=bleu@n></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>BLEU@N</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Hosseinzadeh et al., "Video Captioning of Future Frames", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Hosseinzadeh_Video_Captioning_of_Future_Frames_WACV_2021_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#activitynet">ActivityNet</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#swag">SWAG</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#cider">CIDEr</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#rouge-l">ROUGE-L</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#meteor">METEOR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#bleu@n">BLEU@N</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Hosseinzadeh_2021_WACV,
+    author = "Hosseinzadeh, Mehrdad and Wang, Yang",
+    title = "Video Captioning of Future Frames",
+    booktitle = "WACV",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=mof></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mean-over-frame (MoF)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Morais et al., "Learning to Abstract and Predict Human Actions", BMVC, 2020.</em></strong> <a href=https://www.bmvc2020-conference.com/assets/papers/0979.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.09234.pdf>arxiv</a> <a href=https://github.com/RomeroBarata/hierarchical_action_prediction>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#mof">MoF</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#moc">MoC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Morais_2020_BMVC,
+    author = "Morais, Romero and Le, Vuong and Tran, Truyen and Venkatesh, Svetha",
+    title = "Learning to Abstract and Predict Human Actions",
+    booktitle = "BMVC",
+    year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=fp></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>False positive (FP)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Jain et al., "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models", ICCV, 2015.</em></strong> <a href=https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Jain_Car_That_Knows_ICCV_2015_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1504.02789.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#brain4cars">Brain4Cars</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#ttm">TTM</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#fp">FP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Jain_2015_ICCV,
+    author = "Jain, Ashesh and Koppula, Hema S. and Raghavan, Bharad and Soh, Shane and Saxena, Ashutosh",
+    title = "Car That Knows Before You Do: Anticipating Maneuvers Via Learning Temporal Driving Models",
+    booktitle = "ICCV",
+    year = "2015"
 }
 </pre>
 </details>
@@ -474,40 +759,6 @@ ___
 </ul>
 </details>
 
-<a name=eid></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Edit Distance (EiD)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Mascaro et al., "Intention-Conditioned Long-Term Human Egocentric Action Anticipation", WACV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2023/papers/Mascaro_Intention-Conditioned_Long-Term_Human_Egocentric_Action_Anticipation_WACV_2023_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#eid">EiD</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Mascaro_2023_WACV,
-    author = "Mascaro, Esteve Valls and Ahn, Hyemin and Lee, Dongheui",
-    title = "Intention-Conditioned Long-Term Human Egocentric Action Anticipation",
-    booktitle = "WACV",
-    year = "2023"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
 <a name=attc></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>ATTC</strong></l>
@@ -579,34 +830,31 @@ ___
 </ul>
 </details>
 
-<a name=bleu@n></a>
+<a name=moc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>BLEU@N</strong></l>
+<summary><em><l style="font-size:20px"><strong>Mean-over-class (MoC)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Hosseinzadeh et al., "Video Captioning of Future Frames", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Hosseinzadeh_Video_Captioning_of_Future_Frames_WACV_2021_paper.pdf>paper</a></summary>
+<summary><strong><em>Morais et al., "Learning to Abstract and Predict Human Actions", BMVC, 2020.</em></strong> <a href=https://www.bmvc2020-conference.com/assets/papers/0979.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.09234.pdf>arxiv</a> <a href=https://github.com/RomeroBarata/hierarchical_action_prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#activitynet">ActivityNet</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#swag">SWAG</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#cider">CIDEr</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#rouge-l">ROUGE-L</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#meteor">METEOR</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#bleu@n">BLEU@N</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#mof">MoF</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#moc">MoC</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Hosseinzadeh_2021_WACV,
-    author = "Hosseinzadeh, Mehrdad and Wang, Yang",
-    title = "Video Captioning of Future Frames",
-    booktitle = "WACV",
-    year = "2021"
+@InProceedings{Morais_2020_BMVC,
+    author = "Morais, Romero and Le, Vuong and Tran, Truyen and Venkatesh, Svetha",
+    title = "Learning to Abstract and Predict Human Actions",
+    booktitle = "BMVC",
+    year = "2020"
 }
 </pre>
 </details>
@@ -616,143 +864,30 @@ ___
 </ul>
 </details>
 
-<a name=meteor></a>
+<a name=mrr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>METEOR</strong></l>
+<summary><em><l style="font-size:20px"><strong>Mean Reciprocal Rank (MRR)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Hosseinzadeh et al., "Video Captioning of Future Frames", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Hosseinzadeh_Video_Captioning_of_Future_Frames_WACV_2021_paper.pdf>paper</a></summary>
+<summary><strong><em>Xu et al., "Activity Auto-Completion: Predicting Human Activities From Partial Videos", ICCV, 2015.</em></strong> <a href=https://openaccess.thecvf.com/content_iccv_2015/papers/Xu_Activity_Auto-Completion_Predicting_ICCV_2015_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#activitynet">ActivityNet</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#swag">SWAG</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#cider">CIDEr</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#rouge-l">ROUGE-L</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#meteor">METEOR</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#bleu@n">BLEU@N</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hosseinzadeh_2021_WACV,
-    author = "Hosseinzadeh, Mehrdad and Wang, Yang",
-    title = "Video Captioning of Future Frames",
-    booktitle = "WACV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=rouge-l></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>ROUGE-L</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Hosseinzadeh et al., "Video Captioning of Future Frames", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Hosseinzadeh_Video_Captioning_of_Future_Frames_WACV_2021_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#activitynet">ActivityNet</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#swag">SWAG</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#cider">CIDEr</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#rouge-l">ROUGE-L</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#meteor">METEOR</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#bleu@n">BLEU@N</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hosseinzadeh_2021_WACV,
-    author = "Hosseinzadeh, Mehrdad and Wang, Yang",
-    title = "Video Captioning of Future Frames",
-    booktitle = "WACV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=cider></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Hosseinzadeh et al., "Video Captioning of Future Frames", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Hosseinzadeh_Video_Captioning_of_Future_Frames_WACV_2021_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#activitynet">ActivityNet</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#swag">SWAG</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#cider">CIDEr</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#rouge-l">ROUGE-L</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#meteor">METEOR</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#bleu@n">BLEU@N</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Hosseinzadeh_2021_WACV,
-    author = "Hosseinzadeh, Mehrdad and Wang, Yang",
-    title = "Video Captioning of Future Frames",
-    booktitle = "WACV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=tpr></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Volz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7313236>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#uti">UTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tnr">TNR</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#mrr">MRR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Volz_2015_ITSC,
-    author = "Volz, Benjamin and Mielenz, Holger and Agamennoni, Gabriel and Siegwart, Roland",
-    title = "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks",
-    booktitle = "ITSC",
+@InProceedings{Xu_2015_ICCV,
+    author = "Xu, Zhen and Qing, Laiyun and Miao, Jun",
+    title = "Activity Auto-Completion: Predicting Human Activities From Partial Videos",
+    booktitle = "ICCV",
     year = "2015"
 }
 </pre>
@@ -763,46 +898,9 @@ ___
 </ul>
 </details>
 
-<a name=nll></a>
+<a name=fde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Ke et al., "Future Moment Assessment for Action Query", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Ke_Future_Moment_Assessment_for_Action_Query_WACV_2021_paper.pdf>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#rmse">RMSE</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#nll">NLL</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Ke_2021_WACV,
-    author = "Ke, Qiuhong and Fritz, Mario and Schiele, Bernt",
-    title = "Future Moment Assessment for Action Query",
-    booktitle = "WACV",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=kld></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong></l>
 </em></summary>
 <ul>
 <details close>
@@ -880,9 +978,9 @@ ___
 </ul>
 </details>
 
-<a name=fde></a>
+<a name=kld></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong></l>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong></l>
 </em></summary>
 <ul>
 <details close>
@@ -920,101 +1018,145 @@ ___
 </ul>
 </details>
 
-<a name=moc></a>
+<a name=nll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean-over-class (MoC)</strong></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong></l>
 </em></summary>
 <ul>
 <details close>
-<summary><strong><em>Morais et al., "Learning to Abstract and Predict Human Actions", BMVC, 2020.</em></strong> <a href=https://www.bmvc2020-conference.com/assets/papers/0979.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.09234.pdf>arxiv</a> <a href=https://github.com/RomeroBarata/hierarchical_action_prediction>code</a></summary>
+<summary><strong><em>Ke et al., "Future Moment Assessment for Action Query", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Ke_Future_Moment_Assessment_for_Action_Query_WACV_2021_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#mof">MoF</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#moc">MoC</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Morais_2020_BMVC,
-    author = "Morais, Romero and Le, Vuong and Tran, Truyen and Venkatesh, Svetha",
-    title = "Learning to Abstract and Predict Human Actions",
-    booktitle = "BMVC",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=mof></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>Mean-over-frame (MoF)</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Morais et al., "Learning to Abstract and Predict Human Actions", BMVC, 2020.</em></strong> <a href=https://www.bmvc2020-conference.com/assets/papers/0979.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.09234.pdf>arxiv</a> <a href=https://github.com/RomeroBarata/hierarchical_action_prediction>code</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#mof">MoF</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#moc">MoC</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Morais_2020_BMVC,
-    author = "Morais, Romero and Le, Vuong and Tran, Truyen and Venkatesh, Svetha",
-    title = "Learning to Abstract and Predict Human Actions",
-    booktitle = "BMVC",
-    year = "2020"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-</ul>
-</details>
-
-<a name=tnr></a>
-<details close>
-<summary><em><l style="font-size:20px"><strong>TNR</strong></l>
-</em></summary>
-<ul>
-<details close>
-<summary><strong><em>Volz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7313236>paper</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li>Custom</li>
-
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tnr">TNR</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#nll">NLL</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@InProceedings{Volz_2015_ITSC,
-    author = "Volz, Benjamin and Mielenz, Holger and Agamennoni, Gabriel and Siegwart, Roland",
-    title = "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks",
-    booktitle = "ITSC",
-    year = "2015"
+@InProceedings{Ke_2021_WACV,
+    author = "Ke, Qiuhong and Fritz, Mario and Schiele, Bernt",
+    title = "Future Moment Assessment for Action Query",
+    booktitle = "WACV",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=cider></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Hosseinzadeh et al., "Video Captioning of Future Frames", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Hosseinzadeh_Video_Captioning_of_Future_Frames_WACV_2021_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#activitynet">ActivityNet</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#swag">SWAG</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#cider">CIDEr</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#rouge-l">ROUGE-L</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#meteor">METEOR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#bleu@n">BLEU@N</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Hosseinzadeh_2021_WACV,
+    author = "Hosseinzadeh, Mehrdad and Wang, Yang",
+    title = "Video Captioning of Future Frames",
+    booktitle = "WACV",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=rouge-l></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>ROUGE-L</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Hosseinzadeh et al., "Video Captioning of Future Frames", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Hosseinzadeh_Video_Captioning_of_Future_Frames_WACV_2021_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#activitynet">ActivityNet</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#swag">SWAG</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#cider">CIDEr</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#rouge-l">ROUGE-L</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#meteor">METEOR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#bleu@n">BLEU@N</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Hosseinzadeh_2021_WACV,
+    author = "Hosseinzadeh, Mehrdad and Wang, Yang",
+    title = "Video Captioning of Future Frames",
+    booktitle = "WACV",
+    year = "2021"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+<a name=meteor></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>METEOR</strong></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Hosseinzadeh et al., "Video Captioning of Future Frames", WACV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/WACV2021/papers/Hosseinzadeh_Video_Captioning_of_Future_Frames_WACV_2021_paper.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#activitynet">ActivityNet</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#swag">SWAG</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#cider">CIDEr</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#rouge-l">ROUGE-L</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#meteor">METEOR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#bleu@n">BLEU@N</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Hosseinzadeh_2021_WACV,
+    author = "Hosseinzadeh, Mehrdad and Wang, Yang",
+    title = "Video Captioning of Future Frames",
+    booktitle = "WACV",
+    year = "2021"
 }
 </pre>
 </details>

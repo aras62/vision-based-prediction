@@ -126,6 +126,72 @@ ___
 </ul>
 </details>
 
+<a name=Kadia_InteRACT_2024_ICRA/>
+<details close>
+<summary><strong><em>Kedia et al., "InteRACT: Transformer Models for Human Intent Prediction Conditioned on Robot Actions", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610681>paper</a> <a href=https://arxiv.org/pdf/2311.12943>arxiv</a> <a href=https://github.com/portal-cornell/interact/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Kadia_InteRACT_2024_ICRA,
+    author = "Kedia, Kushal and Bhardwaj, Atiksh and Dan, Prithwish and Choudhury, Sanjiban",
+    booktitle = "ICRA",
+    title = "InteRACT: Transformer Models for Human Intent Prediction Conditioned on Robot Actions",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Tian_TransFusion_2024_RAL/>
+<details close>
+<summary><strong><em>Tian et al., "TransFusion: A Practical and Effective Transformer-Based Diffusion Model for 3D Human Motion Prediction", RAL, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10530938>paper</a> <a href=https://github.com/sibotian96/TransFusion>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#amass">AMASS</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#humaneva-i">HumanEva-I</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#adp">ADP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Tian_TransFusion_2024_RAL,
+    author = "Tian, Sibo and Zheng, Minghui and Liang, Xiao",
+    journal = "RAL",
+    title = "TransFusion: A Practical and Effective Transformer-Based Diffusion Model for 3D Human Motion Prediction",
+    year = "2024",
+    volume = "9",
+    number = "7",
+    pages = "6232-6239"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Peng_2023_CVPR/>
 <details close>
 <summary><strong><em>Peng et al., "Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Trajectory-Aware_Body_Interaction_Transformer_for_Multi-Person_Pose_Forecasting_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.05095.pdf>arxiv</a> <a href=https://github.com/xiaogangpeng/TBIFormer>code</a></summary>

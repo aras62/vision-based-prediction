@@ -72,6 +72,141 @@ ___
 </ul>
 </details>
 <details close>
+<summary><strong><em>Arreghini et al., "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610289>paper</a> <a href=https://arxiv.org/pdf/2404.01986>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#time">Time</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#madd">MADD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Arreghini_Predicting_2024_ICRA,
+    author = "Arreghini, Simone and Abbate, Gabriele and Giusti, Alessandro and Paolillo, Antonio",
+    booktitle = "ICRA",
+    title = "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Jayasuriya et al., "A 3D Vector Field and Gaze Data Fusion Framework for Hand Motion Intention Prediction in Human-Robot Collaboration", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10609996>paper</a> <a href=https://github.com/maleenj/hmip_ros>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Jayasuriya_3D_2024_ICRA,
+    author = "Jayasuriya, Maleen and Hu, Gibson and Le, Dinh Dang Khoa and Ang, Karyne and Sankaran, Shankar and Liu, Dikai",
+    booktitle = "ICRA",
+    title = "A 3D Vector Field and Gaze Data Fusion Framework for Hand Motion Intention Prediction in Human-Robot Collaboration",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Mitra et al., "Enhanced Human-Robot Collaboration with Intent Prediction using Deep Inverse Reinforcement Learning", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610595>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@INPROCEEDINGS{Mitra_Enhanced_2024_ICRA,
+    author = "Mitra, Mukund and Kumar, Gyanig and Chakrabarti, Partha Pratim and Biswas, Pradipta",
+    booktitle = "ICRA",
+    title = "Enhanced Human-Robot Collaboration with Intent Prediction using Deep Inverse Reinforcement Learning",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Weerasinghe et al., "Multimodal Transformers for Real-Time Surgical Activity Prediction", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611048>paper</a> <a href=https://arxiv.org/pdf/2403.06705>arxiv</a> <a href=https://github.com/UVA-DSA/MTRSAP>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jigsaws">JIGSAWS</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#edist">EDist</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Weerasinghe_Multimodal_2024_ICRA,
+    author = "Weerasinghe, Keshara and Reza Roodabeh, Seyed Hamid and Hutchinson, Kay and Alemzadeh, Homa",
+    booktitle = "ICRA",
+    title = "Multimodal Transformers for Real-Time Surgical Activity Prediction",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Kung et al., "Looking Inside Out: Anticipating Driver Intent From Videos", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610257>paper</a> <a href=https://arxiv.org/pdf/2312.01444>arxiv</a> <a href=https://github.com/yaorong0921/Driver-Intention-Prediction>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#brain4cars">Brain4Cars</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Kung_looking_2024_ICRA,
+    author = "Kung, Yung-Chi and Zhang, Arthur and Wang, Junmin and Biswas, Joydeep",
+    booktitle = "ICRA",
+    title = "Looking Inside Out: Anticipating Driver Intent From Videos",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Girase et al., "Latency Matters: Real-Time Action Forecasting Transformer", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Girase_Latency_Matters_Real-Time_Action_Forecasting_Transformer_CVPR_2023_paper.pdf>paper</a> <a href=https://karttikeya.github.io/publication/RAFTformer/>code</a></summary>
 <ul>
 <em>Datasets</em>
@@ -2417,8 +2552,8 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tnr">TNR</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tnr">TNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2464,7 +2599,7 @@ ___
 
 </ul><ul><a name=ade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2504,7 +2639,7 @@ ___
 
 </ul><ul><a name=ap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [7]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [6]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2805,7 +2940,7 @@ ___
 
 </ul><ul><a name=attc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ATTC</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>ATTC</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2843,9 +2978,39 @@ ___
 
 </ul><ul><a name=auc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> [6]</small></l>
+<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> [5]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Arreghini et al., "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610289>paper</a> <a href=https://arxiv.org/pdf/2404.01986>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#time">Time</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#madd">MADD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Arreghini_Predicting_2024_ICRA,
+    author = "Arreghini, Simone and Abbate, Gabriele and Giusti, Alessandro and Paolillo, Antonio",
+    booktitle = "ICRA",
+    title = "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Cao et al., "A New Comprehensive Benchmark for Semi-Supervised Video Anomaly Detection and Anticipation", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_A_New_Comprehensive_Benchmark_for_Semi-Supervised_Video_Anomaly_Detection_and_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2305.13611.pdf>arxiv</a> <a href=https://github.com/zugexiaodui/campus_vad_code>code</a></summary>
 <ul>
@@ -3248,7 +3413,7 @@ ___
 
 </ul><ul><a name=bleu@n></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>BLEU@N</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>BLEU@N</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3285,7 +3450,7 @@ ___
 
 </ul><ul><a name=cap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>calibrated Average Precision (cAP)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>calibrated Average Precision (cAP)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3321,7 +3486,7 @@ ___
 
 </ul><ul><a name=cider></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>

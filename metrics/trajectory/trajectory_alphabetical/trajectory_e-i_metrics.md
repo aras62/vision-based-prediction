@@ -12,7 +12,7 @@ ___
 <h2>E-I <small>[rank]</small></h2> 
 <ul><a name=ece></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> [17]</small></l>
+<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> [20]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -79,7 +79,7 @@ ___
 
 </ul><ul><a name=ecfl></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Environment Collision-Free Likelihood (ECFL)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Environment Collision-Free Likelihood (ECFL)</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -119,7 +119,7 @@ ___
 
 </ul><ul><a name=ed></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [6]</small></l>
+<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -643,7 +643,7 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -746,15 +746,15 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#ed">ED</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mined">minED</a></li>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mined">minED</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -905,7 +905,7 @@ ___
 
 </ul><ul><a name=emd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> [17]</small></l>
+<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> [20]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -943,7 +943,7 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 <li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cpi">CPI</a></li>
 </ul>
 <em>Metrics</em>
@@ -971,7 +971,7 @@ ___
 
 </ul><ul><a name=entropy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Entropy</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Entropy</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1006,7 +1006,7 @@ ___
 
 </ul><ul><a name=epa></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>End-to-end Prediction Accuracy (EPA)</strong><small> [17]</small></l>
+<summary><em><l style="font-size:20px"><strong>End-to-end Prediction Accuracy (EPA)</strong><small> [20]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1070,9 +1070,41 @@ ___
 
 </ul><ul><a name=epe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> [20]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Mahjourian et al., "Occupancy Flow Fields for Motion Forecasting in Autonomous Driving", RAL, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9713950>paper</a> <a href=https://arxiv.org/pdf/2203.03875>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#womd">WOMD</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Mahjourian_Occupancy_2022_RAL,
+    author = "Mahjourian, Reza and Kim, Jinkyu and Chai, Yuning and Tan, Mingxing and Sapp, Ben and Anguelov, Dragomir",
+    journal = "RAL",
+    title = "Occupancy Flow Fields for Motion Forecasting in Autonomous Driving",
+    year = "2022",
+    volume = "7",
+    number = "2",
+    pages = "5639-5646"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Filatov et al., "Any Motion Detector: Learning Class-agnostic Scene Dynamics from a Sequence of LiDAR Point Clouds", ICRA, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/9196716>paper</a> <a href=https://arxiv.org/pdf/2004.11647.pdf>arxiv</a></summary>
 <ul>
@@ -1104,7 +1136,7 @@ ___
 
 </ul><ul><a name=epe3d></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>3D Endpoint Error (EPE3D)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>3D Endpoint Error (EPE3D)</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1112,7 +1144,7 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#womd">WOMD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1137,7 +1169,7 @@ ___
 
 </ul><ul><a name=es></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Energy Score (ES)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Energy Score (ES)</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1172,7 +1204,7 @@ ___
 
 </ul><ul><a name=f></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Feasibility (F)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Feasibility (F)</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1182,7 +1214,7 @@ ___
 <ul>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1384,6 +1416,207 @@ ___
 </ul>
 </details>
 <details close>
+<summary><strong><em>Rasouli, "A Novel Benchmarking Paradigm and a Scale- and Motion-Aware Model for Egocentric Pedestrian Trajectory Prediction", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610614>paper</a> <a href=https://arxiv.org/pdf/2310.10424>arxiv</a> <a href=https://github.com/aras62/PIE/tree/master/scenarioEval>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#sminade">sminADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#sade">sADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Rasouli_Novel_2024_ICRA,
+    author = "Rasouli, Amir",
+    booktitle = "ICRA",
+    title = "A Novel Benchmarking Paradigm and a Scale- and Motion-Aware Model for Egocentric Pedestrian Trajectory Prediction",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Huang et al., "DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610550>paper</a> <a href=https://arxiv.org/pdf/2310.05885>arxiv</a> <a href=https://github.com/MCZhi/DTPP>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuplan">nuPlan</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#rt">RT</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Huang_DTPP_2024_ICRA,
+    author = "Huang, Zhiyu and Karkus, Peter and Ivanovic, Boris and Chen, Yuxiao and Pavone, Marco and Lv, Chen",
+    booktitle = "ICRA",
+    title = "DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Thuremella et al., "Risk-aware Trajectory Prediction by Incorporating Spatio-temporal Traffic Interaction Analysis", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611023>paper</a> <a href=https://www.arxiv.org/pdf/2407.10639>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Thuremella_Risk_2024_ICRA,
+    author = "Thuremella, Divya and Ince, Lewis and Kunze, Lars",
+    booktitle = "ICRA",
+    title = "Risk-aware Trajectory Prediction by Incorporating Spatio-temporal Traffic Interaction Analysis",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Bhaskara et al., "Trajectory Prediction for Robot Navigation using Flow-Guided Markov Neural Operator", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611154>paper</a> <a href=https://arxiv.org/pdf/2309.09137>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Bhaskara_Trajectory_2024_ICRA,
+    author = "Bhaskara, Rashmi and Viswanath, Hrishikesh and Bera, Aniket",
+    booktitle = "ICRA",
+    title = "Trajectory Prediction for Robot Navigation using Flow-Guided Markov Neural Operator",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Liu et al., "STAGP: Spatio-Temporal Adaptive Graph Pooling Network for Pedestrian Trajectory Prediction", RAL, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10373049>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Liu_STAGP_2024_RAL,
+    author = "Liu, Zhening and He, Li and Yuan, Liang and Lv, Kai and Zhong, Runhao and Chen, Yaohua",
+    journal = "RAL",
+    title = "STAGP: Spatio-Temporal Adaptive Graph Pooling Network for Pedestrian Trajectory Prediction",
+    year = "2024",
+    volume = "9",
+    number = "3",
+    pages = "2001-2007"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Eltouny et al., "DE-TGN: Uncertainty-Aware Human Motion Forecasting Using Deep Ensembles", RAL, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10409503>paper</a> <a href=https://arxiv.org/pdf/2307.03610>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Eltouny_DETGN_2024_RAL,
+    author = "Eltouny, Kareem A. and Liu, Wansong and Tian, Sibo and Zheng, Minghui and Liang, Xiao",
+    journal = "RAL",
+    title = "DE-TGN: Uncertainty-Aware Human Motion Forecasting Using Deep Ensembles",
+    year = "2024",
+    volume = "9",
+    number = "3",
+    pages = "2192-2199"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Almeida et al., "Trajectory Prediction for Heterogeneous Agents: A Performance Analysis on Small and Imbalanced Datasets", RAL, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10545544>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#thor-magni">THOR-MAGNI</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Almeida_Trajectory_2024_RAL,
+    author = "de Almeida, Tiago Rodrigues and Zhu, Yufei and Rudenko, Andrey and Kucner, Tomasz P. and Stork, Johannes A. and Magnusson, Martin and Lilienthal, Achim J.",
+    journal = "RAL",
+    title = "Trajectory Prediction for Heterogeneous Agents: A Performance Analysis on Small and Imbalanced Datasets",
+    year = "2024",
+    volume = "9",
+    number = "7",
+    pages = "6576-6583"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Wang et al., "FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-Tail Trajectory Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_FEND_A_Future_Enhanced_Distribution-Aware_Contrastive_Learning_Framework_for_Long-Tail_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2303.16574.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
@@ -1450,7 +1683,7 @@ ___
 <ul>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1808,7 +2041,7 @@ ___
 <ul>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
@@ -1952,7 +2185,7 @@ ___
 <ul>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2077,6 +2310,73 @@ ___
     title = "Multi-View Fusion of Sensor Data for Improved Perception and Prediction in Autonomous Driving",
     booktitle = "WACV",
     year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Knoedler et al., "Improving Pedestrian Prediction Models With Self-Supervised Continual Learning", RAL, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9705542>paper</a> <a href=https://arxiv.org/pdf/2202.07606>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Knoedler_Improving_2022_RAL,
+    author = "Knoedler, Luzia and Salmi, Chadi and Zhu, Hai and Brito, Bruno and Alonso-Mora, Javier",
+    journal = "RAL",
+    title = "Improving Pedestrian Prediction Models With Self-Supervised Continual Learning",
+    year = "2022",
+    volume = "7",
+    number = "2",
+    pages = "4781-4788"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Wang et al., "Stepwise Goal-Driven Networks for Trajectory Prediction", RAL, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9691856>paper</a> <a href=https://arxiv.org/pdf/2103.14107.pdf>arxiv</a> <a href=https://github.com/ChuhuaW/SGNet.pytorch>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#hev-i">HEV-I</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@Article{Wang_2022_RAL_2,
+    author = "Wang, Chuhua and Wang, Yuchen and Xu, Mingze and Crandall, David J.",
+    journal = "RAL",
+    title = "Stepwise Goal-Driven Networks for Trajectory Prediction",
+    year = "2022",
+    volume = "7",
+    number = "2",
+    pages = "2716-2723"
 }
 </pre>
 </details>
@@ -2227,8 +2527,8 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nba">NBA</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#trajair">TrajAir</a></li>
 </ul>
 <em>Metrics</em>
@@ -2834,36 +3134,122 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Wang et al., "Stepwise Goal-Driven Networks for Trajectory Prediction", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/document/9691856>paper</a> <a href=https://arxiv.org/pdf/2103.14107.pdf>arxiv</a> <a href=https://github.com/ChuhuaW/SGNet.pytorch>code</a></summary>
+<summary><strong><em>Huang et al., "Long-Term Pedestrian Trajectory Prediction Using Mutable Intention Filter and Warp LSTM", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9309334>paper</a> <a href=https://arxiv.org/pdf/2007.00113>arxiv</a> <a href=https://github.com/tedhuang96/mifwlstm>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eifp">EIFP</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#nll">NLL</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Huang_Long_2021_RAL,
+    author = "Huang, Zhe and Hasan, Aamir and Shin, Kazuki and Li, Ruohua and Driggs-Campbell, Katherine",
+    journal = "RAL",
+    title = "Long-Term Pedestrian Trajectory Prediction Using Mutable Intention Filter and Warp LSTM",
+    year = "2021",
+    volume = "6",
+    number = "2",
+    pages = "542-549"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Davchev et al., "Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9309332>paper</a> <a href=https://arxiv.org/pdf/1911.13044>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jaad">JAAD</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pie">PIE</a></li>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#hev-i">HEV-I</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
 <li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mse">MSE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@Article{Wang_2021_RAL_2,
-    author = "Wang, Chuhua and Wang, Yuchen and Xu, Mingze and Crandall, David J.",
+@ARTICLE{Davchev_Learning_2021_RAL,
+    author = "Davchev, Todor and Burke, Michael and Ramamoorthy, Subramanian",
     journal = "RAL",
-    title = "Stepwise Goal-Driven Networks for Trajectory Prediction",
+    title = "Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes",
     year = "2021",
-    volume = "7",
+    volume = "6",
     number = "2",
-    pages = "2716-2723"
+    pages = "707-714"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Li et al., "Vehicle Trajectory Prediction Using Generative Adversarial Network With Temporal Logic Syntax Tree Features", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9366373>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#maxd">maxD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Li_Vehicle_2021_RAL,
+    author = "Li, Xiao and Rosman, Guy and Gilitschenski, Igor and Vasile, Cristian-Ioan and DeCastro, Jonathan A. and Karaman, Sertac and Rus, Daniela",
+    journal = "RAL",
+    title = "Vehicle Trajectory Prediction Using Generative Adversarial Network With Temporal Logic Syntax Tree Features",
+    year = "2021",
+    volume = "6",
+    number = "2",
+    pages = "3459-3466"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Weng et al., "PTP: Parallelized Tracking and Prediction With Graph Neural Networks and Diversity Sampling", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9387598&tag=1>paper</a> <a href=https://arxiv.org/pdf/2003.07847>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fsd">FSD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#asd">ASD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Weng_PTP_2021_RAL,
+    author = "Weng, Xinshuo and Yuan, Ye and Kitani, Kris",
+    journal = "RAL",
+    title = "PTP: Parallelized Tracking and Prediction With Graph Neural Networks and Diversity Sampling",
+    year = "2021",
+    volume = "6",
+    number = "3",
+    pages = "4640-4647"
 }
 </pre>
 </details>
@@ -3131,7 +3517,7 @@ ___
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#womd">WOMD</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fit">FIT</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mapillary_vistas">Mapillary Vistas</a></li>
 </ul>
@@ -3728,7 +4114,7 @@ ___
 <ul>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3838,7 +4224,7 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 <li>Custom</li>
 
 </ul>
@@ -3964,7 +4350,7 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4027,7 +4413,7 @@ ___
 <ul>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 <li>Custom</li>
 
 </ul>
@@ -4195,7 +4581,7 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 <li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cpi">CPI</a></li>
 </ul>
 <em>Metrics</em>
@@ -4280,7 +4666,7 @@ ___
 <ul>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4561,8 +4947,8 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eifp">EIFP</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4590,7 +4976,7 @@ ___
 <ul>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pets2009">PETS2009</a></li>
 </ul>
 <em>Metrics</em>
@@ -4728,7 +5114,7 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sd">SD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#sdd">SDD</a></li>
 <li>Custom</li>
 
 </ul>
@@ -4919,9 +5305,50 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=fgt></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Averge Forgeting (FGT)</strong><small> [21]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Ma et al., "Continual Multi-Agent Interaction Behavior Prediction With Conditional Generative Memory", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9512468>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ind">inD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#round">rounD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fgt">FGT</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#aer">AER</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Ma_Continual_2021_RAL,
+    author = "Ma, Hengbo and Sun, Yaofeng and Li, Jiachen and Tomizuka, Masayoshi and Choi, Chiho",
+    journal = "RAL",
+    title = "Continual Multi-Agent Interaction Behavior Prediction With Conditional Generative Memory",
+    year = "2021",
+    volume = "6",
+    number = "4",
+    pages = "8410-8417"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=fiou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final IoU (FIoU)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Final IoU (FIoU)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4983,34 +5410,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Qiu et al., "Indoor Future Person Localization from an Egocentric Wearable Camera", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9635868>paper</a> <a href=https://arxiv.org/pdf/2103.04019.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eilt">EILT</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
-<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#miou">MIoU</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Qiu_2021_IROS,
-    author = "Qiu, Jianing and Lo, Frank P-W and Gu, Xiao and Sun, Yingnan and Jiang, Shuo and Lo, Benny",
-    booktitle = "IROS",
-    title = "Indoor Future Person Localization from an Egocentric Wearable Camera",
-    year = "2021"
-}
-</pre>
-</details>
-
-</ul>
-</details>
-<details close>
-<summary><strong><em>Wang et al., "Stepwise Goal-Driven Networks for Trajectory Prediction", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/document/9691856>paper</a> <a href=https://arxiv.org/pdf/2103.14107.pdf>arxiv</a> <a href=https://github.com/ChuhuaW/SGNet.pytorch>code</a></summary>
+<summary><strong><em>Wang et al., "Stepwise Goal-Driven Networks for Trajectory Prediction", RAL, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9691856>paper</a> <a href=https://arxiv.org/pdf/2103.14107.pdf>arxiv</a> <a href=https://github.com/ChuhuaW/SGNet.pytorch>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -5032,14 +5432,41 @@ ___
 <details close>
 <summary><em>Bibtex</em></summary>
 <pre>
-@Article{Wang_2021_RAL_2,
+@Article{Wang_2022_RAL_2,
     author = "Wang, Chuhua and Wang, Yuchen and Xu, Mingze and Crandall, David J.",
     journal = "RAL",
     title = "Stepwise Goal-Driven Networks for Trajectory Prediction",
-    year = "2021",
+    year = "2022",
     volume = "7",
     number = "2",
     pages = "2716-2723"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Qiu et al., "Indoor Future Person Localization from an Egocentric Wearable Camera", IROS, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/9635868>paper</a> <a href=https://arxiv.org/pdf/2103.04019.pdf>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eilt">EILT</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fiou">FIoU</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#miou">MIoU</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Qiu_2021_IROS,
+    author = "Qiu, Jianing and Lo, Frank P-W and Gu, Xiao and Sun, Yingnan and Jiang, Shuo and Lo, Benny",
+    booktitle = "IROS",
+    title = "Indoor Future Person Localization from an Egocentric Wearable Camera",
+    year = "2021"
 }
 </pre>
 </details>
@@ -5190,7 +5617,7 @@ ___
 
 </ul><ul><a name=fle></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Lane Error (FLE)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Final Lane Error (FLE)</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5227,7 +5654,7 @@ ___
 
 </ul><ul><a name=fnm></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Fraction of Near Misses (FNM)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Fraction of Near Misses (FNM)</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5261,7 +5688,7 @@ ___
 
 </ul><ul><a name=frb></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>FRB</strong><small> [17]</small></l>
+<summary><em><l style="font-size:20px"><strong>Final RMSE of Bounding box (FRB)</strong><small> [20]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5326,9 +5753,49 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=fsd></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>FSD</strong><small> [21]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Weng et al., "PTP: Parallelized Tracking and Prediction With Graph Neural Networks and Diversity Sampling", RAL, 2021.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9387598&tag=1>paper</a> <a href=https://arxiv.org/pdf/2003.07847>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fsd">FSD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#asd">ASD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Weng_PTP_2021_RAL,
+    author = "Weng, Xinshuo and Yuan, Ye and Kitani, Kris",
+    journal = "RAL",
+    title = "PTP: Parallelized Tracking and Prediction With Graph Neural Networks and Diversity Sampling",
+    year = "2021",
+    volume = "6",
+    number = "3",
+    pages = "4640-4647"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=hit_rate></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Hit Rate</strong><small> [17]</small></l>
+<summary><em><l style="font-size:20px"><strong>Hit Rate</strong><small> [20]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5390,9 +5857,38 @@ ___
 
 </ul><ul><a name=hor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Hard Off-road Rate (HOR)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Hard Off-road Rate (HOR)</strong><small> [20]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Karim et al., "DESTINE: Dynamic Goal Queries with Temporal Transductive Alignment for Trajectory Prediction", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611124>paper</a> <a href=https://arxiv.org/pdf/2310.07438>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minade">minADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#minfde">minFDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#mr">MR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#sor">SOR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#hor">HOR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Karim_DESTINE_2024_ICRA,
+    author = "Karim, Rezaul and Shabestary, Soheil Mohamad Alizadeh and Rasouli, Amir",
+    booktitle = "ICRA",
+    title = "DESTINE: Dynamic Goal Queries with Temporal Transductive Alignment for Trajectory Prediction",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Bahari et al., "Vehicle Trajectory Prediction Works, but Not Everywhere", CVPR, 2022.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2022/papers/Bahari_Vehicle_Trajectory_Prediction_Works_but_Not_Everywhere_CVPR_2022_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2112.03909.pdf>arxiv</a> <a href=https://s-attack.github.io/>code</a></summary>
 <ul>
@@ -5424,7 +5920,7 @@ ___
 
 </ul><ul><a name=human></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5459,7 +5955,7 @@ ___
 
 </ul><ul><a name=iminade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>iminADE</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>iminADE</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5500,7 +5996,7 @@ ___
 
 </ul><ul><a name=iminfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>iminFDE</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>iminFDE</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5541,7 +6037,7 @@ ___
 
 </ul><ul><a name=inace></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Image Normalized Average Centroid Error (INACE)</strong><small> [18]</small></l>
+<summary><em><l style="font-size:20px"><strong>Image Normalized Average Centroid Error (INACE)</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5576,7 +6072,7 @@ ___
 
 </ul><ul><a name=iou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Intersection over Union (IoU)</strong><small> [15]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5659,6 +6155,38 @@ ___
 </ul>
 </details>
 <details close>
+<summary><strong><em>Mahjourian et al., "Occupancy Flow Fields for Motion Forecasting in Autonomous Driving", RAL, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9713950>paper</a> <a href=https://arxiv.org/pdf/2203.03875>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#womd">WOMD</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Mahjourian_Occupancy_2022_RAL,
+    author = "Mahjourian, Reza and Kim, Jinkyu and Chai, Yuning and Tan, Mingxing and Sapp, Ben and Anguelov, Dragomir",
+    journal = "RAL",
+    title = "Occupancy Flow Fields for Motion Forecasting in Autonomous Driving",
+    year = "2022",
+    volume = "7",
+    number = "2",
+    pages = "5639-5646"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Adeli et al., "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild", ICCV, 2021.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2021/papers/Adeli_TRiPOD_Human_Trajectory_and_Pose_Dynamics_Forecasting_in_the_Wild_ICCV_2021_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2104.04029.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
@@ -5719,7 +6247,7 @@ ___
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#womd">WOMD</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fit">FIT</a></li>
 <li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mapillary_vistas">Mapillary Vistas</a></li>
 </ul>
@@ -5737,6 +6265,35 @@ ___
     title = "Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior",
     booktitle = "CVPR",
     year = "2020"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Sun et al., "See the Future: A Semantic Segmentation Network Predicting Ego-Vehicle Trajectory With a Single Monocular Camera", RAL, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9004469>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kitti">KITTI</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Sun_See_2020_RAL,
+    author = "Sun, Yuxiang and Zuo, Weixun and Liu, Ming",
+    journal = "RAL",
+    title = "See the Future: A Semantic Segmentation Network Predicting Ego-Vehicle Trajectory With a Single Monocular Camera",
+    year = "2020",
+    volume = "5",
+    number = "2",
+    pages = "3066-3073"
 }
 </pre>
 </details>

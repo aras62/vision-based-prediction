@@ -12,7 +12,7 @@ ___
 <h2>J-Z <small>[rank]</small></h2> 
 <ul><a name=jpe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>JPE</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Joint Position Error (JPE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -44,12 +44,42 @@ ___
 
 </ul>
 </details>
+<details close>
+<summary><strong><em>Mascaro et al., "Robot Interaction Behavior Generation based on Social Motion Forecasting for Human-Robot Interaction", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610682>paper</a> <a href=https://arxiv.org/pdf/2402.04768>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#chico">CHICO</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interhuman">InterHuman</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#jpe">JPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ajpe">AJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Mascaro_Robot_2024_ICRA,
+    author = "Mascaro, Esteve Valls and Yan, Yashuai and Lee, Dongheui",
+    booktitle = "ICRA",
+    title = "Robot Interaction Behavior Generation based on Social Motion Forecasting for Human-Robot Interaction",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 </ul>
 </details>
 
 </ul><ul><a name=kde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Keypoint Displacement Error (KDE)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Keypoint Displacement Error (KDE)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -87,7 +117,7 @@ ___
 
 </ul><ul><a name=kl></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KL</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>KL</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -124,7 +154,7 @@ ___
 
 </ul><ul><a name=kld></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [14]</small></l>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -188,7 +218,7 @@ ___
 
 </ul><ul><a name=l2></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>L2</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>L2</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -225,7 +255,7 @@ ___
 
 </ul><ul><a name=lo></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Limb Orientation (LO)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Limb Orientation (LO)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -994,7 +1024,7 @@ ___
 
 </ul><ul><a name=mape></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1032,7 +1062,7 @@ ___
 
 </ul><ul><a name=mble></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Bone Length Error (MBLE)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Bone Length Error (MBLE)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1069,7 +1099,7 @@ ___
 
 </ul><ul><a name=minade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minADE</strong><small> [14]</small></l>
+<summary><em><l style="font-size:20px"><strong>minADE</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1139,7 +1169,7 @@ ___
 
 </ul><ul><a name=minfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>minFDE</strong><small> [14]</small></l>
+<summary><em><l style="font-size:20px"><strong>minFDE</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1586,9 +1616,45 @@ ___
 
 </ul><ul><a name=mmade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Multi-Modal ADE (MMADE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Multi-Modal ADE (MMADE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Tian et al., "TransFusion: A Practical and Effective Transformer-Based Diffusion Model for 3D Human Motion Prediction", RAL, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10530938>paper</a> <a href=https://github.com/sibotian96/TransFusion>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#amass">AMASS</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#humaneva-i">HumanEva-I</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#adp">ADP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Tian_TransFusion_2024_RAL,
+    author = "Tian, Sibo and Zheng, Minghui and Liang, Xiao",
+    journal = "RAL",
+    title = "TransFusion: A Practical and Effective Transformer-Based Diffusion Model for 3D Human Motion Prediction",
+    year = "2024",
+    volume = "9",
+    number = "7",
+    pages = "6232-6239"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Barquero et al., "BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Barquero_BeLFusion_Latent_Diffusion_for_Behavior-Driven_Human_Motion_Prediction_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.14304.pdf>arxiv</a> <a href=https://barquerogerman.github.io/BeLFusion/>code</a></summary>
 <ul>
@@ -1776,9 +1842,45 @@ ___
 
 </ul><ul><a name=mmfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Multi-Modal FDE (MMFDE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Multi-Modal FDE (MMFDE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Tian et al., "TransFusion: A Practical and Effective Transformer-Based Diffusion Model for 3D Human Motion Prediction", RAL, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10530938>paper</a> <a href=https://github.com/sibotian96/TransFusion>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#amass">AMASS</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#humaneva-i">HumanEva-I</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#adp">ADP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Tian_TransFusion_2024_RAL,
+    author = "Tian, Sibo and Zheng, Minghui and Liang, Xiao",
+    journal = "RAL",
+    title = "TransFusion: A Practical and Effective Transformer-Based Diffusion Model for 3D Human Motion Prediction",
+    year = "2024",
+    volume = "9",
+    number = "7",
+    pages = "6232-6239"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Barquero et al., "BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Barquero_BeLFusion_Latent_Diffusion_for_Behavior-Driven_Human_Motion_Prediction_ICCV_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2211.14304.pdf>arxiv</a> <a href=https://barquerogerman.github.io/BeLFusion/>code</a></summary>
 <ul>
@@ -1936,7 +2038,7 @@ ___
 
 </ul><ul><a name=mpble></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Per-Bone Length Error (MPBLE)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Per-Bone Length Error (MPBLE)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2105,6 +2207,89 @@ ___
     title = "Multimodal Sense-Informed Forecasting of 3D Human Motions",
     booktitle = "CVPR",
     year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Kedia et al., "InteRACT: Transformer Models for Human Intent Prediction Conditioned on Robot Actions", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610681>paper</a> <a href=https://arxiv.org/pdf/2311.12943>arxiv</a> <a href=https://github.com/portal-cornell/interact/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Kadia_InteRACT_2024_ICRA,
+    author = "Kedia, Kushal and Bhardwaj, Atiksh and Dan, Prithwish and Choudhury, Sanjiban",
+    booktitle = "ICRA",
+    title = "InteRACT: Transformer Models for Human Intent Prediction Conditioned on Robot Actions",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Lee, "Commonsense Spatial Knowledge-aware 3-D Human Motion and Object Interaction Prediction", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610161>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#kit_wbhm">KIT WBHM</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#accuracy">Accuracy</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Lee_Commonsense_2024_ICRA,
+    author = "Lee, Sang Uk",
+    booktitle = "ICRA",
+    title = "Commonsense Spatial Knowledge-aware 3-D Human Motion and Object Interaction Prediction",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Eltouny et al., "DE-TGN: Uncertainty-Aware Human Motion Forecasting Using Deep Ensembles", RAL, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10409503>paper</a> <a href=https://arxiv.org/pdf/2307.03610>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Eltouny_DETGN_2024_RAL,
+    author = "Eltouny, Kareem A. and Liu, Wansong and Tian, Sibo and Zheng, Minghui and Liang, Xiao",
+    journal = "RAL",
+    title = "DE-TGN: Uncertainty-Aware Human Motion Forecasting Using Deep Ensembles",
+    year = "2024",
+    volume = "9",
+    number = "3",
+    pages = "2192-2199"
 }
 </pre>
 </details>
@@ -2649,6 +2834,35 @@ ___
     title = "Contact-aware Human Motion Forecasting",
     booktitle = "NeurIPS",
     year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Wan et al., "Learn to Predict How Humans Manipulate Large-Sized Objects From Interactive Motions", RAL, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9714029>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Wan_Learn_2022_RAL,
+    author = "Wan, Weilin and Yang, Lei and Liu, Lingjie and Zhang, Zhuoying and Jia, Ruixing and Choi, Yi-King and Pan, Jia and Theobalt, Christian and Komura, Taku and Wang, Wenping",
+    journal = "RAL",
+    title = "Learn to Predict How Humans Manipulate Large-Sized Objects From Interactive Motions",
+    year = "2022",
+    volume = "7",
+    number = "2",
+    pages = "4702-4709"
 }
 </pre>
 </details>
@@ -3277,7 +3491,7 @@ ___
 
 </ul><ul><a name=nll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3315,7 +3529,7 @@ ___
 
 </ul><ul><a name=npss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Normalized Power Spectrum Similarity (NPSS)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Normalized Power Spectrum Similarity (NPSS)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3349,7 +3563,7 @@ ___
 
 </ul><ul><a name=nss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>NSS</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>NSS</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3387,7 +3601,7 @@ ___
 
 </ul><ul><a name=p-mpjpe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Procrustes aligned MPJPE (P-MPJPE)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Procrustes aligned MPJPE (P-MPJPE)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3652,7 +3866,7 @@ ___
 
 </ul><ul><a name=pcp3d></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Percentage of Correct Parts (PCP3D)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Percentage of Correct Parts (PCP3D)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3689,7 +3903,7 @@ ___
 
 </ul><ul><a name=psent></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>PoSe Entropy (PSEnt)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>PoSe Entropy (PSEnt)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3725,7 +3939,7 @@ ___
 
 </ul><ul><a name=pskl></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>PoSe KL (PSKL)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>PoSe KL (PSKL)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3761,7 +3975,7 @@ ___
 
 </ul><ul><a name=r2></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>R2</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>R2</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3799,7 +4013,7 @@ ___
 
 </ul><ul><a name=re></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Reconstruction Error (RE)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Reconstruction Error (RE)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3836,7 +4050,7 @@ ___
 
 </ul><ul><a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3931,7 +4145,7 @@ ___
 
 </ul><ul><a name=rt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3968,7 +4182,7 @@ ___
 
 </ul><ul><a name=run_time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [14]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4031,7 +4245,7 @@ ___
 
 </ul><ul><a name=s-mse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Sampling loss MSE (S-MSE)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Sampling loss MSE (S-MSE)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4068,7 +4282,7 @@ ___
 
 </ul><ul><a name=sde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>standard Deviation of displacement Error (sDE)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>standard Deviation of displacement Error (sDE)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4108,7 +4322,7 @@ ___
 
 </ul><ul><a name=si></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>SI</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>SI</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4145,7 +4359,7 @@ ___
 
 </ul><ul><a name=ssim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -4183,7 +4397,7 @@ ___
 
 </ul><ul><a name=vim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>VIM</strong><small> [15]</small></l>
+<summary><em><l style="font-size:20px"><strong>VIM</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>

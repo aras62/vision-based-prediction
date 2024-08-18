@@ -41,6 +41,8 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+* 18/08/2024: Minor updates and change to dataset abbreviations (WOD->WOMD, SD->SDD)
+* 18/08/2024: Added ICRA and RAL 2024 (46 papers) and missing RAL 2020-2023 (31 papers) (in total: 77 papers, 10 datasets, 16 metrics) 
 * 17/08/2024: Added ICLR and ICML 2024 papers (12 papers, 9 datasets, 4 metrics)
 * 11/08/2024: Added CVPR 2024 papers (48 papers, 10 datasets, 13 metrics)
 * 11/08/2024: Note that this is the last year covering ACCV and BMVC papers due to the volume of papers in other conferences 

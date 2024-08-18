@@ -12,7 +12,7 @@ ___
 <h2>E-I <small>[rank]</small></h2> 
 <ul><a name=ed></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Euclidean Distance (ED)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -73,9 +73,44 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=edist></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>EDist</strong><small> [11]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Weerasinghe et al., "Multimodal Transformers for Real-Time Surgical Activity Prediction", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611048>paper</a> <a href=https://arxiv.org/pdf/2403.06705>arxiv</a> <a href=https://github.com/UVA-DSA/MTRSAP>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jigsaws">JIGSAWS</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#edist">EDist</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Weerasinghe_Multimodal_2024_ICRA,
+    author = "Weerasinghe, Keshara and Reza Roodabeh, Seyed Hamid and Hutchinson, Kay and Alemzadeh, Homa",
+    booktitle = "ICRA",
+    title = "Multimodal Transformers for Real-Time Surgical Activity Prediction",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=eid></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Edit Distance (EiD)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Edit Distance (EiD)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -112,6 +147,59 @@ ___
 <summary><em><l style="font-size:20px"><strong>F1</strong><small> [4]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Weerasinghe et al., "Multimodal Transformers for Real-Time Surgical Activity Prediction", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611048>paper</a> <a href=https://arxiv.org/pdf/2403.06705>arxiv</a> <a href=https://github.com/UVA-DSA/MTRSAP>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#jigsaws">JIGSAWS</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#edist">EDist</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Weerasinghe_Multimodal_2024_ICRA,
+    author = "Weerasinghe, Keshara and Reza Roodabeh, Seyed Hamid and Hutchinson, Kay and Alemzadeh, Homa",
+    booktitle = "ICRA",
+    title = "Multimodal Transformers for Real-Time Surgical Activity Prediction",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Kung et al., "Looking Inside Out: Anticipating Driver Intent From Videos", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610257>paper</a> <a href=https://arxiv.org/pdf/2312.01444>arxiv</a> <a href=https://github.com/yaorong0921/Driver-Intention-Prediction>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#brain4cars">Brain4Cars</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Kung_looking_2024_ICRA,
+    author = "Kung, Yung-Chi and Zhang, Arthur and Wang, Junmin and Biswas, Joydeep",
+    booktitle = "ICRA",
+    title = "Looking Inside Out: Anticipating Driver Intent From Videos",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Kochakarn et al., "Explainable Action Prediction through Self-Supervision on Scene Graphs", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161132>paper</a> <a href=https://arxiv.org/pdf/2302.03477.pdf>arxiv</a></summary>
 <ul>
@@ -719,7 +807,7 @@ ___
 
 </ul><ul><a name=fde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Final Displacement Error (FDE)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -759,7 +847,7 @@ ___
 
 </ul><ul><a name=fp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>False positive (FP)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>False positive (FP)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>

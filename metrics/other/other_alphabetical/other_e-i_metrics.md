@@ -12,7 +12,7 @@ ___
 <h2>E-I <small>[rank]</small></h2> 
 <ul><a name=ece></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -73,6 +73,35 @@ ___
     title = "Egocentric Prediction of Action Target in {3D}",
     booktitle = "CVPR",
     year = "2022"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Cheng et al., "Long-Term Trajectory Prediction of the Human Hand and Duration Estimation of the Human Action", RAL, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9599389>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#ed">ED</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Cheng_Long_2022_RAL,
+    author = "Cheng, Yujiao and Tomizuka, Masayoshi",
+    journal = "RAL",
+    title = "Long-Term Trajectory Prediction of the Human Hand and Duration Estimation of the Human Action",
+    year = "2022",
+    volume = "7",
+    number = "1",
+    pages = "247-254"
 }
 </pre>
 </details>
@@ -165,7 +194,7 @@ ___
 
 </ul><ul><a name=emd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -228,7 +257,7 @@ ___
 
 </ul><ul><a name=epe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> [7]</small></l>
+<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -294,7 +323,7 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#womd">WOMD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -349,7 +378,7 @@ ___
 
 </ul><ul><a name=f1></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>F1</strong><small> [1]</small></l>
+<summary><em><l style="font-size:20px"><strong>F1</strong><small> [2]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -473,8 +502,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -805,7 +834,7 @@ ___
 
 </ul><ul><a name=fpr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>False Positive Rate (FPR)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>False Positive Rate (FPR)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -841,7 +870,7 @@ ___
 
 </ul><ul><a name=fve></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Velocity Error (FVE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Final Velocity Error (FVE)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -878,7 +907,7 @@ ___
 
 </ul><ul><a name=gce></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Global Consistency Error (GCE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Global Consistency Error (GCE)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -914,7 +943,7 @@ ___
 
 </ul><ul><a name=gmgs></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Gandin-Murphy-Gerrity Score (GMGS)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Gandin-Murphy-Gerrity Score (GMGS)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -949,7 +978,7 @@ ___
 
 </ul><ul><a name=ims></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Image Similarity (ImS)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Image Similarity (ImS)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1071,11 +1100,40 @@ ___
 </ul>
 </details>
 <details close>
+<summary><strong><em>Ferenczi et al., "MotionPerceiver: Real-Time Occupancy Forecasting for Embedded Systems", RAL, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10417132>paper</a> <a href=https://arxiv.org/pdf/2306.08879>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#womd">WOMD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Ferenczi_MotionPreceiver_2024_RAL,
+    author = "Ferenczi, Bryce and Burke, Michael and Drummond, Tom",
+    journal = "RAL",
+    title = "MotionPerceiver: Real-Time Occupancy Forecasting for Embedded Systems",
+    year = "2024",
+    volume = "9",
+    number = "3",
+    pages = "2822-2829"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Liu et al., "Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10160855>paper</a> <a href=https://arxiv.org/pdf/2208.00394.pdf>arxiv</a> <a href=: https://github.com/georgeliu233/STrajNet>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#womd">WOMD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1134,8 +1192,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1428,7 +1486,7 @@ ___
 
 </ul><ul><a name=is></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Inception Scores (IS)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1436,7 +1494,7 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wod">WOD</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#womd">WOMD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1462,7 +1520,7 @@ ___
 
 </ul><ul><a name=ism></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ISM</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>ISM</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>

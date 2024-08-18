@@ -12,7 +12,7 @@ ___
 <h2>J-Z <small>[rank]</small></h2> 
 <ul><a name=kld></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -50,9 +50,47 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=madd></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mean Advance Detection Distance (MADD)</strong><small> [11]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Arreghini et al., "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610289>paper</a> <a href=https://arxiv.org/pdf/2404.01986>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#time">Time</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#madd">MADD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Arreghini_Predicting_2024_ICRA,
+    author = "Arreghini, Simone and Abbate, Gabriele and Giusti, Alessandro and Paolillo, Antonio",
+    booktitle = "ICRA",
+    title = "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=mae></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -367,7 +405,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Casas et al., "IntentNet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018.</em></strong> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>
+<summary><strong><em>Casas et al., "IntentNet: Learning To Predict Intention From Raw Sensor Data", CoRL, 2018.</em></strong> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -385,7 +423,7 @@ ___
 @InProceedings{Casas_2018_CORL,
     author = "Casas, Sergio and Luo, Wenjie and Urtasun, Raquel",
     title = "{IntentNet}: Learning To Predict Intention From Raw Sensor Data",
-    booktitle = "CORL",
+    booktitle = "CoRL",
     year = "2018"
 }
 </pre>
@@ -506,7 +544,7 @@ ___
 
 </ul><ul><a name=mcc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -541,7 +579,7 @@ ___
 
 </ul><ul><a name=meteor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>METEOR</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>METEOR</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -578,7 +616,7 @@ ___
 
 </ul><ul><a name=moc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean-over-class (MoC)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean-over-class (MoC)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -612,7 +650,7 @@ ___
 
 </ul><ul><a name=mof></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean-over-frame (MoF)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean-over-frame (MoF)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -646,7 +684,7 @@ ___
 
 </ul><ul><a name=mpjpe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Per Joint Prediction Error (MPJPE)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Per Joint Prediction Error (MPJPE)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -682,7 +720,7 @@ ___
 
 </ul><ul><a name=mrr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Reciprocal Rank (MRR)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Reciprocal Rank (MRR)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -716,7 +754,7 @@ ___
 
 </ul><ul><a name=nll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -753,7 +791,7 @@ ___
 
 </ul><ul><a name=pp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Prediction Power (PP)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Prediction Power (PP)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1543,7 +1581,7 @@ ___
 
 </ul><ul><a name=quality></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Quality</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>Quality</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2153,7 +2191,7 @@ ___
 </ul>
 </details>
 <details close>
-<summary><strong><em>Casas et al., "IntentNet: Learning To Predict Intention From Raw Sensor Data", CORL, 2018.</em></strong> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>
+<summary><strong><em>Casas et al., "IntentNet: Learning To Predict Intention From Raw Sensor Data", CoRL, 2018.</em></strong> <a href=http://proceedings.mlr.press/v87/casas18a/casas18a.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -2171,7 +2209,7 @@ ___
 @InProceedings{Casas_2018_CORL,
     author = "Casas, Sergio and Luo, Wenjie and Urtasun, Raquel",
     title = "{IntentNet}: Learning To Predict Intention From Raw Sensor Data",
-    booktitle = "CORL",
+    booktitle = "CoRL",
     year = "2018"
 }
 </pre>
@@ -2410,7 +2448,7 @@ ___
 
 </ul><ul><a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2528,7 +2566,7 @@ ___
 
 </ul><ul><a name=rouge-l></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ROUGE-L</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>ROUGE-L</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2565,7 +2603,7 @@ ___
 
 </ul><ul><a name=rt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2630,7 +2668,7 @@ ___
 
 </ul><ul><a name=run_time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2718,9 +2756,47 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=time></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Time</strong><small> [11]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Arreghini et al., "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610289>paper</a> <a href=https://arxiv.org/pdf/2404.01986>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#time">Time</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#madd">MADD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Arreghini_Predicting_2024_ICRA,
+    author = "Arreghini, Simone and Abbate, Gabriele and Giusti, Alessandro and Paolillo, Antonio",
+    booktitle = "ICRA",
+    title = "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=tnr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>TNR</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>TNR</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2734,8 +2810,8 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tnr">TNR</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tnr">TNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2756,9 +2832,39 @@ ___
 
 </ul><ul><a name=tpr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong><small> [12]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Arreghini et al., "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610289>paper</a> <a href=https://arxiv.org/pdf/2404.01986>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#time">Time</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#madd">MADD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Arreghini_Predicting_2024_ICRA,
+    author = "Arreghini, Simone and Abbate, Gabriele and Giusti, Alessandro and Paolillo, Antonio",
+    booktitle = "ICRA",
+    title = "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Volz et al., "Feature Relevance Estimation For Learning Pedestrian Behavior At Crosswalks", ITSC, 2015.</em></strong> <a href=https://ieeexplore.ieee.org/document/7313236>paper</a></summary>
 <ul>
@@ -2770,8 +2876,8 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tnr">TNR</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tpr">TPR</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#tnr">TNR</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2792,7 +2898,7 @@ ___
 
 </ul><ul><a name=tta></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Time To Accident (TTA)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Time To Accident (TTA)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2883,7 +2989,7 @@ ___
 
 </ul><ul><a name=ttm></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Time To Maneuver (TTM)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Time To Maneuver (TTM)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
