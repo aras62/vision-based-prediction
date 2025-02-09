@@ -41,6 +41,8 @@ If you found this database and the paper useful for your research, please consid
 ```
 
 ### Updates
+### As of now I don't have any plan to continue adding works to this repo beyond 2024. The repository, however, stays up, hoping it will be beneficial to the community
+* 9/02/2025: Added 2024 CoRL, IROS, ECCV, and NeurIPS (68 papers, 17 datasets and 12 metrics)
 * 18/08/2024: Minor updates and change to dataset abbreviations (WOD->WOMD, SD->SDD)
 * 18/08/2024: Added ICRA and RAL 2024 (46 papers) and missing RAL 2020-2023 (31 papers) (in total: 77 papers, 10 datasets, 16 metrics) 
 * 17/08/2024: Added ICLR and ICML 2024 papers (12 papers, 9 datasets, 4 metrics)

@@ -21,8 +21,8 @@ ___
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -64,6 +64,61 @@ ___
     author = "Diller, Christian and Funkhouser, Thomas and Dai, Angela",
     title = "FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Wasi et al., "Early Anticipation of Driving Maneuvers", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08862.pdf>paper</a> <a href=https://cvit.iiit.ac.in/research/projects/cvit-projects/daad>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#daad">DAAD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Wasi_Early_2024_ECCV,
+    author = "Wasi, Abdul and Gangisetty, Shankar and Rai, Shyam Nandan and Jawahar, CV",
+    title = "Early Anticipation of Driving Maneuvers",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Khindkar et al., "Can Reasons Help Improve Pedestrian Intent Estimation? A Cross-Modal Approach", IROS, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802097>paper</a> <a href=https://arxiv.org/pdf/2411.13302>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Khindkar_Can_2024_IROS,
+    author = "Khindkar, Vaishnavi and Balasubramanian, Vineeth and Arora, Chetan and Subramanian, Anbumani and Jawahar, C.V.",
+    booktitle = "IROS",
+    title = "Can Reasons Help Improve Pedestrian Intent Estimation? A Cross-Modal Approach",
     year = "2024"
 }
 </pre>
@@ -212,8 +267,8 @@ ___
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
@@ -497,8 +552,8 @@ ___
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1565,8 +1620,8 @@ ___
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gtea_gaze">GTEA Gaze</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gtea_gaze+">GTEA Gaze+</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2024,8 +2079,8 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2599,7 +2654,7 @@ ___
 
 </ul><ul><a name=ade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2639,7 +2694,7 @@ ___
 
 </ul><ul><a name=ap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [6]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2940,7 +2995,7 @@ ___
 
 </ul><ul><a name=attc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ATTC</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>ATTC</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2981,6 +3036,63 @@ ___
 <summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> [5]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Jeon et al., "Beyond the Data Imbalance: Employing the Heterogeneous Datasets for Vehicle Maneuver Prediction", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07256.pdf>paper</a> <a href=https://github.com/KAIST-VDCLab/VDC-Trajectory-Dataset>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#vdc">VDC</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Jeon_Beyond_2024_ECCV,
+    author = "Jeon, Hyeongseok and Kim, Sanmin and Syamil, Abi Rahman and Kim, Junsoo and Kum, Dongsuk",
+    title = "Beyond the Data Imbalance: Employing the Heterogeneous Datasets for Vehicle Maneuver Prediction",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Khindkar et al., "Can Reasons Help Improve Pedestrian Intent Estimation? A Cross-Modal Approach", IROS, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802097>paper</a> <a href=https://arxiv.org/pdf/2411.13302>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Khindkar_Can_2024_IROS,
+    author = "Khindkar, Vaishnavi and Balasubramanian, Vineeth and Arora, Chetan and Subramanian, Anbumani and Jawahar, C.V.",
+    booktitle = "IROS",
+    title = "Can Reasons Help Improve Pedestrian Intent Estimation? A Cross-Modal Approach",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Arreghini et al., "Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues", ICRA, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610289>paper</a> <a href=https://arxiv.org/pdf/2404.01986>arxiv</a></summary>
 <ul>
@@ -3138,8 +3250,8 @@ ___
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3363,8 +3475,8 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3413,7 +3525,7 @@ ___
 
 </ul><ul><a name=bleu@n></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>BLEU@N</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>BLEU@N</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3450,7 +3562,7 @@ ___
 
 </ul><ul><a name=cap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>calibrated Average Precision (cAP)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>calibrated Average Precision (cAP)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3486,7 +3598,7 @@ ___
 
 </ul><ul><a name=cider></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>

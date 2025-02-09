@@ -12,9 +12,36 @@ ___
 <h2>A-D <small>[rank]</small></h2> 
 <ul><a name=absrel></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Absolute Relative error (AbsRel)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Absolute Relative error (AbsRel)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Pan et al., "LiDARGrid: Self-supervised 3D Opacity Grid from LiDAR for Scene Forecasting", CoRL, 2024.</em></strong> <a href=https://openreview.net/pdf?id=MfuzopqVOX>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Pan_LiDARGrid_2024_CoRL,
+    author = "Pan, Chuanyu and Xu, Aolin",
+    title = "Li{DARG}rid: Self-supervised 3D Opacity Grid from Li{DAR} for Scene Forecasting",
+    booktitle = "CoRL",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Khurana et al., "Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Khurana_Point_Cloud_Forecasting_as_a_Proxy_for_4D_Occupancy_Forecasting_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2302.13130.pdf>arxiv</a></summary>
 <ul>
@@ -49,7 +76,7 @@ ___
 
 </ul><ul><a name=acc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Anomaly Correlation Coefficient (ACC)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Anomaly Correlation Coefficient (ACC)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -83,7 +110,7 @@ ___
 
 </ul><ul><a name=accuracy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Accuracy</strong><small> [4]</small></l>
+<summary><em><l style="font-size:20px"><strong>Accuracy</strong><small> [5]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -387,7 +414,7 @@ ___
 
 </ul><ul><a name=ace></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Calibration Error (ACE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Calibration Error (ACE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -423,9 +450,40 @@ ___
 
 </ul><ul><a name=ade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Zhang et al., "Bidirectional progressive transformer for interaction intention anticipation", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07631.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.05552>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#nss">NSS</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#similarity">Similarity</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Zhang_Bidirectional_2024_ECCV,
+    author = "Zhang, Zichen and Luo, Hongchen and Zhai, Wei and Cao, Yang and Kang, Yu",
+    title = "Bidirectional progressive transformer for interaction intention anticipation",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Weng et al., "Inverting the Pose Forecasting Pipeline with SPF2: Sequential Pointcloud Forecasting for Sequential Pose Forecasting", CoRL, 2021.</em></strong> <a href=https://proceedings.mlr.press/v155/weng21a/weng21a.pdf>paper</a> <a href=https://arxiv.org/pdf/2003.08376.pdf>arxiv</a> <a href=https://github.com/xinshuoweng/SPF2>code</a></summary>
 <ul>
@@ -438,8 +496,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ppfe">PPFE</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ppfe">PPFE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -460,7 +518,7 @@ ___
 
 </ul><ul><a name=aepe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average End-Point Error (AEPE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average End-Point Error (AEPE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -498,7 +556,7 @@ ___
 
 </ul><ul><a name=ap></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Average Precision (AP)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -588,9 +646,69 @@ ___
 
 </ul><ul><a name=auc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> [5]</small></l>
+<summary><em><l style="font-size:20px"><strong>Area Under the Curve (AUC)</strong><small> [6]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Zhang et al., "Bidirectional progressive transformer for interaction intention anticipation", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07631.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.05552>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#nss">NSS</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#similarity">Similarity</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Zhang_Bidirectional_2024_ECCV,
+    author = "Zhang, Zichen and Luo, Hongchen and Zhai, Wei and Cao, Yang and Kang, Yu",
+    title = "Bidirectional progressive transformer for interaction intention anticipation",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Ferenczi et al., "MotionPerceiver: Real-Time Occupancy Forecasting for Embedded Systems", RAL, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10417132>paper</a> <a href=https://arxiv.org/pdf/2306.08879>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#womd">WOMD</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@ARTICLE{Ferenczi_MotionPerceiver_2024_RAL,
+    author = "Ferenczi, Bryce and Burke, Michael and Drummond, Tom",
+    journal = "RAL",
+    title = "MotionPerceiver: Real-Time Occupancy Forecasting for Embedded Systems",
+    year = "2024",
+    volume = "9",
+    number = "3",
+    pages = "2822-2829"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Ferenczi et al., "MotionPerceiver: Real-Time Occupancy Forecasting for Embedded Systems", RAL, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10417132>paper</a> <a href=https://arxiv.org/pdf/2306.08879>arxiv</a></summary>
 <ul>
@@ -789,11 +907,75 @@ ___
 </ul>
 </details>
 
-</ul><ul><a name=ave></a>
+</ul><ul><a name=auprc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Average Velocity Error (AVE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Area Under the PrecisionRecall Curve (AUPRC)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Li et al., "Sim2Real-Fire: A Multi-modal Simulation Dataset for Forecast and Backtracking of Real-world Forest Fire", NeurIPS, 2024.</em></strong> <a href=https://openreview.net/pdf?id=DjCSjizgsH>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auprc">AUPRC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Li_Simrealfire_2024_NeurIPS,
+    author = "Li, Yanzhi and Li, Keqiu and GUOHUI, LI and zumin wang and Ji, Chanqing and Wang, Lubo and Zuo, Die and Guo, Qing and Zhang, Feng and Wang, Manyu and Lin, Di",
+    title = "Sim2Real-Fire: A Multi-modal Simulation Dataset for Forecast and Backtracking of Real-world Forest Fire",
+    booktitle = "NeurIPS",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
+</ul><ul><a name=ave></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Average Velocity Error (AVE)</strong><small> [12]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Gui et al., "Fiptr: A simple yet effective transformer framework for future instance prediction in autonomous driving", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11758.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.12867>arxiv</a> <a href=https://github.com/TabGuigui/FipTR>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ave">AVE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Gui_Fiptr_2024_ECCV,
+    author = "Gui, Xingtai and Huang, Tengteng and Shao, Haonan and Yao, Haotian and Zhang, Chi",
+    title = "Fiptr: A simple yet effective transformer framework for future instance prediction in autonomous driving",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Kiss et al., "Constrained Gaussian Processes With Integrated Kernels for Long-Horizon Prediction of Dense Pedestrian Crowd Flows", RAL, 2022.</em></strong> <a href=https://ieeexplore.ieee.org/document/9782121>paper</a></summary>
 <ul>
@@ -803,8 +985,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#fve">FVE</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ave">AVE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#fve">FVE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -828,7 +1010,7 @@ ___
 
 </ul><ul><a name=bleu></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Bilingual Evaluation Understudy (BLEU)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Bilingual Evaluation Understudy (BLEU)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -920,7 +1102,7 @@ ___
 
 </ul><ul><a name=bss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Brier Skill Score (BSS)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Brier Skill Score (BSS)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -955,7 +1137,7 @@ ___
 
 </ul><ul><a name=c-index></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>c-index</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>c-index</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -989,7 +1171,7 @@ ___
 
 </ul><ul><a name=c-index></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>C-index</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>C-index</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1048,7 +1230,7 @@ ___
 
 </ul><ul><a name=c-index></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cross-validated concordance Index (C-Index)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Cross-validated concordance Index (C-Index)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1082,7 +1264,7 @@ ___
 
 </ul><ul><a name=cd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Chamfer Distance (CD)</strong><small> [6]</small></l>
+<summary><em><l style="font-size:20px"><strong>Chamfer Distance (CD)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1134,6 +1316,33 @@ ___
     author = "Agro, Ben and Sykora, Quinlan and Casas, Sergio and Gilles, Thomas and Urtasun, Raquel",
     title = "UnO: Unsupervised Occupancy Fields for Perception and Forecasting",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Pan et al., "LiDARGrid: Self-supervised 3D Opacity Grid from LiDAR for Scene Forecasting", CoRL, 2024.</em></strong> <a href=https://openreview.net/pdf?id=MfuzopqVOX>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Pan_LiDARGrid_2024_CoRL,
+    author = "Pan, Chuanyu and Xu, Aolin",
+    title = "Li{DARG}rid: Self-supervised 3D Opacity Grid from Li{DAR} for Scene Forecasting",
+    booktitle = "CoRL",
     year = "2024"
 }
 </pre>
@@ -1254,7 +1463,7 @@ ___
 
 </ul><ul><a name=cider></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Consensus-based image description evaluation (CIDEr)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1291,7 +1500,7 @@ ___
 
 </ul><ul><a name=clipscore></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Contrastive Language-Image Pre-training Score (CLIPScore)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Contrastive Language-Image Pre-training Score (CLIPScore)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1328,7 +1537,7 @@ ___
 
 </ul><ul><a name=corr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Pearson Correlation Coefficient (Corr)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Pearson Correlation Coefficient (Corr)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1391,7 +1600,7 @@ ___
 
 </ul><ul><a name=cq></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>CQ</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>CQ</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1429,7 +1638,7 @@ ___
 
 </ul><ul><a name=cross-entropy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Cross-entropy</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Cross-entropy</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1465,7 +1674,7 @@ ___
 
 </ul><ul><a name=ddm></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Diversity Distance Metric (DDM)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Diversity Distance Metric (DDM)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1503,7 +1712,7 @@ ___
 
 </ul><ul><a name=dmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Dynamic MSE (DMSE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Dynamic MSE (DMSE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>

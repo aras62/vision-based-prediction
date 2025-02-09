@@ -12,7 +12,7 @@ ___
 <h2>J-Z <small>[rank]</small></h2> 
 <ul><a name=jpe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Joint Position Error (JPE)</strong><small> [13]</small></l>
+<summary><em><l style="font-size:20px"><strong>Joint Position Error (JPE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -37,6 +37,34 @@ ___
     author = "Jeong, Jaewoo and Park, Daehee and Yoon, Kuk-Jin",
     title = "Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Xiao et al., "Multi-person Pose Forecasting with Individual Interaction Perceptron and Prior Learning", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02808.pdf>paper</a> <a href=https://github.com/ArcticPole/IAFormer>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#chi3d">CHI3D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#jpe">JPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ape">APE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Xiao_Multi_2024_ECCV,
+    author = "Xiao, Peng and Xie, Yi and Xu, Xuemiao and Chen, Weihong and Zhang, Huaidong",
+    title = "Multi-person Pose Forecasting with Individual Interaction Perceptron and Prior Learning",
+    booktitle = "ECCV",
     year = "2024"
 }
 </pre>
@@ -572,7 +600,7 @@ ___
 
 </ul><ul><a name=mane></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean angular error (MAnE)</strong><small> [4]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean angular error (MAnE)</strong><small> [5]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1239,7 +1267,7 @@ ___
 
 </ul><ul><a name=mje></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Joint Error (MJE)</strong><small> [5]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Joint Error (MJE)</strong><small> [6]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1616,9 +1644,99 @@ ___
 
 </ul><ul><a name=mmade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Multi-Modal ADE (MMADE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Multi-Modal ADE (MMADE)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Tang et al., "Prompting Future Driven Diffusion Model for Hand Motion Prediction", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01102.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#fpha">FPHA</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ho-3d">HO-3D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmade">MMADE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Tang_Prompting_2024_ECCV,
+    author = "Tang, Bowen and Zhang, Kaihao and Luo, Wenhan and Liu, Wei and Li, Hongdong",
+    title = "Prompting Future Driven Diffusion Model for Hand Motion Prediction",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Xu et al., "Learning semantic latent directions for accurate and controllable human motion prediction", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03098.pdf>paper</a> <a href=https://arxiv.org/pdf/2407.11494>arxiv</a> <a href=https://github.com/GuoweiXu368/SLD-HMP/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#humaneva-i">HumanEva-I</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmfde">MMFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Xu_Learning_2024_ECCV,
+    author = "Xu, Guowei and Tao, Jiale and Li, Wen and Duan, Lixin",
+    title = "Learning semantic latent directions for accurate and controllable human motion prediction",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Lou et al., "Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction", NeurIPS, 2024.</em></strong> <a href=https://openreview.net/pdf?id=NQCkNM6TES>paper</a> <a href=https://sites.google.com/view/dimop3d>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gimo">GIMO</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#circle">CIRCLE</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#acpd">ACPD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Lou_Harmonizing_2024_NeurIPS,
+    author = "Lou, Zhenyu and Cui, Qiongjie and Wang, Tuo and Song, Zhenbo and Zhang, Luoming and Cheng, Cheng and Wang, Haofan and Tang, Xu and Li, Huaxia and Zhou, Hong",
+    title = "Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction",
+    booktitle = "NeurIPS",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Tian et al., "TransFusion: A Practical and Effective Transformer-Based Diffusion Model for 3D Human Motion Prediction", RAL, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10530938>paper</a> <a href=https://github.com/sibotian96/TransFusion>code</a></summary>
 <ul>
@@ -1842,9 +1960,70 @@ ___
 
 </ul><ul><a name=mmfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Multi-Modal FDE (MMFDE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Multi-Modal FDE (MMFDE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Xu et al., "Learning semantic latent directions for accurate and controllable human motion prediction", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03098.pdf>paper</a> <a href=https://arxiv.org/pdf/2407.11494>arxiv</a> <a href=https://github.com/GuoweiXu368/SLD-HMP/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#humaneva-i">HumanEva-I</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmfde">MMFDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Xu_Learning_2024_ECCV,
+    author = "Xu, Guowei and Tao, Jiale and Li, Wen and Duan, Lixin",
+    title = "Learning semantic latent directions for accurate and controllable human motion prediction",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Lou et al., "Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction", NeurIPS, 2024.</em></strong> <a href=https://openreview.net/pdf?id=NQCkNM6TES>paper</a> <a href=https://sites.google.com/view/dimop3d>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gimo">GIMO</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#circle">CIRCLE</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#apd">APD</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmade">MMADE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mmfde">MMFDE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_a-d_metrics.md#acpd">ACPD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Lou_Harmonizing_2024_NeurIPS,
+    author = "Lou, Zhenyu and Cui, Qiongjie and Wang, Tuo and Song, Zhenbo and Zhang, Luoming and Cheng, Cheng and Wang, Haofan and Tang, Xu and Li, Huaxia and Zhou, Hong",
+    title = "Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction",
+    booktitle = "NeurIPS",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Tian et al., "TransFusion: A Practical and Effective Transformer-Based Diffusion Model for 3D Human Motion Prediction", RAL, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10530938>paper</a> <a href=https://github.com/sibotian96/TransFusion>code</a></summary>
 <ul>
@@ -2206,6 +2385,140 @@ ___
     author = "Lou, Zhenyu and Cui, Qiongjie and Wang, Haofan and Tang, Xu and Zhou, Hong",
     title = "Multimodal Sense-Informed Forecasting of 3D Human Motions",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Wei et al., "NeRMo: Learning Implicit Neural Representations for 3D Human Motion Prediction", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06076.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#cmu_mocap">CMU Mocap</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#3dpw">3DPW</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Wei_Nermo_2024_ECCV,
+    author = "Wei, Dong and Sun, Huaijiang and Sun, Xiaoning and Hu, Shengxiang",
+    title = "NeRMo: Learning Implicit Neural Representations for 3D Human Motion Prediction",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Cui et al., "Human Motion Forecasting in Dynamic Domain Shifts: A Homeostatic Continual Test-Time Adaptation Framework", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04599.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#grab">GRAB</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#pck">PCK</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Cui_Human_2024_ECCV,
+    author = "Cui, Qiongjie and Sun, Huaijiang and Li, Weiqing and Lu, Jianfeng and Li, Bin",
+    title = "Human Motion Forecasting in Dynamic Domain Shifts: A Homeostatic Continual Test-Time Adaptation Framework",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Xing et al., "Scene-aware Human Motion Forecasting via Mutual Distance Prediction", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05581.pdf>paper</a> <a href=https://arxiv.org/pdf/2310.00615>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gimo">GIMO</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gta-im">GTA-IM</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#prox">PROX</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#humanise">HUMANISE</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Xing_Scene_2024_ECCV,
+    author = "Xing, Chaoyue and Mao, Wei and Liu, Miaomiao",
+    title = "Scene-aware Human Motion Forecasting via Mutual Distance Prediction",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Hu et al., "GazeMotion: Gaze-guided Human Motion Forecasting", IROS, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802548>paper</a> <a href=https://arxiv.org/pdf/2403.09885>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gimo">GIMO</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mogaze">MoGaze</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#adt">ADT</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Hu_GazeMotion_2024_IROS,
+    author = "Hu, Zhiming and Schmitt, Syn and Häufle, Daniel and Bulling, Andreas",
+    booktitle = "IROS",
+    title = "GazeMotion: Gaze-guided Human Motion Forecasting",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Jiang et al., "Map-Aware Human Pose Prediction for Robot Follow-Ahead", IROS, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802110>paper</a> <a href=https://arxiv.org/pdf/2403.13294>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#gta-im">GTA-IM</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Jiang_Map_2024_IROS,
+    author = "Jiang, Qingyuan and Susam, Burak and Chao, Jun-Jee and Isler, Volkan",
+    booktitle = "IROS",
+    title = "Map-Aware Human Pose Prediction for Robot Follow-Ahead",
     year = "2024"
 }
 </pre>
@@ -3284,7 +3597,7 @@ ___
 
 </ul><ul><a name=mse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3563,7 +3876,7 @@ ___
 
 </ul><ul><a name=nss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>NSS</strong><small> [14]</small></l>
+<summary><em><l style="font-size:20px"><strong>Normalized Scanpath Salience (NSS)</strong><small> [14]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3641,6 +3954,33 @@ ___
 <summary><em><l style="font-size:20px"><strong>Percentage of Correct Keypoints (PCK)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Cui et al., "Human Motion Forecasting in Dynamic Domain Shifts: A Homeostatic Continual Test-Time Adaptation Framework", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04599.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#human3.6m">Human3.6M</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#grab">GRAB</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#mpjpe">MPJPE</a></li>
+<li><a href="../../../metrics/motion/motion_alphabetical/motion_j-z_metrics.md#pck">PCK</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Cui_Human_2024_ECCV,
+    author = "Cui, Qiongjie and Sun, Huaijiang and Li, Weiqing and Lu, Jianfeng and Li, Bin",
+    title = "Human Motion Forecasting in Dynamic Domain Shifts: A Homeostatic Continual Test-Time Adaptation Framework",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Cui et al., "Test-time Personalizable Forecasting of 3D Human Poses", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_Test-time_Personalizable_Forecasting_of_3D_Human_Poses_ICCV_2023_paper.pdf>paper</a></summary>
 <ul>

@@ -177,6 +177,184 @@ ___
 </ul>
 </details>
 
+<a name=Gui_Fiptr_2024_ECCV/>
+<details close>
+<summary><strong><em>Gui et al., "Fiptr: A simple yet effective transformer framework for future instance prediction in autonomous driving", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11758.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.12867>arxiv</a> <a href=https://github.com/TabGuigui/FipTR>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ave">AVE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Gui_Fiptr_2024_ECCV,
+    author = "Gui, Xingtai and Huang, Tengteng and Shao, Haonan and Yao, Haotian and Zhang, Chi",
+    title = "Fiptr: A simple yet effective transformer framework for future instance prediction in autonomous driving",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Yang_Carff_2024_ECCV/>
+<details close>
+<summary><strong><em>Yang et al., "Carff: Conditional auto-encoded radiance field for 3d scene forecasting", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12520.pdf>paper</a> <a href=https://www.carff.website/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#carla">CARLA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#psnr">PSNR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Yang_Carff_2024_ECCV,
+    author = "Yang, Jiezhi and Desai, Khushi and Packer, Charles and Bhatia, Harshil and Rhinehart, Nicholas and McAllister, Rowan and Gonzalez, Joseph E",
+    title = "Carff: Conditional auto-encoded radiance field for 3d scene forecasting",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Yoon_Probabilistic_2024_ECCV/>
+<details close>
+<summary><strong><em>Yoon et al., "Probabilistic Weather Forecasting with Deterministic Guidance-Based Diffusion Model", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04326.pdf>paper</a> <a href=https://github.com/DongGeun-Yoon/DGDM>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#weatherbench">WeatherBench</a></li>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#pnw-typhoon">PNW-Typhoon</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#fvd">FVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Yoon_Probabilistic_2024_ECCV,
+    author = "Yoon, Donggeun and Seo, Minseok and Kim, Doyi and Choi, Yeji and Cho, Donghyeon",
+    title = "Probabilistic Weather Forecasting with Deterministic Guidance-Based Diffusion Model",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Lai_Listen_2024_ECCV/>
+<details close>
+<summary><strong><em>Lai et al., "Listen to look into the future: Audio-visual egocentric gaze anticipation", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01396.pdf>paper</a> <a href=https://arxiv.org/pdf/2305.03907>arxiv</a> <a href=https://bolinlai.github.io/CSTS-EgoGazeAnticipation/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Lai_Listen_2024_ECCV,
+    author = "Lai, Bolin and Ryan, Fiona and Jia, Wenqi and Liu, Miao and Rehg, James M",
+    title = "Listen to look into the future: Audio-visual egocentric gaze anticipation",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Wang_Drones_2024_NeurIPS/>
+<details close>
+<summary><strong><em>Wang et al., "Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond", NeurIPS, 2024.</em></strong> <a href=https://openreview.net/pdf?id=20QgErW5zH>paper</a> <a href=https://arxiv.org/pdf/2405.14674>arxiv</a> <a href=https://github.com/WangzcBruce/DHD>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/a-d_alphabetical_datasets.md#carla">CARLA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Wang_Drones_2024_NeurIPS,
+    author = "Wang, Zhechao and Cheng, Peirui and Chen, Minxing and Tian, Pengju and Wang, Zhirui and Li, Xinming and Yang, Xue and Sun, Xian",
+    title = "Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond",
+    booktitle = "NeurIPS",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
+<a name=Li_Solarcube_2024_NeurIPS/>
+<details close>
+<summary><strong><em>Li et al., "SolarCube: An Integrative Benchmark Dataset Harnessing Satellite and In-situ Observations for Large-scale Solar Energy Forecasting", NeurIPS, 2024.</em></strong> <a href=https://openreview.net/pdf?id=WffhOhYvZ0>paper</a> <a href=https://github.com/Ruohan-Li/SolarCube>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../datasets/alphabetical/j-z_alphabetical_datasets.md#solarcube">SolarCube</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#r-squared">R-squared</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_e-i_metrics.md#fs">FS</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#mbd">MBD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Li_Solarcube_2024_NeurIPS,
+    author = "Li, Ruohan and Xie, Yiqun and Jia, Xiaowei and Wang, Dongdong and Li, Yanhua and Zhang, Yingxue and Wang, Zhihao and Li, Zhili",
+    title = "SolarCube: An Integrative Benchmark Dataset Harnessing Satellite and In-situ Observations for Large-scale Solar Energy Forecasting",
+    booktitle = "NeurIPS",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+
 <a name=Song_Multimodal_2024_ICML/>
 <details close>
 <summary><strong><em>Song et al., "Multimodal Prototyping for cancer survival prediction", ICML, 2024.</em></strong> <a href=https://openreview.net/pdf?id=3MfvxH3Gia>paper</a> <a href=https://arxiv.org/pdf/2407.00224>arxiv</a> <a href=https://github.com/mahmoodlab/MMP>code</a></summary>
@@ -796,8 +974,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#ppfe">PPFE</a></li>
 <li><a href="../../metrics/other/other_alphabetical/other_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../metrics/other/other_alphabetical/other_j-z_metrics.md#ppfe">PPFE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>

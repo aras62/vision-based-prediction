@@ -12,7 +12,7 @@ ___
 <h2>J-Z <small>[rank]</small></h2> 
 <ul><a name=kld></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -52,7 +52,7 @@ ___
 
 </ul><ul><a name=madd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Advance Detection Distance (MADD)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Advance Detection Distance (MADD)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -90,7 +90,7 @@ ___
 
 </ul><ul><a name=mae></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -123,7 +123,7 @@ ___
 
 </ul><ul><a name=map></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>mean Average Precision (mAP)</strong><small> [5]</small></l>
+<summary><em><l style="font-size:20px"><strong>mean Average Precision (mAP)</strong><small> [6]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -144,6 +144,32 @@ ___
     author = "Pasca, Razvan-George and Gavryushin, Alexey and Hamza, Muhammad and Kuo, Yen-Ling and Mo, Kaichun and Van Gool, Luc and Hilliges, Otmar and Wang, Xi",
     title = "Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Mur-Labadia et al., "AFF-ttention! Affordances and Attention models for Short-Term Object Interaction Anticipation", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03361.pdf>paper</a> <a href=https://arxiv.org/pdf/2406.01194>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Mur_Aff_2024_ECCV,
+    author = "Mur-Labadia, Lorenzo and Martinez-Cantin, Ruben and Guerrero, Jose J and Farinella, Giovanni Maria and Furnari, Antonino",
+    title = "AFF-ttention! Affordances and Attention models for Short-Term Object Interaction Anticipation",
+    booktitle = "ECCV",
     year = "2024"
 }
 </pre>
@@ -249,8 +275,8 @@ ___
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -469,8 +495,8 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -544,7 +570,7 @@ ___
 
 </ul><ul><a name=mcc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -579,7 +605,7 @@ ___
 
 </ul><ul><a name=meteor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>METEOR</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>METEOR</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -616,7 +642,7 @@ ___
 
 </ul><ul><a name=moc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean-over-class (MoC)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean-over-class (MoC)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -650,7 +676,7 @@ ___
 
 </ul><ul><a name=mof></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean-over-frame (MoF)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean-over-frame (MoF)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -684,7 +710,7 @@ ___
 
 </ul><ul><a name=mpjpe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Per Joint Prediction Error (MPJPE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Per Joint Prediction Error (MPJPE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -720,7 +746,7 @@ ___
 
 </ul><ul><a name=mrr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Reciprocal Rank (MRR)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Reciprocal Rank (MRR)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -754,7 +780,7 @@ ___
 
 </ul><ul><a name=nll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -791,7 +817,7 @@ ___
 
 </ul><ul><a name=pp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Prediction Power (PP)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Prediction Power (PP)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -827,6 +853,63 @@ ___
 <summary><em><l style="font-size:20px"><strong>Precision</strong><small> [3]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Jeon et al., "Beyond the Data Imbalance: Employing the Heterogeneous Datasets for Vehicle Maneuver Prediction", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07256.pdf>paper</a> <a href=https://github.com/KAIST-VDCLab/VDC-Trajectory-Dataset>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#vdc">VDC</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Jeon_Beyond_2024_ECCV,
+    author = "Jeon, Hyeongseok and Kim, Sanmin and Syamil, Abi Rahman and Kim, Junsoo and Kum, Dongsuk",
+    title = "Beyond the Data Imbalance: Employing the Heterogeneous Datasets for Vehicle Maneuver Prediction",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Khindkar et al., "Can Reasons Help Improve Pedestrian Intent Estimation? A Cross-Modal Approach", IROS, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802097>paper</a> <a href=https://arxiv.org/pdf/2411.13302>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Khindkar_Can_2024_IROS,
+    author = "Khindkar, Vaishnavi and Balasubramanian, Vineeth and Arora, Chetan and Subramanian, Anbumani and Jawahar, C.V.",
+    booktitle = "IROS",
+    title = "Can Reasons Help Improve Pedestrian Intent Estimation? A Cross-Modal Approach",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Rasouli et al., "PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning", ICRA, 2023.</em></strong> <a href=https://ieeexplore.ieee.org/document/10161318>paper</a> <a href=https://arxiv.org/pdf/2210.07886.pdf>arxiv</a></summary>
 <ul>
@@ -928,8 +1011,8 @@ ___
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#accuracy">Accuracy</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
-<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 <li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#map">mAP</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1581,7 +1664,7 @@ ___
 
 </ul><ul><a name=quality></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Quality</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Quality</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1626,8 +1709,8 @@ ___
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1676,13 +1759,67 @@ ___
 </ul>
 </details>
 <details close>
+<summary><strong><em>Jeon et al., "Beyond the Data Imbalance: Employing the Heterogeneous Datasets for Vehicle Maneuver Prediction", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07256.pdf>paper</a> <a href=https://github.com/KAIST-VDCLab/VDC-Trajectory-Dataset>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#vdc">VDC</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/action/action_alphabetical/action_a-d_metrics.md#auc">AUC</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Jeon_Beyond_2024_ECCV,
+    author = "Jeon, Hyeongseok and Kim, Sanmin and Syamil, Abi Rahman and Kim, Junsoo and Kum, Dongsuk",
+    title = "Beyond the Data Imbalance: Employing the Heterogeneous Datasets for Vehicle Maneuver Prediction",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Diko et al., "Semantically guided representation learning for action anticipation", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04140.pdf>paper</a> <a href=https://arxiv.org/pdf/2407.02309>arxiv</a> <a href=https://github.com/ADiko1997/S-GEAR>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/action/action_alphabetical/action_j-z_metrics.md#recall">Recall</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Diko_Semantically_2024_ECCV,
+    author = "Diko, Anxhelo and Avola, Danilo and Prenkaj, Bardh and Fontana, Federico and Cinque, Luigi",
+    title = "Semantically guided representation learning for action anticipation",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Girase et al., "Latency Matters: Real-Time Action Forecasting Transformer", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Girase_Latency_Matters_Real-Time_Action_Forecasting_Transformer_CVPR_2023_paper.pdf>paper</a> <a href=https://karttikeya.github.io/publication/RAFTformer/>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
@@ -2448,7 +2585,7 @@ ___
 
 </ul><ul><a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [8]</small></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [9]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2566,7 +2703,7 @@ ___
 
 </ul><ul><a name=rouge-l></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>ROUGE-L</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>ROUGE-L</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2603,7 +2740,7 @@ ___
 
 </ul><ul><a name=rt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2612,8 +2749,8 @@ ___
 <em>Datasets</em>
 <ul>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
-<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#50salads">50Salads</a></li>
 <li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#breakfast">Breakfast</a></li>
 </ul>
 <em>Metrics</em>
@@ -2668,7 +2805,7 @@ ___
 
 </ul><ul><a name=run_time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2758,7 +2895,7 @@ ___
 
 </ul><ul><a name=time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Time</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Time</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2796,7 +2933,7 @@ ___
 
 </ul><ul><a name=tnr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>TNR</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>TNR</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2832,7 +2969,7 @@ ___
 
 </ul><ul><a name=tpr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2898,7 +3035,7 @@ ___
 
 </ul><ul><a name=tta></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Time To Accident (TTA)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Time To Accident (TTA)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2989,7 +3126,7 @@ ___
 
 </ul><ul><a name=ttm></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Time To Maneuver (TTM)</strong><small> [7]</small></l>
+<summary><em><l style="font-size:20px"><strong>Time To Maneuver (TTM)</strong><small> [8]</small></l>
 </em></summary>
 <ul>
 <details close>

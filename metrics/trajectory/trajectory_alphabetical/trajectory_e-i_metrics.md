@@ -12,7 +12,7 @@ ___
 <h2>E-I <small>[rank]</small></h2> 
 <ul><a name=ece></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> [20]</small></l>
+<summary><em><l style="font-size:20px"><strong>Expected Calibration Error (ECE)</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -79,7 +79,7 @@ ___
 
 </ul><ul><a name=ecfl></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Environment Collision-Free Likelihood (ECFL)</strong><small> [21]</small></l>
+<summary><em><l style="font-size:20px"><strong>Environment Collision-Free Likelihood (ECFL)</strong><small> [22]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -905,7 +905,7 @@ ___
 
 </ul><ul><a name=emd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> [20]</small></l>
+<summary><em><l style="font-size:20px"><strong>Earth Mover's Distance (EMD)</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -971,7 +971,7 @@ ___
 
 </ul><ul><a name=entropy></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Entropy</strong><small> [21]</small></l>
+<summary><em><l style="font-size:20px"><strong>Entropy</strong><small> [22]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1006,7 +1006,7 @@ ___
 
 </ul><ul><a name=epa></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>End-to-end Prediction Accuracy (EPA)</strong><small> [20]</small></l>
+<summary><em><l style="font-size:20px"><strong>End-to-end Prediction Accuracy (EPA)</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1070,7 +1070,7 @@ ___
 
 </ul><ul><a name=epe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> [20]</small></l>
+<summary><em><l style="font-size:20px"><strong>End-Point Error (EPE)</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1136,7 +1136,7 @@ ___
 
 </ul><ul><a name=epe3d></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>3D Endpoint Error (EPE3D)</strong><small> [21]</small></l>
+<summary><em><l style="font-size:20px"><strong>3D Endpoint Error (EPE3D)</strong><small> [22]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1169,7 +1169,7 @@ ___
 
 </ul><ul><a name=es></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Energy Score (ES)</strong><small> [21]</small></l>
+<summary><em><l style="font-size:20px"><strong>Energy Score (ES)</strong><small> [22]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1204,7 +1204,7 @@ ___
 
 </ul><ul><a name=f></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Feasibility (F)</strong><small> [21]</small></l>
+<summary><em><l style="font-size:20px"><strong>Feasibility (F)</strong><small> [22]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1295,6 +1295,204 @@ ___
     author = "Bae, Inhwan and Park, Young-Jae and Jeon, Hae-Gon",
     title = "SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Nakamura et al., "Not All Errors Are Made Equal: A Regret Metric for Detecting System-level Trajectory Prediction Failures", CoRL, 2024.</em></strong> <a href=https://openreview.net/pdf?id=G0jqGG8Tta>paper</a> <a href=https://arxiv.org/pdf/2403.04745>arxiv</a> <a href=https://cmu-intentlab.github.io/not-all-errors/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li>Custom</li>
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Nakamura_Not_2024_CoRL,
+    author = "Nakamura, Kensuke and Tian, Thomas and Bajcsy, Andrea",
+    title = "Not All Errors Are Made Equal: A Regret Metric for Detecting System-level Trajectory Prediction Failures",
+    booktitle = "CoRL",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Wang et al., "EscIRL: Evolving Self-Contrastive IRL for Trajectory Prediction in Autonomous Driving", CoRL, 2024.</em></strong> <a href=https://openreview.net/pdf?id=1IzW0aniyg>paper</a> <a href=https://github.com/SiyueWang-CiDi/EscIRL>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#citysim">CitySim</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cr">CR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#hp">HP</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#afd">AFD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Wang_EscIRL_2024_CoRL,
+    author = "Wang, Siyue and Chen, Zhaorun and Zhao, Zhuokai and Mao, Chaoli and Zhou, Yiyang and He, Jiayu and Hu, Albert Sibo",
+    title = "Esc{IRL}: Evolving Self-Contrastive {IRL} for Trajectory Prediction in Autonomous Driving",
+    booktitle = "CoRL",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Thakkar et al., "Adaptive human trajectory prediction via latent corridors", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05542.pdf>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mot">MOT</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#wildtrack">WILDTRACK</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#motsynth">MOTSynth</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Thakkar_Adaptive_2024_ECCV,
+    author = "Thakkar, Neerja and Mangalam, Karttikeya and Bajcsy, Andrea and Malik, Jitendra",
+    title = "Adaptive human trajectory prediction via latent corridors",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Zheng et al., "Large Language Models Powered Context-aware Motion Prediction in Autonomous Driving", IROS, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802397>paper</a> <a href=https://arxiv.org/pdf/2403.11057>arxiv</a> <a href=https://github.com/AIR-DISCOVER/LLM-Augmented-MTR>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Zheng_Large_2024_IROS,
+    author = "Zheng, Xiaoji and Wu, Lixiu and Yan, Zhijie and Tang, Yuanrong and Zhao, Hao and Zhong, Chen and Chen, Bokui and Gong, Jiangtao",
+    booktitle = "IROS",
+    title = "Large Language Models Powered Context-aware Motion Prediction in Autonomous Driving",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Fan et al., "Adversarial Attack on Trajectory Prediction for Autonomous Vehicles with Generative Adversarial Networks", IROS, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802234>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ngsim">NGSIM</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Fan_Adversarial_2024_IROS,
+    author = "Fan, Jiping and Wang, Zhenpo and Li, Guoqiang",
+    booktitle = "IROS",
+    title = "Adversarial Attack on Trajectory Prediction for Autonomous Vehicles with Generative Adversarial Networks",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Chen et al., "MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction", NeurIPS, 2024.</em></strong> <a href=https://openreview.net/pdf?id=muYhNDlxWc>paper</a> <a href=https://arxiv.org/pdf/2402.12238>arxiv</a> <a href=https://github.com/mulplue/MGF>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fpd">FPD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#apd">APD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Chen_Mgf_2024_NeurIPS,
+    author = "Chen, Jiahe and Cao, Jinkun and Lin, Dahua and Kitani, Kris M. and Pang, Jiangmiao",
+    title = "{MGF}: Mixed Gaussian Flow for Diverse Trajectory Prediction",
+    booktitle = "NeurIPS",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Yao et al., "TrajCLIP: Pedestrian trajectory prediction method using contrastive learning and idempotent networks", NeurIPS, 2024.</em></strong> <a href=https://openreview.net/pdf?id=fUBFy8tb3z>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Yao_Trajclip_2024_NeurIPS,
+    author = "Yao, Pengfei and Zhu, Yinglong and Bi, Huikun and Mao, Tianlu and Wang, Zhaoqi",
+    title = "Traj{CLIP}: Pedestrian trajectory prediction method using contrastive learning and idempotent networks",
+    booktitle = "NeurIPS",
     year = "2024"
 }
 </pre>
@@ -5307,7 +5505,7 @@ ___
 
 </ul><ul><a name=fgt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Averge Forgeting (FGT)</strong><small> [21]</small></l>
+<summary><em><l style="font-size:20px"><strong>Averge Forgeting (FGT)</strong><small> [22]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5617,7 +5815,7 @@ ___
 
 </ul><ul><a name=fle></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final Lane Error (FLE)</strong><small> [21]</small></l>
+<summary><em><l style="font-size:20px"><strong>Final Lane Error (FLE)</strong><small> [22]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5654,7 +5852,7 @@ ___
 
 </ul><ul><a name=fnm></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Fraction of Near Misses (FNM)</strong><small> [21]</small></l>
+<summary><em><l style="font-size:20px"><strong>Fraction of Near Misses (FNM)</strong><small> [22]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5686,9 +5884,46 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=fpd></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Final Pairwise Displacement (FPD)</strong><small> [22]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Chen et al., "MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction", NeurIPS, 2024.</em></strong> <a href=https://openreview.net/pdf?id=muYhNDlxWc>paper</a> <a href=https://arxiv.org/pdf/2402.12238>arxiv</a> <a href=https://github.com/mulplue/MGF>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#ucy">UCY</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#eth">ETH</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fpd">FPD</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#apd">APD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Chen_Mgf_2024_NeurIPS,
+    author = "Chen, Jiahe and Cao, Jinkun and Lin, Dahua and Kitani, Kris M. and Pang, Jiangmiao",
+    title = "{MGF}: Mixed Gaussian Flow for Diverse Trajectory Prediction",
+    booktitle = "NeurIPS",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=frb></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Final RMSE of Bounding box (FRB)</strong><small> [20]</small></l>
+<summary><em><l style="font-size:20px"><strong>Final RMSE of Bounding box (FRB)</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5755,7 +5990,7 @@ ___
 
 </ul><ul><a name=fsd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>FSD</strong><small> [21]</small></l>
+<summary><em><l style="font-size:20px"><strong>FSD</strong><small> [22]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5795,7 +6030,7 @@ ___
 
 </ul><ul><a name=hit_rate></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Hit Rate</strong><small> [20]</small></l>
+<summary><em><l style="font-size:20px"><strong>Hit Rate</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5857,7 +6092,7 @@ ___
 
 </ul><ul><a name=hor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Hard Off-road Rate (HOR)</strong><small> [20]</small></l>
+<summary><em><l style="font-size:20px"><strong>Hard Off-road Rate (HOR)</strong><small> [21]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5918,9 +6153,47 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=hp></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Human Probability (HP)</strong><small> [22]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Wang et al., "EscIRL: Evolving Self-Contrastive IRL for Trajectory Prediction in Autonomous Driving", CoRL, 2024.</em></strong> <a href=https://openreview.net/pdf?id=1IzW0aniyg>paper</a> <a href=https://github.com/SiyueWang-CiDi/EscIRL>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#citysim">CitySim</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#fde">FDE</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#cr">CR</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_e-i_metrics.md#hp">HP</a></li>
+<li><a href="../../../metrics/trajectory/trajectory_alphabetical/trajectory_a-d_metrics.md#afd">AFD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Wang_EscIRL_2024_CoRL,
+    author = "Wang, Siyue and Chen, Zhaorun and Zhao, Zhuokai and Mao, Chaoli and Zhou, Yiyang and He, Jiayu and Hu, Albert Sibo",
+    title = "Esc{IRL}: Evolving Self-Contrastive {IRL} for Trajectory Prediction in Autonomous Driving",
+    booktitle = "CoRL",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=human></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> [21]</small></l>
+<summary><em><l style="font-size:20px"><strong>Human Judgement (Human)</strong><small> [22]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5955,7 +6228,7 @@ ___
 
 </ul><ul><a name=iminade></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>iminADE</strong><small> [21]</small></l>
+<summary><em><l style="font-size:20px"><strong>iminADE</strong><small> [22]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -5996,7 +6269,7 @@ ___
 
 </ul><ul><a name=iminfde></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>iminFDE</strong><small> [21]</small></l>
+<summary><em><l style="font-size:20px"><strong>iminFDE</strong><small> [22]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -6037,7 +6310,7 @@ ___
 
 </ul><ul><a name=inace></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Image Normalized Average Centroid Error (INACE)</strong><small> [21]</small></l>
+<summary><em><l style="font-size:20px"><strong>Image Normalized Average Centroid Error (INACE)</strong><small> [22]</small></l>
 </em></summary>
 <ul>
 <details close>

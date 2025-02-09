@@ -12,7 +12,7 @@ ___
 <h2>J-Z <small>[rank]</small></h2> 
 <ul><a name=kld></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>KullbackLeibler Divergence (KLD)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -77,7 +77,7 @@ ___
 
 </ul><ul><a name=l1></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>L1</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>L1</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -102,6 +102,33 @@ ___
     author = "Agro, Ben and Sykora, Quinlan and Casas, Sergio and Gilles, Thomas and Urtasun, Raquel",
     title = "UnO: Unsupervised Occupancy Fields for Perception and Forecasting",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Pan et al., "LiDARGrid: Self-supervised 3D Opacity Grid from LiDAR for Scene Forecasting", CoRL, 2024.</em></strong> <a href=https://openreview.net/pdf?id=MfuzopqVOX>paper</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#cd">CD</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#l1">L1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#absrel">AbsRel</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Pan_LiDARGrid_2024_CoRL,
+    author = "Pan, Chuanyu and Xu, Aolin",
+    title = "Li{DARG}rid: Self-supervised 3D Opacity Grid from Li{DAR} for Scene Forecasting",
+    booktitle = "CoRL",
     year = "2024"
 }
 </pre>
@@ -143,7 +170,7 @@ ___
 
 </ul><ul><a name=l2></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>L2</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>L2</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -202,7 +229,7 @@ ___
 
 </ul><ul><a name=mae></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [5]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Error (MAE)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -225,6 +252,37 @@ ___
     author = "Kalble, Jonas and Wirges, Sascha and Tatarchenko, Maxim and Ilg, Eddy",
     title = "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Yoon et al., "Probabilistic Weather Forecasting with Deterministic Guidance-Based Diffusion Model", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04326.pdf>paper</a> <a href=https://github.com/DongGeun-Yoon/DGDM>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#weatherbench">WeatherBench</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pnw-typhoon">PNW-Typhoon</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#fvd">FVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Yoon_Probabilistic_2024_ECCV,
+    author = "Yoon, Donggeun and Seo, Minseok and Kim, Doyi and Choi, Yeji and Cho, Donghyeon",
+    title = "Probabilistic Weather Forecasting with Deterministic Guidance-Based Diffusion Model",
+    booktitle = "ECCV",
     year = "2024"
 }
 </pre>
@@ -399,6 +457,65 @@ ___
 </em></summary>
 <ul>
 <details close>
+<summary><strong><em>Gui et al., "Fiptr: A simple yet effective transformer framework for future instance prediction in autonomous driving", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11758.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.12867>arxiv</a> <a href=https://github.com/TabGuigui/FipTR>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ave">AVE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Gui_Fiptr_2024_ECCV,
+    author = "Gui, Xingtai and Huang, Tengteng and Shao, Haonan and Yao, Haotian and Zhang, Chi",
+    title = "Fiptr: A simple yet effective transformer framework for future instance prediction in autonomous driving",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Liu et al., "LiDAR-based 4D Occupancy Completion and Forecasting", IROS, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10801302>paper</a> <a href=https://arxiv.org/pdf/2310.11239>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Liu_LiDAR_2024_IROS,
+    author = "Liu, Xinhao and Gong, Moonjun and Fang, Qi and Xie, Haoyu and Li, Yiming and Zhao, Hang and Feng, Chen",
+    booktitle = "IROS",
+    title = "LiDAR-based 4D Occupancy Completion and Forecasting",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Agro et al., "Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Agro_Implicit_Occupancy_Flow_Fields_for_Perception_and_Prediction_in_Self-Driving_CVPR_2023_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/2308.01471.pdf>arxiv</a></summary>
 <ul>
 <em>Datasets</em>
@@ -410,9 +527,9 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rt">RT</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#ece">ECE</a></li>
 </ul>
 <details close>
@@ -462,7 +579,7 @@ ___
 
 </ul><ul><a name=mape></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Absolute Percentage Error (MAPE)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -520,9 +637,45 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=mbd></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Mean Bias Deviation (MBD)</strong><small> [13]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Li et al., "SolarCube: An Integrative Benchmark Dataset Harnessing Satellite and In-situ Observations for Large-scale Solar Energy Forecasting", NeurIPS, 2024.</em></strong> <a href=https://openreview.net/pdf?id=WffhOhYvZ0>paper</a> <a href=https://github.com/Ruohan-Li/SolarCube>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#solarcube">SolarCube</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#r-squared">R-squared</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#fs">FS</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mbd">MBD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Li_Solarcube_2024_NeurIPS,
+    author = "Li, Ruohan and Xie, Yiqun and Jia, Xiaowei and Wang, Dongdong and Li, Yanhua and Zhang, Yingxue and Wang, Zhihao and Li, Zhili",
+    title = "SolarCube: An Integrative Benchmark Dataset Harnessing Satellite and In-situ Observations for Large-scale Solar Energy Forecasting",
+    booktitle = "NeurIPS",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=mcc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Matthews Correlation Coefficient (MCC)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -558,7 +711,7 @@ ___
 
 </ul><ul><a name=mce></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Maximum Calibration Error (MCE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Maximum Calibration Error (MCE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -594,7 +747,7 @@ ___
 
 </ul><ul><a name=me></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Error (ME)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Error (ME)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -627,7 +780,7 @@ ___
 
 </ul><ul><a name=meteor></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>METEOR</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>METEOR</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -663,7 +816,7 @@ ___
 
 </ul><ul><a name=miou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean IoU (MIoU)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean IoU (MIoU)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -698,7 +851,7 @@ ___
 
 </ul><ul><a name=mpe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Position Error (MPE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Position Error (MPE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -731,7 +884,7 @@ ___
 
 </ul><ul><a name=mre></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Relative Error (MRE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Relative Error (MRE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -765,9 +918,40 @@ ___
 
 </ul><ul><a name=mse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong><small> [5]</small></l>
+<summary><em><l style="font-size:20px"><strong>Mean Square Error (MSE)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Yoon et al., "Probabilistic Weather Forecasting with Deterministic Guidance-Based Diffusion Model", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04326.pdf>paper</a> <a href=https://github.com/DongGeun-Yoon/DGDM>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#weatherbench">WeatherBench</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pnw-typhoon">PNW-Typhoon</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#fvd">FVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Yoon_Probabilistic_2024_ECCV,
+    author = "Yoon, Donggeun and Seo, Minseok and Kim, Doyi and Choi, Yeji and Cho, Donghyeon",
+    title = "Probabilistic Weather Forecasting with Deterministic Guidance-Based Diffusion Model",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Chen et al., "Predicting Object Interactions with Behavior Primitives: An Application in Stowing Tasks", CoRL, 2023.</em></strong> <a href=https://openreview.net/pdf?id=VH6WIPF4Sj>paper</a></summary>
 <ul>
@@ -965,7 +1149,7 @@ ___
 
 </ul><ul><a name=nfcd></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Near-Field Chamfer Distance (NFCD)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Near-Field Chamfer Distance (NFCD)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1002,7 +1186,7 @@ ___
 
 </ul><ul><a name=nfe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Near-Field Error (NFE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Near-Field Error (NFE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1039,7 +1223,7 @@ ___
 
 </ul><ul><a name=nll></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Negative Log-Likelihood (NLL)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1073,7 +1257,7 @@ ___
 
 </ul><ul><a name=nmape></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>normalized Mean Absolute Percentage Error (nMAPE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>normalized Mean Absolute Percentage Error (nMAPE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1108,7 +1292,7 @@ ___
 
 </ul><ul><a name=nmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Normalized MSE (NMSE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Normalized MSE (NMSE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1144,7 +1328,7 @@ ___
 
 </ul><ul><a name=nse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Nash-Sutcliffe Efficiency (NSE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Nash-Sutcliffe Efficiency (NSE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1177,9 +1361,48 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=nss></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Normalized Scanpath Salience (NSS)</strong><small> [13]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Zhang et al., "Bidirectional progressive transformer for interaction intention anticipation", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07631.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.05552>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#nss">NSS</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#similarity">Similarity</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Zhang_Bidirectional_2024_ECCV,
+    author = "Zhang, Zichen and Luo, Hongchen and Zhai, Wei and Cao, Yang and Kang, Yu",
+    title = "Bidirectional progressive transformer for interaction intention anticipation",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=p-value></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>p-value</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>p-value</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1213,7 +1436,7 @@ ___
 
 </ul><ul><a name=pcp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Percentage of Correct Predictions (PCP)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Percentage of Correct Predictions (PCP)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1247,7 +1470,7 @@ ___
 
 </ul><ul><a name=ppfe></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Per-point Flow Error (PPFE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Per-point Flow Error (PPFE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1262,8 +1485,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ppfe">PPFE</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ppfe">PPFE</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1284,7 +1507,7 @@ ___
 
 </ul><ul><a name=pq></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Panoptic Quality (PQ)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Panoptic Quality (PQ)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1351,9 +1574,68 @@ ___
 
 </ul><ul><a name=precision></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Precision</strong><small> [3]</small></l>
+<summary><em><l style="font-size:20px"><strong>Precision</strong><small> [4]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Lai et al., "Listen to look into the future: Audio-visual egocentric gaze anticipation", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01396.pdf>paper</a> <a href=https://arxiv.org/pdf/2305.03907>arxiv</a> <a href=https://bolinlai.github.io/CSTS-EgoGazeAnticipation/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Lai_Listen_2024_ECCV,
+    author = "Lai, Bolin and Ryan, Fiona and Jia, Wenqi and Liu, Miao and Rehg, James M",
+    title = "Listen to look into the future: Audio-visual egocentric gaze anticipation",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Liu et al., "LiDAR-based 4D Occupancy Completion and Forecasting", IROS, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10801302>paper</a> <a href=https://arxiv.org/pdf/2310.11239>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Liu_LiDAR_2024_IROS,
+    author = "Liu, Xinhao and Gong, Moonjun and Fang, Qi and Xie, Haoyu and Li, Yiming and Zhao, Hang and Feng, Chen",
+    booktitle = "IROS",
+    title = "LiDAR-based 4D Occupancy Completion and Forecasting",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Li et al., "Causally-Aware Intraoperative Imputation for Overall Survival Time Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Causally-Aware_Intraoperative_Imputation_for_Overall_Survival_Time_Prediction_CVPR_2023_paper.pdf>paper</a></summary>
 <ul>
@@ -1729,7 +2011,7 @@ ___
 
 </ul><ul><a name=psi></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Psi</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Psi</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -1767,6 +2049,62 @@ ___
 </em></summary>
 <ul>
 <details close>
+<summary><strong><em>Yang et al., "Carff: Conditional auto-encoded radiance field for 3d scene forecasting", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12520.pdf>paper</a> <a href=https://www.carff.website/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#carla">CARLA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#psnr">PSNR</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Yang_Carff_2024_ECCV,
+    author = "Yang, Jiezhi and Desai, Khushi and Packer, Charles and Bhatia, Harshil and Rhinehart, Nicholas and McAllister, Rowan and Gonzalez, Joseph E",
+    title = "Carff: Conditional auto-encoded radiance field for 3d scene forecasting",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Yoon et al., "Probabilistic Weather Forecasting with Deterministic Guidance-Based Diffusion Model", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04326.pdf>paper</a> <a href=https://github.com/DongGeun-Yoon/DGDM>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#weatherbench">WeatherBench</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pnw-typhoon">PNW-Typhoon</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#fvd">FVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Yoon_Probabilistic_2024_ECCV,
+    author = "Yoon, Donggeun and Seo, Minseok and Kim, Doyi and Choi, Yeji and Cho, Donghyeon",
+    title = "Probabilistic Weather Forecasting with Deterministic Guidance-Based Diffusion Model",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
 <summary><strong><em>Katyal et al., "Uncertainty-Aware Occupancy Map Prediction Using Generative Networks For Robot Navigation", ICRA, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/abstract/document/8793500>paper</a></summary>
 <ul>
 <em>Datasets</em>
@@ -1776,9 +2114,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -1826,9 +2164,37 @@ ___
 
 </ul><ul><a name=r-squared></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>R-squared</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>R-squared</strong><small> [12]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Li et al., "SolarCube: An Integrative Benchmark Dataset Harnessing Satellite and In-situ Observations for Large-scale Solar Energy Forecasting", NeurIPS, 2024.</em></strong> <a href=https://openreview.net/pdf?id=WffhOhYvZ0>paper</a> <a href=https://github.com/Ruohan-Li/SolarCube>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#solarcube">SolarCube</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#r-squared">R-squared</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#fs">FS</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mbd">MBD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Li_Solarcube_2024_NeurIPS,
+    author = "Li, Ruohan and Xie, Yiqun and Jia, Xiaowei and Wang, Dongdong and Li, Yanhua and Zhang, Yingxue and Wang, Zhihao and Li, Zhili",
+    title = "SolarCube: An Integrative Benchmark Dataset Harnessing Satellite and In-situ Observations for Large-scale Solar Energy Forecasting",
+    booktitle = "NeurIPS",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Lin et al., "MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer", ICCV, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_MMST-ViT_Climate_Change-aware_Crop_Yield_Prediction_via_Multi-Modal_Spatial-Temporal_Vision_ICCV_2023_paper.pdf>paper</a> <a href=https://github.com/fudong03/MMST-ViT>code</a></summary>
 <ul>
@@ -1865,6 +2231,90 @@ ___
 <summary><em><l style="font-size:20px"><strong>Recall</strong><small> [3]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Lai et al., "Listen to look into the future: Audio-visual egocentric gaze anticipation", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01396.pdf>paper</a> <a href=https://arxiv.org/pdf/2305.03907>arxiv</a> <a href=https://bolinlai.github.io/CSTS-EgoGazeAnticipation/>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Lai_Listen_2024_ECCV,
+    author = "Lai, Bolin and Ryan, Fiona and Jia, Wenqi and Liu, Miao and Rehg, James M",
+    title = "Listen to look into the future: Audio-visual egocentric gaze anticipation",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Peddi et al., "Towards scene graph anticipation", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12130.pdf>paper</a> <a href=https://arxiv.org/pdf/2403.04899>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#action_genome">Action Genome</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Peddi_Towards_2024_ECCV,
+    author = "Peddi, Rohith and Singh, Saksham and Saurabh and Singla, Parag and Gogate, Vibhav",
+    title = "Towards scene graph anticipation",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Liu et al., "LiDAR-based 4D Occupancy Completion and Forecasting", IROS, 2024.</em></strong> <a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10801302>paper</a> <a href=https://arxiv.org/pdf/2310.11239>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#lyft">Lyft</a></li>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#apolloscape">ApolloScape</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#f1">F1</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#recall">Recall</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#precision">Precision</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Liu_LiDAR_2024_IROS,
+    author = "Liu, Xinhao and Gong, Moonjun and Fang, Qi and Xie, Haoyu and Li, Yiming and Zhao, Hang and Feng, Chen",
+    booktitle = "IROS",
+    title = "LiDAR-based 4D Occupancy Completion and Forecasting",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Li et al., "Causally-Aware Intraoperative Imputation for Overall Survival Time Prediction", CVPR, 2023.</em></strong> <a href=https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Causally-Aware_Intraoperative_Imputation_for_Overall_Survival_Time_Prediction_CVPR_2023_paper.pdf>paper</a></summary>
 <ul>
@@ -2240,7 +2690,7 @@ ___
 
 </ul><ul><a name=refclipscore></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>RefCLIPScore</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>RefCLIPScore</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2277,7 +2727,7 @@ ___
 
 </ul><ul><a name=ri></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Rand Index (RI)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Rand Index (RI)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2313,7 +2763,7 @@ ___
 
 </ul><ul><a name=rmse></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [5]</small></l>
+<summary><em><l style="font-size:20px"><strong>Root Mean Square Error (RMSE)</strong><small> [7]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2363,6 +2813,34 @@ ___
     author = "Benson, Vitus and Robin, Claire and Requena-Mesa, Christian and Alonso, Lazaro and Carvalhais, Nuno and Cort\'es, Jos\'e and Gao, Zhihan and Linscheid, Nora and Weynants, M\'elanie and Reichstein, Markus",
     title = "Multi-modal Learning for Geospatial Vegetation Forecasting",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Li et al., "SolarCube: An Integrative Benchmark Dataset Harnessing Satellite and In-situ Observations for Large-scale Solar Energy Forecasting", NeurIPS, 2024.</em></strong> <a href=https://openreview.net/pdf?id=WffhOhYvZ0>paper</a> <a href=https://github.com/Ruohan-Li/SolarCube>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#solarcube">SolarCube</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rmse">RMSE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#r-squared">R-squared</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#fs">FS</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mbd">MBD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Li_Solarcube_2024_NeurIPS,
+    author = "Li, Ruohan and Xie, Yiqun and Jia, Xiaowei and Wang, Dongdong and Li, Yanhua and Zhang, Yingxue and Wang, Zhihao and Li, Zhili",
+    title = "SolarCube: An Integrative Benchmark Dataset Harnessing Satellite and In-situ Observations for Large-scale Solar Energy Forecasting",
+    booktitle = "NeurIPS",
     year = "2024"
 }
 </pre>
@@ -2506,7 +2984,7 @@ ___
 
 </ul><ul><a name=roc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Receiver Operator Characteristic (ROC)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Receiver Operator Characteristic (ROC)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2567,7 +3045,7 @@ ___
 
 </ul><ul><a name=rov></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Retention of Vehicles (RoV)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Retention of Vehicles (RoV)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2602,7 +3080,7 @@ ___
 
 </ul><ul><a name=rq></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Recognition Quality (RQ)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Recognition Quality (RQ)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2639,7 +3117,7 @@ ___
 
 </ul><ul><a name=rs></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Repetition Score (RS)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Repetition Score (RS)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2674,7 +3152,7 @@ ___
 
 </ul><ul><a name=rt></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time (RT)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2689,9 +3167,9 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rt">RT</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#ece">ECE</a></li>
 </ul>
 <details close>
@@ -2743,7 +3221,7 @@ ___
 
 </ul><ul><a name=run_time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Run Time</strong><small> [11]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2755,8 +3233,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#tp">TP</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#tn">TN</a></li>
 </ul>
@@ -2784,9 +3262,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -2835,7 +3313,7 @@ ___
 
 </ul><ul><a name=sile></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Scale-Invariant Logarithmic Error (SILE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Scale-Invariant Logarithmic Error (SILE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2871,9 +3349,48 @@ ___
 </ul>
 </details>
 
+</ul><ul><a name=similarity></a>
+<details close>
+<summary><em><l style="font-size:20px"><strong>Similarity</strong><small> [13]</small></l>
+</em></summary>
+<ul>
+<details close>
+<summary><strong><em>Zhang et al., "Bidirectional progressive transformer for interaction intention anticipation", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07631.pdf>paper</a> <a href=https://arxiv.org/pdf/2405.05552>arxiv</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#epic-kitchens">Epic-Kitchens</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#egtea_gaze+">EGTEA Gaze+</a></li>
+<li><a href="../../../datasets/alphabetical/e-i_alphabetical_datasets.md#ego4d">Ego4D</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#auc">AUC</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ade">ADE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#nss">NSS</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#similarity">Similarity</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Zhang_Bidirectional_2024_ECCV,
+    author = "Zhang, Zichen and Luo, Hongchen and Zhai, Wei and Cao, Yang and Kang, Yu",
+    title = "Bidirectional progressive transformer for interaction intention anticipation",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+</ul>
+</details>
+
 </ul><ul><a name=soft-iou></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Soft-IoU</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Soft-IoU</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2888,9 +3405,9 @@ ___
 <em>Metrics</em>
 <ul>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#epe">EPE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#rt">RT</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#soft-iou">Soft-IoU</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#ece">ECE</a></li>
 </ul>
 <details close>
@@ -2940,7 +3457,7 @@ ___
 
 </ul><ul><a name=spice></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Semantic Propositional Image Caption Evaluation (SPICE)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Semantic Propositional Image Caption Evaluation (SPICE)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -2977,7 +3494,7 @@ ___
 
 </ul><ul><a name=sq></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Segmentation Quality (SQ)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>Segmentation Quality (SQ)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3044,7 +3561,7 @@ ___
 
 </ul><ul><a name=src></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Spearman’s Ranking Correlation (SRC)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Spearman’s Ranking Correlation (SRC)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3078,9 +3595,40 @@ ___
 
 </ul><ul><a name=ssim></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong><small> [9]</small></l>
+<summary><em><l style="font-size:20px"><strong>Structural SIMilarity (SSIM)</strong><small> [10]</small></l>
 </em></summary>
 <ul>
+<details close>
+<summary><strong><em>Yoon et al., "Probabilistic Weather Forecasting with Deterministic Guidance-Based Diffusion Model", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04326.pdf>paper</a> <a href=https://github.com/DongGeun-Yoon/DGDM>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#mmnist">MMNIST</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#weatherbench">WeatherBench</a></li>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#pnw-typhoon">PNW-Typhoon</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mae">MAE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#mse">MSE</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#fvd">FVD</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Yoon_Probabilistic_2024_ECCV,
+    author = "Yoon, Donggeun and Seo, Minseok and Kim, Doyi and Choi, Yeji and Cho, Donghyeon",
+    title = "Probabilistic Weather Forecasting with Deterministic Guidance-Based Diffusion Model",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
 <details close>
 <summary><strong><em>Mohajerin et al., "Multi-Step Prediction Of Occupancy Grid Maps With Recurrent Neural Networks", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Mohajerin_Multi-Step_Prediction_of_Occupancy_Grid_Maps_With_Recurrent_Neural_Networks_CVPR_2019_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1812.09395.pdf>arxiv</a></summary>
 <ul>
@@ -3090,8 +3638,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#tp">TP</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#tn">TN</a></li>
 </ul>
@@ -3119,9 +3667,9 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#psnr">PSNR</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
 </ul>
 <details close>
 <summary><em>Bibtex</em></summary>
@@ -3169,7 +3717,7 @@ ___
 
 </ul><ul><a name=time></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>time</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>time</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3206,7 +3754,7 @@ ___
 
 </ul><ul><a name=tn></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Negative (TN)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3247,8 +3795,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#tp">TP</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#tn">TN</a></li>
 </ul>
@@ -3271,7 +3819,7 @@ ___
 
 </ul><ul><a name=tp></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Positive (TP)</strong><small> [10]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Positive (TP)</strong><small> [12]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3312,8 +3860,8 @@ ___
 </ul>
 <em>Metrics</em>
 <ul>
-<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#ssim">SSIM</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#run_time">Run Time</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#tp">TP</a></li>
 <li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#tn">TN</a></li>
 </ul>
@@ -3336,7 +3884,7 @@ ___
 
 </ul><ul><a name=tpr></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Positive Rate (TPR)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3372,7 +3920,7 @@ ___
 
 </ul><ul><a name=tss></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>True Skill Statistics (TSS)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>True Skill Statistics (TSS)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3407,7 +3955,7 @@ ___
 
 </ul><ul><a name=ttc></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>TTC</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>TTC</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3440,7 +3988,7 @@ ___
 
 </ul><ul><a name=voi></a>
 <details close>
-<summary><em><l style="font-size:20px"><strong>Variation of Information (VoI)</strong><small> [11]</small></l>
+<summary><em><l style="font-size:20px"><strong>Variation of Information (VoI)</strong><small> [13]</small></l>
 </em></summary>
 <ul>
 <details close>
@@ -3529,6 +4077,60 @@ ___
     author = "Shi, Yining and Jiang, Kun and Wang, Ke and Li, Jiusi and Wang, Yunlong and Yang, Mengmeng and Yang, Diange",
     title = "StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation",
     booktitle = "CVPR",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Gui et al., "Fiptr: A simple yet effective transformer framework for future instance prediction in autonomous driving", ECCV, 2024.</em></strong> <a href=https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11758.pdf>paper</a> <a href=https://arxiv.org/pdf/2404.12867>arxiv</a> <a href=https://github.com/TabGuigui/FipTR>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/j-z_alphabetical_datasets.md#nuscenes">nuScenes</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#map">mAP</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_a-d_metrics.md#ave">AVE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Gui_Fiptr_2024_ECCV,
+    author = "Gui, Xingtai and Huang, Tengteng and Shao, Haonan and Yao, Haotian and Zhang, Chi",
+    title = "Fiptr: A simple yet effective transformer framework for future instance prediction in autonomous driving",
+    booktitle = "ECCV",
+    year = "2024"
+}
+</pre>
+</details>
+
+</ul>
+</details>
+<details close>
+<summary><strong><em>Wang et al., "Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond", NeurIPS, 2024.</em></strong> <a href=https://openreview.net/pdf?id=20QgErW5zH>paper</a> <a href=https://arxiv.org/pdf/2405.14674>arxiv</a> <a href=https://github.com/WangzcBruce/DHD>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../../../datasets/alphabetical/a-d_alphabetical_datasets.md#carla">CARLA</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../../../metrics/other/other_alphabetical/other_e-i_metrics.md#iou">IoU</a></li>
+<li><a href="../../../metrics/other/other_alphabetical/other_j-z_metrics.md#vpq">VPQ</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@inproceedings{Wang_Drones_2024_NeurIPS,
+    author = "Wang, Zhechao and Cheng, Peirui and Chen, Minxing and Tian, Pengju and Wang, Zhirui and Li, Xinming and Yang, Xue and Sun, Xian",
+    title = "Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond",
+    booktitle = "NeurIPS",
     year = "2024"
 }
 </pre>
